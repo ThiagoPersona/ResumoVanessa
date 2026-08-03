@@ -1,8 +1,81 @@
-- [Início](LEITURA_OFICIAL.md)
-- [Mapa de questões](MAPA_DE_QUESTOES.md)
+- [Leitura Oficial](LEITURA_OFICIAL.md)
+- [Mapa de Questões](MAPA_DE_QUESTOES.md)
 - [Provas](PROVAS.md)
 - [Intensivão](INTENSIVAO.md)
+- [Regras](REGRAS_DO_MATERIAL.md)
 
-- Temas
-  - [1. Hardware, periféricos e armazenamento](temas/001_hardware-perifericos-armazenamento.md)
-
+- **Língua Portuguesa**
+  - [001 - Interpretação e compreensão de texto](temas/portugues/001_interpretacao-compreensao-texto.md)
+  - [002 - Organização textual, coesão e coerência](temas/portugues/002_organizacao-textual-coesao-coerencia.md)
+  - [003 - Modos discursivos, tipos textuais e textos literários](temas/portugues/003_modos-discursivos-tipos-textuais-literarios.md)
+  - [004 - Frase, sintaxe, discurso e pontuação](temas/portugues/004_frase-sintaxe-discurso-pontuacao.md)
+  - [005 - Morfologia e classes de palavras](temas/portugues/005_morfologia-classes-palavras.md)
+  - [006 - Semântica, vocabulário, ortografia, acentuação e crase](temas/portugues/006_semantica-vocabulario-ortografia-crase.md)
+- **Raciocínio Lógico-Matemático**
+  - [007 - Lógica proposicional e conjuntos](temas/rlm/001_logica-proposicional-conjuntos.md)
+  - [008 - Números, porcentagem, juros, proporcionalidade e medidas](temas/rlm/002_numeros-porcentagem-juros-proporcionalidade-medidas.md)
+  - [009 - Geometria, plano cartesiano, gráficos e tabelas](temas/rlm/003_geometria-plano-cartesiano-graficos-tabelas.md)
+  - [010 - Problemas lógicos, contagem, probabilidade e sequências](temas/rlm/004_problemas-logicos-contagem-probabilidade-sequencias.md)
+- **Realidade do Paraná**
+  - [011 - História, geografia e organização territorial do Paraná](temas/realidade-pr/001_historia-geografia-parana.md)
+  - [012 - Cultura, indicadores, economia, políticas públicas e atualidades](temas/realidade-pr/002_cultura-indicadores-economia-politicas-atualidades.md)
+- **Tecnologia, Segurança Cibernética e Crimes Digitais**
+  - [013 - Hardware, software, periféricos e armazenamento](temas/tecnologia/001_hardware-software-perifericos-armazenamento.md)
+  - [014 - Sistemas operacionais, aplicativos e dispositivos móveis](temas/tecnologia/002_sistemas-operacionais-aplicativos-dispositivos-moveis.md)
+  - [015 - Internet, redes, nuvem, web, bancos e APIs](temas/tecnologia/003_internet-redes-nuvem-web-bancos-apis.md)
+  - [016 - Segurança da informação, malware, phishing e backup](temas/tecnologia/004_seguranca-informacao-malware-phishing-backup.md)
+  - [017 - Crimes digitais, evidências eletrônicas e OSINT](temas/tecnologia/005_crimes-digitais-evidencias-osint.md)
+  - [018 - Legislação e ética digital](temas/tecnologia/006_legislacao-etica-digital.md)
+- **Ciências Forenses**
+  - [019 - Medicina legal, identificação humana e papiloscopia](temas/ciencias-forenses/001_medicina-legal-identificacao-papiloscopia.md)
+  - [020 - Antropologia, odontologia legal, DNA, reconhecimento facial e IA](temas/ciencias-forenses/002_antropologia-odontologia-dna-reconhecimento-facial-ia.md)
+  - [021 - Sexologia, traumatologia, asfixiologia e balística](temas/ciencias-forenses/003_sexologia-traumatologia-asfixiologia-balistica.md)
+  - [022 - Tanatologia, necropsia, toxicologia e psicopatologia](temas/ciencias-forenses/004_tanatologia-necropsia-toxicologia-psicopatologia.md)
+  - [023 - Criminalística, local de crime e cadeia de custódia](temas/ciencias-forenses/005_criminalistica-local-crime-cadeia-custodia.md)
+  - [024 - Documentoscopia, grafoscopia e falsificações](temas/ciencias-forenses/006_documentoscopia-grafoscopia-falsificacoes.md)
+  - [025 - Criminologia, vitimologia e controle social](temas/ciencias-forenses/007_criminologia-vitimologia-controle-social.md)
+  - [026 - Criminologia digital e investigação tecnológica](temas/ciencias-forenses/008_criminologia-digital-investigacao-tecnologica.md)
+- **Biologia**
+  - [027 - Citologia](temas/biologia/001_citologia.md)
+  - [028 - Genética](temas/biologia/002_genetica.md)
+  - [029 - Embriologia e cristas papilares](temas/biologia/003_embriologia-cristas-papilares.md)
+  - [030 - Biologia da identificação humana e biometria](temas/biologia/004_biologia-identificacao-humana-biometria.md)
+- **Física**
+  - [031 - Óptica e formação de imagens](temas/fisica/001_optica-formacao-imagens.md)
+  - [032 - UV, fluorescência, ondas e eletromagnetismo](temas/fisica/002_uv-fluorescencia-ondas-eletromagnetismo.md)
+  - [033 - Eletricidade e circuitos simples](temas/fisica/003_eletricidade-circuitos-simples.md)
+  - [034 - Física da captura de imagens, biometria e equipamentos](temas/fisica/004_fisica-captura-imagens-biometria-equipamentos.md)
+- **Química**
+  - [035 - Estrutura da matéria, tabela periódica e ligações](temas/quimica/001_estrutura-materia-tabela-periodica-ligacoes.md)
+  - [036 - Misturas, soluções, separação e concentração](temas/quimica/002_misturas-solucoes-separacao-concentracao.md)
+  - [037 - Reações, balanceamento, velocidade e equilíbrio](temas/quimica/003_reacoes-balanceamento-velocidade-equilibrio.md)
+  - [038 - Funções químicas e química orgânica](temas/quimica/004_funcoes-quimicas-organica.md)
+  - [039 - Química da identificação, reagentes e fluorescência](temas/quimica/005_quimica-identificacao-reagentes-fluorescencia.md)
+- **Legislação Estadual e Institucional**
+  - [040 - Constituição do Paraná: administração, servidores, segurança e Polícia Civil](temas/legislacao/001_constituicao-parana-administracao-seguranca.md)
+  - [041 - LC 259/2023: carreiras da PCPR](temas/legislacao/002_lc-259-2023-carreiras-pcpr.md)
+  - [042 - Lei 14.735/2023: Lei Orgânica Nacional das Polícias Civis](temas/legislacao/003_lei-14735-2023-organica-nacional-policias-civis.md)
+  - [043 - Lei 23.213/2026: Lei Orgânica da PCPR](temas/legislacao/004_lei-23213-2026-organica-pcpr.md)
+  - [044 - Lei 21.894/2024: Código Disciplinar da PCPR](temas/legislacao/005_lei-21894-2024-codigo-disciplinar-pcpr.md)
+  - [045 - Lei 6.174/1970: regime jurídico dos servidores do Paraná](temas/legislacao/006_lei-6174-1970-regime-juridico-pr.md)
+  - [046 - Abuso de autoridade, identificação criminal, LGPD, LAI e sigilo](temas/legislacao/007_abuso-identificacao-lgpd-lai-sigilo.md)
+- **Direito Penal Aplicado**
+  - [047 - Princípios, teoria do crime, penas e extinção da punibilidade](temas/penal/001_principios-teoria-crime-penas.md)
+  - [048 - Crimes contra pessoa, patrimônio, dignidade sexual, fé pública e Administração](temas/penal/002_crimes-pessoa-patrimonio-dignidade-fe-publica-administracao.md)
+  - [049 - Legislação penal extravagante e atividade policial](temas/penal/003_legislacao-extravagante-atividade-policial.md)
+- **Direito Processual Penal Aplicado**
+  - [050 - Princípios, inquérito, ação penal e direitos do investigado](temas/processo-penal/001_principios-inquerito-acao-direitos-investigado.md)
+  - [051 - Provas, cadeia de custódia, busca e reconhecimento](temas/processo-penal/002_provas-cadeia-custodia-busca-reconhecimento.md)
+  - [052 - Prisões, cautelares e leis processuais extravagantes](temas/processo-penal/003_prisoes-cautelares-leis-processuais.md)
+- **Direito Constitucional**
+  - [053 - Princípios, direitos, garantias e remédios constitucionais](temas/constitucional/001_principios-direitos-garantias-remedios.md)
+  - [054 - Organização do Estado, Poderes e segurança pública](temas/constitucional/002_organizacao-estado-poderes-seguranca-publica.md)
+  - [055 - Controle de constitucionalidade e Constituição do Paraná](temas/constitucional/003_controle-constitucionalidade-constituicao-parana.md)
+- **Direito Administrativo**
+  - [056 - Conceito, fontes, princípios e Administração Pública](temas/administrativo/001_conceito-fontes-principios-administracao.md)
+  - [057 - Atos, poderes, serviços, licitações e contratos](temas/administrativo/002_atos-poderes-servicos-licitacoes-contratos.md)
+  - [058 - Agentes, responsabilidade, improbidade e controle](temas/administrativo/003_agentes-responsabilidade-improbidade-controle.md)
+- **Direitos Humanos**
+  - [059 - Teoria, sistemas de proteção e democracia](temas/direitos-humanos/001_teoria-sistemas-protecao-democracia.md)
+  - [060 - Grupos vulneráveis, segurança pública e atuação policial](temas/direitos-humanos/002_grupos-vulneraveis-atuacao-policial.md)
+  - [061 - PNDH, educação em direitos humanos e Agenda 2030](temas/direitos-humanos/003_pndh-educacao-agenda-2030.md)

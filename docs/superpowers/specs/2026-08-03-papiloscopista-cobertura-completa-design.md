@@ -101,7 +101,7 @@ Papiloscopista/
 2. Sistemas operacionais, aplicativos, Microsoft 365, LibreOffice, Google Workspace e dispositivos móveis
 3. Internet, intranet, navegadores, redes, IP, DNS, VPN, nuvem, cookies, cache, HTML, CSS, JavaScript, bancos de dados e APIs
 4. Segurança da informação, autenticação, logs, auditoria, criptografia, certificados, backup, vulnerabilidades, malware, ransomware, phishing e engenharia social
-5. Crimes digitais, investigação digital, evidências eletrônicas, cadeia de custódia digital, OSINT, redes sociais, blockchain e criptomoedas
+5. Crimes digitais, investigação digital, evidências eletrônicas, cadeia de custódia digital, OSINT e redes sociais
 6. Marco Civil da Internet, LGPD, Lei Carolina Dieckmann, Lei n.º 14.155/2021, sigilo funcional e ética digital
 
 ### Ciências Forenses

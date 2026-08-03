@@ -1,65 +1,57 @@
-# NN - Nome Do Tema
+# Número - Nome Do Tema
+
+> **Base do edital:** disciplina e item.
+> **Peso da disciplina:** número de questões.
+> **Prioridade:** baixa, média, alta ou altíssima.
 
 ## Por que cai
 
-- Frequência nas provas:
-- Como a banca costuma cobrar:
-- O que mais confunde candidatos:
+- **Frequência nas provas:** informe peso oficial e incidência local quando houver.
+- **Como a FGV costuma cobrar:** descreva comando, forma de alternativa e erro recorrente.
+- **O que mais confunde candidatos:** registre confusões reais.
 
 ## Leitura rápida
 
-- Mensagem central 1.
-- Mensagem central 2.
-- Mensagem central 3.
+- Resumo objetivo.
+- Um item por ideia.
+- Sem copiar trecho longo da fonte.
 
 ## Conteúdo essencial
 
-Explicação didática em linguagem própria, sem copiar trechos longos dos materiais.
+Explique o conteúdo em linguagem própria, com foco no edital e no cargo.
 
 ## Tabelas e esquemas
 
 | Conceito | Como reconhecer | Pegadinha |
 |---|---|---|
-| Exemplo | - | - |
+| | | |
 
 ## Pegadinhas da banca
 
-- Pegadinha 1:
-- Pegadinha 2:
-- Pegadinha 3:
+- Alternativas quase certas.
+- Termos absolutos.
+- Confusões recorrentes.
 
 ## Como resolver questões
 
 1. Identifique o comando.
-2. Procure palavra absoluta ou troca de conceito.
-3. Elimine alternativas incompatíveis com o edital.
-4. Confirme o detalhe técnico antes de marcar.
+2. Classifique o tema.
+3. Elimine a troca conceitual.
+4. Confira exceção, prazo, sujeito ou finalidade.
 
 ## Checklist de revisão
 
-- [ ] Sei o conceito principal.
-- [ ] Sei a diferença que a banca costuma trocar.
-- [ ] Sei resolver uma questão sem olhar o resumo.
-- [ ] Sei explicar por que cada alternativa errada está errada.
+- [ ] Li o item do edital.
+- [ ] Sei explicar o conceito sem decorar frase.
+- [ ] Resolvi questão relacionada.
+- [ ] Marquei lacuna de fonte, se houver.
 
 ## Questões relacionadas
 
-- Substituir por link real do arquivo de questões do tema.
+- Caminho esperado: `../provas/caminho-do-tema.md`.
 
 ## Referências
 
-**Edital**
-
-- Edital PCPR n.º 01/2026, Anexo I.
-
-**Questões**
-
-- Ano / Banca / Prova / Questão.
-
-**Material local**
-
-- Nome do arquivo usado.
-
-**Fontes oficiais**
-
-- Fonte, link e data de acesso quando necessário.
+- Edital PCPR n.º 01/2026.
+- Materiais locais usados.
+- Fonte oficial, quando normativa ou estatística.

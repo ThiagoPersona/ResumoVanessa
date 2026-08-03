@@ -1,59 +1,31 @@
 # Regras Do Material
 
-## Norte
+## Fonte-mãe
 
-O material existe para transformar edital, provas e apostilas locais em revisão prática, sem virar cópia dos PDFs. Cada capítulo deve ajudar a responder questões da FGV com rapidez e segurança.
+O Edital PCPR n.º 01/2026 para Papiloscopista Policial é a fonte principal deste projeto. O menu lateral, a ordem de estudo e cada capítulo devem corresponder a item real do edital.
 
-## Hierarquia de fontes
+## Estilo
 
-1. **Edital PCPR n.º 01/2026**: define disciplinas, temas e pesos.
-2. **Provas e gabaritos oficiais da FGV**: definem estilo de cobrança e resposta.
-3. **Questões locais organizadas por tema**: entram como treino, separando FGV de outras bancas.
-4. **Materiais locais**: ajudam a estruturar o resumo, mas devem ser reescritos com linguagem própria.
-5. **Fontes oficiais atualizadas**: usadas para leis, normas e pontos técnicos que possam ter mudado.
-
-## Regras de escrita
-
-- Não inventar conteúdo.
-- Quando a fonte local não permitir conclusão segura, escrever **Lacuna**.
-- Não copiar trechos longos de livros, apostilas ou PDFs.
-- Usar frases curtas, tabelas e passos mentais.
-- Explicar por que uma alternativa está errada; nunca usar "está errada porque não é o gabarito".
-- Separar **gabarito oficial** de **gabarito local do PDF** quando a origem não for o caderno oficial.
-
-## Citações
-
-No fim de cada tema, citar:
-
-- **Edital:** nome do edital, item/anexo e disciplina.
-- **Questões:** ano, banca, órgão/prova e identificador local.
-- **Materiais locais:** nome do arquivo usado.
-- **Fonte oficial online:** link e data de acesso, quando houver atualização normativa.
+- Escrever em linguagem própria, clara e prática.
+- Priorizar aprovação: conceito, diferença, pegadinha e forma de resolver.
+- Não copiar trechos longos de PDFs, apostilas ou livros.
+- Não inventar questão, gabarito, estatística, jurisprudência ou atualização legislativa.
+- Quando faltar fonte, escrever a lacuna de modo explícito.
 
 ## Questões
 
-Cada card deve conter:
+- Preservar o gabarito oficial ou local conferido.
+- Identificar fonte, ano, prova e número quando disponível.
+- Separar FGV de questão de apoio.
+- Comentar a alternativa correta e cada alternativa errada.
+- Não usar justificativa genérica como "está errada porque o gabarito é outro".
 
-- fonte no formato `Ano / Banca - Prova / Questão ou identificador local`;
-- enunciado sem gabarito no título;
-- alternativas em botões de rádio;
-- botão **Checar resposta**;
-- resposta correta;
-- raciocínio simples;
-- justificativa da alternativa correta;
-- comentário de cada incorreta;
-- pegadinha principal.
+## Fontes oficiais
 
-## Checklist para publicar um tema
+Para legislação, norma institucional, dados atuais do Paraná e conteúdo sujeito a mudança, conferir fonte oficial antes de tratar como atual.
 
-- [ ] O tema aparece no edital.
-- [ ] Há explicação de por que cai.
-- [ ] Há resumo de leitura rápida.
-- [ ] Há conteúdo essencial em linguagem própria.
-- [ ] Há tabela ou esquema.
-- [ ] Há pegadinhas da banca.
-- [ ] Há estratégia de resolução.
-- [ ] Há checklist final.
-- [ ] Há questões relacionadas.
-- [ ] Há referências.
+## Publicação
 
+- Não versionar PDFs, livros, apostilas, cadernos completos ou gabaritos integrais.
+- Manter `.nojekyll` para o GitHub Pages.
+- Testar links, renderização Markdown e desempenho das questões antes de publicar.
