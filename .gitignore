@@ -1,0 +1,32 @@
+# Fonte local e materiais possivelmente protegidos por direito autoral.
+# O material publico deve conter resumos proprios, citacoes curtas e links/referencias.
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.xlsx
+*.xls
+*.zip
+
+Curso Alfacon/
+Curso de Portugues/
+Edital do Concurso 2026/
+Exercicios/
+Exercicios 2026/
+Materiais QB/
+Policia Civil*/
+Questões FGV/
+Simulados e minisimulados/
+
+# Arquivos auxiliares locais/macOS/Windows.
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Extracoes e renders temporarios.
+tmp/
+tmp_page_renders/
+*_texto.txt
+*.ocr.txt
