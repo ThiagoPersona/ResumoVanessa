@@ -13,39 +13,132 @@
 
 ## Leitura rápida
 
-- Marco Civil da Internet.
-- Lei Geral de Proteção de Dados Pessoais.
-- Lei dos Crimes Informáticos e Lei Federal n.º 14.155/2021.
-- Sigilo funcional e uso ético e responsável da tecnologia e das informações institucionais.
-- Leia este tema procurando palavras de comando, exceções, classificações e aplicações práticas ao cargo.
-- Quando houver dado legal, normativo ou estatístico, confira a fonte oficial atual antes de gravar número, prazo ou redação.
+- **Marco Civil da Internet.** Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API.
+- **Lei Geral de Proteção de Dados Pessoais.** Revise privacidade, proteção de dados, finalidade, necessidade, segurança, responsabilização, dados sensíveis, registros de conexão, registros de acesso, consentimento e bases legais.
+- **Lei dos Crimes Informáticos e Lei Federal n.º 14.155/2021.** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
+- **Sigilo funcional e uso ético e responsável da tecnologia e das informações institucionais.** Revise privacidade, proteção de dados, finalidade, necessidade, segurança, responsabilização, dados sensíveis, registros de conexão, registros de acesso, consentimento e bases legais.
+- **Prioridade FGV:** Dados biométricos exigem cuidado reforçado.
+- **Prioridade FGV:** Marco Civil, LGPD e sigilo funcional podem incidir juntos.
+- **Prioridade FGV:** Uso institucional de informação exige finalidade e autorização.
+- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
 
 ## Conteúdo essencial
 
-Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Tecnologia 1.6**. O estudo deve começar pelo vocabulário central, avançar para diferenças cobradas em alternativa e terminar com resolução de questão.
+### Visão de estudo para este tema
 
-- Dados biométricos são sensíveis na lógica da proteção de dados; a atuação institucional exige finalidade, necessidade, segurança e controle de acesso.
-- A LAI protege transparência, mas não autoriza expor dado pessoal, informação sigilosa ou elemento de investigação sem base legal.
+Tecnologia, segurança cibernética e crimes digitais deve ser estudada por função prática. A prova pergunta o que determinado recurso faz, que risco evita, que dado registra, como uma evidência deve ser preservada ou qual norma incide sobre aquela situação.
 
-- O primeiro filtro é conceitual: saiba dizer o que é, para que serve, quando se aplica e qual erro comum a banca pode apresentar.
-- O segundo filtro é operacional: transforme o conceito em passo de prova, procedimento, classificação, cálculo, garantia ou consequência jurídica.
-- O terceiro filtro é de exceção: marque termos absolutos e veja se o edital ou a fonte oficial admite restrição.
+A FGV costuma trocar termos próximos: autenticação por autorização, backup por sincronização, cache por cookie, log por metadado, criptografia por assinatura digital, malware por engenharia social. O candidato precisa saber a diferença operacional, não apenas reconhecer a palavra.
 
-### Microtópicos do edital
+Para Papiloscopista, a disciplina é aplicada: coleta e preservação de evidências digitais, proteção de dados biométricos, segurança de sistemas institucionais, rastreabilidade e uso responsável de informação policial.
 
-- **Marco Civil da Internet.** Separe privacidade, proteção de dados, guarda de registros, sigilo e hipótese legal.
-- **Lei Geral de Proteção de Dados Pessoais.** Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma.
-- **Lei dos Crimes Informáticos e Lei Federal n.º 14.155/2021.** Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma.
-- **Sigilo funcional e uso ético e responsável da tecnologia e das informações institucionais.** Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma.
+**Aplicação ao cargo:** A atuação papiloscópica moderna conversa com biometria, bases de dados, equipamentos de captura, registros eletrônicos e preservação de evidência técnica.
+
+**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
+
+### O que mais merece atenção
+
+- hardware, software, armazenamento e inicialização
+- Windows 11, Android, iOS e suítes de escritório
+- redes, IP, DNS, VPN, firewall e nuvem
+- logs, metadados, cookies, cache e rastreabilidade
+- segurança da informação, malware, phishing e backup
+- crimes digitais, OSINT, LGPD e Marco Civil
+
+### Conteúdo completo orientado ao edital
+
+### 1. Marco Civil da Internet.
+
+**O que significa:** Redes conectam dispositivos por protocolos. IP identifica endereço lógico; DNS traduz nomes em endereços; VPN cria túnel protegido; firewall filtra tráfego; APIs permitem comunicação entre sistemas.
+
+**Como estudar para a prova:** Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API.
+
+**Como a FGV pode cobrar:** A banca troca cache por cookie, DNS por navegador, VPN por antivírus, firewall por criptografia e metadado por conteúdo principal.
+
+**Cuidado de prova:** Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível.
+
+### 2. Lei Geral de Proteção de Dados Pessoais.
+
+**O que significa:** Marco Civil trata de princípios, direitos, deveres e registros no uso da internet. LGPD organiza tratamento de dados pessoais, inclusive dados sensíveis. Sigilo funcional limita o uso de informações institucionais.
+
+**Como estudar para a prova:** Revise privacidade, proteção de dados, finalidade, necessidade, segurança, responsabilização, dados sensíveis, registros de conexão, registros de acesso, consentimento e bases legais.
+
+**Como a FGV pode cobrar:** A FGV usa casos de compartilhamento indevido, exposição de dado pessoal, guarda de registro e uso institucional de informação.
+
+**Cuidado de prova:** Transparência não autoriza expor dado pessoal sensível ou informação de investigação sem base legal.
+
+### 3. Lei dos Crimes Informáticos e Lei Federal n.º 14.155/2021.
+
+**O que significa:** Crime digital pode usar tecnologia como meio, alvo ou ambiente. Evidência eletrônica exige coleta, preservação, documentação, rastreabilidade e cuidado com integridade.
+
+**Como estudar para a prova:** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
+
+**Como a FGV pode cobrar:** A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência.
+
+**Cuidado de prova:** OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método.
+
+### 4. Sigilo funcional e uso ético e responsável da tecnologia e das informações institucionais.
+
+**O que significa:** Marco Civil trata de princípios, direitos, deveres e registros no uso da internet. LGPD organiza tratamento de dados pessoais, inclusive dados sensíveis. Sigilo funcional limita o uso de informações institucionais.
+
+**Como estudar para a prova:** Revise privacidade, proteção de dados, finalidade, necessidade, segurança, responsabilização, dados sensíveis, registros de conexão, registros de acesso, consentimento e bases legais.
+
+**Como a FGV pode cobrar:** A FGV usa casos de compartilhamento indevido, exposição de dado pessoal, guarda de registro e uso institucional de informação.
+
+**Cuidado de prova:** Transparência não autoriza expor dado pessoal sensível ou informação de investigação sem base legal.
+
+### Prioridades FGV dentro deste tema
+
+| Prioridade | Como transformar em treino |
+|---|---|
+| Dados biométricos exigem cuidado reforçado. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Marco Civil, LGPD e sigilo funcional podem incidir juntos. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Uso institucional de informação exige finalidade e autorização. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+
+### Diferenças que a banca costuma trocar
+
+| Ponto | Cuidado principal | Forma provável de cobrança |
+|---|---|---|
+| Marco Civil da Internet. | Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível. | A banca troca cache por cookie, DNS por navegador, VPN por antivírus, firewall por criptografia e metadado por conteúdo principal. |
+| Lei Geral de Proteção de Dados Pessoais. | Transparência não autoriza expor dado pessoal sensível ou informação de investigação sem base legal. | A FGV usa casos de compartilhamento indevido, exposição de dado pessoal, guarda de registro e uso institucional de informação. |
+| Lei dos Crimes Informáticos e Lei Federal n.º 14.155/2021. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. | A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência. |
+| Sigilo funcional e uso ético e responsável da tecnologia e das informações institucionais. | Transparência não autoriza expor dado pessoal sensível ou informação de investigação sem base legal. | A FGV usa casos de compartilhamento indevido, exposição de dado pessoal, guarda de registro e uso institucional de informação. |
+
+### Aplicação direta para Papiloscopista
+
+- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
+- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
+- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
+- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
+- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+
+### Roteiro de estudo de alta retenção
+
+1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
+2. Faça uma tabela de comparação entre conceitos parecidos do tema.
+3. Resolva questões ou exemplos sem consultar o gabarito.
+4. Explique em voz alta por que a alternativa errada parece tentadora.
+5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+
+### Lacunas honestas
+
+- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
+- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
 
 ## Tabelas e esquemas
 
-| Ponto do edital | Como revisar |
+| Ponto do edital | O que revisar | Pegadinha provável |
+|---|---|---|
+| Marco Civil da Internet. | Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API. | Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível. |
+| Lei Geral de Proteção de Dados Pessoais. | Revise privacidade, proteção de dados, finalidade, necessidade, segurança, responsabilização, dados sensíveis, registros de conexão, registros de acesso, consentimento e bases legais. | Transparência não autoriza expor dado pessoal sensível ou informação de investigação sem base legal. |
+| Lei dos Crimes Informáticos e Lei Federal n.º 14.155/2021. | Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. |
+| Sigilo funcional e uso ético e responsável da tecnologia e das informações institucionais. | Revise privacidade, proteção de dados, finalidade, necessidade, segurança, responsabilização, dados sensíveis, registros de conexão, registros de acesso, consentimento e bases legais. | Transparência não autoriza expor dado pessoal sensível ou informação de investigação sem base legal. |
+
+| Ponto quente | Treino recomendado |
 |---|---|
-| Marco Civil da Internet. | Separe privacidade, proteção de dados, guarda de registros, sigilo e hipótese legal. |
-| Lei Geral de Proteção de Dados Pessoais. | Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma. |
-| Lei dos Crimes Informáticos e Lei Federal n.º 14.155/2021. | Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma. |
-| Sigilo funcional e uso ético e responsável da tecnologia e das informações institucionais. | Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma. |
+| Dados biométricos exigem cuidado reforçado. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Marco Civil, LGPD e sigilo funcional podem incidir juntos. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Uso institucional de informação exige finalidade e autorização. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
 
 | Filtro de prova | Pergunta mental |
 |---|---|
@@ -61,6 +154,9 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Tecnolog
 - Tratar criptografia como sinônimo de assinatura digital.
 - Confundir dado, metadado, log, cache e cookie.
 - Usar print ou cópia informal como se bastasse para cadeia de custódia.
+- Prioridade de atenção: Dados biométricos exigem cuidado reforçado.
+- Prioridade de atenção: Marco Civil, LGPD e sigilo funcional podem incidir juntos.
+- Prioridade de atenção: Uso institucional de informação exige finalidade e autorização.
 - Alternativa que usa termo técnico correto em contexto errado.
 - Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
 
@@ -88,7 +184,7 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Tecnolog
 ## Referências
 
 ### Fontes oficiais
-- [Edital PCPR n.º 01/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/edital-01-2026-pcpr-publicacao.docx-1.pdf)
+- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
 - [Lei Federal n.º 12.965/2014 - Marco Civil da Internet](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)
 - [Lei Federal n.º 13.709/2018 - LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
 - [Lei Federal n.º 12.737/2012 - Delitos informáticos](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)

@@ -9,7 +9,8 @@ const {
   buildSidebarMarkdown,
   chapterGroups,
   getAllChapters,
-  getChapterById
+  getChapterById,
+  officialReferences
 } = require("../content-manifest");
 
 const root = path.resolve(__dirname, "..");
@@ -41,6 +42,8 @@ test("manifesto cobre todos os grupos e capítulos definidos para Papiloscopista
 
   assert.equal(getChapterById("013").title, "Hardware, software, periféricos e armazenamento");
   assert.equal(getChapterById(61).groupId, "direitos-humanos");
+  assert.match(officialReferences.editalFgv.label, /retificado em 31\/07\/2026/);
+  assert.match(officialReferences.editalFgv.url, /copia-1-de-edital-01-2026-pcpr-publicacao\.docx\.pdf$/);
 });
 
 test("IDs, caminhos de tema e caminhos de prova são únicos", () => {
@@ -58,6 +61,28 @@ test("todos os arquivos de tema e prova do manifesto existem", () => {
   for (const chapter of getAllChapters()) {
     assert.equal(fs.existsSync(path.join(root, chapter.themePath)), true, `Tema ausente: ${chapter.themePath}`);
     assert.equal(fs.existsSync(path.join(root, chapter.questionPath)), true, `Prova ausente: ${chapter.questionPath}`);
+  }
+});
+
+test("capítulos têm conteúdo substancial e não genérico", () => {
+  for (const chapter of getAllChapters()) {
+    const filePath = path.join(root, chapter.themePath);
+    const text = fs.readFileSync(filePath, "utf8");
+
+    assert.ok(text.length >= 6000, `Tema curto demais: ${chapter.themePath} (${text.length} caracteres)`);
+    assert.equal(
+      text.includes("Este capítulo existe para cobrir, sem desvio"),
+      false,
+      `Tema manteve texto genérico antigo: ${chapter.themePath}`
+    );
+    assert.equal(
+      text.includes("Este ponto do edital delimita o núcleo técnico"),
+      false,
+      `Tema manteve fallback genérico antigo: ${chapter.themePath}`
+    );
+    assert.match(text, /Conteúdo completo orientado ao edital/, `Falta conteúdo completo: ${chapter.themePath}`);
+    assert.match(text, /Prioridades FGV dentro deste tema/, `Falta prioridade FGV: ${chapter.themePath}`);
+    assert.match(text, /Diferenças que a banca costuma trocar/, `Falta seção de diferenças: ${chapter.themePath}`);
   }
 });
 

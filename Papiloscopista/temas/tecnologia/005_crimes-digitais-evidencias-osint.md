@@ -13,36 +13,119 @@
 
 ## Leitura rápida
 
-- Crimes digitais, fraudes eletrônicas, invasão de dispositivos e crimes em redes sociais.
-- Coleta, preservação, rastreabilidade e cadeia de custódia de evidências digitais.
-- Rastreamento, recuperação de informações, inteligência cibernética e OSINT.
-- Leia este tema procurando palavras de comando, exceções, classificações e aplicações práticas ao cargo.
-- Quando houver dado legal, normativo ou estatístico, confira a fonte oficial atual antes de gravar número, prazo ou redação.
+- **Crimes digitais, fraudes eletrônicas, invasão de dispositivos e crimes em redes sociais.** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
+- **Coleta, preservação, rastreabilidade e cadeia de custódia de evidências digitais.** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
+- **Rastreamento, recuperação de informações, inteligência cibernética e OSINT.** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
+- **Prioridade FGV:** Separe meio digital, conduta típica e evidência resultante.
+- **Prioridade FGV:** Preservação técnica vale mais que print isolado.
+- **Prioridade FGV:** OSINT é fonte aberta com método documentado.
+- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
 
 ## Conteúdo essencial
 
-Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Tecnologia 1.5**. O estudo deve começar pelo vocabulário central, avançar para diferenças cobradas em alternativa e terminar com resolução de questão.
+### Visão de estudo para este tema
 
-- Em evidência digital, valorize rastreabilidade: logs, metadados, origem, integridade e método de coleta importam mais que aparência da tela.
-- OSINT usa fontes abertas, mas isso não elimina dever de documentação, validação e respeito a limites legais.
+Tecnologia, segurança cibernética e crimes digitais deve ser estudada por função prática. A prova pergunta o que determinado recurso faz, que risco evita, que dado registra, como uma evidência deve ser preservada ou qual norma incide sobre aquela situação.
 
-- O primeiro filtro é conceitual: saiba dizer o que é, para que serve, quando se aplica e qual erro comum a banca pode apresentar.
-- O segundo filtro é operacional: transforme o conceito em passo de prova, procedimento, classificação, cálculo, garantia ou consequência jurídica.
-- O terceiro filtro é de exceção: marque termos absolutos e veja se o edital ou a fonte oficial admite restrição.
+A FGV costuma trocar termos próximos: autenticação por autorização, backup por sincronização, cache por cookie, log por metadado, criptografia por assinatura digital, malware por engenharia social. O candidato precisa saber a diferença operacional, não apenas reconhecer a palavra.
 
-### Microtópicos do edital
+Para Papiloscopista, a disciplina é aplicada: coleta e preservação de evidências digitais, proteção de dados biométricos, segurança de sistemas institucionais, rastreabilidade e uso responsável de informação policial.
 
-- **Crimes digitais, fraudes eletrônicas, invasão de dispositivos e crimes em redes sociais.** Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma.
-- **Coleta, preservação, rastreabilidade e cadeia de custódia de evidências digitais.** Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma.
-- **Rastreamento, recuperação de informações, inteligência cibernética e OSINT.** Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma.
+**Aplicação ao cargo:** A atuação papiloscópica moderna conversa com biometria, bases de dados, equipamentos de captura, registros eletrônicos e preservação de evidência técnica.
+
+**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
+
+### O que mais merece atenção
+
+- hardware, software, armazenamento e inicialização
+- Windows 11, Android, iOS e suítes de escritório
+- redes, IP, DNS, VPN, firewall e nuvem
+- logs, metadados, cookies, cache e rastreabilidade
+- segurança da informação, malware, phishing e backup
+- crimes digitais, OSINT, LGPD e Marco Civil
+
+### Conteúdo completo orientado ao edital
+
+### 1. Crimes digitais, fraudes eletrônicas, invasão de dispositivos e crimes em redes sociais.
+
+**O que significa:** Crime digital pode usar tecnologia como meio, alvo ou ambiente. Evidência eletrônica exige coleta, preservação, documentação, rastreabilidade e cuidado com integridade.
+
+**Como estudar para a prova:** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
+
+**Como a FGV pode cobrar:** A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência.
+
+**Cuidado de prova:** OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método.
+
+### 2. Coleta, preservação, rastreabilidade e cadeia de custódia de evidências digitais.
+
+**O que significa:** Crime digital pode usar tecnologia como meio, alvo ou ambiente. Evidência eletrônica exige coleta, preservação, documentação, rastreabilidade e cuidado com integridade.
+
+**Como estudar para a prova:** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
+
+**Como a FGV pode cobrar:** A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência.
+
+**Cuidado de prova:** OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método.
+
+### 3. Rastreamento, recuperação de informações, inteligência cibernética e OSINT.
+
+**O que significa:** Crime digital pode usar tecnologia como meio, alvo ou ambiente. Evidência eletrônica exige coleta, preservação, documentação, rastreabilidade e cuidado com integridade.
+
+**Como estudar para a prova:** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
+
+**Como a FGV pode cobrar:** A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência.
+
+**Cuidado de prova:** OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método.
+
+### Prioridades FGV dentro deste tema
+
+| Prioridade | Como transformar em treino |
+|---|---|
+| Separe meio digital, conduta típica e evidência resultante. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Preservação técnica vale mais que print isolado. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| OSINT é fonte aberta com método documentado. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+
+### Diferenças que a banca costuma trocar
+
+| Ponto | Cuidado principal | Forma provável de cobrança |
+|---|---|---|
+| Crimes digitais, fraudes eletrônicas, invasão de dispositivos e crimes em redes sociais. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. | A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência. |
+| Coleta, preservação, rastreabilidade e cadeia de custódia de evidências digitais. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. | A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência. |
+| Rastreamento, recuperação de informações, inteligência cibernética e OSINT. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. | A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência. |
+
+### Aplicação direta para Papiloscopista
+
+- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
+- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
+- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
+- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
+- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+
+### Roteiro de estudo de alta retenção
+
+1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
+2. Faça uma tabela de comparação entre conceitos parecidos do tema.
+3. Resolva questões ou exemplos sem consultar o gabarito.
+4. Explique em voz alta por que a alternativa errada parece tentadora.
+5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+
+### Lacunas honestas
+
+- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
+- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
 
 ## Tabelas e esquemas
 
-| Ponto do edital | Como revisar |
+| Ponto do edital | O que revisar | Pegadinha provável |
+|---|---|---|
+| Crimes digitais, fraudes eletrônicas, invasão de dispositivos e crimes em redes sociais. | Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. |
+| Coleta, preservação, rastreabilidade e cadeia de custódia de evidências digitais. | Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. |
+| Rastreamento, recuperação de informações, inteligência cibernética e OSINT. | Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. |
+
+| Ponto quente | Treino recomendado |
 |---|---|
-| Crimes digitais, fraudes eletrônicas, invasão de dispositivos e crimes em redes sociais. | Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma. |
-| Coleta, preservação, rastreabilidade e cadeia de custódia de evidências digitais. | Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma. |
-| Rastreamento, recuperação de informações, inteligência cibernética e OSINT. | Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma. |
+| Separe meio digital, conduta típica e evidência resultante. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Preservação técnica vale mais que print isolado. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| OSINT é fonte aberta com método documentado. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
 
 | Filtro de prova | Pergunta mental |
 |---|---|
@@ -58,6 +141,9 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Tecnolog
 - Tratar criptografia como sinônimo de assinatura digital.
 - Confundir dado, metadado, log, cache e cookie.
 - Usar print ou cópia informal como se bastasse para cadeia de custódia.
+- Prioridade de atenção: Separe meio digital, conduta típica e evidência resultante.
+- Prioridade de atenção: Preservação técnica vale mais que print isolado.
+- Prioridade de atenção: OSINT é fonte aberta com método documentado.
 - Alternativa que usa termo técnico correto em contexto errado.
 - Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
 
@@ -85,7 +171,7 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Tecnolog
 ## Referências
 
 ### Fontes oficiais
-- [Edital PCPR n.º 01/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/edital-01-2026-pcpr-publicacao.docx-1.pdf)
+- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
 - [Código Penal - Planalto](https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm)
 - [Lei Federal n.º 12.737/2012 - Delitos informáticos](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
 - [Lei Federal n.º 14.155/2021 - fraudes eletrônicas e invasão de dispositivo](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14155.htm)

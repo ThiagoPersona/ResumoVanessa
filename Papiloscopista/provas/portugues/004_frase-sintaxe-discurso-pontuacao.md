@@ -25,4 +25,4 @@ Banco em construção. Ainda não foi convertida uma questão local com enunciad
 
 ## Referências
 
-- Edital PCPR n.º 01/2026, Língua Portuguesa 1.7-1.17.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026, Língua Portuguesa 1.7-1.17.

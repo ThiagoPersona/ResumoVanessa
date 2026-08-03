@@ -13,33 +13,119 @@
 
 ## Leitura rápida
 
-- Microsoft Windows 11 (BR), Android e iOS.
-- Microsoft 365 (BR), LibreOffice/BrOffice e Google Workspace.
-- Instalação, atualização, configuração e segurança de sistemas e aplicativos.
-- Leia este tema procurando palavras de comando, exceções, classificações e aplicações práticas ao cargo.
-- Quando houver dado legal, normativo ou estatístico, confira a fonte oficial atual antes de gravar número, prazo ou redação.
+- **Microsoft Windows 11 (BR), Android e iOS.** Revise Windows 11, Android, iOS, instalação, atualização, permissões, contas, antivírus, firewall, compartilhamento, OneDrive, Google Drive, Word/Writer, Excel/Calc e formatos comuns.
+- **Microsoft 365 (BR), LibreOffice/BrOffice e Google Workspace.** Revise Windows 11, Android, iOS, instalação, atualização, permissões, contas, antivírus, firewall, compartilhamento, OneDrive, Google Drive, Word/Writer, Excel/Calc e formatos comuns.
+- **Instalação, atualização, configuração e segurança de sistemas e aplicativos.** Revise Windows 11, Android, iOS, instalação, atualização, permissões, contas, antivírus, firewall, compartilhamento, OneDrive, Google Drive, Word/Writer, Excel/Calc e formatos comuns.
+- **Prioridade FGV:** Sistema operacional gerencia recursos e segurança; aplicativo executa tarefa do usuário.
+- **Prioridade FGV:** Windows, Android e iOS cobram permissões, atualizações, contas e proteção.
+- **Prioridade FGV:** Suítes de escritório devem ser comparadas por função equivalente.
+- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
 
 ## Conteúdo essencial
 
-Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Tecnologia 1.2**. O estudo deve começar pelo vocabulário central, avançar para diferenças cobradas em alternativa e terminar com resolução de questão.
+### Visão de estudo para este tema
 
-- O primeiro filtro é conceitual: saiba dizer o que é, para que serve, quando se aplica e qual erro comum a banca pode apresentar.
-- O segundo filtro é operacional: transforme o conceito em passo de prova, procedimento, classificação, cálculo, garantia ou consequência jurídica.
-- O terceiro filtro é de exceção: marque termos absolutos e veja se o edital ou a fonte oficial admite restrição.
+Tecnologia, segurança cibernética e crimes digitais deve ser estudada por função prática. A prova pergunta o que determinado recurso faz, que risco evita, que dado registra, como uma evidência deve ser preservada ou qual norma incide sobre aquela situação.
 
-### Microtópicos do edital
+A FGV costuma trocar termos próximos: autenticação por autorização, backup por sincronização, cache por cookie, log por metadado, criptografia por assinatura digital, malware por engenharia social. O candidato precisa saber a diferença operacional, não apenas reconhecer a palavra.
 
-- **Microsoft Windows 11 (BR), Android e iOS.** Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma.
-- **Microsoft 365 (BR), LibreOffice/BrOffice e Google Workspace.** Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma.
-- **Instalação, atualização, configuração e segurança de sistemas e aplicativos.** Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma.
+Para Papiloscopista, a disciplina é aplicada: coleta e preservação de evidências digitais, proteção de dados biométricos, segurança de sistemas institucionais, rastreabilidade e uso responsável de informação policial.
+
+**Aplicação ao cargo:** A atuação papiloscópica moderna conversa com biometria, bases de dados, equipamentos de captura, registros eletrônicos e preservação de evidência técnica.
+
+**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
+
+### O que mais merece atenção
+
+- hardware, software, armazenamento e inicialização
+- Windows 11, Android, iOS e suítes de escritório
+- redes, IP, DNS, VPN, firewall e nuvem
+- logs, metadados, cookies, cache e rastreabilidade
+- segurança da informação, malware, phishing e backup
+- crimes digitais, OSINT, LGPD e Marco Civil
+
+### Conteúdo completo orientado ao edital
+
+### 1. Microsoft Windows 11 (BR), Android e iOS.
+
+**O que significa:** Sistemas operacionais gerenciam hardware, arquivos, usuários, permissões e aplicativos. Suítes de escritório produzem texto, planilhas, apresentações, colaboração e armazenamento integrado.
+
+**Como estudar para a prova:** Revise Windows 11, Android, iOS, instalação, atualização, permissões, contas, antivírus, firewall, compartilhamento, OneDrive, Google Drive, Word/Writer, Excel/Calc e formatos comuns.
+
+**Como a FGV pode cobrar:** A FGV cobra menus, funções, segurança, atualização, permissões e equivalência entre programas de suítes diferentes.
+
+**Cuidado de prova:** Não confunda aplicativo com sistema operacional; navegador não é internet; conta em nuvem não elimina cuidado local.
+
+### 2. Microsoft 365 (BR), LibreOffice/BrOffice e Google Workspace.
+
+**O que significa:** Sistemas operacionais gerenciam hardware, arquivos, usuários, permissões e aplicativos. Suítes de escritório produzem texto, planilhas, apresentações, colaboração e armazenamento integrado.
+
+**Como estudar para a prova:** Revise Windows 11, Android, iOS, instalação, atualização, permissões, contas, antivírus, firewall, compartilhamento, OneDrive, Google Drive, Word/Writer, Excel/Calc e formatos comuns.
+
+**Como a FGV pode cobrar:** A FGV cobra menus, funções, segurança, atualização, permissões e equivalência entre programas de suítes diferentes.
+
+**Cuidado de prova:** Não confunda aplicativo com sistema operacional; navegador não é internet; conta em nuvem não elimina cuidado local.
+
+### 3. Instalação, atualização, configuração e segurança de sistemas e aplicativos.
+
+**O que significa:** Sistemas operacionais gerenciam hardware, arquivos, usuários, permissões e aplicativos. Suítes de escritório produzem texto, planilhas, apresentações, colaboração e armazenamento integrado.
+
+**Como estudar para a prova:** Revise Windows 11, Android, iOS, instalação, atualização, permissões, contas, antivírus, firewall, compartilhamento, OneDrive, Google Drive, Word/Writer, Excel/Calc e formatos comuns.
+
+**Como a FGV pode cobrar:** A FGV cobra menus, funções, segurança, atualização, permissões e equivalência entre programas de suítes diferentes.
+
+**Cuidado de prova:** Não confunda aplicativo com sistema operacional; navegador não é internet; conta em nuvem não elimina cuidado local.
+
+### Prioridades FGV dentro deste tema
+
+| Prioridade | Como transformar em treino |
+|---|---|
+| Sistema operacional gerencia recursos e segurança; aplicativo executa tarefa do usuário. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Windows, Android e iOS cobram permissões, atualizações, contas e proteção. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Suítes de escritório devem ser comparadas por função equivalente. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+
+### Diferenças que a banca costuma trocar
+
+| Ponto | Cuidado principal | Forma provável de cobrança |
+|---|---|---|
+| Microsoft Windows 11 (BR), Android e iOS. | Não confunda aplicativo com sistema operacional; navegador não é internet; conta em nuvem não elimina cuidado local. | A FGV cobra menus, funções, segurança, atualização, permissões e equivalência entre programas de suítes diferentes. |
+| Microsoft 365 (BR), LibreOffice/BrOffice e Google Workspace. | Não confunda aplicativo com sistema operacional; navegador não é internet; conta em nuvem não elimina cuidado local. | A FGV cobra menus, funções, segurança, atualização, permissões e equivalência entre programas de suítes diferentes. |
+| Instalação, atualização, configuração e segurança de sistemas e aplicativos. | Não confunda aplicativo com sistema operacional; navegador não é internet; conta em nuvem não elimina cuidado local. | A FGV cobra menus, funções, segurança, atualização, permissões e equivalência entre programas de suítes diferentes. |
+
+### Aplicação direta para Papiloscopista
+
+- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
+- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
+- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
+- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
+- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+
+### Roteiro de estudo de alta retenção
+
+1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
+2. Faça uma tabela de comparação entre conceitos parecidos do tema.
+3. Resolva questões ou exemplos sem consultar o gabarito.
+4. Explique em voz alta por que a alternativa errada parece tentadora.
+5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+
+### Lacunas honestas
+
+- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
+- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
 
 ## Tabelas e esquemas
 
-| Ponto do edital | Como revisar |
+| Ponto do edital | O que revisar | Pegadinha provável |
+|---|---|---|
+| Microsoft Windows 11 (BR), Android e iOS. | Revise Windows 11, Android, iOS, instalação, atualização, permissões, contas, antivírus, firewall, compartilhamento, OneDrive, Google Drive, Word/Writer, Excel/Calc e formatos comuns. | Não confunda aplicativo com sistema operacional; navegador não é internet; conta em nuvem não elimina cuidado local. |
+| Microsoft 365 (BR), LibreOffice/BrOffice e Google Workspace. | Revise Windows 11, Android, iOS, instalação, atualização, permissões, contas, antivírus, firewall, compartilhamento, OneDrive, Google Drive, Word/Writer, Excel/Calc e formatos comuns. | Não confunda aplicativo com sistema operacional; navegador não é internet; conta em nuvem não elimina cuidado local. |
+| Instalação, atualização, configuração e segurança de sistemas e aplicativos. | Revise Windows 11, Android, iOS, instalação, atualização, permissões, contas, antivírus, firewall, compartilhamento, OneDrive, Google Drive, Word/Writer, Excel/Calc e formatos comuns. | Não confunda aplicativo com sistema operacional; navegador não é internet; conta em nuvem não elimina cuidado local. |
+
+| Ponto quente | Treino recomendado |
 |---|---|
-| Microsoft Windows 11 (BR), Android e iOS. | Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma. |
-| Microsoft 365 (BR), LibreOffice/BrOffice e Google Workspace. | Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma. |
-| Instalação, atualização, configuração e segurança de sistemas e aplicativos. | Classifique o recurso pela função prática: dispositivo, sistema, rede, segurança, evidência ou norma. |
+| Sistema operacional gerencia recursos e segurança; aplicativo executa tarefa do usuário. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Windows, Android e iOS cobram permissões, atualizações, contas e proteção. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Suítes de escritório devem ser comparadas por função equivalente. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
 
 | Filtro de prova | Pergunta mental |
 |---|---|
@@ -55,6 +141,9 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Tecnolog
 - Tratar criptografia como sinônimo de assinatura digital.
 - Confundir dado, metadado, log, cache e cookie.
 - Usar print ou cópia informal como se bastasse para cadeia de custódia.
+- Prioridade de atenção: Sistema operacional gerencia recursos e segurança; aplicativo executa tarefa do usuário.
+- Prioridade de atenção: Windows, Android e iOS cobram permissões, atualizações, contas e proteção.
+- Prioridade de atenção: Suítes de escritório devem ser comparadas por função equivalente.
 - Alternativa que usa termo técnico correto em contexto errado.
 - Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
 
@@ -82,7 +171,7 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Tecnolog
 ## Referências
 
 ### Fontes oficiais
-- [Edital PCPR n.º 01/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/edital-01-2026-pcpr-publicacao.docx-1.pdf)
+- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
 
 ### Materiais locais usados como apoio
 - `Curso Alfacon/Tecnologias e sistema de informacao e seguranca cibernética.pdf`

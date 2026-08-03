@@ -13,32 +13,106 @@
 
 ## Leitura rápida
 
-- Estruturação das carreiras da Polícia Civil do Estado do Paraná.
-- Lei Complementar Estadual n.º 259/2023 e alterações posteriores.
-- Leia este tema procurando palavras de comando, exceções, classificações e aplicações práticas ao cargo.
-- Quando houver dado legal, normativo ou estatístico, confira a fonte oficial atual antes de gravar número, prazo ou redação.
+- **Estruturação das carreiras da Polícia Civil do Estado do Paraná.** Cargos da PCPR, Papiloscopista Policial, requisitos, níveis, capacitação, promoção, vedações à promoção, direitos e garantias funcionais.
+- **Lei Complementar Estadual n.º 259/2023 e alterações posteriores.** Cargos da PCPR, Papiloscopista Policial, requisitos, níveis, capacitação, promoção, vedações à promoção, direitos e garantias funcionais.
+- **Prioridade FGV:** Mapeie cargos, níveis, promoções e requisitos de capacitação.
+- **Prioridade FGV:** Papiloscopista aparece como carreira própria no QPPC.
+- **Prioridade FGV:** Alterações posteriores podem modificar prazos e direitos.
+- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
 
 ## Conteúdo essencial
 
-Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Legislação 6.2**. O estudo deve começar pelo vocabulário central, avançar para diferenças cobradas em alternativa e terminar com resolução de questão.
+### Visão de estudo para este tema
 
-- Por serem normas institucionais recentes ou específicas, priorize leitura literal dos artigos cobrindo finalidade, estrutura, carreira, dever e sanção.
+Legislação estadual e institucional deve ser lida como lei seca dirigida ao cargo. A FGV valoriza sujeito, verbo, competência, órgão, dever, vedação, responsabilidade, procedimento e sanção.
 
-- O primeiro filtro é conceitual: saiba dizer o que é, para que serve, quando se aplica e qual erro comum a banca pode apresentar.
-- O segundo filtro é operacional: transforme o conceito em passo de prova, procedimento, classificação, cálculo, garantia ou consequência jurídica.
-- O terceiro filtro é de exceção: marque termos absolutos e veja se o edital ou a fonte oficial admite restrição.
+O maior risco é estudar por material desatualizado, principalmente porque o edital envolve normas recentes da Polícia Civil do Paraná. Sempre que o capítulo falar de lei estadual ou federal, a leitura final deve ser na fonte oficial.
 
-### Microtópicos do edital
+O candidato deve separar: Constituição do Paraná, estruturação de carreiras, Lei Orgânica Nacional, Lei Orgânica estadual, Código Disciplinar, regime jurídico geral e leis aplicadas à atividade policial.
 
-- **Estruturação das carreiras da Polícia Civil do Estado do Paraná.** Leia a lei seca por finalidade, competência, dever, vedação, responsabilidade, procedimento e sanção.
-- **Lei Complementar Estadual n.º 259/2023 e alterações posteriores.** Leia a lei seca por finalidade, competência, dever, vedação, responsabilidade, procedimento e sanção.
+**Aplicação ao cargo:** O bloco define limites institucionais da atuação policial e ajuda a evitar confusão entre conduta funcional, infração disciplinar, ilícito penal e dever de sigilo.
+
+**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
+
+### O que mais merece atenção
+
+- estrutura, carreira e atribuições da PCPR
+- deveres, vedações e responsabilidades
+- código disciplinar e sanções
+- sigilo funcional, LGPD e LAI
+- identificação criminal e abuso de autoridade
+- diferença entre norma nacional, estadual e regime geral
+
+### Conteúdo completo orientado ao edital
+
+### 1. Estruturação das carreiras da Polícia Civil do Estado do Paraná.
+
+**O que significa:** A LC 259/2023 estrutura carreiras da Polícia Civil do Paraná. O estudo deve mapear cargos, ingresso, desenvolvimento funcional, progressão/promoção, direitos, garantias, deveres e regras específicas alteradas por normas posteriores.
+
+**Como estudar para a prova:** Cargos da PCPR, Papiloscopista Policial, requisitos, níveis, capacitação, promoção, vedações à promoção, direitos e garantias funcionais.
+
+**Como a FGV pode cobrar:** A FGV tende a cobrar cargo, requisito, consequência funcional ou redação literal de alteração recente.
+
+**Cuidado de prova:** Use a versão compilada oficial; alterações posteriores mudam detalhes de promoção, direitos e deveres.
+
+### 2. Lei Complementar Estadual n.º 259/2023 e alterações posteriores.
+
+**O que significa:** A LC 259/2023 estrutura carreiras da Polícia Civil do Paraná. O estudo deve mapear cargos, ingresso, desenvolvimento funcional, progressão/promoção, direitos, garantias, deveres e regras específicas alteradas por normas posteriores.
+
+**Como estudar para a prova:** Cargos da PCPR, Papiloscopista Policial, requisitos, níveis, capacitação, promoção, vedações à promoção, direitos e garantias funcionais.
+
+**Como a FGV pode cobrar:** A FGV tende a cobrar cargo, requisito, consequência funcional ou redação literal de alteração recente.
+
+**Cuidado de prova:** Use a versão compilada oficial; alterações posteriores mudam detalhes de promoção, direitos e deveres.
+
+### Prioridades FGV dentro deste tema
+
+| Prioridade | Como transformar em treino |
+|---|---|
+| Mapeie cargos, níveis, promoções e requisitos de capacitação. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Papiloscopista aparece como carreira própria no QPPC. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Alterações posteriores podem modificar prazos e direitos. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+
+### Diferenças que a banca costuma trocar
+
+| Ponto | Cuidado principal | Forma provável de cobrança |
+|---|---|---|
+| Estruturação das carreiras da Polícia Civil do Estado do Paraná. | Use a versão compilada oficial; alterações posteriores mudam detalhes de promoção, direitos e deveres. | A FGV tende a cobrar cargo, requisito, consequência funcional ou redação literal de alteração recente. |
+| Lei Complementar Estadual n.º 259/2023 e alterações posteriores. | Use a versão compilada oficial; alterações posteriores mudam detalhes de promoção, direitos e deveres. | A FGV tende a cobrar cargo, requisito, consequência funcional ou redação literal de alteração recente. |
+
+### Aplicação direta para Papiloscopista
+
+- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
+- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
+- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
+- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
+- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+
+### Roteiro de estudo de alta retenção
+
+1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
+2. Faça uma tabela de comparação entre conceitos parecidos do tema.
+3. Resolva questões ou exemplos sem consultar o gabarito.
+4. Explique em voz alta por que a alternativa errada parece tentadora.
+5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+
+### Lacunas honestas
+
+- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
+- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
 
 ## Tabelas e esquemas
 
-| Ponto do edital | Como revisar |
+| Ponto do edital | O que revisar | Pegadinha provável |
+|---|---|---|
+| Estruturação das carreiras da Polícia Civil do Estado do Paraná. | Cargos da PCPR, Papiloscopista Policial, requisitos, níveis, capacitação, promoção, vedações à promoção, direitos e garantias funcionais. | Use a versão compilada oficial; alterações posteriores mudam detalhes de promoção, direitos e deveres. |
+| Lei Complementar Estadual n.º 259/2023 e alterações posteriores. | Cargos da PCPR, Papiloscopista Policial, requisitos, níveis, capacitação, promoção, vedações à promoção, direitos e garantias funcionais. | Use a versão compilada oficial; alterações posteriores mudam detalhes de promoção, direitos e deveres. |
+
+| Ponto quente | Treino recomendado |
 |---|---|
-| Estruturação das carreiras da Polícia Civil do Estado do Paraná. | Leia a lei seca por finalidade, competência, dever, vedação, responsabilidade, procedimento e sanção. |
-| Lei Complementar Estadual n.º 259/2023 e alterações posteriores. | Leia a lei seca por finalidade, competência, dever, vedação, responsabilidade, procedimento e sanção. |
+| Mapeie cargos, níveis, promoções e requisitos de capacitação. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Papiloscopista aparece como carreira própria no QPPC. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Alterações posteriores podem modificar prazos e direitos. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
 
 | Filtro de prova | Pergunta mental |
 |---|---|
@@ -54,6 +128,9 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Legisla�
 - Confundir atribuição da Polícia Civil com Polícia Científica ou Polícia Militar.
 - Responder por resumo desatualizado quando a lei foi alterada.
 - Misturar falta disciplinar, crime e improbidade.
+- Prioridade de atenção: Mapeie cargos, níveis, promoções e requisitos de capacitação.
+- Prioridade de atenção: Papiloscopista aparece como carreira própria no QPPC.
+- Prioridade de atenção: Alterações posteriores podem modificar prazos e direitos.
 - Alternativa que usa termo técnico correto em contexto errado.
 - Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
 
@@ -81,7 +158,7 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Legisla�
 ## Referências
 
 ### Fontes oficiais
-- [Edital PCPR n.º 01/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/edital-01-2026-pcpr-publicacao.docx-1.pdf)
+- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
 - [Lei Complementar Estadual n.º 259/2023 - carreiras da PCPR](https://www.legislacao.pr.gov.br/legislacao/exibirAto.do?action=iniciarProcesso&codAto=300584&codItemAto=2334573)
 - [Sistema Estadual de Legislação do Paraná - Casa Civil](https://www.casacivil.pr.gov.br/servicos/Servicos/Transparencia/Consultar-a-legislacao-do-Parana-4EoVbeon)
 

@@ -1,6 +1,6 @@
 # Leitura Oficial - Papiloscopista PCPR 2026
 
-Este material tem uma regra simples: **o edital é a base do menu, da ordem de leitura e dos resumos**. Cada capítulo abaixo corresponde a um recorte do conteúdo programático do cargo de Papiloscopista Policial do Edital PCPR n.º 01/2026, banca FGV.
+Este material tem uma regra simples: **o edital é a base do menu, da ordem de leitura e dos resumos**. Cada capítulo abaixo corresponde a um recorte do conteúdo programático do cargo de Papiloscopista Policial do Edital PCPR n.º 01/2026, retificado em 31/07/2026, banca FGV.
 
 ## Como estudar
 

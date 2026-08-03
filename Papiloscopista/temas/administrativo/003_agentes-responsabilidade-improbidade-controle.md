@@ -13,33 +13,122 @@
 
 ## Leitura rápida
 
-- Agentes públicos, cargos, empregos e funções públicas.
-- Investidura, direitos, deveres, responsabilidades e processo administrativo disciplinar.
-- Responsabilidade civil do Estado, improbidade administrativa e controle da Administração.
-- Leia este tema procurando palavras de comando, exceções, classificações e aplicações práticas ao cargo.
-- Quando houver dado legal, normativo ou estatístico, confira a fonte oficial atual antes de gravar número, prazo ou redação.
+- **Agentes públicos, cargos, empregos e funções públicas.** Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo.
+- **Investidura, direitos, deveres, responsabilidades e processo administrativo disciplinar.** Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo.
+- **Responsabilidade civil do Estado, improbidade administrativa e controle da Administração.** Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo.
+- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
+- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
+- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
+- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
+- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
 
 ## Conteúdo essencial
 
-Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Administrativo 9.7-9.10**. O estudo deve começar pelo vocabulário central, avançar para diferenças cobradas em alternativa e terminar com resolução de questão.
+### Visão de estudo para este tema
 
-- O primeiro filtro é conceitual: saiba dizer o que é, para que serve, quando se aplica e qual erro comum a banca pode apresentar.
-- O segundo filtro é operacional: transforme o conceito em passo de prova, procedimento, classificação, cálculo, garantia ou consequência jurídica.
-- O terceiro filtro é de exceção: marque termos absolutos e veja se o edital ou a fonte oficial admite restrição.
+Direito Administrativo explica a máquina pública em funcionamento: princípios, órgãos, entidades, atos, poderes, serviços, licitações, agentes, responsabilidade, improbidade e controle.
 
-### Microtópicos do edital
+A FGV costuma cobrar classificação com consequência. Se o ato é ilegal, a resposta pode envolver anulação; se é inconveniente, revogação; se há dano causado por agente público nessa qualidade, responsabilidade civil do Estado; se há dolo e tipo legal, improbidade.
 
-- **Agentes públicos, cargos, empregos e funções públicas.** Classifique instituto e consequência: validade do ato, poder usado, responsabilidade, controle ou sanção.
-- **Investidura, direitos, deveres, responsabilidades e processo administrativo disciplinar.** Classifique instituto e consequência: validade do ato, poder usado, responsabilidade, controle ou sanção.
-- **Responsabilidade civil do Estado, improbidade administrativa e controle da Administração.** Classifique instituto e consequência: validade do ato, poder usado, responsabilidade, controle ou sanção.
+O candidato deve diferenciar Administração direta e indireta, descentralização e desconcentração, poder hierárquico e disciplinar, polícia administrativa e polícia judiciária.
+
+**Aplicação ao cargo:** O bloco ajuda a compreender dever funcional, limites do agente público, controle de atos e responsabilidade na atuação institucional.
+
+**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
+
+### O que mais merece atenção
+
+- princípios administrativos
+- administração direta e indireta
+- atos administrativos
+- poderes administrativos e abuso de poder
+- licitações e contratos
+- agentes, responsabilidade, improbidade e controle
+
+### Conteúdo completo orientado ao edital
+
+### 1. Agentes públicos, cargos, empregos e funções públicas.
+
+**O que significa:** Agentes públicos exercem função pública. O Estado responde objetivamente por danos de seus agentes nessa qualidade, com direito de regresso em caso de dolo ou culpa. Improbidade exige conduta dolosa tipificada.
+
+**Como estudar para a prova:** Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo.
+
+**Como a FGV pode cobrar:** A banca cobra consequência jurídica: responsabilidade civil, disciplinar, improbidade ou controle.
+
+**Cuidado de prova:** Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo.
+
+### 2. Investidura, direitos, deveres, responsabilidades e processo administrativo disciplinar.
+
+**O que significa:** Agentes públicos exercem função pública. O Estado responde objetivamente por danos de seus agentes nessa qualidade, com direito de regresso em caso de dolo ou culpa. Improbidade exige conduta dolosa tipificada.
+
+**Como estudar para a prova:** Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo.
+
+**Como a FGV pode cobrar:** A banca cobra consequência jurídica: responsabilidade civil, disciplinar, improbidade ou controle.
+
+**Cuidado de prova:** Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo.
+
+### 3. Responsabilidade civil do Estado, improbidade administrativa e controle da Administração.
+
+**O que significa:** Agentes públicos exercem função pública. O Estado responde objetivamente por danos de seus agentes nessa qualidade, com direito de regresso em caso de dolo ou culpa. Improbidade exige conduta dolosa tipificada.
+
+**Como estudar para a prova:** Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo.
+
+**Como a FGV pode cobrar:** A banca cobra consequência jurídica: responsabilidade civil, disciplinar, improbidade ou controle.
+
+**Cuidado de prova:** Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo.
+
+### Prioridades FGV dentro deste tema
+
+| Prioridade | Como transformar em treino |
+|---|---|
+| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+
+### Diferenças que a banca costuma trocar
+
+| Ponto | Cuidado principal | Forma provável de cobrança |
+|---|---|---|
+| Agentes públicos, cargos, empregos e funções públicas. | Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo. | A banca cobra consequência jurídica: responsabilidade civil, disciplinar, improbidade ou controle. |
+| Investidura, direitos, deveres, responsabilidades e processo administrativo disciplinar. | Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo. | A banca cobra consequência jurídica: responsabilidade civil, disciplinar, improbidade ou controle. |
+| Responsabilidade civil do Estado, improbidade administrativa e controle da Administração. | Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo. | A banca cobra consequência jurídica: responsabilidade civil, disciplinar, improbidade ou controle. |
+
+### Aplicação direta para Papiloscopista
+
+- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
+- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
+- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
+- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
+- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+
+### Roteiro de estudo de alta retenção
+
+1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
+2. Faça uma tabela de comparação entre conceitos parecidos do tema.
+3. Resolva questões ou exemplos sem consultar o gabarito.
+4. Explique em voz alta por que a alternativa errada parece tentadora.
+5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+
+### Lacunas honestas
+
+- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
+- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
 
 ## Tabelas e esquemas
 
-| Ponto do edital | Como revisar |
+| Ponto do edital | O que revisar | Pegadinha provável |
+|---|---|---|
+| Agentes públicos, cargos, empregos e funções públicas. | Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo. | Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo. |
+| Investidura, direitos, deveres, responsabilidades e processo administrativo disciplinar. | Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo. | Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo. |
+| Responsabilidade civil do Estado, improbidade administrativa e controle da Administração. | Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo. | Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo. |
+
+| Ponto quente | Treino recomendado |
 |---|---|
-| Agentes públicos, cargos, empregos e funções públicas. | Classifique instituto e consequência: validade do ato, poder usado, responsabilidade, controle ou sanção. |
-| Investidura, direitos, deveres, responsabilidades e processo administrativo disciplinar. | Classifique instituto e consequência: validade do ato, poder usado, responsabilidade, controle ou sanção. |
-| Responsabilidade civil do Estado, improbidade administrativa e controle da Administração. | Classifique instituto e consequência: validade do ato, poder usado, responsabilidade, controle ou sanção. |
+| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
 
 | Filtro de prova | Pergunta mental |
 |---|---|
@@ -55,6 +144,10 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Administ
 - Confundir descentralização com desconcentração.
 - Aplicar culpa civil comum à responsabilidade objetiva do Estado.
 - Tratar controle judicial como substituição plena do mérito administrativo.
+- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
+- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
+- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
+- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
 - Alternativa que usa termo técnico correto em contexto errado.
 - Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
 
@@ -82,7 +175,7 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Administ
 ## Referências
 
 ### Fontes oficiais
-- [Edital PCPR n.º 01/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/edital-01-2026-pcpr-publicacao.docx-1.pdf)
+- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
 - [Lei Federal n.º 8.429/1992 - Improbidade Administrativa](https://www.planalto.gov.br/ccivil_03/leis/l8429.htm)
 - [Lei Estadual n.º 6.174/1970 - regime jurídico dos servidores do PR](https://www.legislacao.pr.gov.br/legislacao/exibirAto.do?action=localizarAto&codTipoAto=1&dataAto=16%2F11%2F1970&dataPublicacao=20%2F11%2F1970&nroAto=6174&tipoVisualizacao=original)
 

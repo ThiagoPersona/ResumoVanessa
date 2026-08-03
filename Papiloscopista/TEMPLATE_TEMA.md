@@ -52,6 +52,6 @@ Explique o conteúdo em linguagem própria, com foco no edital e no cargo.
 
 ## Referências
 
-- Edital PCPR n.º 01/2026.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026.
 - Materiais locais usados.
 - Fonte oficial, quando normativa ou estatística.

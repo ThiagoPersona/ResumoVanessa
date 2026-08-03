@@ -13,36 +13,132 @@
 
 ## Leitura rápida
 
-- Conceito, objeto e métodos da criminologia.
-- Escolas criminológicas, criminologia crítica e teorias criminológicas.
-- Vitimologia, classificação das vítimas, vitimização, controle social e prevenção do delito.
-- Criminologia e política criminal; atuação policial, perfil criminal e indicadores.
-- Leia este tema procurando palavras de comando, exceções, classificações e aplicações práticas ao cargo.
-- Quando houver dado legal, normativo ou estatístico, confira a fonte oficial atual antes de gravar número, prazo ou redação.
+- **Conceito, objeto e métodos da criminologia.** Conceito, objeto, método, escola clássica, positivista, sociologia criminal, etiquetamento, criminologia crítica, abolicionismo, teorias do conflito, vitimização primária/secundária/terciária e prevenção.
+- **Escolas criminológicas, criminologia crítica e teorias criminológicas.** Conceito, objeto, método, escola clássica, positivista, sociologia criminal, etiquetamento, criminologia crítica, abolicionismo, teorias do conflito, vitimização primária/secundária/terciária e prevenção.
+- **Vitimologia, classificação das vítimas, vitimização, controle social e prevenção do delito.** Conceito, objeto, método, escola clássica, positivista, sociologia criminal, etiquetamento, criminologia crítica, abolicionismo, teorias do conflito, vitimização primária/secundária/terciária e prevenção.
+- **Criminologia e política criminal; atuação policial, perfil criminal e indicadores.** Conceito, objeto, método, escola clássica, positivista, sociologia criminal, etiquetamento, criminologia crítica, abolicionismo, teorias do conflito, vitimização primária/secundária/terciária e prevenção.
+- **Prioridade FGV:** Criminologia é empírica e interdisciplinar.
+- **Prioridade FGV:** Vitimização secundária decorre do tratamento institucional inadequado.
+- **Prioridade FGV:** Controle social formal envolve instituições; informal envolve família, escola, comunidade e cultura.
+- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
 
 ## Conteúdo essencial
 
-Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Ciências Forenses 2.3**. O estudo deve começar pelo vocabulário central, avançar para diferenças cobradas em alternativa e terminar com resolução de questão.
+### Visão de estudo para este tema
 
-- O primeiro filtro é conceitual: saiba dizer o que é, para que serve, quando se aplica e qual erro comum a banca pode apresentar.
-- O segundo filtro é operacional: transforme o conceito em passo de prova, procedimento, classificação, cálculo, garantia ou consequência jurídica.
-- O terceiro filtro é de exceção: marque termos absolutos e veja se o edital ou a fonte oficial admite restrição.
+Ciências Forenses é o bloco mais identitário para Papiloscopista. O estudo precisa separar áreas: Medicina Legal, identificação humana, papiloscopia, criminalística, documentoscopia, criminologia e investigação tecnológica. Cada uma tem objeto, método e vocabulário próprio.
 
-### Microtópicos do edital
+A FGV tende a cobrar diferença fina: vestígio, indício e evidência; identificação e reconhecimento; local imediato, mediato e relacionado; papiloscopia e outras biometrias; falsificação documental e alteração material; vitimização primária, secundária e terciária.
 
-- **Conceito, objeto e métodos da criminologia.** Separe objeto, método, escola, teoria, vítima e política criminal.
-- **Escolas criminológicas, criminologia crítica e teorias criminológicas.** Separe objeto, método, escola, teoria, vítima e política criminal.
-- **Vitimologia, classificação das vítimas, vitimização, controle social e prevenção do delito.** Associe conceito técnico à finalidade pericial e ao limite do método.
-- **Criminologia e política criminal; atuação policial, perfil criminal e indicadores.** Separe objeto, método, escola, teoria, vítima e política criminal.
+O conteúdo deve ser lido com mentalidade de procedimento. O que a prova quer saber é: quem faz, para quê, com que cuidado, em qual sequência e com qual limitação.
+
+**Aplicação ao cargo:** O Papiloscopista trabalha na individualização humana e na produção técnica de elementos que precisam ser confiáveis, rastreáveis e compreensíveis no processo.
+
+**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
+
+### O que mais merece atenção
+
+- papiloscopia e identificação humana
+- cadeia de custódia e local de crime
+- vestígio, indício, evidência e prova
+- documentoscopia e grafoscopia
+- tanatologia, traumatologia e toxicologia básicas
+- criminologia, vitimologia e criminologia digital
+
+### Conteúdo completo orientado ao edital
+
+### 1. Conceito, objeto e métodos da criminologia.
+
+**O que significa:** Criminologia estuda crime, criminoso, vítima e controle social por método empírico e interdisciplinar. Vitimologia olha o papel e a proteção da vítima. Controle social pode ser formal ou informal.
+
+**Como estudar para a prova:** Conceito, objeto, método, escola clássica, positivista, sociologia criminal, etiquetamento, criminologia crítica, abolicionismo, teorias do conflito, vitimização primária/secundária/terciária e prevenção.
+
+**Como a FGV pode cobrar:** A FGV cobra escolas, teorias e classificações por comparação direta.
+
+**Cuidado de prova:** Direito Penal pergunta se há crime e pena; Criminologia pergunta por que ocorre, como é controlado e como a vítima é afetada.
+
+### 2. Escolas criminológicas, criminologia crítica e teorias criminológicas.
+
+**O que significa:** Criminologia estuda crime, criminoso, vítima e controle social por método empírico e interdisciplinar. Vitimologia olha o papel e a proteção da vítima. Controle social pode ser formal ou informal.
+
+**Como estudar para a prova:** Conceito, objeto, método, escola clássica, positivista, sociologia criminal, etiquetamento, criminologia crítica, abolicionismo, teorias do conflito, vitimização primária/secundária/terciária e prevenção.
+
+**Como a FGV pode cobrar:** A FGV cobra escolas, teorias e classificações por comparação direta.
+
+**Cuidado de prova:** Direito Penal pergunta se há crime e pena; Criminologia pergunta por que ocorre, como é controlado e como a vítima é afetada.
+
+### 3. Vitimologia, classificação das vítimas, vitimização, controle social e prevenção do delito.
+
+**O que significa:** Criminologia estuda crime, criminoso, vítima e controle social por método empírico e interdisciplinar. Vitimologia olha o papel e a proteção da vítima. Controle social pode ser formal ou informal.
+
+**Como estudar para a prova:** Conceito, objeto, método, escola clássica, positivista, sociologia criminal, etiquetamento, criminologia crítica, abolicionismo, teorias do conflito, vitimização primária/secundária/terciária e prevenção.
+
+**Como a FGV pode cobrar:** A FGV cobra escolas, teorias e classificações por comparação direta.
+
+**Cuidado de prova:** Direito Penal pergunta se há crime e pena; Criminologia pergunta por que ocorre, como é controlado e como a vítima é afetada.
+
+### 4. Criminologia e política criminal; atuação policial, perfil criminal e indicadores.
+
+**O que significa:** Criminologia estuda crime, criminoso, vítima e controle social por método empírico e interdisciplinar. Vitimologia olha o papel e a proteção da vítima. Controle social pode ser formal ou informal.
+
+**Como estudar para a prova:** Conceito, objeto, método, escola clássica, positivista, sociologia criminal, etiquetamento, criminologia crítica, abolicionismo, teorias do conflito, vitimização primária/secundária/terciária e prevenção.
+
+**Como a FGV pode cobrar:** A FGV cobra escolas, teorias e classificações por comparação direta.
+
+**Cuidado de prova:** Direito Penal pergunta se há crime e pena; Criminologia pergunta por que ocorre, como é controlado e como a vítima é afetada.
+
+### Prioridades FGV dentro deste tema
+
+| Prioridade | Como transformar em treino |
+|---|---|
+| Criminologia é empírica e interdisciplinar. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Vitimização secundária decorre do tratamento institucional inadequado. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Controle social formal envolve instituições; informal envolve família, escola, comunidade e cultura. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+
+### Diferenças que a banca costuma trocar
+
+| Ponto | Cuidado principal | Forma provável de cobrança |
+|---|---|---|
+| Conceito, objeto e métodos da criminologia. | Direito Penal pergunta se há crime e pena; Criminologia pergunta por que ocorre, como é controlado e como a vítima é afetada. | A FGV cobra escolas, teorias e classificações por comparação direta. |
+| Escolas criminológicas, criminologia crítica e teorias criminológicas. | Direito Penal pergunta se há crime e pena; Criminologia pergunta por que ocorre, como é controlado e como a vítima é afetada. | A FGV cobra escolas, teorias e classificações por comparação direta. |
+| Vitimologia, classificação das vítimas, vitimização, controle social e prevenção do delito. | Direito Penal pergunta se há crime e pena; Criminologia pergunta por que ocorre, como é controlado e como a vítima é afetada. | A FGV cobra escolas, teorias e classificações por comparação direta. |
+| Criminologia e política criminal; atuação policial, perfil criminal e indicadores. | Direito Penal pergunta se há crime e pena; Criminologia pergunta por que ocorre, como é controlado e como a vítima é afetada. | A FGV cobra escolas, teorias e classificações por comparação direta. |
+
+### Aplicação direta para Papiloscopista
+
+- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
+- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
+- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
+- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
+- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+
+### Roteiro de estudo de alta retenção
+
+1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
+2. Faça uma tabela de comparação entre conceitos parecidos do tema.
+3. Resolva questões ou exemplos sem consultar o gabarito.
+4. Explique em voz alta por que a alternativa errada parece tentadora.
+5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+
+### Lacunas honestas
+
+- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
+- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
 
 ## Tabelas e esquemas
 
-| Ponto do edital | Como revisar |
+| Ponto do edital | O que revisar | Pegadinha provável |
+|---|---|---|
+| Conceito, objeto e métodos da criminologia. | Conceito, objeto, método, escola clássica, positivista, sociologia criminal, etiquetamento, criminologia crítica, abolicionismo, teorias do conflito, vitimização primária/secundária/terciária e prevenção. | Direito Penal pergunta se há crime e pena; Criminologia pergunta por que ocorre, como é controlado e como a vítima é afetada. |
+| Escolas criminológicas, criminologia crítica e teorias criminológicas. | Conceito, objeto, método, escola clássica, positivista, sociologia criminal, etiquetamento, criminologia crítica, abolicionismo, teorias do conflito, vitimização primária/secundária/terciária e prevenção. | Direito Penal pergunta se há crime e pena; Criminologia pergunta por que ocorre, como é controlado e como a vítima é afetada. |
+| Vitimologia, classificação das vítimas, vitimização, controle social e prevenção do delito. | Conceito, objeto, método, escola clássica, positivista, sociologia criminal, etiquetamento, criminologia crítica, abolicionismo, teorias do conflito, vitimização primária/secundária/terciária e prevenção. | Direito Penal pergunta se há crime e pena; Criminologia pergunta por que ocorre, como é controlado e como a vítima é afetada. |
+| Criminologia e política criminal; atuação policial, perfil criminal e indicadores. | Conceito, objeto, método, escola clássica, positivista, sociologia criminal, etiquetamento, criminologia crítica, abolicionismo, teorias do conflito, vitimização primária/secundária/terciária e prevenção. | Direito Penal pergunta se há crime e pena; Criminologia pergunta por que ocorre, como é controlado e como a vítima é afetada. |
+
+| Ponto quente | Treino recomendado |
 |---|---|
-| Conceito, objeto e métodos da criminologia. | Separe objeto, método, escola, teoria, vítima e política criminal. |
-| Escolas criminológicas, criminologia crítica e teorias criminológicas. | Separe objeto, método, escola, teoria, vítima e política criminal. |
-| Vitimologia, classificação das vítimas, vitimização, controle social e prevenção do delito. | Associe conceito técnico à finalidade pericial e ao limite do método. |
-| Criminologia e política criminal; atuação policial, perfil criminal e indicadores. | Separe objeto, método, escola, teoria, vítima e política criminal. |
+| Criminologia é empírica e interdisciplinar. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Vitimização secundária decorre do tratamento institucional inadequado. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Controle social formal envolve instituições; informal envolve família, escola, comunidade e cultura. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
 
 | Filtro de prova | Pergunta mental |
 |---|---|
@@ -58,6 +154,9 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Ciência
 - Confundir vestígio encontrado com prova já valorada no processo.
 - Achar que local de crime preservado é responsabilidade apenas do perito.
 - Misturar criminologia crítica, positivista e teoria do etiquetamento.
+- Prioridade de atenção: Criminologia é empírica e interdisciplinar.
+- Prioridade de atenção: Vitimização secundária decorre do tratamento institucional inadequado.
+- Prioridade de atenção: Controle social formal envolve instituições; informal envolve família, escola, comunidade e cultura.
 - Alternativa que usa termo técnico correto em contexto errado.
 - Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
 
@@ -85,7 +184,7 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Ciência
 ## Referências
 
 ### Fontes oficiais
-- [Edital PCPR n.º 01/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/edital-01-2026-pcpr-publicacao.docx-1.pdf)
+- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
 
 ### Materiais locais usados como apoio
 - `Curso Alfacon/Medicina legal.pdf`

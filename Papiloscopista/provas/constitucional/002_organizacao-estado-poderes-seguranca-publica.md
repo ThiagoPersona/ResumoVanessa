@@ -23,4 +23,4 @@ Banco em construção. Ainda não foi convertida uma questão local com enunciad
 
 ## Referências
 
-- Edital PCPR n.º 01/2026, Constitucional 8.4-8.6.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026, Constitucional 8.4-8.6.

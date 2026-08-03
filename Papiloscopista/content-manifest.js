@@ -1,7 +1,11 @@
 const officialReferences = {
   editalFgv: {
-    label: "Edital PCPR n.º 01/2026 - FGV",
-    url: "https://conhecimento.fgv.br/sites/default/files/concursos/edital-01-2026-pcpr-publicacao.docx-1.pdf"
+    label: "Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV",
+    url: "https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf"
+  },
+  editalRetificacao1: {
+    label: "Edital PCPR n.º 02/2026 - 1ª Retificação - FGV",
+    url: "https://conhecimento.fgv.br/sites/default/files/concursos/edital-02-2026-pcpr-retificacao.docx-1.pdf"
   },
   planaltoConstituicao: {
     label: "Constituição Federal de 1988 - Planalto",
@@ -386,7 +390,7 @@ const chapterGroups = [
       "Regime jurídico dos servidores públicos do Estado do Paraná.",
       "Provimento, vacância, direitos, vantagens, deveres, proibições e responsabilidades.",
       "Ética no serviço público, sigilo funcional e proteção de informações institucionais."
-    ], { groupId: "legislacao", priority: "alta", officialRefs: ["editalFgv", "regimeJuridicoPr"] }),
+    ], { groupId: "legislacao", priority: "alta", officialRefs: ["editalFgv", "editalRetificacao1", "regimeJuridicoPr"] }),
     chapter("046", "Abuso de autoridade, identificação criminal, LGPD, LAI e sigilo", "007_abuso-identificacao-lgpd-lai-sigilo", "Legislação 6.7", [
       "Lei de Abuso de Autoridade.",
       "Lei de Identificação Criminal.",

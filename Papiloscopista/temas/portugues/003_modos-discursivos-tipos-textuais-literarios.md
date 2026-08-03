@@ -13,33 +13,119 @@
 
 ## Leitura rápida
 
-- Descrição, narração, exposição, argumentação e injunção.
-- Tipos informativo, publicitário, propagandístico, normativo, didático e divinatório.
-- Textos literários e não literários.
-- Leia este tema procurando palavras de comando, exceções, classificações e aplicações práticas ao cargo.
-- Quando houver dado legal, normativo ou estatístico, confira a fonte oficial atual antes de gravar número, prazo ou redação.
+- **Descrição, narração, exposição, argumentação e injunção.** Marque verbos, temporalidade, presença de tese, instruções, enumerações, exemplos e marcas de subjetividade. Um texto pode misturar modos, mas um costuma predominar.
+- **Tipos informativo, publicitário, propagandístico, normativo, didático e divinatório.** Compare texto informativo, publicitário, propagandístico, normativo, didático e divinatório pela finalidade, linguagem, público e grau de objetividade.
+- **Textos literários e não literários.** Revise denotação, conotação, figuras de linguagem, narrador, eu lírico, subjetividade, ambiguidade intencional e função poética.
+- **Prioridade FGV:** Descrição caracteriza; narração encadeia eventos; exposição explica; argumentação defende; injunção orienta.
+- **Prioridade FGV:** Um gênero pode combinar modos, então procure predominância e finalidade.
+- **Prioridade FGV:** Texto normativo e didático podem parecer próximos, mas o normativo impõe conduta.
+- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
 
 ## Conteúdo essencial
 
-Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Língua Portuguesa 1.4-1.6**. O estudo deve começar pelo vocabulário central, avançar para diferenças cobradas em alternativa e terminar com resolução de questão.
+### Visão de estudo para este tema
 
-- O primeiro filtro é conceitual: saiba dizer o que é, para que serve, quando se aplica e qual erro comum a banca pode apresentar.
-- O segundo filtro é operacional: transforme o conceito em passo de prova, procedimento, classificação, cálculo, garantia ou consequência jurídica.
-- O terceiro filtro é de exceção: marque termos absolutos e veja se o edital ou a fonte oficial admite restrição.
+Português da FGV deve ser estudado de dentro para fora do texto. A banca raramente entrega uma pergunta puramente decorativa; mesmo quando cobra classe gramatical, pontuação, crase ou sintaxe, o ponto decisivo costuma ser o efeito produzido no trecho. Por isso, cada regra precisa ser conectada ao sentido, ao referente, ao registro e à intenção comunicativa.
 
-### Microtópicos do edital
+A leitura produtiva começa pelo comando da questão. Se o comando pede inferência, não basta localizar frase literal. Se pede reescritura, a alternativa precisa manter sentido, correção e relação lógica. Se pede pontuação, o candidato deve perguntar que termo está sendo isolado, deslocado, enumerado ou explicado.
 
-- **Descrição, narração, exposição, argumentação e injunção.** Transforme o conceito em função no texto: coesão, progressão temática, sentido, registro e correção.
-- **Tipos informativo, publicitário, propagandístico, normativo, didático e divinatório.** Transforme o conceito em função no texto: coesão, progressão temática, sentido, registro e correção.
-- **Textos literários e não literários.** Transforme o conceito em função no texto: coesão, progressão temática, sentido, registro e correção.
+Para este concurso, a disciplina pesa muito: 25 questões. A preparação deve buscar estabilidade, não apenas decorar listas. O melhor treino é comparar alternativas parecidas e justificar por que uma muda o sentido, generaliza, restringe, troca causa por consequência ou quebra norma culta.
+
+**Aplicação ao cargo:** Na rotina policial, relatórios, oitivas, comunicações internas e registros precisam ser claros, precisos e sem ambiguidade indevida. A prova usa essa mesma exigência: ler com precisão e escrever mentalmente com controle de sentido.
+
+**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
+
+### O que mais merece atenção
+
+- interpretação literal e inferencial
+- reescritura com preservação de sentido
+- coesão referencial e conectores
+- pontuação com efeito sintático-semântico
+- classes de palavras em contexto
+- semântica, ambiguidade, ortografia e crase
+
+### Conteúdo completo orientado ao edital
+
+### 1. Descrição, narração, exposição, argumentação e injunção.
+
+**O que significa:** Modos discursivos são formas de organizar o discurso: narrar conta acontecimentos; descrever caracteriza; expor explica; argumentar defende tese; injungir orienta conduta.
+
+**Como estudar para a prova:** Marque verbos, temporalidade, presença de tese, instruções, enumerações, exemplos e marcas de subjetividade. Um texto pode misturar modos, mas um costuma predominar.
+
+**Como a FGV pode cobrar:** A banca pede finalidade comunicativa, predominância de modo e efeito de determinado trecho dentro do texto.
+
+**Cuidado de prova:** Não classifique por uma palavra isolada; classifique pelo funcionamento do trecho.
+
+### 2. Tipos informativo, publicitário, propagandístico, normativo, didático e divinatório.
+
+**O que significa:** Tipos textuais do edital correspondem a finalidades sociais: informar, persuadir, divulgar, normatizar, ensinar ou prever/antecipar algo.
+
+**Como estudar para a prova:** Compare texto informativo, publicitário, propagandístico, normativo, didático e divinatório pela finalidade, linguagem, público e grau de objetividade.
+
+**Como a FGV pode cobrar:** A pergunta costuma pedir características específicas, função de linguagem e adequação de registro.
+
+**Cuidado de prova:** Publicidade e propaganda não são sinônimos perfeitos: a publicidade vende produto/serviço; a propaganda busca adesão a ideia ou causa.
+
+### 3. Textos literários e não literários.
+
+**O que significa:** Texto literário explora linguagem estética, plurissignificação e recursos expressivos; texto não literário tende a finalidade informativa, instrucional, normativa ou argumentativa direta.
+
+**Como estudar para a prova:** Revise denotação, conotação, figuras de linguagem, narrador, eu lírico, subjetividade, ambiguidade intencional e função poética.
+
+**Como a FGV pode cobrar:** A banca cobra efeito expressivo, diferença entre sentido literal e figurado e função de recursos de linguagem.
+
+**Cuidado de prova:** Não confunda texto literário com texto difícil; o critério é a função estética e expressiva.
+
+### Prioridades FGV dentro deste tema
+
+| Prioridade | Como transformar em treino |
+|---|---|
+| Descrição caracteriza; narração encadeia eventos; exposição explica; argumentação defende; injunção orienta. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Um gênero pode combinar modos, então procure predominância e finalidade. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Texto normativo e didático podem parecer próximos, mas o normativo impõe conduta. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+
+### Diferenças que a banca costuma trocar
+
+| Ponto | Cuidado principal | Forma provável de cobrança |
+|---|---|---|
+| Descrição, narração, exposição, argumentação e injunção. | Não classifique por uma palavra isolada; classifique pelo funcionamento do trecho. | A banca pede finalidade comunicativa, predominância de modo e efeito de determinado trecho dentro do texto. |
+| Tipos informativo, publicitário, propagandístico, normativo, didático e divinatório. | Publicidade e propaganda não são sinônimos perfeitos: a publicidade vende produto/serviço; a propaganda busca adesão a ideia ou causa. | A pergunta costuma pedir características específicas, função de linguagem e adequação de registro. |
+| Textos literários e não literários. | Não confunda texto literário com texto difícil; o critério é a função estética e expressiva. | A banca cobra efeito expressivo, diferença entre sentido literal e figurado e função de recursos de linguagem. |
+
+### Aplicação direta para Papiloscopista
+
+- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
+- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
+- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
+- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
+- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+
+### Roteiro de estudo de alta retenção
+
+1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
+2. Faça uma tabela de comparação entre conceitos parecidos do tema.
+3. Resolva questões ou exemplos sem consultar o gabarito.
+4. Explique em voz alta por que a alternativa errada parece tentadora.
+5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+
+### Lacunas honestas
+
+- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
+- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
 
 ## Tabelas e esquemas
 
-| Ponto do edital | Como revisar |
+| Ponto do edital | O que revisar | Pegadinha provável |
+|---|---|---|
+| Descrição, narração, exposição, argumentação e injunção. | Marque verbos, temporalidade, presença de tese, instruções, enumerações, exemplos e marcas de subjetividade. Um texto pode misturar modos, mas um costuma predominar. | Não classifique por uma palavra isolada; classifique pelo funcionamento do trecho. |
+| Tipos informativo, publicitário, propagandístico, normativo, didático e divinatório. | Compare texto informativo, publicitário, propagandístico, normativo, didático e divinatório pela finalidade, linguagem, público e grau de objetividade. | Publicidade e propaganda não são sinônimos perfeitos: a publicidade vende produto/serviço; a propaganda busca adesão a ideia ou causa. |
+| Textos literários e não literários. | Revise denotação, conotação, figuras de linguagem, narrador, eu lírico, subjetividade, ambiguidade intencional e função poética. | Não confunda texto literário com texto difícil; o critério é a função estética e expressiva. |
+
+| Ponto quente | Treino recomendado |
 |---|---|
-| Descrição, narração, exposição, argumentação e injunção. | Transforme o conceito em função no texto: coesão, progressão temática, sentido, registro e correção. |
-| Tipos informativo, publicitário, propagandístico, normativo, didático e divinatório. | Transforme o conceito em função no texto: coesão, progressão temática, sentido, registro e correção. |
-| Textos literários e não literários. | Transforme o conceito em função no texto: coesão, progressão temática, sentido, registro e correção. |
+| Descrição caracteriza; narração encadeia eventos; exposição explica; argumentação defende; injunção orienta. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Um gênero pode combinar modos, então procure predominância e finalidade. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Texto normativo e didático podem parecer próximos, mas o normativo impõe conduta. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
 
 | Filtro de prova | Pergunta mental |
 |---|---|
@@ -55,6 +141,9 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Língua 
 - Troca de causa por consequência, finalidade por resultado ou fato por opinião.
 - Pontuação que mantém a gramática, mas altera o sentido.
 - Uso de 'sempre', 'nunca', 'apenas' e 'necessariamente' sem apoio textual.
+- Prioridade de atenção: Descrição caracteriza; narração encadeia eventos; exposição explica; argumentação defende; injunção orienta.
+- Prioridade de atenção: Um gênero pode combinar modos, então procure predominância e finalidade.
+- Prioridade de atenção: Texto normativo e didático podem parecer próximos, mas o normativo impõe conduta.
 - Alternativa que usa termo técnico correto em contexto errado.
 - Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
 
@@ -82,7 +171,7 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Língua 
 ## Referências
 
 ### Fontes oficiais
-- [Edital PCPR n.º 01/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/edital-01-2026-pcpr-publicacao.docx-1.pdf)
+- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
 
 ### Materiais locais usados como apoio
 - `Curso de Portugues/Manual de Lingua Portuguesa.pdf`

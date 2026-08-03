@@ -13,36 +13,135 @@
 
 ## Leitura rápida
 
-- Cultura paranaense: manifestações, patrimônio, festas, artes, literatura, música e tradições.
-- Indicadores sociais e econômicos: IDH, segurança pública, saúde, educação, mobilidade e desenvolvimento regional.
-- Governo estadual, políticas públicas, programas sociais e desafios contemporâneos.
-- Temas atuais: segurança pública, economia, meio ambiente, inclusão social e sustentabilidade.
-- Leia este tema procurando palavras de comando, exceções, classificações e aplicações práticas ao cargo.
-- Quando houver dado legal, normativo ou estatístico, confira a fonte oficial atual antes de gravar número, prazo ou redação.
+- **Cultura paranaense: manifestações, patrimônio, festas, artes, literatura, música e tradições.** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
+- **Indicadores sociais e econômicos: IDH, segurança pública, saúde, educação, mobilidade e desenvolvimento regional.** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
+- **Governo estadual, políticas públicas, programas sociais e desafios contemporâneos.** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
+- **Temas atuais: segurança pública, economia, meio ambiente, inclusão social e sustentabilidade.** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
+- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
+- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
+- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
+- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
+- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
 
 ## Conteúdo essencial
 
-Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Realidade do Paraná 3.4-3.7**. O estudo deve começar pelo vocabulário central, avançar para diferenças cobradas em alternativa e terminar com resolução de questão.
+### Visão de estudo para este tema
 
-- O primeiro filtro é conceitual: saiba dizer o que é, para que serve, quando se aplica e qual erro comum a banca pode apresentar.
-- O segundo filtro é operacional: transforme o conceito em passo de prova, procedimento, classificação, cálculo, garantia ou consequência jurídica.
-- O terceiro filtro é de exceção: marque termos absolutos e veja se o edital ou a fonte oficial admite restrição.
+Realidade do Paraná exige uma visão organizada do Estado: formação histórica, território, população, economia, cultura, governo e desafios atuais. A prova não deve ser estudada como curiosidade turística, mas como repertório oficial sobre o espaço em que a Polícia Civil atua.
 
-### Microtópicos do edital
+Dados numéricos mudam. Por isso, o material deve usar IBGE, IPARDES e páginas oficiais quando tratar de população, indicadores, municípios, economia e políticas públicas. O que deve ficar memorizado é a lógica: regiões, processos históricos, eixos econômicos e problemas contemporâneos.
 
-- **Cultura paranaense: manifestações, patrimônio, festas, artes, literatura, música e tradições.** Revise o conceito, a finalidade, a exceção e a forma como pode aparecer em alternativa.
-- **Indicadores sociais e econômicos: IDH, segurança pública, saúde, educação, mobilidade e desenvolvimento regional.** Revise o conceito, a finalidade, a exceção e a forma como pode aparecer em alternativa.
-- **Governo estadual, políticas públicas, programas sociais e desafios contemporâneos.** Revise o conceito, a finalidade, a exceção e a forma como pode aparecer em alternativa.
-- **Temas atuais: segurança pública, economia, meio ambiente, inclusão social e sustentabilidade.** Revise o conceito, a finalidade, a exceção e a forma como pode aparecer em alternativa.
+A FGV costuma cobrar associação: determinado fenômeno pertence a qual região, qual indicador mede certo aspecto, qual tema é cultural, histórico, geográfico ou político-institucional.
+
+**Aplicação ao cargo:** O Papiloscopista atua em um Estado diverso, com interior, fronteira, regiões metropolitanas e realidades socioeconômicas distintas. A disciplina contextualiza essa atuação.
+
+**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
+
+### O que mais merece atenção
+
+- formação territorial e ocupação
+- geografia física e humana
+- municípios, regiões e dinâmica econômica
+- cultura e patrimônio
+- indicadores oficiais
+- segurança pública, meio ambiente e inclusão social
+
+### Conteúdo completo orientado ao edital
+
+### 1. Cultura paranaense: manifestações, patrimônio, festas, artes, literatura, música e tradições.
+
+**O que significa:** Cultura, indicadores e políticas públicas conectam identidade paranaense e desafios contemporâneos. Dados devem ser conferidos em IPARDES, IBGE e fontes oficiais.
+
+**Como estudar para a prova:** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
+
+**Como a FGV pode cobrar:** A banca cobra leitura de indicador e associação de tema atual ao Estado.
+
+**Cuidado de prova:** Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova.
+
+### 2. Indicadores sociais e econômicos: IDH, segurança pública, saúde, educação, mobilidade e desenvolvimento regional.
+
+**O que significa:** Cultura, indicadores e políticas públicas conectam identidade paranaense e desafios contemporâneos. Dados devem ser conferidos em IPARDES, IBGE e fontes oficiais.
+
+**Como estudar para a prova:** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
+
+**Como a FGV pode cobrar:** A banca cobra leitura de indicador e associação de tema atual ao Estado.
+
+**Cuidado de prova:** Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova.
+
+### 3. Governo estadual, políticas públicas, programas sociais e desafios contemporâneos.
+
+**O que significa:** Cultura, indicadores e políticas públicas conectam identidade paranaense e desafios contemporâneos. Dados devem ser conferidos em IPARDES, IBGE e fontes oficiais.
+
+**Como estudar para a prova:** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
+
+**Como a FGV pode cobrar:** A banca cobra leitura de indicador e associação de tema atual ao Estado.
+
+**Cuidado de prova:** Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova.
+
+### 4. Temas atuais: segurança pública, economia, meio ambiente, inclusão social e sustentabilidade.
+
+**O que significa:** Cultura, indicadores e políticas públicas conectam identidade paranaense e desafios contemporâneos. Dados devem ser conferidos em IPARDES, IBGE e fontes oficiais.
+
+**Como estudar para a prova:** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
+
+**Como a FGV pode cobrar:** A banca cobra leitura de indicador e associação de tema atual ao Estado.
+
+**Cuidado de prova:** Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova.
+
+### Prioridades FGV dentro deste tema
+
+| Prioridade | Como transformar em treino |
+|---|---|
+| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+
+### Diferenças que a banca costuma trocar
+
+| Ponto | Cuidado principal | Forma provável de cobrança |
+|---|---|---|
+| Cultura paranaense: manifestações, patrimônio, festas, artes, literatura, música e tradições. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. | A banca cobra leitura de indicador e associação de tema atual ao Estado. |
+| Indicadores sociais e econômicos: IDH, segurança pública, saúde, educação, mobilidade e desenvolvimento regional. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. | A banca cobra leitura de indicador e associação de tema atual ao Estado. |
+| Governo estadual, políticas públicas, programas sociais e desafios contemporâneos. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. | A banca cobra leitura de indicador e associação de tema atual ao Estado. |
+| Temas atuais: segurança pública, economia, meio ambiente, inclusão social e sustentabilidade. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. | A banca cobra leitura de indicador e associação de tema atual ao Estado. |
+
+### Aplicação direta para Papiloscopista
+
+- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
+- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
+- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
+- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
+- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+
+### Roteiro de estudo de alta retenção
+
+1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
+2. Faça uma tabela de comparação entre conceitos parecidos do tema.
+3. Resolva questões ou exemplos sem consultar o gabarito.
+4. Explique em voz alta por que a alternativa errada parece tentadora.
+5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+
+### Lacunas honestas
+
+- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
+- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
 
 ## Tabelas e esquemas
 
-| Ponto do edital | Como revisar |
+| Ponto do edital | O que revisar | Pegadinha provável |
+|---|---|---|
+| Cultura paranaense: manifestações, patrimônio, festas, artes, literatura, música e tradições. | Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. |
+| Indicadores sociais e econômicos: IDH, segurança pública, saúde, educação, mobilidade e desenvolvimento regional. | Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. |
+| Governo estadual, políticas públicas, programas sociais e desafios contemporâneos. | Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. |
+| Temas atuais: segurança pública, economia, meio ambiente, inclusão social e sustentabilidade. | Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. |
+
+| Ponto quente | Treino recomendado |
 |---|---|
-| Cultura paranaense: manifestações, patrimônio, festas, artes, literatura, música e tradições. | Revise o conceito, a finalidade, a exceção e a forma como pode aparecer em alternativa. |
-| Indicadores sociais e econômicos: IDH, segurança pública, saúde, educação, mobilidade e desenvolvimento regional. | Revise o conceito, a finalidade, a exceção e a forma como pode aparecer em alternativa. |
-| Governo estadual, políticas públicas, programas sociais e desafios contemporâneos. | Revise o conceito, a finalidade, a exceção e a forma como pode aparecer em alternativa. |
-| Temas atuais: segurança pública, economia, meio ambiente, inclusão social e sustentabilidade. | Revise o conceito, a finalidade, a exceção e a forma como pode aparecer em alternativa. |
+| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
 
 | Filtro de prova | Pergunta mental |
 |---|---|
@@ -58,6 +157,10 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Realidad
 - Indicador trocado: IDH, IPDM, densidade, população e PIB não medem a mesma coisa.
 - Generalização do Paraná como se todas as regiões tivessem a mesma base econômica.
 - Confundir cultura popular, patrimônio material e patrimônio imaterial.
+- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
+- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
+- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
+- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
 - Alternativa que usa termo técnico correto em contexto errado.
 - Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
 
@@ -85,7 +188,7 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Realidad
 ## Referências
 
 ### Fontes oficiais
-- [Edital PCPR n.º 01/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/edital-01-2026-pcpr-publicacao.docx-1.pdf)
+- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
 - [IPARDES - indicadores e perfis municipais do Paraná](https://www.ipardes.pr.gov.br/)
 - [IBGE Cidades e Estados - Paraná](https://www.ibge.gov.br/cidades-e-estados/pr.html)
 

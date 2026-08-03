@@ -2,7 +2,7 @@
 
 ## Fonte-mãe
 
-O Edital PCPR n.º 01/2026 para Papiloscopista Policial é a fonte principal deste projeto. O menu lateral, a ordem de estudo e cada capítulo devem corresponder a item real do edital.
+O Edital PCPR n.º 01/2026, retificado em 31/07/2026, para Papiloscopista Policial é a fonte principal deste projeto. O menu lateral, a ordem de estudo e cada capítulo devem corresponder a item real do edital.
 
 ## Estilo
 

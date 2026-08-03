@@ -23,4 +23,4 @@ Banco em construção. Ainda não foi convertida uma questão local com enunciad
 
 ## Referências
 
-- Edital PCPR n.º 01/2026, Processo Penal 8.2.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026, Processo Penal 8.2.

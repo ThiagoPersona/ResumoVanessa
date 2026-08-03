@@ -13,33 +13,122 @@
 
 ## Leitura rápida
 
-- Formação territorial, processos coloniais, movimentos sociais e desenvolvimento histórico.
-- Geografia física e humana: relevo, clima, hidrografia, vegetação, população, densidade e economia.
-- Divisão político-administrativa: municípios e regiões de desenvolvimento.
-- Leia este tema procurando palavras de comando, exceções, classificações e aplicações práticas ao cargo.
-- Quando houver dado legal, normativo ou estatístico, confira a fonte oficial atual antes de gravar número, prazo ou redação.
+- **Formação territorial, processos coloniais, movimentos sociais e desenvolvimento histórico.** Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios.
+- **Geografia física e humana: relevo, clima, hidrografia, vegetação, população, densidade e economia.** Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios.
+- **Divisão político-administrativa: municípios e regiões de desenvolvimento.** Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios.
+- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
+- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
+- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
+- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
+- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
 
 ## Conteúdo essencial
 
-Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Realidade do Paraná 3.1-3.3**. O estudo deve começar pelo vocabulário central, avançar para diferenças cobradas em alternativa e terminar com resolução de questão.
+### Visão de estudo para este tema
 
-- O primeiro filtro é conceitual: saiba dizer o que é, para que serve, quando se aplica e qual erro comum a banca pode apresentar.
-- O segundo filtro é operacional: transforme o conceito em passo de prova, procedimento, classificação, cálculo, garantia ou consequência jurídica.
-- O terceiro filtro é de exceção: marque termos absolutos e veja se o edital ou a fonte oficial admite restrição.
+Realidade do Paraná exige uma visão organizada do Estado: formação histórica, território, população, economia, cultura, governo e desafios atuais. A prova não deve ser estudada como curiosidade turística, mas como repertório oficial sobre o espaço em que a Polícia Civil atua.
 
-### Microtópicos do edital
+Dados numéricos mudam. Por isso, o material deve usar IBGE, IPARDES e páginas oficiais quando tratar de população, indicadores, municípios, economia e políticas públicas. O que deve ficar memorizado é a lógica: regiões, processos históricos, eixos econômicos e problemas contemporâneos.
 
-- **Formação territorial, processos coloniais, movimentos sociais e desenvolvimento histórico.** Revise o conceito, a finalidade, a exceção e a forma como pode aparecer em alternativa.
-- **Geografia física e humana: relevo, clima, hidrografia, vegetação, população, densidade e economia.** Revise o conceito, a finalidade, a exceção e a forma como pode aparecer em alternativa.
-- **Divisão político-administrativa: municípios e regiões de desenvolvimento.** Revise o conceito, a finalidade, a exceção e a forma como pode aparecer em alternativa.
+A FGV costuma cobrar associação: determinado fenômeno pertence a qual região, qual indicador mede certo aspecto, qual tema é cultural, histórico, geográfico ou político-institucional.
+
+**Aplicação ao cargo:** O Papiloscopista atua em um Estado diverso, com interior, fronteira, regiões metropolitanas e realidades socioeconômicas distintas. A disciplina contextualiza essa atuação.
+
+**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
+
+### O que mais merece atenção
+
+- formação territorial e ocupação
+- geografia física e humana
+- municípios, regiões e dinâmica econômica
+- cultura e patrimônio
+- indicadores oficiais
+- segurança pública, meio ambiente e inclusão social
+
+### Conteúdo completo orientado ao edital
+
+### 1. Formação territorial, processos coloniais, movimentos sociais e desenvolvimento histórico.
+
+**O que significa:** O Paraná deve ser entendido pela formação territorial, ocupação, ciclos econômicos, fronteira, relevo, clima, hidrografia, vegetação, população e organização municipal/regional.
+
+**Como estudar para a prova:** Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios.
+
+**Como a FGV pode cobrar:** A banca cobra associação entre processo histórico, região, atividade econômica e característica geográfica.
+
+**Cuidado de prova:** Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes.
+
+### 2. Geografia física e humana: relevo, clima, hidrografia, vegetação, população, densidade e economia.
+
+**O que significa:** O Paraná deve ser entendido pela formação territorial, ocupação, ciclos econômicos, fronteira, relevo, clima, hidrografia, vegetação, população e organização municipal/regional.
+
+**Como estudar para a prova:** Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios.
+
+**Como a FGV pode cobrar:** A banca cobra associação entre processo histórico, região, atividade econômica e característica geográfica.
+
+**Cuidado de prova:** Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes.
+
+### 3. Divisão político-administrativa: municípios e regiões de desenvolvimento.
+
+**O que significa:** O Paraná deve ser entendido pela formação territorial, ocupação, ciclos econômicos, fronteira, relevo, clima, hidrografia, vegetação, população e organização municipal/regional.
+
+**Como estudar para a prova:** Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios.
+
+**Como a FGV pode cobrar:** A banca cobra associação entre processo histórico, região, atividade econômica e característica geográfica.
+
+**Cuidado de prova:** Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes.
+
+### Prioridades FGV dentro deste tema
+
+| Prioridade | Como transformar em treino |
+|---|---|
+| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+
+### Diferenças que a banca costuma trocar
+
+| Ponto | Cuidado principal | Forma provável de cobrança |
+|---|---|---|
+| Formação territorial, processos coloniais, movimentos sociais e desenvolvimento histórico. | Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes. | A banca cobra associação entre processo histórico, região, atividade econômica e característica geográfica. |
+| Geografia física e humana: relevo, clima, hidrografia, vegetação, população, densidade e economia. | Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes. | A banca cobra associação entre processo histórico, região, atividade econômica e característica geográfica. |
+| Divisão político-administrativa: municípios e regiões de desenvolvimento. | Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes. | A banca cobra associação entre processo histórico, região, atividade econômica e característica geográfica. |
+
+### Aplicação direta para Papiloscopista
+
+- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
+- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
+- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
+- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
+- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+
+### Roteiro de estudo de alta retenção
+
+1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
+2. Faça uma tabela de comparação entre conceitos parecidos do tema.
+3. Resolva questões ou exemplos sem consultar o gabarito.
+4. Explique em voz alta por que a alternativa errada parece tentadora.
+5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+
+### Lacunas honestas
+
+- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
+- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
 
 ## Tabelas e esquemas
 
-| Ponto do edital | Como revisar |
+| Ponto do edital | O que revisar | Pegadinha provável |
+|---|---|---|
+| Formação territorial, processos coloniais, movimentos sociais e desenvolvimento histórico. | Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios. | Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes. |
+| Geografia física e humana: relevo, clima, hidrografia, vegetação, população, densidade e economia. | Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios. | Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes. |
+| Divisão político-administrativa: municípios e regiões de desenvolvimento. | Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios. | Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes. |
+
+| Ponto quente | Treino recomendado |
 |---|---|
-| Formação territorial, processos coloniais, movimentos sociais e desenvolvimento histórico. | Revise o conceito, a finalidade, a exceção e a forma como pode aparecer em alternativa. |
-| Geografia física e humana: relevo, clima, hidrografia, vegetação, população, densidade e economia. | Revise o conceito, a finalidade, a exceção e a forma como pode aparecer em alternativa. |
-| Divisão político-administrativa: municípios e regiões de desenvolvimento. | Revise o conceito, a finalidade, a exceção e a forma como pode aparecer em alternativa. |
+| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
 
 | Filtro de prova | Pergunta mental |
 |---|---|
@@ -55,6 +144,10 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Realidad
 - Indicador trocado: IDH, IPDM, densidade, população e PIB não medem a mesma coisa.
 - Generalização do Paraná como se todas as regiões tivessem a mesma base econômica.
 - Confundir cultura popular, patrimônio material e patrimônio imaterial.
+- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
+- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
+- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
+- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
 - Alternativa que usa termo técnico correto em contexto errado.
 - Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
 
@@ -82,7 +175,7 @@ Este capítulo existe para cobrir, sem desvio, o recorte do edital em **Realidad
 ## Referências
 
 ### Fontes oficiais
-- [Edital PCPR n.º 01/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/edital-01-2026-pcpr-publicacao.docx-1.pdf)
+- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
 - [IPARDES - indicadores e perfis municipais do Paraná](https://www.ipardes.pr.gov.br/)
 - [IBGE Cidades e Estados - Paraná](https://www.ibge.gov.br/cidades-e-estados/pr.html)
 
