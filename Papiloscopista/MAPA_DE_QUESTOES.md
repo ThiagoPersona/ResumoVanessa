@@ -5,7 +5,7 @@
 O mapa abaixo separa duas coisas que não devem ser misturadas:
 
 - **Peso oficial do edital:** já está completo para Papiloscopista.
-- **Incidência de provas convertidas:** ainda é parcial; neste momento há 6 questões comentadas no tema de hardware/armazenamento.
+- **Banco FGV-style:** neste momento há 84 questões comentadas, com pelo menos uma por tema do edital.
 - **Validação por provas semelhantes:** já tem página própria para confrontar FGV Papiloscopista, FGV Perito/Polícia Civil e bancas próximas com os 61 temas.
 
 Isso evita inventar estatística de prova. À medida que os PDFs locais e oficiais forem convertidos, os totais por tema e a distribuição de alternativas devem ser atualizados aqui.
@@ -18,30 +18,30 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 
 | Disciplina | Questões no edital | Capítulos | Questões convertidas | Base |
 |---|---:|---:|---:|---|
-| Português | 25 | 6 | 0 | Conhecimentos Gerais, item 1 |
-| RLM | 5 | 4 | 0 | Conhecimentos Gerais, item 2 |
-| Realidade PR | 5 | 2 | 0 | Conhecimentos Gerais, item 3 |
-| Tecnologia | 15 | 6 | 6 | Conhecimentos Específicos, item 1 |
-| Ciências Forenses | 10 | 8 | 0 | Conhecimentos Específicos, item 2 |
-| Biologia | 10 | 4 | 0 | Conhecimentos Específicos, item 3 |
-| Física | 5 | 4 | 0 | Conhecimentos Específicos, item 4 |
-| Química | 5 | 5 | 0 | Conhecimentos Específicos, item 5 |
-| Legislação | 5 | 7 | 0 | Conhecimentos Específicos, item 6 |
-| Penal | 3 | 3 | 0 | Conhecimentos Específicos, item 7 |
-| Processo Penal | 3 | 3 | 0 | Conhecimentos Específicos, item 8 |
-| Constitucional | 3 | 3 | 0 | Conhecimentos Específicos, item 9 |
-| Administrativo | 3 | 3 | 0 | Conhecimentos Específicos, item 10 |
-| Direitos Humanos | 3 | 3 | 0 | Conhecimentos Específicos, item 11 |
+| Português | 25 | 6 | 6 | Conhecimentos Gerais, item 1 |
+| RLM | 5 | 4 | 4 | Conhecimentos Gerais, item 2 |
+| Realidade PR | 5 | 2 | 2 | Conhecimentos Gerais, item 3 |
+| Tecnologia | 15 | 6 | 16 | Conhecimentos Específicos, item 1 |
+| Ciências Forenses | 10 | 8 | 11 | Conhecimentos Específicos, item 2 |
+| Biologia | 10 | 4 | 6 | Conhecimentos Específicos, item 3 |
+| Física | 5 | 4 | 6 | Conhecimentos Específicos, item 4 |
+| Química | 5 | 5 | 8 | Conhecimentos Específicos, item 5 |
+| Legislação | 5 | 7 | 7 | Conhecimentos Específicos, item 6 |
+| Penal | 3 | 3 | 4 | Conhecimentos Específicos, item 7 |
+| Processo Penal | 3 | 3 | 5 | Conhecimentos Específicos, item 8 |
+| Constitucional | 3 | 3 | 3 | Conhecimentos Específicos, item 9 |
+| Administrativo | 3 | 3 | 3 | Conhecimentos Específicos, item 10 |
+| Direitos Humanos | 3 | 3 | 3 | Conhecimentos Específicos, item 11 |
 
 ## Distribuição de letras já convertidas
 
 | Letra | Quantidade |
 |---|---:|
-| A | 0 |
-| B | 1 |
-| C | 4 |
-| D | 1 |
-| E | 0 |
+| A | 17 |
+| B | 17 |
+| C | 17 |
+| D | 17 |
+| E | 16 |
 
 ## Temas mais importantes pela prova
 
@@ -55,67 +55,67 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 
 | ID | Disciplina | Tema | Edital | Prioridade | Questões convertidas |
 |---:|---|---|---|---|---:|
-| 001 | Português | Interpretação e compreensão de texto | Língua Portuguesa 1.1 | altíssima | 0 |
-| 002 | Português | Organização textual, coesão e coerência | Língua Portuguesa 1.2-1.3 | altíssima | 0 |
-| 003 | Português | Modos discursivos, tipos textuais e textos literários | Língua Portuguesa 1.4-1.6 | alta | 0 |
-| 004 | Português | Frase, sintaxe, discurso e pontuação | Língua Portuguesa 1.7-1.17 | altíssima | 0 |
-| 005 | Português | Morfologia e classes de palavras | Língua Portuguesa 1.18-1.20 | alta | 0 |
-| 006 | Português | Semântica, vocabulário, ortografia, acentuação e crase | Língua Portuguesa 1.21-1.26 | altíssima | 0 |
-| 007 | RLM | Lógica proposicional e conjuntos | RLM 2.1-2.2 | alta | 0 |
-| 008 | RLM | Números, porcentagem, juros, proporcionalidade e medidas | RLM 2.3-2.5 | alta | 0 |
-| 009 | RLM | Geometria, plano cartesiano, gráficos e tabelas | RLM 2.8, 2.11-2.12 | média | 0 |
-| 010 | RLM | Problemas lógicos, contagem, probabilidade e sequências | RLM 2.6-2.7, 2.9-2.10, 2.13 | alta | 0 |
-| 011 | Realidade PR | História, geografia e organização territorial do Paraná | Realidade do Paraná 3.1-3.3 | média | 0 |
-| 012 | Realidade PR | Cultura, indicadores, economia, políticas públicas e atualidades | Realidade do Paraná 3.4-3.7 | média | 0 |
-| 013 | Tecnologia | Hardware, software, periféricos e armazenamento | Tecnologia 1.1 | altíssima | 6 |
-| 014 | Tecnologia | Sistemas operacionais, aplicativos e dispositivos móveis | Tecnologia 1.2 | alta | 0 |
-| 015 | Tecnologia | Internet, redes, nuvem, web, bancos e APIs | Tecnologia 1.3 | altíssima | 0 |
-| 016 | Tecnologia | Segurança da informação, malware, phishing e backup | Tecnologia 1.4 | altíssima | 0 |
-| 017 | Tecnologia | Crimes digitais, evidências eletrônicas e OSINT | Tecnologia 1.5 | alta | 0 |
-| 018 | Tecnologia | Legislação e ética digital | Tecnologia 1.6 | alta | 0 |
-| 019 | Ciências Forenses | Medicina legal, identificação humana e papiloscopia | Ciências Forenses 2.1 | altíssima | 0 |
-| 020 | Ciências Forenses | Antropologia, odontologia legal, DNA, reconhecimento facial e IA | Ciências Forenses 2.1 | alta | 0 |
-| 021 | Ciências Forenses | Sexologia, traumatologia, asfixiologia e balística | Ciências Forenses 2.1 | alta | 0 |
-| 022 | Ciências Forenses | Tanatologia, necropsia, toxicologia e psicopatologia | Ciências Forenses 2.1 | alta | 0 |
-| 023 | Ciências Forenses | Criminalística, local de crime e cadeia de custódia | Ciências Forenses 2.2 | altíssima | 0 |
-| 024 | Ciências Forenses | Documentoscopia, grafoscopia e falsificações | Ciências Forenses 2.2 | alta | 0 |
-| 025 | Ciências Forenses | Criminologia, vitimologia e controle social | Ciências Forenses 2.3 | alta | 0 |
-| 026 | Ciências Forenses | Criminologia digital e investigação tecnológica | Ciências Forenses 2.4 | alta | 0 |
-| 027 | Biologia | Citologia | Biologia 3.1 | alta | 0 |
-| 028 | Biologia | Genética | Biologia 3.2 | altíssima | 0 |
-| 029 | Biologia | Embriologia e cristas papilares | Biologia 3.3 | altíssima | 0 |
-| 030 | Biologia | Biologia da identificação humana e biometria | Biologia 3.4 | altíssima | 0 |
-| 031 | Física | Óptica e formação de imagens | Física 4.1 | alta | 0 |
-| 032 | Física | UV, fluorescência, ondas e eletromagnetismo | Física 4.1-4.2 | alta | 0 |
-| 033 | Física | Eletricidade e circuitos simples | Física 4.3 | média | 0 |
-| 034 | Física | Física da captura de imagens, biometria e equipamentos | Física 4.4 | alta | 0 |
-| 035 | Química | Estrutura da matéria, tabela periódica e ligações | Química 5.1 | média | 0 |
-| 036 | Química | Misturas, soluções, separação e concentração | Química 5.2 | alta | 0 |
-| 037 | Química | Reações, balanceamento, velocidade e equilíbrio | Química 5.3 | média | 0 |
-| 038 | Química | Funções químicas e química orgânica | Química 5.4 | alta | 0 |
-| 039 | Química | Química da identificação, reagentes e fluorescência | Química 5.5 | altíssima | 0 |
-| 040 | Legislação | Constituição do Paraná: administração, servidores, segurança e Polícia Civil | Legislação 6.1 | alta | 0 |
-| 041 | Legislação | LC 259/2023: carreiras da PCPR | Legislação 6.2 | altíssima | 0 |
-| 042 | Legislação | Lei 14.735/2023: Lei Orgânica Nacional das Polícias Civis | Legislação 6.3 | altíssima | 0 |
-| 043 | Legislação | Lei 23.213/2026: Lei Orgânica da PCPR | Legislação 6.4 | altíssima | 0 |
-| 044 | Legislação | Lei 21.894/2024: Código Disciplinar da PCPR | Legislação 6.5 | alta | 0 |
-| 045 | Legislação | Lei 6.174/1970: regime jurídico dos servidores do Paraná | Legislação 6.6 | alta | 0 |
-| 046 | Legislação | Abuso de autoridade, identificação criminal, LGPD, LAI e sigilo | Legislação 6.7 | altíssima | 0 |
-| 047 | Penal | Princípios, teoria do crime, penas e extinção da punibilidade | Penal 7.1 | alta | 0 |
-| 048 | Penal | Crimes contra pessoa, patrimônio, dignidade sexual, fé pública e Administração | Penal 7.2 | alta | 0 |
-| 049 | Penal | Legislação penal extravagante e atividade policial | Penal 7.3-7.4 | altíssima | 0 |
-| 050 | Processo Penal | Princípios, inquérito, ação penal e direitos do investigado | Processo Penal 8.1 | alta | 0 |
-| 051 | Processo Penal | Provas, cadeia de custódia, busca e reconhecimento | Processo Penal 8.2 | altíssima | 0 |
-| 052 | Processo Penal | Prisões, cautelares e leis processuais extravagantes | Processo Penal 8.3-8.4 | alta | 0 |
-| 053 | Constitucional | Princípios, direitos, garantias e remédios constitucionais | Constitucional 8.1-8.3 | altíssima | 0 |
-| 054 | Constitucional | Organização do Estado, Poderes e segurança pública | Constitucional 8.4-8.6 | altíssima | 0 |
-| 055 | Constitucional | Controle de constitucionalidade e Constituição do Paraná | Constitucional 8.7-8.8 | alta | 0 |
-| 056 | Administrativo | Conceito, fontes, princípios e Administração Pública | Administrativo 9.1-9.2 | alta | 0 |
-| 057 | Administrativo | Atos, poderes, serviços, licitações e contratos | Administrativo 9.3-9.6 | altíssima | 0 |
-| 058 | Administrativo | Agentes, responsabilidade, improbidade e controle | Administrativo 9.7-9.10 | alta | 0 |
-| 059 | Direitos Humanos | Teoria, sistemas de proteção e democracia | Direitos Humanos 10.1-10.3 | alta | 0 |
-| 060 | Direitos Humanos | Grupos vulneráveis, segurança pública e atuação policial | Direitos Humanos 10.4-10.5 | altíssima | 0 |
-| 061 | Direitos Humanos | PNDH, educação em direitos humanos e Agenda 2030 | Direitos Humanos 10.6-10.7 | média | 0 |
+| 001 | Português | Interpretação e compreensão de texto | Língua Portuguesa 1.1 | altíssima | 1 |
+| 002 | Português | Organização textual, coesão e coerência | Língua Portuguesa 1.2-1.3 | altíssima | 1 |
+| 003 | Português | Modos discursivos, tipos textuais e textos literários | Língua Portuguesa 1.4-1.6 | alta | 1 |
+| 004 | Português | Frase, sintaxe, discurso e pontuação | Língua Portuguesa 1.7-1.17 | altíssima | 1 |
+| 005 | Português | Morfologia e classes de palavras | Língua Portuguesa 1.18-1.20 | alta | 1 |
+| 006 | Português | Semântica, vocabulário, ortografia, acentuação e crase | Língua Portuguesa 1.21-1.26 | altíssima | 1 |
+| 007 | RLM | Lógica proposicional e conjuntos | RLM 2.1-2.2 | alta | 1 |
+| 008 | RLM | Números, porcentagem, juros, proporcionalidade e medidas | RLM 2.3-2.5 | alta | 1 |
+| 009 | RLM | Geometria, plano cartesiano, gráficos e tabelas | RLM 2.8, 2.11-2.12 | média | 1 |
+| 010 | RLM | Problemas lógicos, contagem, probabilidade e sequências | RLM 2.6-2.7, 2.9-2.10, 2.13 | alta | 1 |
+| 011 | Realidade PR | História, geografia e organização territorial do Paraná | Realidade do Paraná 3.1-3.3 | média | 1 |
+| 012 | Realidade PR | Cultura, indicadores, economia, políticas públicas e atualidades | Realidade do Paraná 3.4-3.7 | média | 1 |
+| 013 | Tecnologia | Hardware, software, periféricos e armazenamento | Tecnologia 1.1 | altíssima | 7 |
+| 014 | Tecnologia | Sistemas operacionais, aplicativos e dispositivos móveis | Tecnologia 1.2 | alta | 2 |
+| 015 | Tecnologia | Internet, redes, nuvem, web, bancos e APIs | Tecnologia 1.3 | altíssima | 2 |
+| 016 | Tecnologia | Segurança da informação, malware, phishing e backup | Tecnologia 1.4 | altíssima | 2 |
+| 017 | Tecnologia | Crimes digitais, evidências eletrônicas e OSINT | Tecnologia 1.5 | alta | 2 |
+| 018 | Tecnologia | Legislação e ética digital | Tecnologia 1.6 | alta | 1 |
+| 019 | Ciências Forenses | Medicina legal, identificação humana e papiloscopia | Ciências Forenses 2.1 | altíssima | 2 |
+| 020 | Ciências Forenses | Antropologia, odontologia legal, DNA, reconhecimento facial e IA | Ciências Forenses 2.1 | alta | 1 |
+| 021 | Ciências Forenses | Sexologia, traumatologia, asfixiologia e balística | Ciências Forenses 2.1 | alta | 1 |
+| 022 | Ciências Forenses | Tanatologia, necropsia, toxicologia e psicopatologia | Ciências Forenses 2.1 | alta | 1 |
+| 023 | Ciências Forenses | Criminalística, local de crime e cadeia de custódia | Ciências Forenses 2.2 | altíssima | 2 |
+| 024 | Ciências Forenses | Documentoscopia, grafoscopia e falsificações | Ciências Forenses 2.2 | alta | 1 |
+| 025 | Ciências Forenses | Criminologia, vitimologia e controle social | Ciências Forenses 2.3 | alta | 2 |
+| 026 | Ciências Forenses | Criminologia digital e investigação tecnológica | Ciências Forenses 2.4 | alta | 1 |
+| 027 | Biologia | Citologia | Biologia 3.1 | alta | 1 |
+| 028 | Biologia | Genética | Biologia 3.2 | altíssima | 2 |
+| 029 | Biologia | Embriologia e cristas papilares | Biologia 3.3 | altíssima | 1 |
+| 030 | Biologia | Biologia da identificação humana e biometria | Biologia 3.4 | altíssima | 2 |
+| 031 | Física | Óptica e formação de imagens | Física 4.1 | alta | 2 |
+| 032 | Física | UV, fluorescência, ondas e eletromagnetismo | Física 4.1-4.2 | alta | 2 |
+| 033 | Física | Eletricidade e circuitos simples | Física 4.3 | média | 1 |
+| 034 | Física | Física da captura de imagens, biometria e equipamentos | Física 4.4 | alta | 1 |
+| 035 | Química | Estrutura da matéria, tabela periódica e ligações | Química 5.1 | média | 1 |
+| 036 | Química | Misturas, soluções, separação e concentração | Química 5.2 | alta | 2 |
+| 037 | Química | Reações, balanceamento, velocidade e equilíbrio | Química 5.3 | média | 2 |
+| 038 | Química | Funções químicas e química orgânica | Química 5.4 | alta | 1 |
+| 039 | Química | Química da identificação, reagentes e fluorescência | Química 5.5 | altíssima | 2 |
+| 040 | Legislação | Constituição do Paraná: administração, servidores, segurança e Polícia Civil | Legislação 6.1 | alta | 1 |
+| 041 | Legislação | LC 259/2023: carreiras da PCPR | Legislação 6.2 | altíssima | 1 |
+| 042 | Legislação | Lei 14.735/2023: Lei Orgânica Nacional das Polícias Civis | Legislação 6.3 | altíssima | 1 |
+| 043 | Legislação | Lei 23.213/2026: Lei Orgânica da PCPR | Legislação 6.4 | altíssima | 1 |
+| 044 | Legislação | Lei 21.894/2024: Código Disciplinar da PCPR | Legislação 6.5 | alta | 1 |
+| 045 | Legislação | Lei 6.174/1970: regime jurídico dos servidores do Paraná | Legislação 6.6 | alta | 1 |
+| 046 | Legislação | Abuso de autoridade, identificação criminal, LGPD, LAI e sigilo | Legislação 6.7 | altíssima | 1 |
+| 047 | Penal | Princípios, teoria do crime, penas e extinção da punibilidade | Penal 7.1 | alta | 2 |
+| 048 | Penal | Crimes contra pessoa, patrimônio, dignidade sexual, fé pública e Administração | Penal 7.2 | alta | 1 |
+| 049 | Penal | Legislação penal extravagante e atividade policial | Penal 7.3-7.4 | altíssima | 1 |
+| 050 | Processo Penal | Princípios, inquérito, ação penal e direitos do investigado | Processo Penal 8.1 | alta | 2 |
+| 051 | Processo Penal | Provas, cadeia de custódia, busca e reconhecimento | Processo Penal 8.2 | altíssima | 2 |
+| 052 | Processo Penal | Prisões, cautelares e leis processuais extravagantes | Processo Penal 8.3-8.4 | alta | 1 |
+| 053 | Constitucional | Princípios, direitos, garantias e remédios constitucionais | Constitucional 8.1-8.3 | altíssima | 1 |
+| 054 | Constitucional | Organização do Estado, Poderes e segurança pública | Constitucional 8.4-8.6 | altíssima | 1 |
+| 055 | Constitucional | Controle de constitucionalidade e Constituição do Paraná | Constitucional 8.7-8.8 | alta | 1 |
+| 056 | Administrativo | Conceito, fontes, princípios e Administração Pública | Administrativo 9.1-9.2 | alta | 1 |
+| 057 | Administrativo | Atos, poderes, serviços, licitações e contratos | Administrativo 9.3-9.6 | altíssima | 1 |
+| 058 | Administrativo | Agentes, responsabilidade, improbidade e controle | Administrativo 9.7-9.10 | alta | 1 |
+| 059 | Direitos Humanos | Teoria, sistemas de proteção e democracia | Direitos Humanos 10.1-10.3 | alta | 1 |
+| 060 | Direitos Humanos | Grupos vulneráveis, segurança pública e atuação policial | Direitos Humanos 10.4-10.5 | altíssima | 1 |
+| 061 | Direitos Humanos | PNDH, educação em direitos humanos e Agenda 2030 | Direitos Humanos 10.6-10.7 | média | 1 |
 
 ## Pegadinhas recorrentes esperadas da FGV
 
@@ -128,9 +128,10 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 
 ## Pontos que ainda precisam de conversão de prova
 
-- Português: questões FGV por interpretação, reescritura, pontuação, classes e crase.
-- Ciências Forenses: criminalística, cadeia de custódia, papiloscopia, criminologia e vitimologia.
-- Biologia, Física e Química: questões aplicadas ao cargo.
+- Converter questões oficiais FGV da SEAD/AP 2022 Papiloscopista para os bancos já criados.
+- Ampliar Português com bateria FGV por interpretação, reescritura, pontuação, classes e crase.
+- Ampliar Ciências Forenses com criminalística, cadeia de custódia, papiloscopia, criminologia e vitimologia.
+- Ampliar Biologia, Física e Química com questões aplicadas ao cargo e cálculo guiado.
 - Legislação institucional: questões após conferência da lei seca atualizada.
 
 ## Estratégia de prova

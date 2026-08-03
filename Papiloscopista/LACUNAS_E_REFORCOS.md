@@ -8,8 +8,8 @@
 |---|---|
 | Conteúdo do edital | Os 61 temas já existem e seguem o edital. |
 | Validação por provas | A prova FGV SEAD/AP Papiloscopista e provas FGV policiais/periciais confirmam a maior parte dos blocos. |
-| Banco interativo | Ainda precisa ser preenchido de forma massiva e por tema. |
-| Risco principal | A estudante ler bastante, mas treinar pouco o padrão FGV por alternativa. |
+| Banco interativo | A primeira bateria tem 84 questões FGV-style, cobrindo todos os temas. |
+| Risco principal | A próxima fragilidade é pouco volume de questões oficiais FGV convertidas e comentadas por alternativa. |
 
 ## Ordem recomendada de reforço
 
@@ -83,12 +83,11 @@ Antes de converter uma questão para `provas/`, registrar:
 
 ## Fila imediata
 
-1. **Tecnologia 014/015:** converter FGV SEAD/AP questões 11-15 e PCAM/PCPI questões similares.
-2. **Penal/Processo Penal 047-051:** converter FGV SEAD/AP questões 16-29.
-3. **Biologia 027-030:** converter FGV SEAD/AP questões 31-40.
-4. **Física 031-034:** converter FGV SEAD/AP questões 41-50 com resolução guiada.
-5. **Química 035-039:** converter FGV SEAD/AP questões 51-60.
-6. **Ciências Forenses 019/022/023:** converter questões de perícia, corpo de delito, indício, cronotanatognose e vestígio.
-7. **Português 001-006:** criar bateria por microtema a partir de FGV policial/pericial.
-8. **Legislação/Realidade:** criar questões autorais oficiais, porque prova antiga de outro Estado não valida o conteúdo local.
-
+1. **Tecnologia 014/015:** acrescentar questões oficiais FGV SEAD/AP 11-15 e PCAM/PCPI similares.
+2. **Penal/Processo Penal 047-051:** converter FGV SEAD/AP 16-29.
+3. **Biologia 027-030:** converter FGV SEAD/AP 31-40.
+4. **Física 031-034:** converter FGV SEAD/AP 41-50 com resolução guiada.
+5. **Química 035-039:** converter FGV SEAD/AP 51-60.
+6. **Ciências Forenses 019/022/023:** acrescentar questões oficiais de perícia, corpo de delito, indício, cronotanatognose e vestígio.
+7. **Português 001-006:** ampliar bateria por microtema a partir de FGV policial/pericial.
+8. **Legislação/Realidade:** ampliar questões autorais oficiais, porque prova antiga de outro Estado não valida o conteúdo local.

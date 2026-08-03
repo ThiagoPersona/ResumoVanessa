@@ -2,27 +2,43 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 0 questões.
+**Itens neste banco:** 1 questão.
 
-## Status
+## Foco FGV
 
-Banco em construção. Ainda não foi convertida uma questão local com enunciado e gabarito suficientemente conferidos para este tema.
+Estas questões são autorais e calibradas pelo padrão observado em provas FGV policiais/periciais, especialmente SEAD/AP 2022 Papiloscopista, PCPI 2025, PCMG 2024, PCAM 2021, PCRJ 2021 e PCRN 2020. A finalidade é treinar o raciocínio que a banca costuma exigir, sem copiar caderno oficial inteiro.
 
-## Como este arquivo será preenchido
+## Fontes de padrão
 
-- Usar apenas prova pública, simulado local ou lista local com fonte identificável.
-- Preservar o gabarito oficial ou o gabarito do PDF local quando ele estiver claro.
-- Separar questão FGV de questão de apoio.
-- Não atribuir questão autoral à FGV.
-- Comentar cada alternativa, sem justificativa genérica.
+- Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais
 
-## Fontes em fila de extração
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
+<p><strong>1. Lesão produzida por projétil de arma de fogo deve ser analisada considerando, entre outros elementos:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-021" value="A"> A. trajetória, distância aproximada, orifícios, resíduos e compatibilidade com arma/munição.</label>
+<label class="quiz-option"><input type="radio" name="fgv-021" value="B"> B. apenas a vontade declarada da vítima.</label>
+<label class="quiz-option"><input type="radio" name="fgv-021" value="C"> C. somente o calibre informado por testemunha.</label>
+<label class="quiz-option"><input type="radio" name="fgv-021" value="D"> D. apenas a cor da roupa.</label>
+<label class="quiz-option"><input type="radio" name="fgv-021" value="E"> E. exclusivamente o número de fotografias anexadas.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Questão autoral no padrão FGV; não é reprodução literal de caderno oficial.</p>
+<p><strong>Como pensar:</strong> Balística e traumatologia exigem mecanismo, vestígios e compatibilidade.</p>
+<p><strong>Por que a alternativa correta está certa:</strong> Reúne elementos periciais relevantes para interpretar disparo.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Correta. A análise cruza sinais lesionais e vestígios balísticos.</li>
+<li><strong>B.</strong> Incorreta. Declaração não substitui exame pericial.</li>
+<li><strong>C.</strong> Incorreta. Testemunho sobre calibre não basta.</li>
+<li><strong>D.</strong> Incorreta. Roupa pode ser relevante, mas não isoladamente.</li>
+<li><strong>E.</strong> Incorreta. Quantidade de fotos não substitui conteúdo técnico.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Reduzir balística a uma informação isolada.</p>
+</div>
+</div>
 
-- `Curso Alfacon/Medicina legal.pdf`
-- `Questões FGV/Questoes Criminalistica.pdf`
-- `Questões FGV/Questoes Criminologia.pdf`
-- `Questões FGV/Questoes Crime.pdf`
+## Próxima ampliação
 
-## Referências
-
-- Edital PCPR n.º 01/2026, retificado em 31/07/2026, Ciências Forenses 2.1.
+- Inserir questões oficiais FGV quando o enunciado, imagens e gabarito estiverem conferidos.
+- Adicionar questões semelhantes de PF/Cebraspe, AOCP e IBFC apenas quando preencherem lacuna técnica do tema.

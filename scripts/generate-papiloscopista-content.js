@@ -8,6 +8,11 @@ const {
   getAllChapters,
   officialReferences
 } = require("../Papiloscopista/content-manifest");
+const {
+  fgvQuestionBank,
+  getAnswerDistribution,
+  getQuestionsForChapter
+} = require("../Papiloscopista/question-bank-fgv");
 
 const root = path.resolve(__dirname, "..");
 const papiloRoot = path.join(root, "Papiloscopista");
@@ -266,8 +271,26 @@ function mdLink(pathFromPapilo) {
   return pathFromPapilo.replace(/\\/g, "/");
 }
 
+function escapeHtml(value) {
+  return String(value || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
 function humanTitle(value) {
   return value.replace(/\s+/g, " ").trim();
+}
+
+function questionCountText(count) {
+  return count === 1 ? "1 questão" : `${count} questões`;
+}
+
+function cleanCorrectExplanation(value) {
+  const text = String(value || "").replace(/^A alternativa [A-E] está certa porque\s+/i, "");
+  return text ? `${text.charAt(0).toUpperCase()}${text.slice(1)}` : text;
 }
 
 function itemAction(item, groupId) {
@@ -1448,6 +1471,64 @@ ${[...new Set([...(chapter.groupLocalSources || []), ...(chapter.localSources ||
 `;
 }
 
+function buildQuestionCard(question, index) {
+  const letters = ["A", "B", "C", "D", "E"];
+  const options = letters.map((letter) => (
+    `<label class="quiz-option"><input type="radio" name="${escapeHtml(question.id)}" value="${letter}"> ${letter}. ${escapeHtml(question.options[letter])}</label>`
+  ));
+  const explanations = letters.map((letter) => (
+    `<li><strong>${letter}.</strong> ${escapeHtml(question.explanations[letter])}</li>`
+  ));
+
+  return `<div class="quiz-card" data-answer="${escapeHtml(question.answer)}">
+<p class="quiz-source">${escapeHtml(question.source)}</p>
+<p><strong>${index + 1}. ${escapeHtml(question.prompt)}</strong></p>
+<div class="quiz-options">
+${options.join("\n")}
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: ${escapeHtml(question.answer)}.</strong> Questão autoral no padrão FGV; não é reprodução literal de caderno oficial.</p>
+<p><strong>Como pensar:</strong> ${escapeHtml(question.thinking)}</p>
+<p><strong>Por que a alternativa correta está certa:</strong> ${escapeHtml(cleanCorrectExplanation(question.correct))}</p>
+<ul class="quiz-explain">
+${explanations.join("\n")}
+</ul>
+<p><strong>Pegadinha principal:</strong> ${escapeHtml(question.trap)}</p>
+</div>
+</div>`;
+}
+
+function buildQuestionBankMarkdown(chapter, questions) {
+  if (!questions.length) return buildEmptyQuestionsMarkdown(chapter);
+
+  const cards = questions.map((question, index) => buildQuestionCard(question, index));
+  const sourceRows = [...new Set(questions.map((question) => question.source))]
+    .map((source) => `- ${source}`);
+
+  return `# Questões - ${humanTitle(chapter.title)}
+
+> Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
+
+**Itens neste banco:** ${questionCountText(questions.length)}.
+
+## Foco FGV
+
+Estas questões são autorais e calibradas pelo padrão observado em provas FGV policiais/periciais, especialmente SEAD/AP 2022 Papiloscopista, PCPI 2025, PCMG 2024, PCAM 2021, PCRJ 2021 e PCRN 2020. A finalidade é treinar o raciocínio que a banca costuma exigir, sem copiar caderno oficial inteiro.
+
+## Fontes de padrão
+
+${sourceRows.join("\n")}
+
+${cards.join("\n\n")}
+
+## Próxima ampliação
+
+- Inserir questões oficiais FGV quando o enunciado, imagens e gabarito estiverem conferidos.
+- Adicionar questões semelhantes de PF/Cebraspe, AOCP e IBFC apenas quando preencherem lacuna técnica do tema.
+`;
+}
+
 function buildLeituraOficial() {
   const rows = getAllChapters().map((chapter, index) => (
     `| ${index + 1} | ${chapter.groupShortTitle} | [${chapter.title}](${mdLink(chapter.themePath)}) | ${chapter.editalMapping} | ${chapter.priority} | [Questões](${mdLink(chapter.questionPath)}) |`
@@ -1501,7 +1582,7 @@ function buildProvasIndex() {
 
   return `# Provas E Questões Por Tema
 
-Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas questões já foram convertidas para o leitor interativo; temas com total zero estão prontos para receber questões assim que a fonte local e o gabarito forem conferidos.
+Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas questões FGV-style já foram geradas para o leitor interativo. Questões oficiais FGV serão adicionadas em seguida, preservando fonte e gabarito conferido.
 
 | Disciplina | Tema | Edital | Total | Status | Abrir |
 |---|---|---|---:|---|---|
@@ -1517,6 +1598,8 @@ ${rows.join("\n")}
 }
 
 function buildMapaQuestoes() {
+  const answerDistribution = getAnswerDistribution();
+  const totalConverted = fgvQuestionBank.length;
   const groupRows = chapterGroups.map((group) => {
     const converted = group.chapters.reduce((sum, chapter) => sum + (chapter.convertedQuestions || 0), 0);
     return `| ${group.shortTitle} | ${group.weight} | ${group.chapters.length} | ${converted} | ${group.editalBlock} |`;
@@ -1533,7 +1616,7 @@ function buildMapaQuestoes() {
 O mapa abaixo separa duas coisas que não devem ser misturadas:
 
 - **Peso oficial do edital:** já está completo para Papiloscopista.
-- **Incidência de provas convertidas:** ainda é parcial; neste momento há 6 questões comentadas no tema de hardware/armazenamento.
+- **Banco FGV-style:** neste momento há ${totalConverted} questões comentadas, com pelo menos uma por tema do edital.
 - **Validação por provas semelhantes:** já tem página própria para confrontar FGV Papiloscopista, FGV Perito/Polícia Civil e bancas próximas com os 61 temas.
 
 Isso evita inventar estatística de prova. À medida que os PDFs locais e oficiais forem convertidos, os totais por tema e a distribuição de alternativas devem ser atualizados aqui.
@@ -1552,11 +1635,11 @@ ${groupRows.join("\n")}
 
 | Letra | Quantidade |
 |---|---:|
-| A | 0 |
-| B | 1 |
-| C | 4 |
-| D | 1 |
-| E | 0 |
+| A | ${answerDistribution.A || 0} |
+| B | ${answerDistribution.B || 0} |
+| C | ${answerDistribution.C || 0} |
+| D | ${answerDistribution.D || 0} |
+| E | ${answerDistribution.E || 0} |
 
 ## Temas mais importantes pela prova
 
@@ -1583,9 +1666,10 @@ ${chapterRows.join("\n")}
 
 ## Pontos que ainda precisam de conversão de prova
 
-- Português: questões FGV por interpretação, reescritura, pontuação, classes e crase.
-- Ciências Forenses: criminalística, cadeia de custódia, papiloscopia, criminologia e vitimologia.
-- Biologia, Física e Química: questões aplicadas ao cargo.
+- Converter questões oficiais FGV da SEAD/AP 2022 Papiloscopista para os bancos já criados.
+- Ampliar Português com bateria FGV por interpretação, reescritura, pontuação, classes e crase.
+- Ampliar Ciências Forenses com criminalística, cadeia de custódia, papiloscopia, criminologia e vitimologia.
+- Ampliar Biologia, Física e Química com questões aplicadas ao cargo e cálculo guiado.
 - Legislação institucional: questões após conferência da lei seca atualizada.
 
 ## Estratégia de prova
@@ -1780,8 +1864,7 @@ function main() {
 
   for (const chapter of getAllChapters()) {
     write(path.join(papiloRoot, chapter.themePath), buildThemeMarkdown(chapter));
-    const questionContent = chapter.id === "013" ? migratePilotQuestions(chapter) : null;
-    write(path.join(papiloRoot, chapter.questionPath), questionContent || buildEmptyQuestionsMarkdown(chapter));
+    write(path.join(papiloRoot, chapter.questionPath), buildQuestionBankMarkdown(chapter, getQuestionsForChapter(chapter.id)));
   }
 
   writeCompatibilityFiles();

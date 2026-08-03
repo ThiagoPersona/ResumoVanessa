@@ -2,27 +2,43 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 0 questões.
+**Itens neste banco:** 1 questão.
 
-## Status
+## Foco FGV
 
-Banco em construção. Ainda não foi convertida uma questão local com enunciado e gabarito suficientemente conferidos para este tema.
+Estas questões são autorais e calibradas pelo padrão observado em provas FGV policiais/periciais, especialmente SEAD/AP 2022 Papiloscopista, PCPI 2025, PCMG 2024, PCAM 2021, PCRJ 2021 e PCRN 2020. A finalidade é treinar o raciocínio que a banca costuma exigir, sem copiar caderno oficial inteiro.
 
-## Como este arquivo será preenchido
+## Fontes de padrão
 
-- Usar apenas prova pública, simulado local ou lista local com fonte identificável.
-- Preservar o gabarito oficial ou o gabarito do PDF local quando ele estiver claro.
-- Separar questão FGV de questão de apoio.
-- Não atribuir questão autoral à FGV.
-- Comentar cada alternativa, sem justificativa genérica.
+- Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais
 
-## Fontes em fila de extração
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
+<p><strong>1. No trecho &#39;O perito recolheu o vestígio e o encaminhou ao laboratório&#39;, o pronome &#39;o&#39; retoma:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-002" value="A"> A. o perito.</label>
+<label class="quiz-option"><input type="radio" name="fgv-002" value="B"> B. o vestígio.</label>
+<label class="quiz-option"><input type="radio" name="fgv-002" value="C"> C. o laboratório.</label>
+<label class="quiz-option"><input type="radio" name="fgv-002" value="D"> D. o recolhimento.</label>
+<label class="quiz-option"><input type="radio" name="fgv-002" value="E"> E. o encaminhamento.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral no padrão FGV; não é reprodução literal de caderno oficial.</p>
+<p><strong>Como pensar:</strong> Em coesão referencial, volte ao antecedente compatível em gênero, número e sentido.</p>
+<p><strong>Por que a alternativa correta está certa:</strong> &#39;o&#39; retoma o termo masculino singular que pode ser encaminhado ao laboratório: vestígio.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> Incorreta. O perito é quem pratica a ação; não é encaminhado ao laboratório.</li>
+<li><strong>B.</strong> Correta. O pronome retoma &#39;vestígio&#39;.</li>
+<li><strong>C.</strong> Incorreta. Laboratório é destino, não objeto retomado.</li>
+<li><strong>D.</strong> Incorreta. Recolhimento é ação abstrata e não aparece como antecedente direto.</li>
+<li><strong>E.</strong> Incorreta. Encaminhamento é a ação verbal, não o objeto.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Escolher o substantivo mais próximo sem testar o sentido.</p>
+</div>
+</div>
 
-- `Curso de Portugues/Manual de Lingua Portuguesa.pdf`
-- `Curso de Portugues/Uso da virgula.pdf`
-- `Curso de Portugues/Crase.pdf`
-- `Materiais QB/Portugues/`
+## Próxima ampliação
 
-## Referências
-
-- Edital PCPR n.º 01/2026, retificado em 31/07/2026, Língua Portuguesa 1.2-1.3.
+- Inserir questões oficiais FGV quando o enunciado, imagens e gabarito estiverem conferidos.
+- Adicionar questões semelhantes de PF/Cebraspe, AOCP e IBFC apenas quando preencherem lacuna técnica do tema.

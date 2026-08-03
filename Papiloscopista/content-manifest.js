@@ -1,3 +1,5 @@
+const { getQuestionCountForChapter } = require("./question-bank-fgv");
+
 const officialReferences = {
   editalFgv: {
     label: "Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV",
@@ -114,6 +116,10 @@ const topLevelStudyPages = [
 
 function chapter(id, title, fileSlug, editalMapping, editalItems, options = {}) {
   const groupId = options.groupId;
+  const generatedQuestionCount = getQuestionCountForChapter(id);
+  const generatedQuestionStatus = generatedQuestionCount === 1
+    ? "1 questão FGV-style comentada"
+    : `${generatedQuestionCount} questões FGV-style comentadas`;
   return {
     id,
     title,
@@ -125,8 +131,8 @@ function chapter(id, title, fileSlug, editalMapping, editalItems, options = {}) 
     priority: options.priority || "média",
     localSources: options.localSources || [],
     officialRefs: options.officialRefs || ["editalFgv"],
-    questionStatus: options.questionStatus || "Banco em construção",
-    convertedQuestions: options.convertedQuestions || 0
+    questionStatus: generatedQuestionCount ? generatedQuestionStatus : options.questionStatus || "Banco em construção",
+    convertedQuestions: generatedQuestionCount || options.convertedQuestions || 0
   };
 }
 

@@ -4,14 +4,24 @@
 
 ## Veredito geral
 
-O material atual cobre o edital inteiro em estrutura e já tem boa base para resolver grande parte das questões por tema. A validação, porém, mostra que a próxima etapa não deve ser “mais resumo genérico”: deve ser **questão comentada por padrão de cobrança**.
+O material atual cobre o edital inteiro em estrutura e já tem boa base para resolver grande parte das questões por tema. A validação mostra que o avanço correto não é “mais resumo genérico”, mas **questão comentada por padrão de cobrança**. Por isso, o banco inicial agora foi estruturado com 84 questões autorais FGV-style, cobrindo todos os 61 temas do edital e dando densidade extra aos pontos mais prováveis.
 
 | Resultado | Interpretação |
 |---|---|
 | Forte | Português, informática operacional, Penal, Processo Penal, Criminalística básica, Biologia forense, Física básica aplicada e Química básica aparecem no material e conversam diretamente com provas FGV já localizadas. |
 | Boa, com reforço | Papiloscopia específica, Medicina Legal, Química forense, Física com cálculo, Biologia aplicada à identificação e crimes digitais precisam de mais questões comentadas para fixação. |
 | Parcial | Legislação estadual/institucional, Realidade do Paraná e normas recentes da PCPR quase não aparecem em provas antigas semelhantes; aqui o edital e a lei seca mandam mais do que prova anterior. |
-| Lacuna operacional | O banco interativo ainda tem poucas questões convertidas. A validação existe, mas a etapa seguinte deve alimentar os arquivos em `provas/` por tema. |
+| Lacuna operacional | A primeira bateria FGV-style já está nos arquivos em `provas/`. A próxima lacuna é converter questões oficiais FGV, com gabarito conferido, para ampliar volume e incidência real. |
+
+## Banco FGV-style já criado
+
+| Item | Situação |
+|---|---|
+| Total inicial | 84 questões comentadas |
+| Cobertura | Todos os 61 temas do edital têm pelo menos 1 questão |
+| Densidade extra | Tecnologia, Ciências Forenses, Biologia, Física, Química, Penal e Processo Penal |
+| Tipo | Questões autorais no padrão FGV, não reprodução literal de caderno oficial |
+| Próxima etapa | Converter questões oficiais FGV da SEAD/AP 2022 Papiloscopista e provas FGV policiais/periciais por tema |
 
 ## Prova-matriz: FGV SEAD/AP 2022 Papiloscopista
 
@@ -99,10 +109,9 @@ Fonte: [caderno oficial Tipo 1](https://conhecimento.fgv.br/sites/default/files/
 
 A ordem recomendada para montar o banco é:
 
-1. Converter SEAD/AP Papiloscopista 2022 por tema.
+1. Converter SEAD/AP Papiloscopista 2022 por tema, preservando gabarito oficial.
 2. Alimentar Tecnologia com PCPI 2025, PCAM Processamento de Dados e PDFs locais.
 3. Alimentar Biologia, Física e Química com SEAD/AP e PCAM/PCRJ.
 4. Alimentar Direito com SEAD/AP, PCAM, PCMG, PCRJ e PCRN.
 5. Alimentar Papiloscopia/Criminalística com PF/Cebraspe, AOCP/IBFC e PDFs locais, sempre marcando fonte.
-6. Criar questões autorais para Legislação PCPR e Realidade do Paraná.
-
+6. Ampliar questões autorais para Legislação PCPR e Realidade do Paraná, por dependerem mais de fonte oficial atual que de prova antiga de outro Estado.

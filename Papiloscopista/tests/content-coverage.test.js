@@ -13,6 +13,7 @@ const {
   officialReferences,
   topLevelStudyPages
 } = require("../content-manifest");
+const { fgvQuestionBank, getAnswerDistribution, getQuestionsForChapter } = require("../question-bank-fgv");
 
 const root = path.resolve(__dirname, "..");
 
@@ -107,4 +108,52 @@ test("sidebar e índices incluem todos os links do manifesto", () => {
   assert.match(sidebar, /FONTES_DE_QUESTOES\.md/);
   assert.match(sidebar, /VALIDACAO_POR_PROVAS\.md/);
   assert.match(sidebar, /LACUNAS_E_REFORCOS\.md/);
+});
+
+test("banco FGV cobre todos os temas com questoes completas", () => {
+  const letters = ["A", "B", "C", "D", "E"];
+  const chapters = getAllChapters();
+
+  assert.ok(fgvQuestionBank.length >= chapters.length);
+
+  for (const chapter of chapters) {
+    assert.ok(getQuestionsForChapter(chapter.id).length >= 1, `Sem questao FGV-style: ${chapter.id} ${chapter.title}`);
+  }
+
+  for (const question of fgvQuestionBank) {
+    assert.match(question.id, /^fgv-\d{3}$/);
+    assert.match(question.chapterId, /^\d{3}$/);
+    assert.ok(chapters.some((chapter) => chapter.id === question.chapterId), `Tema inexistente: ${question.chapterId}`);
+    assert.ok(question.source.includes("FGV"), `Fonte sem FGV: ${question.id}`);
+    assert.ok(question.prompt.length >= 40, `Enunciado curto: ${question.id}`);
+    assert.ok(letters.includes(question.answer), `Gabarito inválido: ${question.id}`);
+    assert.ok(question.thinking.length >= 30, `Raciocínio curto: ${question.id}`);
+    assert.ok(question.correct.length >= 30, `Justificativa correta curta: ${question.id}`);
+    assert.ok(question.trap.length >= 20, `Pegadinha curta: ${question.id}`);
+
+    for (const letter of letters) {
+      assert.ok(question.options[letter], `Alternativa ${letter} ausente: ${question.id}`);
+      assert.ok(question.explanations[letter], `Explicacao ${letter} ausente: ${question.id}`);
+    }
+  }
+});
+
+test("banco FGV mantem distribuicao equilibrada de gabaritos", () => {
+  const distribution = getAnswerDistribution();
+  const counts = Object.values(distribution);
+  const min = Math.min(...counts);
+  const max = Math.max(...counts);
+
+  assert.ok(min > 0);
+  assert.ok(max - min <= 1, `Distribuicao desequilibrada: ${JSON.stringify(distribution)}`);
+});
+
+test("arquivos de prova gerados contem cards interativos", () => {
+  for (const chapter of getAllChapters()) {
+    const filePath = path.join(root, chapter.questionPath);
+    const text = fs.readFileSync(filePath, "utf8");
+
+    assert.match(text, /quiz-card/, `Arquivo sem card: ${chapter.questionPath}`);
+    assert.match(text, /Questão autoral no padrão FGV/, `Arquivo sem aviso FGV-style: ${chapter.questionPath}`);
+  }
 });
