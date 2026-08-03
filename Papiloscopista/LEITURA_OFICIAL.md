@@ -6,9 +6,16 @@ Este material tem uma regra simples: **o edital é a base do menu, da ordem de l
 
 1. Comece pelas disciplinas de maior peso: Português, Tecnologia, Ciências Forenses e Biologia.
 2. Em seguida, avance pelos blocos aplicados ao cargo: Química, Física, Legislação, Penal e Processo Penal.
-3. Use o banco de questões de cada tema depois da leitura, mesmo quando ele ainda estiver marcado como construção.
-4. Quando a página indicar fonte oficial, confira lei seca ou dado estatístico no link antes de decorar número, prazo ou redação.
-5. Registre erros por tema: o leitor salva desempenho no navegador e ajuda a enxergar onde revisar.
+3. Consulte [Fontes de Questões](FONTES_DE_QUESTOES.md), [Validação por Provas](VALIDACAO_POR_PROVAS.md) e [Lacunas e Reforços](LACUNAS_E_REFORCOS.md) para entender de onde virão as questões do banco.
+4. Use o banco de questões de cada tema depois da leitura, mesmo quando ele ainda estiver marcado como construção.
+5. Quando a página indicar fonte oficial, confira lei seca ou dado estatístico no link antes de decorar número, prazo ou redação.
+6. Registre erros por tema: o leitor salva desempenho no navegador e ajuda a enxergar onde revisar.
+
+## Validação por provas
+
+- [Fontes de Questões](FONTES_DE_QUESTOES.md): catálogo de cadernos oficiais FGV, provas semelhantes e PDFs locais.
+- [Validação por Provas](VALIDACAO_POR_PROVAS.md): confronto entre as provas pesquisadas e os 61 temas do edital.
+- [Lacunas e Reforços](LACUNAS_E_REFORCOS.md): ordem sugerida para ampliar conteúdo e montar o banco de questões.
 
 ## Peso por disciplina
 

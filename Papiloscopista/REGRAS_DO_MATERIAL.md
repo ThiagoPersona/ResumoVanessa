@@ -24,6 +24,13 @@ O Edital PCPR n.º 01/2026, retificado em 31/07/2026, para Papiloscopista Polici
 
 Para legislação, norma institucional, dados atuais do Paraná e conteúdo sujeito a mudança, conferir fonte oficial antes de tratar como atual.
 
+## Bancos secundários
+
+- Bancos como QConcursos, Gran Cursos, PCI Concursos e similares podem ser usados para localizar provas e conferir incidência, mas devem ser marcados como fonte secundária.
+- Quando houver caderno oficial da banca ou do órgão, a fonte oficial prevalece sobre banco secundário.
+- Conteúdo de comentários privados de bancos não deve ser copiado para este projeto.
+- Quando a questão for adaptada para treino, ela deve ser identificada como questão autoral/inspirada no padrão, e não como reprodução oficial.
+
 ## Publicação
 
 - Não versionar PDFs, livros, apostilas, cadernos completos ou gabaritos integrais.

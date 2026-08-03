@@ -101,6 +101,17 @@ const officialReferences = {
   }
 };
 
+const topLevelStudyPages = [
+  { title: "Leitura Oficial", path: "LEITURA_OFICIAL.md" },
+  { title: "Mapa de Questões", path: "MAPA_DE_QUESTOES.md" },
+  { title: "Fontes de Questões", path: "FONTES_DE_QUESTOES.md" },
+  { title: "Validação por Provas", path: "VALIDACAO_POR_PROVAS.md" },
+  { title: "Lacunas e Reforços", path: "LACUNAS_E_REFORCOS.md" },
+  { title: "Provas", path: "PROVAS.md" },
+  { title: "Intensivão", path: "INTENSIVAO.md" },
+  { title: "Regras", path: "REGRAS_DO_MATERIAL.md" }
+];
+
 function chapter(id, title, fileSlug, editalMapping, editalItems, options = {}) {
   const groupId = options.groupId;
   return {
@@ -515,14 +526,8 @@ function getChapterById(id) {
 }
 
 function buildSidebarMarkdown() {
-  const lines = [
-    "- [Leitura Oficial](LEITURA_OFICIAL.md)",
-    "- [Mapa de Questões](MAPA_DE_QUESTOES.md)",
-    "- [Provas](PROVAS.md)",
-    "- [Intensivão](INTENSIVAO.md)",
-    "- [Regras](REGRAS_DO_MATERIAL.md)",
-    ""
-  ];
+  const lines = topLevelStudyPages.map((page) => `- [${page.title}](${page.path})`);
+  lines.push("");
 
   chapterGroups.forEach((groupItem) => {
     lines.push(`- **${groupItem.title}**`);
@@ -561,6 +566,7 @@ function buildProvasRows() {
 
 module.exports = {
   officialReferences,
+  topLevelStudyPages,
   chapterGroups,
   getAllChapters,
   getChapterById,

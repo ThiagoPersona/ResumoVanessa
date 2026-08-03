@@ -10,7 +10,8 @@ const {
   chapterGroups,
   getAllChapters,
   getChapterById,
-  officialReferences
+  officialReferences,
+  topLevelStudyPages
 } = require("../content-manifest");
 
 const root = path.resolve(__dirname, "..");
@@ -99,4 +100,11 @@ test("sidebar e índices incluem todos os links do manifesto", () => {
     assert.ok(leituraRows.some((row) => row.temaLink === chapter.themePath));
     assert.ok(provasRows.some((row) => row.link === chapter.questionPath));
   }
+
+  assert.ok(topLevelStudyPages.some((page) => page.path === "FONTES_DE_QUESTOES.md"));
+  assert.ok(topLevelStudyPages.some((page) => page.path === "VALIDACAO_POR_PROVAS.md"));
+  assert.ok(topLevelStudyPages.some((page) => page.path === "LACUNAS_E_REFORCOS.md"));
+  assert.match(sidebar, /FONTES_DE_QUESTOES\.md/);
+  assert.match(sidebar, /VALIDACAO_POR_PROVAS\.md/);
+  assert.match(sidebar, /LACUNAS_E_REFORCOS\.md/);
 });

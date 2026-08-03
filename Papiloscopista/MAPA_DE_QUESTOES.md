@@ -6,8 +6,13 @@ O mapa abaixo separa duas coisas que não devem ser misturadas:
 
 - **Peso oficial do edital:** já está completo para Papiloscopista.
 - **Incidência de provas convertidas:** ainda é parcial; neste momento há 6 questões comentadas no tema de hardware/armazenamento.
+- **Validação por provas semelhantes:** já tem página própria para confrontar FGV Papiloscopista, FGV Perito/Polícia Civil e bancas próximas com os 61 temas.
 
-Isso evita inventar estatística de prova. À medida que os PDFs locais forem convertidos, os totais por tema e a distribuição de alternativas devem ser atualizados aqui.
+Isso evita inventar estatística de prova. À medida que os PDFs locais e oficiais forem convertidos, os totais por tema e a distribuição de alternativas devem ser atualizados aqui.
+
+- [Abrir fontes pesquisadas](FONTES_DE_QUESTOES.md)
+- [Abrir validação por provas semelhantes](VALIDACAO_POR_PROVAS.md)
+- [Abrir lacunas e reforços](LACUNAS_E_REFORCOS.md)
 
 ## Distribuição oficial por disciplina
 
