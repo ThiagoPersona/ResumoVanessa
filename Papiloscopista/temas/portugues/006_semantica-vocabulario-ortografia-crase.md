@@ -48,15 +48,88 @@ O erro clássico de prova é usar "a pé" (caminhando) num contexto que pede "ao
 
 Metáfora é uma figura de base comparativa que estabelece semelhança entre duas coisas. A FGV já testou uma distinção fina: **metáfora explicada** é aquela em que o próprio texto desenvolve o ponto de semelhança (ex.: "Sou como o dólar: mesmo se estiver em baixa, tenho valor" — a frase depois dos dois-pontos explica por que a comparação com o dólar funciona); **metáfora não explicada** apenas apresenta a comparação, sem desenvolver o porquê, deixando o leitor completar o sentido sozinho (ex.: "Palavras cruzadas são a linguagem em férias" — não há desenvolvimento de por que a linguagem estaria "em férias").
 
-### Ortografia, acentuação e crase: onde ainda falta questão real
+### Sentido próprio x figurado, e as relações entre palavras
 
-Este subitem do edital também cobre regras específicas de ortografia (uso de "por que/por quê/porque/porquê", parônimos ortográficos), acentuação gráfica (regras de tonicidade, hiato, ditongo) e crase (contração de "a" + "a", regência que a exige, casos proibidos e facultativos). Ainda não há questão real localizada especificamente sobre essas três regras neste levantamento — é uma lacuna explícita (ver abaixo) — mas os pontos essenciais para revisão:
+O **sentido próprio (denotativo)** é o significado literal, objetivo, de dicionário. O **sentido figurado (conotativo)** é um sentido construído por associação, comparação ou efeito expressivo, dependente do contexto ("coração de pedra" não descreve um órgão mineral, mas frieza emocional). Textos técnicos e normativos tendem à denotação; textos literários e persuasivos exploram a conotação.
 
-| Regra | O que revisar |
-|---|---|
-| Crase | Ocorre em locução regida por "a" + palavra feminina que aceita artigo "a"; proibida antes de palavra masculina, verbo ou pronome que não aceite artigo (salvo exceções, como "à medida que") |
-| Por que / por quê / porque / porquê | "Por que" pergunta (direta/indireta) ou inicia frase; "por quê" no fim de frase/isolado; "porque" explica/responde; "porquê" é substantivo (o porquê) |
-| Acentuação | Atenção especial a paroxítonas terminadas em ditongo, oxítonas terminadas em "a(s)/e(s)/o(s)/em/ens", e mudanças do Acordo Ortográfico (hiatos "ee"/"oo", ditongos abertos em paroxítonas) |
+O edital também pede o reconhecimento das relações de sentido entre palavras:
+
+| Relação | O que é | Exemplo |
+|---|---|---|
+| Sinônimos | Palavras de sentido equivalente ou muito próximo | feliz / contente |
+| Antônimos | Palavras de sentido oposto | feliz / triste |
+| Parônimos | Palavras de grafia e som parecidos, mas sentido diferente — fonte clássica de erro de escrita e de prova | cumprimento (saudação) / comprimento (extensão); descrição / discrição; retificar (corrigir) / ratificar (confirmar) |
+| Hiperônimos | Palavra de sentido mais genérico, que engloba outras mais específicas | "flor" é hiperônimo de "rosa", "margarida" |
+| Hipônimos | Palavra de sentido mais específico, contida em uma categoria mais ampla | "rosa" é hipônimo de "flor" |
+| Homônimos | Palavras de grafia e/ou som iguais, mas sentido diferente (não confundir com parônimo, que é apenas parecido, não igual) | são (verbo ser) / são (saudável) / são (santo) |
+
+Parônimo é o ponto mais cobrado em prova de concurso dentro desse grupo, porque gera erro real de escrita: a diferença de uma letra muda completamente o sentido (e às vezes o efeito jurídico, como em "ratificar" x "retificar" num despacho).
+
+### Dicionário: tipos e organização do verbete
+
+Um verbete de dicionário organiza, tipicamente, entrada (a palavra, com divisão silábica e classe gramatical), pronúncia/etimologia, acepções (os diferentes sentidos, numerados, geralmente do mais comum ao mais raro ou do mais antigo ao mais recente), abonações (exemplos de uso, às vezes com citação de autor) e remissões (indicação de sinônimos, antônimos ou variantes). Dicionários se classificam por finalidade: **de língua geral** (sentidos correntes do idioma), **etimológicos** (origem histórica das palavras), **de sinônimos e antônimos**, **terminológicos/técnicos** (vocabulário de uma área específica, como um dicionário jurídico ou de termos forenses) e **de regência** (focados em uso correto de preposições).
+
+### Neologismos, arcaísmos, estrangeirismos e latinismos
+
+A língua muda com o tempo e incorpora palavras de outras línguas; o edital pede o reconhecimento de quatro fenômenos:
+
+| Fenômeno | O que é | Exemplo |
+|---|---|---|
+| Neologismo | Palavra ou sentido novo, recém-criado, ainda não consagrado pela norma tradicional | "deletar", "printar", "biscoitar" (sentido figurado) |
+| Arcaísmo | Palavra ou construção caída em desuso, típica de época passada | "vossa mercê", "outrossim" em uso corrente |
+| Estrangeirismo | Palavra de outra língua incorporada sem tradução, mantendo grafia/pronúncia estrangeira (ou adaptada) | "mouse", "delivery", "feedback" |
+| Latinismo | Expressão em latim, usada sobretudo em contexto jurídico e acadêmico, sem tradução | "habeas corpus", "data venia", "in dubio pro reo" |
+
+Latinismos merecem atenção redobrada em prova de carreira policial/jurídica, porque aparecem com frequência em textos de Direito Penal e Processual Penal citados nas demais disciplinas do edital.
+
+### Ortografia: "por que", "por quê", "porque" e "porquê"
+
+Um dos pontos de ortografia mais cobrados em qualquer concurso:
+
+| Forma | Quando usar | Exemplo |
+|---|---|---|
+| Por que | Em perguntas diretas ou indiretas; no início de frase; equivalente a "pelo qual/pela qual" | "Por que você chegou atrasado?"; "Não sei por que ele saiu." |
+| Por quê | Como "por que", mas no final de frase ou isolado, sempre tônico e acentuado | "Você chegou atrasado, por quê?" |
+| Porque | Introduz explicação ou resposta (valor causal ou explicativo) | "Cheguei atrasado porque perdi o ônibus." |
+| Porquê | Substantivo, sempre acompanhado de artigo/determinante, significa "motivo" | "Ninguém entendeu o porquê da demissão." |
+
+### Acentuação gráfica
+
+A acentuação segue a posição da sílaba tônica e o tipo de terminação da palavra:
+
+| Classificação | Regra de acentuação | Exemplo |
+|---|---|---|
+| Oxítonas | Acentuam-se as terminadas em a(s), e(s), o(s), em, ens | café, você, cipó, também, parabéns |
+| Paroxítonas | Acentuam-se as terminadas em terminações diferentes de a(s)/e(s)/o(s)/em/ens (ex.: -l, -r, -x, -n, -ps, -ditongo, -i(s), -us, -um/uns) | fácil, açúcar, tórax, hífen, bíceps, história |
+| Proparoxítonas | Todas são acentuadas, sem exceção | música, público, último |
+| Monossílabos tônicos | Acentuam-se os terminados em a(s), e(s), o(s) | pá, dá, pé, nó |
+
+Casos especiais de hiato e ditongo, cobráveis em prova:
+
+- **Hiato "i" e "u" tônicos**: acentua-se o "i" ou "u" tônico sozinho na sílaba (não seguido de "nh"), formando hiato com a vogal anterior: "saída", "baú", "egoísmo".
+- **Ditongos abertos "éi", "éu", "ói" em palavras oxítonas**: acentuam-se ("herói", "céu", "chapéu"); em paroxítonas, o Acordo Ortográfico de 1990 retirou o acento desses ditongos ("ideia", "plateia", "boia" — antes "idéia", "platéia", "bóia").
+- **Hiatos duplos "ee" e "oo"**: deixaram de ser acentuados pelo Acordo Ortográfico ("veem", "enjoo" — sem acento, diferente da regra antiga).
+- **Acento diferencial**: praticamente extinto pelo Acordo, mantido apenas em casos como "pôde" (pretérito) x "pode" (presente).
+
+### Crase: quando o acento indicativo é obrigatório, proibido ou facultativo
+
+Crase é a fusão da preposição "a" com o artigo feminino "a(s)" (ou com o "a" inicial de pronomes demonstrativos como "aquele/aquela/aquilo"), marcada pelo acento grave (à). Para haver crase, é preciso que **duas condições se encontrem ao mesmo tempo**: um termo anterior que **exija** a preposição "a" (regência verbal ou nominal) e um termo posterior que **aceite** artigo feminino "a".
+
+| Situação | Há crase? | Exemplo |
+|---|---|---|
+| Verbo/nome que exige "a" + substantivo feminino que aceita artigo | Obrigatória | Entreguei o laudo **à** autoridade. |
+| Antes de palavra masculina | Proibida | Entreguei o laudo **a** o delegado (contraído: **ao** delegado). |
+| Antes de verbo no infinitivo | Proibida | Começou **a** trabalhar. |
+| Antes de pronome que não aceita artigo (este, esta, qualquer, alguma, minha em certos usos, ninguém) | Proibida (regra geral) | Entregou o documento **a** qualquer servidor. |
+| Antes de nome próprio de lugar que não aceita artigo | Proibida | A equipe retornou **a** Curitiba. |
+| Antes de nome próprio de lugar que aceita artigo | Obrigatória | Foi **à** Bahia. |
+| Locuções adverbiais femininas de tempo, modo ou instrumento | Obrigatória | Chegou **às** pressas; trabalha **à** noite. |
+| Antes de "casa" (sem determinante) e "terra" (sentido de chão firme, oposto a bordo) | Proibida | Voltou **a** casa; o marinheiro desceu **a** terra. |
+| Antes de "casa"/"terra" determinadas por adjetivo/expressão especificadora | Obrigatória | Voltou **à** casa de sua infância. |
+| Entre palavras repetidas | Proibida | Cara **a** cara; dia **a** dia. |
+| Antes de pronome relativo "a qual"/"as quais" quando a regência exige "a" | Obrigatória | A autoridade **à qual** o laudo foi entregue. |
+
+Teste prático rápido: troque o termo feminino por um masculino equivalente. Se o "a" virar "ao", há crase ("foi à reunião" → "foi ao encontro" confirma a regência); se não virar "ao", não há crase.
 
 ## Prioridades FGV dentro deste tema
 
@@ -176,19 +249,23 @@ Este subitem do edital também cobre regras específicas de ortografia (uso de "
 
 ## Lacunas honestas
 
-- Ainda não há questão real localizada sobre crase neste levantamento — é a lacuna mais importante deste tema, dado o peso histórico do assunto em provas de português.
-- Ainda não há questão real localizada sobre "por que/por quê/porque/porquê" nem sobre acentuação gráfica.
-- Questões sobre dicionário (tipos e organização de verbetes) e sobre neologismo/arcaísmo/estrangeirismo/latinismo ainda não foram localizadas em prova real para este item.
+- Ainda não há questão real localizada sobre crase, acentuação gráfica, "por que/por quê/porque/porquê", parônimos, dicionário ou neologismo/arcaísmo/estrangeirismo/latinismo neste levantamento — a teoria de todos esses pontos está coberta acima; falta apenas a camada de prática com questão real conferida, prioridade para a próxima rodada de busca de fontes (PCRJ, PCRN, PCPI).
 
 ## Checklist de revisão
 
+- [ ] Sei diferenciar sentido próprio (denotação) de sentido figurado (conotação).
+- [ ] Sei diferenciar sinônimo, antônimo, parônimo, hiperônimo, hipônimo e homônimo, com exemplo de cada.
 - [ ] Sei reconhecer o valor de finalidade da preposição "de" entre outros valores possíveis.
 - [ ] Sei diferenciar repetição com mesmo sentido de jogo de palavras (polissemia).
 - [ ] Sei escolher o termo mais adequado pelo contexto e pelo registro, não só pelo dicionário.
 - [ ] Sei o sentido fixo de "ao pé de", "a pé", "de pé" e "em pé".
 - [ ] Sei reconhecer metáfora sem desenvolvimento explicativo no texto.
+- [ ] Sei diferenciar neologismo, arcaísmo, estrangeirismo e latinismo.
+- [ ] Sei usar corretamente "por que", "por quê", "porque" e "porquê".
+- [ ] Sei as regras de acentuação de oxítonas, paroxítonas, proparoxítonas e monossílabos tônicos, e os casos especiais de hiato/ditongo após o Acordo Ortográfico.
+- [ ] Sei testar crase pelas duas condições (termo que exige "a" + termo que aceita artigo feminino) e pelo teste do "ao".
 - [ ] Resolvi as cinco questões reais comentadas deste tema sem olhar o gabarito antes.
-- [ ] Marquei as lacunas de fonte registradas acima (crase é a mais urgente).
+- [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
 

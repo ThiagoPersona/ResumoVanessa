@@ -20,21 +20,63 @@ O padrão nas duas questões reais localizadas é o mesmo: a banca dá **várias
 
 ## Conteúdo completo orientado ao edital
 
-### Coesão: os mecanismos que ligam as partes do texto
+### O que diferencia coesão de coerência
 
-Coesão é a rede de elementos linguísticos que amarra uma frase à outra. Os principais mecanismos, na forma como a FGV costuma testar:
+Coesão e coerência são frequentemente confundidas, mas operam em níveis diferentes:
 
-- **Coesão referencial**: pronomes, elipses e expressões que retomam (anáfora) ou anunciam (catáfora) um termo já citado ou por vir. Errar aqui é perder o antecedente correto do pronome.
-- **Coesão sequencial**: conectores que ligam orações e parágrafos, indicando adição, oposição, causa, conclusão, tempo. Trocar um conectivo por outro de valor lógico diferente quebra a coesão sem quebrar a gramática — e é exatamente esse tipo de erro que a banca gosta de esconder em alternativa de reescritura.
-- **Elipse controlada**: omitir um termo que já ficou claro pelo contexto, sem gerar ambiguidade. Um problema comum: quando a elipse deixa dúvida sobre a que termo ela se refere.
+- **Coesão** é a amarração **linguística visível** entre as partes do texto — os elementos gramaticais (pronomes, conectores, tempos verbais, repetição controlada) que ligam uma frase à outra na superfície do texto.
+- **Coerência** é a lógica **de sentido**, muitas vezes invisível na gramática: um texto pode estar impecável na coesão (todo pronome remete a um antecedente correto, todo conectivo está bem empregado) e ainda assim ser incoerente, se as ideias não se sustentarem entre si.
 
-### Coerência: a lógica que sustenta o texto, mesmo sem erro gramatical
+Um texto pode ter defeito só de coesão (pronome sem antecedente claro, por exemplo, mas as ideias em si fazem sentido) ou só de coerência (frases gramaticalmente perfeitas, mas que se contradizem ou não avançam logicamente), ou os dois ao mesmo tempo.
 
-Um texto pode estar gramaticalmente perfeito e mesmo assim ser incoerente, quando:
+### Os tipos de coesão
 
-- As ideias se contradizem entre si.
-- Uma conclusão não decorre das premissas apresentadas.
-- O texto muda de tese no meio do caminho sem sinalizar a mudança.
+**Coesão referencial** é feita por elementos que retomam ou anunciam um termo:
+
+| Tipo | Como funciona | Exemplo |
+|---|---|---|
+| Anáfora | O elemento retoma um termo já citado antes | "O perito chegou. **Ele** analisou o local." |
+| Catáfora | O elemento anuncia um termo que vem depois | "**Isto** é o que penso: devemos agir agora." |
+| Elipse | Omite um termo que já ficou claro pelo contexto, sem repeti-lo | "O perito coletou o vestígio; [o perito/ele] o encaminhou ao laboratório." |
+
+**Coesão lexical** substitui uma palavra por outra sem repetir o mesmo termo, evitando repetição desnecessária e, ao mesmo tempo, mantendo a referência:
+
+| Recurso | Como funciona | Exemplo |
+|---|---|---|
+| Sinônimo | Palavra de sentido equivalente | "o delegado" / "a autoridade policial" |
+| Hiperônimo | Palavra de sentido mais genérico que engloba o termo anterior | "o cão farejador" retomado por "o animal" |
+| Hipônimo | Palavra de sentido mais específico dentro de uma categoria já citada | "os vestígios" especificados depois como "as impressões digitais" |
+| Nominalização | Um verbo é retomado por um substantivo derivado dele | "investigaram o caso; a **investigação** durou meses" |
+
+**Coesão gramatical (sequencial)** liga orações e parágrafos por meio de conectores, indicando a relação lógica entre as partes. Os principais valores lógicos e os conectivos típicos de cada um:
+
+| Valor lógico | Conectivos típicos |
+|---|---|
+| Adição | e, também, além disso, ademais |
+| Oposição/contraste | mas, porém, contudo, todavia, no entanto |
+| Causa | porque, já que, uma vez que, pois (antes do verbo) |
+| Consequência/conclusão | logo, portanto, por isso, assim, dessa forma |
+| Condição | se, caso, contanto que |
+| Tempo | quando, enquanto, assim que, depois que |
+| Finalidade | para que, a fim de que |
+| Explicação | pois (depois do verbo), porque, que |
+
+Trocar um conectivo por outro de valor lógico diferente **quebra a coesão sem quebrar a gramática** — a frase continua "correta", mas a relação que ela afirma entre as ideias muda. É exatamente esse tipo de troca que a banca esconde em alternativas de reescritura.
+
+### Coerência: os princípios que sustentam a lógica do texto
+
+Um texto coerente respeita, entre outros, estes princípios:
+
+- **Não contradição**: as ideias não podem se anular umas às outras.
+- **Não tautologia**: o texto não pode apenas repetir a mesma ideia como se fosse avançar (dizer a mesma coisa com outras palavras não é argumentar).
+- **Relevância/pertinência**: cada informação precisa se relacionar com o propósito do texto; um dado solto, sem conexão com o resto, quebra a coerência mesmo sem erro gramatical.
+- **Progressão**: o texto precisa avançar — cada parágrafo ou frase deve acrescentar informação nova em relação à anterior, e não apenas repetir o que já foi dito.
+
+Um texto pode estar gramaticalmente perfeito e mesmo assim ser incoerente quando as ideias se contradizem, quando uma conclusão não decorre das premissas apresentadas, ou quando o texto muda de tese no meio do caminho sem sinalizar a mudança.
+
+### Progressão temática e estrutura do parágrafo
+
+Cada parágrafo tende a se organizar em torno de um **tópico frasal** (a ideia central, geralmente na primeira frase) que é desenvolvido pelas frases seguintes. A progressão temática mais comum no português técnico e argumentativo segue o padrão: tema conhecido (o que já foi dito) → informação nova (o que se acrescenta) → esse conjunto vira o tema conhecido do parágrafo seguinte. Quando um texto "pula" informação nova sem retomar o que veio antes, a coerência se rompe mesmo que cada frase, isolada, esteja correta.
 
 A FGV costuma testar coerência via **reescritura**: apresenta a frase original e cinco (ou quatro) versões reescritas, pedindo a que preserva exatamente o mesmo sentido, ou a que está mais bem construída (clareza + concisão + correção).
 
@@ -131,6 +173,8 @@ A ordem direta (sujeito → verbo → complementos → adjuntos ao final) costum
 ## Checklist de revisão
 
 - [ ] Sei diferenciar coesão (mecanismo linguístico) de coerência (lógica interna).
+- [ ] Sei os três tipos de coesão (referencial, lexical, gramatical) com exemplo de cada.
+- [ ] Sei os quatro princípios de coerência (não contradição, não tautologia, relevância, progressão).
 - [ ] Sei testar reescritura pela relação lógica, não pela impressão de sentido parecido.
 - [ ] Sei reconhecer ordem direta como critério de clareza em questão de "melhor redação".
 - [ ] Resolvi as duas questões reais comentadas deste tema sem olhar o gabarito antes.

@@ -86,6 +86,64 @@ Alguns "erros de prova" são fixos e decorados por quem estuda para concurso —
 - **"Meio-dia e meio" (errado) x "meio-dia e meia" (correto)**: "meia" concorda com "hora" (elemento subentendido, feminino), não com "dia" (masculino).
 - **Concordância com "a maioria de + substantivo plural"**: aceita tanto o singular (concordância gramatical estrita) quanto o plural (concordância atrativa/ideológica) — não é, sozinha, um erro categórico.
 
+### Termos da oração: o esqueleto que sustenta toda a sintaxe
+
+Antes de qualquer questão de ordem, pontuação ou concordância, é preciso reconhecer os termos que compõem uma oração:
+
+**Termos essenciais** (formam o núcleo da oração):
+
+| Termo | O que é | Exemplo |
+|---|---|---|
+| Sujeito | Quem pratica ou sofre a ação, ou de quem se declara algo | **O perito** coletou o vestígio. |
+| Predicado | Tudo que se declara sobre o sujeito (contém o verbo) | O perito **coletou o vestígio**. |
+
+**Termos integrantes** (completam o sentido de verbos e nomes):
+
+| Termo | O que é | Exemplo |
+|---|---|---|
+| Objeto direto | Complementa verbo transitivo direto, sem preposição obrigatória | O perito coletou **o vestígio**. |
+| Objeto indireto | Complementa verbo transitivo indireto, com preposição exigida | O delegado obedeceu **à lei**. |
+| Complemento nominal | Completa o sentido de substantivo, adjetivo ou advérbio, com preposição | Ele tinha necessidade **de ajuda**. |
+| Agente da passiva | Quem pratica a ação na voz passiva, introduzido por "por"/"de" | O vestígio foi coletado **pelo perito**. |
+
+**Termos acessórios** (acrescentam informação, mas não são exigidos pelo verbo):
+
+| Termo | O que é | Exemplo |
+|---|---|---|
+| Adjunto adnominal | Caracteriza um substantivo (artigo, adjetivo, locução adjetiva, pronome) | **O** vestígio **da cena** foi preservado. |
+| Adjunto adverbial | Indica circunstância (tempo, lugar, modo, causa) ligada ao verbo | O perito chegou **rapidamente**. |
+| Aposto | Explica, identifica ou resume um termo anterior | Curitiba, **capital do Paraná**, sediou o evento. |
+| Vocativo | Chama diretamente o interlocutor, fora da estrutura sintática da oração | **Delegado**, o laudo está pronto. |
+
+Orações também se classificam quanto à **relação entre si**: **coordenadas** (independentes sintaticamente, uma não completa a outra) e **subordinadas** (uma depende sintaticamente da outra, exercendo função de termo dela — substantiva, adjetiva ou adverbial, esta última já detalhada na tabela de conjunções acima).
+
+### Tipos de discurso: como o texto reproduz a fala de alguém
+
+Quando um texto reproduz o que alguém disse ou pensou, ele pode fazer isso de três formas:
+
+| Tipo | Como funciona | Exemplo |
+|---|---|---|
+| Discurso direto | Reproduz literalmente a fala, geralmente com verbo de elocução (dizer, perguntar) e sinal gráfico (dois-pontos, travessão ou aspas) | O delegado disse: "O inquérito será instaurado." |
+| Discurso indireto | Reproduz a fala por meio de oração subordinada, sem citação literal, adaptando pessoa verbal e tempo | O delegado disse que o inquérito **seria** instaurado. |
+| Discurso indireto livre | Mistura a voz do narrador com o pensamento/fala da personagem, sem verbo de elocução nem marca gráfica clara | O delegado olhou os autos. Será que o inquérito daria em algo? |
+
+A diferença entre indireto e indireto livre é ponto fino de prova: o indireto tem estrutura de subordinação clara (verbo de elocução + "que"); o indireto livre se infiltra na narração sem esse marcador, exigindo do leitor perceber que aquele trecho é pensamento da personagem, não afirmação do narrador.
+
+### Funções da linguagem: para que serve cada trecho de um texto
+
+Todo ato de comunicação tem elementos (emissor, receptor, mensagem, código, canal, contexto/referente) e cada um pode ser o foco predominante da mensagem, dando origem a uma função da linguagem:
+
+| Função | Foco | Marca típica | Exemplo |
+|---|---|---|---|
+| Referencial | O contexto/referente (informar objetivamente) | 3ª pessoa, verbos no presente/pretérito informativo | "O documento foi anexado aos autos." |
+| Emotiva | O emissor (expressar sentimento/opinião) | 1ª pessoa, interjeições, pontuação exclamativa | "Fico indignado com esse resultado!" |
+| Conativa (apelativa) | O receptor (convencer, ordenar, apelar) | Imperativo, vocativo, 2ª pessoa | "Leia o edital com atenção." |
+| Fática | O canal (testar, manter ou abrir o contato) | Expressões de contato: "alô", "está me ouvindo?" | "Alô, você está aí?" |
+| Metalinguística | O código (a linguagem falando sobre si mesma) | Definição de palavra, explicação de termo | "'Vestígio' é todo elemento material relacionado ao crime." |
+| Poética | A própria mensagem (forma, sonoridade, efeito estético) | Figuras de linguagem, ritmo, jogo de palavras | "As más companhias são como um mercado de peixes." |
+
+Reconhecer a função predominante de um trecho ajuda a resolver questões de interpretação e de tipologia textual: um texto normativo (lei, edital) é essencialmente referencial; um texto publicitário mistura conativa e poética; um texto literário costuma explorar a função poética.
+
 ## Prioridades FGV dentro deste tema
 
 | Prioridade | Por que é prioridade | Como treinar |
@@ -273,10 +331,11 @@ Alguns "erros de prova" são fixos e decorados por quem estuda para concurso —
 ## Lacunas honestas
 
 - Ainda não há questão real localizada sobre crase neste subitem (a crase aparece em outro tema, ligada a semântica/ortografia — ver tema 006). Se a prova cobrar crase dentro deste subitem específico do edital, vale revisar os dois temas juntos.
-- Questões sobre função da linguagem (referencial, emotiva, conativa, fática, metalinguística, poética) ainda não foram localizadas em prova real para este item; é uma lacuna a preencher com PCRJ, PCRN ou PCPI em sessão futura.
+- Questões reais sobre função da linguagem (referencial, emotiva, conativa, fática, metalinguística, poética) e sobre tipos de discurso (direto, indireto, indireto livre) ainda não foram localizadas em prova para este item; a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
+- [ ] Sei nomear os termos essenciais, integrantes e acessórios da oração.
 - [ ] Sei separar regência pura de preposição com valor semântico.
 - [ ] Sei testar ambiguidade por dupla paráfrase.
 - [ ] Sei nomear a função exata de uma vírgula antes de validar a justificativa.
@@ -284,6 +343,8 @@ Alguns "erros de prova" são fixos e decorados por quem estuda para concurso —
 - [ ] Sei reconhecer sujeito/agente nomeado x indeterminado x apagado pela passiva.
 - [ ] Sei perceber quando um advérbio deslocado muda o alcance da coordenação.
 - [ ] Sei reconhecer paralelismo pela repetição estrutural, não só pelo contraste.
+- [ ] Sei diferenciar discurso direto, indireto e indireto livre.
+- [ ] Sei as seis funções da linguagem e reconheço a predominante em um trecho.
 - [ ] Resolvi as nove questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei as lacunas de fonte registradas acima.
 

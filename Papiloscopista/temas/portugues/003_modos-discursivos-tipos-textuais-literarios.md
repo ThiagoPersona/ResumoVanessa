@@ -56,6 +56,36 @@ A narrativa canônica (situação inicial, complicação, transformação/ação
 
 Um texto é argumentativo quando apresenta uma tese (posição) **e** desenvolve uma razão que a sustenta. Frases de comando ou conselho ("faça isso", "não faça aquilo") só são argumentativas se explicitarem o motivo. Sem justificativa, permanecem no campo da injunção (ordem, norma, conselho direto).
 
+### Descrição: caracterizar sem contar uma sequência
+
+A descrição apresenta as características de um ser, lugar, objeto ou situação, sem progressão temporal — é uma "fotografia verbal". Marcas típicas: verbos de estado (ser, estar, parecer), adjetivos e locuções adjetivas em abundância, ausência de conectivos temporais de sequência. A descrição pode ser **objetiva** (busca precisão, sem opinião do observador — comum em laudos e relatórios técnicos) ou **subjetiva** (impressão pessoal de quem descreve, com adjetivos valorativos). Reconhecer o tipo de descrição é relevante para quem vai produzir textos técnicos: um laudo pericial exige descrição objetiva, sem juízo de valor disfarçado de observação.
+
+### Exposição: explicar sem tomar partido
+
+O texto expositivo informa, define ou explica um conceito, um processo ou um fato, sem defender uma tese própria. Verbos no presente atemporal, definição de termos, dados e exemplos ilustrativos são marcas típicas. A diferença para a argumentação é sutil e cobrável: a exposição apresenta informação como fato estabelecido ("a fotossíntese é o processo pelo qual..."), enquanto a argumentação usa a informação para defender uma posição própria ("por isso, deveríamos..."). Um texto pode começar expositivo e migrar para argumentativo quando o autor deixa de apenas informar e passa a defender uma conclusão.
+
+### Os seis tipos textuais quanto à finalidade social do texto
+
+Além dos cinco modos discursivos (que descrevem *como* o texto organiza as ideias), o edital pede o reconhecimento de tipos textuais pela **finalidade social** que cumprem — a que serve o texto na vida prática:
+
+| Tipo | Finalidade | Exemplos |
+|---|---|---|
+| Informativo | Transmitir dado, fato ou notícia, com o mínimo de interferência do autor | Notícia, reportagem, boletim |
+| Publicitário | Vender um produto ou serviço, com apelo persuasivo comercial explícito | Anúncio de produto |
+| Propagandístico | Promover uma ideia, causa, candidato ou instituição, buscando adesão ideológica | Propaganda política, campanha institucional |
+| Normativo | Estabelecer regra, dever ou procedimento a ser seguido | Lei, regulamento, manual de normas, edital |
+| Didático | Ensinar um conteúdo de forma organizada e progressiva | Livro didático, apostila, aula |
+| Divinatório | Prever ou prognosticar um acontecimento futuro | Horóscopo, previsão do tempo, profecia |
+
+A diferença entre **publicitário** e **propagandístico** é um ponto fino de prova: o publicitário vende produto/serviço (interesse comercial direto); o propagandístico busca adesão a uma ideia, causa ou candidato (interesse ideológico/político), mesmo sem venda direta de mercadoria.
+
+### Textos literários e não literários
+
+- **Texto não literário** tem finalidade prática e informativa; a linguagem tende à denotação (sentido literal, objetivo) e busca transmitir informação com o mínimo de ambiguidade — é o registro esperado em laudos, ofícios, notícias, manuais.
+- **Texto literário** tem finalidade estética; explora a linguagem em si (função poética), admite conotação (sentido figurado), ambiguidade proposital, subjetividade e recursos como metáfora, ironia e ritmo. Pode narrar, descrever ou argumentar, mas sempre com essa camada estética adicional.
+
+O critério decisivo não é o assunto (um texto sobre crime pode ser uma notícia — não literária — ou um conto policial — literário), e sim a **função da linguagem predominante**: se o texto busca sobretudo comunicar informação com precisão, é não literário; se explora a própria linguagem como efeito estético, é literário.
+
 ### Reconhecer simultaneidade de ações
 
 O gerúndio é o principal marcador de ação simultânea em português ("Sorrindo, guardou as fotos" = sorria enquanto guardava). Cuidado: nem toda frase com dois verbos ligados por "e" ou vírgula é simultânea — se o segundo verbo só pode ocorrer depois de concluído o primeiro (entrar → sentar; levantar-se → dirigir-se à saída), é sequência, não simultaneidade, mesmo que um dos verbos esteja no gerúndio (esse uso incorreto de gerúndio para indicar posterioridade é o "gerundismo", tratado com mais detalhe no tema de morfologia).
@@ -156,14 +186,20 @@ O gerúndio é o principal marcador de ação simultânea em português ("Sorrin
 
 ## Lacunas honestas
 
-- Ainda não há questão real localizada sobre textos descritivos ou expositivos puros neste tema; os exemplos reais disponíveis cobrem narração, argumentação e injunção.
+- Ainda não há questão real localizada sobre textos descritivos ou expositivos puros neste tema; os exemplos reais disponíveis cobrem narração, argumentação e injunção. A teoria de descrição e exposição acima cobre o conteúdo do edital mesmo sem essa evidência.
+- Ainda não há questão real localizada sobre os seis tipos textuais por finalidade social (informativo, publicitário, propagandístico, normativo, didático, divinatório) nem sobre a distinção texto literário x não literário — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 - Textos literários propriamente ditos (poema, conto, crônica) ainda não apareceram nas provas reais localizadas para Papiloscopista/cargos semelhantes; se a prova PCPR 2026 cobrar esse formato, falta ainda fonte real conferida.
 
 ## Checklist de revisão
 
+- [ ] Sei diferenciar os cinco modos discursivos (narração, descrição, exposição, argumentação, injunção).
 - [ ] Sei diferenciar sequência de ações (narrativa) de causa/efeito.
 - [ ] Sei checar cobertura completa de cada elemento numa etapa do esquema narrativo.
 - [ ] Sei separar argumentação de injunção pela presença de justificativa.
+- [ ] Sei diferenciar descrição objetiva de subjetiva.
+- [ ] Sei diferenciar exposição de argumentação pela presença de tese defendida.
+- [ ] Sei os seis tipos textuais por finalidade social, especialmente a diferença entre publicitário e propagandístico.
+- [ ] Sei diferenciar texto literário de não literário pela função da linguagem predominante.
 - [ ] Sei reconhecer simultaneidade real x sequência disfarçada de conectivo ou gerúndio.
 - [ ] Resolvi as quatro questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei as lacunas de fonte registradas acima.
