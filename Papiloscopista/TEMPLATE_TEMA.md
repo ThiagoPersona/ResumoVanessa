@@ -26,7 +26,7 @@ Se houver mais de uma prova FGV real disponível (mesmo cargo ou cargo semelhant
 
 ## Conteúdo completo orientado ao edital
 
-Este é o corpo principal do capítulo — não uma lista de bullets soltos. Desenvolva o conteúdo em prosa técnica, dividido em subtítulos temáticos (use `###`), cada um cobrindo um bloco lógico do item do edital. Cada subtítulo deve:
+Este é o corpo principal do capítulo — não uma lista de bullets soltos, e não um resumo derivado só das questões reais disponíveis. **Ensine o assunto inteiro do item do edital, como um professor ensinaria do zero**, cobrindo todos os subtópicos e classificações previstos, mesmo os que ainda não apareceram em nenhuma questão real localizada — questão real vem depois, como camada de evidência e prática, não como limite do que deve ser explicado. Desenvolva o conteúdo em prosa técnica, dividido em subtítulos temáticos (use `###`), cada um cobrindo um bloco lógico do item do edital. Cada subtítulo deve:
 
 - Explicar o conceito com linguagem própria, sem citar trecho longo de livro ou apostila.
 - Mostrar como o conceito aparece em prova (comando, tipo de erro induzido).
