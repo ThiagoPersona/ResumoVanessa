@@ -1,163 +1,92 @@
 # 034 - Física da captura de imagens, biometria e equipamentos
 
-> **Base do edital:** Conhecimentos Específicos; Física 4.4.  
-> **Peso da disciplina:** 5 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- A captura de uma impressão digital (por leitor óptico, capacitivo ou ultrassônico) depende de princípios físicos diferentes — cada tecnologia tem vantagens e limitações específicas que a prova gosta de comparar.
+- Resolução de imagem, medida em pontos por polegada (DPI) ou pixels por polegada (PPI), determina o nível de detalhe capturado — relevante para garantir que minúcias (pontos característicos) fiquem visíveis na imagem digitalizada.
+- Sensores fotográficos convertem luz em sinal elétrico; a quantidade de luz captada (abertura, tempo de exposição, sensibilidade ISO) determina a qualidade da imagem pericial em diferentes condições de iluminação.
+- Profundidade de campo (a faixa de distâncias que aparece nítida numa fotografia) depende da abertura do diafragma — relevante para fotografia forense de vestígios em diferentes planos.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Física soma 5 questões; este capítulo concentra Física 4.4.
-- **Como a FGV costuma cobrar:** A física do edital é aplicada: luz, imagem, ondas, eletricidade e equipamentos usados na identificação humana.
-- **O que mais confunde candidatos:** trocar reflexão por refração; achar que UV é luz visível comum; confundir fluorescência com fosforescência; decorar fórmula sem entender fenômeno.
-- **Particularidade para Papiloscopista:** A conexão com Papiloscopia aparece em fotografia, iluminação, fluorescência, sensores, leitores biométricos e equipamentos de captura.
+Este item conecta física aplicada aos equipamentos usados na rotina pericial: leitores biométricos, câmeras fotográficas forenses, scanners de documentos e outros dispositivos de captura de imagem — o entendimento do princípio físico por trás de cada equipamento ajuda a operá-lo corretamente e a reconhecer suas limitações técnicas.
 
-## Leitura rápida
+## Conteúdo completo orientado ao edital
 
-- **Fundamentos físicos da captura de imagens e fotografia digital.** Sensor, pixel, resolução, profundidade de cor, ruído, iluminação, filtros, foco, escala, biometria óptica/capacitiva e equipamentos de identificação.
-- **Sistemas biométricos e equipamentos ópticos e eletrônicos aplicados à identificação humana.** Sensor, pixel, resolução, profundidade de cor, ruído, iluminação, filtros, foco, escala, biometria óptica/capacitiva e equipamentos de identificação.
-- **Prioridade FGV:** Identificação 1:N busca quem é; autenticação 1:1 confirma se é quem afirma ser.
-- **Prioridade FGV:** Biometria tem falso positivo e falso negativo.
-- **Prioridade FGV:** Característica biológica deve ser coletável, estável e discriminante.
-- **Prioridade FGV:** Sensor converte luz em sinal.
-- **Prioridade FGV:** Resolução real depende de sensor e óptica.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+### Tecnologias de captura de impressão digital
 
-## Conteúdo essencial
-
-### Visão de estudo para este tema
-
-Física aparece no edital de forma aplicada. O candidato deve entender luz, formação de imagem, ondas eletromagnéticas, ultravioleta, fluorescência, eletricidade e equipamentos usados para capturar ou revelar informação.
-
-A FGV pode cobrar conceito simples em enunciado técnico: reflexão versus refração, lente versus espelho, fluorescência versus mera iluminação, corrente versus tensão, resolução versus tamanho do arquivo.
-
-O foco não é cálculo pesado. O foco é reconhecer o fenômeno e sua utilidade em fotografia, sensores, sistemas biométricos e equipamentos ópticos/eletrônicos.
-
-**Aplicação ao cargo:** Na identificação humana, a física aparece na iluminação correta, no registro fotográfico, na leitura de sensores e no uso de equipamentos ópticos e eletrônicos.
-
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
-
-### O que mais merece atenção
-
-- reflexão, refração, espelhos e lentes
-- formação de imagens e fotografia digital
-- UV, fluorescência e espectro eletromagnético
-- carga, corrente, tensão, resistência e circuitos simples
-- sensores e leitores biométricos
-
-### Conteúdo completo orientado ao edital
-
-### 1. Fundamentos físicos da captura de imagens e fotografia digital.
-
-**O que significa:** Captura de imagem transforma luz refletida ou emitida em sinal registrado por sensor. Fotografia digital envolve iluminação, foco, exposição, resolução, contraste, compressão e armazenamento.
-
-**Como estudar para a prova:** Sensor, pixel, resolução, profundidade de cor, ruído, iluminação, filtros, foco, escala, biometria óptica/capacitiva e equipamentos de identificação.
-
-**Como a FGV pode cobrar:** A banca pode cobrar finalidade de sensor, efeito de resolução e uso de equipamentos ópticos ou eletrônicos em identificação humana.
-
-**Cuidado de prova:** Aumentar zoom digital não cria detalhe real; pode apenas interpolar pixels.
-
-### 2. Sistemas biométricos e equipamentos ópticos e eletrônicos aplicados à identificação humana.
-
-**O que significa:** Captura de imagem transforma luz refletida ou emitida em sinal registrado por sensor. Fotografia digital envolve iluminação, foco, exposição, resolução, contraste, compressão e armazenamento.
-
-**Como estudar para a prova:** Sensor, pixel, resolução, profundidade de cor, ruído, iluminação, filtros, foco, escala, biometria óptica/capacitiva e equipamentos de identificação.
-
-**Como a FGV pode cobrar:** A banca pode cobrar finalidade de sensor, efeito de resolução e uso de equipamentos ópticos ou eletrônicos em identificação humana.
-
-**Cuidado de prova:** Aumentar zoom digital não cria detalhe real; pode apenas interpolar pixels.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Tecnologia | Princípio físico |
 |---|---|
-| Identificação 1:N busca quem é; autenticação 1:1 confirma se é quem afirma ser. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Biometria tem falso positivo e falso negativo. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Característica biológica deve ser coletável, estável e discriminante. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Sensor converte luz em sinal. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Resolução real depende de sensor e óptica. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Leitores biométricos podem usar princípios ópticos, capacitivos ou outros. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Óptica | Uma câmera captura a imagem da polpa digital iluminada, refletindo luz de forma diferente nas cristas (em contato) e nos sulcos (sem contato) |
+| Capacitiva | Sensor mede variação de capacitância elétrica entre a pele (crista em contato) e uma grade de eletrodos, sem precisar de luz |
+| Ultrassônica | Emite ondas sonoras de alta frequência que refletem de forma diferente nas cristas e sulcos, podendo captar até camadas mais profundas da pele |
 
-### Diferenças que a banca costuma trocar
+Cada tecnologia tem vantagens específicas: leitores ópticos são mais baratos, mas sensíveis a sujeira/umidade na superfície; capacitivos são compactos e comuns em dispositivos móveis, mas podem ser enganados por certos materiais condutores; ultrassônicos captam profundidade e funcionam melhor com dedo sujo ou úmido, mas são mais caros.
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+### Resolução de imagem: DPI/PPI
+
+A resolução determina o nível de detalhe capturado numa imagem digital, medida em **pontos por polegada (DPI)** para impressão ou **pixels por polegada (PPI)** para captura/exibição digital. Para exame papiloscópico, é necessária resolução suficiente para que os pontos característicos (minúcias) de uma impressão digital sejam claramente distinguíveis — padrões periciais internacionais costumam exigir resolução mínima de 500 a 1000 DPI para essa finalidade, dependendo do protocolo adotado.
+
+### Fotografia forense: elementos técnicos
+
+**Exposição**: controlada por três fatores que trabalham em conjunto (o "triângulo da exposição"):
+
+| Fator | O que controla |
+|---|---|
+| Abertura do diafragma | Quantidade de luz que entra pela lente por unidade de tempo, medida em números f (f/2.8, f/8...) — abertura maior (número f menor) deixa entrar mais luz |
+| Tempo de exposição (velocidade do obturador) | Por quanto tempo o sensor fica exposto à luz |
+| Sensibilidade ISO | Quanto o sensor amplifica o sinal de luz captado |
+
+**Profundidade de campo**: a faixa de distâncias, à frente e atrás do ponto focal, que aparece nítida na imagem. Abertura maior (número f menor) produz profundidade de campo **menor** (menos coisas nítidas ao mesmo tempo); abertura menor (número f maior) produz profundidade de campo **maior** (mais coisas nítidas simultaneamente) — relevante para fotografar vestígios em diferentes planos de um local de crime, mantendo tudo em foco.
+
+### Sensores de captura: como a luz vira imagem digital
+
+Sensores fotográficos (CCD ou CMOS) convertem fótons de luz incidente em sinal elétrico, que é digitalizado em pixels. Cada pixel registra intensidade de luz (e, com filtros de cor, informação cromática), formando a imagem digital final. Em condições de pouca luz, aumentar a sensibilidade ISO amplifica o sinal, mas também amplifica ruído (grão/interferência na imagem) — um dos motivos pelos quais fotografia forense em ambiente escuro exige controle cuidadoso de iluminação artificial (flash, luz UV/IV conforme o vestígio) em vez de depender só do aumento de ISO.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Fundamentos físicos da captura de imagens e fotografia digital. | Aumentar zoom digital não cria detalhe real; pode apenas interpolar pixels. | A banca pode cobrar finalidade de sensor, efeito de resolução e uso de equipamentos ópticos ou eletrônicos em identificação humana. |
-| Sistemas biométricos e equipamentos ópticos e eletrônicos aplicados à identificação humana. | Aumentar zoom digital não cria detalhe real; pode apenas interpolar pixels. | A banca pode cobrar finalidade de sensor, efeito de resolução e uso de equipamentos ópticos ou eletrônicos em identificação humana. |
+| Diferenciar as tecnologias de captura de impressão digital (óptica, capacitiva, ultrassônica) pelo princípio físico | Base de qualquer questão de equipamento biométrico | Associe: óptica=luz refletida; capacitiva=capacitância elétrica; ultrassônica=onda sonora |
+| Relacionar resolução (DPI/PPI) à capacidade de distinguir minúcias numa imagem digitalizada | Aplicação direta ao trabalho papiloscópico | Lembre que resolução insuficiente compromete a análise pericial de pontos característicos |
+| Explicar a relação entre abertura do diafragma e profundidade de campo | Ponto técnico central de fotografia forense | Lembre: abertura maior (f menor) = menos profundidade de campo; abertura menor (f maior) = mais profundidade de campo |
+| Reconhecer o compromisso entre sensibilidade ISO e ruído na imagem | Relevante para qualidade de imagem pericial em baixa luz | Associe: ISO alto amplifica sinal E ruído |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
-
-### Roteiro de estudo de alta retenção
-
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
-
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Fundamentos físicos da captura de imagens e fotografia digital. | Sensor, pixel, resolução, profundidade de cor, ruído, iluminação, filtros, foco, escala, biometria óptica/capacitiva e equipamentos de identificação. | Aumentar zoom digital não cria detalhe real; pode apenas interpolar pixels. |
-| Sistemas biométricos e equipamentos ópticos e eletrônicos aplicados à identificação humana. | Sensor, pixel, resolução, profundidade de cor, ruído, iluminação, filtros, foco, escala, biometria óptica/capacitiva e equipamentos de identificação. | Aumentar zoom digital não cria detalhe real; pode apenas interpolar pixels. |
-
-| Ponto quente | Treino recomendado |
-|---|---|
-| Identificação 1:N busca quem é; autenticação 1:1 confirma se é quem afirma ser. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Biometria tem falso positivo e falso negativo. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Característica biológica deve ser coletável, estável e discriminante. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Sensor converte luz em sinal. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Resolução real depende de sensor e óptica. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Leitores biométricos podem usar princípios ópticos, capacitivos ou outros. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Leitor biométrico óptico (luz refletida) | Leitor biométrico capacitivo (capacitância elétrica) | Ambos capturam impressão digital | Óptico usa câmera e luz; capacitivo usa sensores elétricos, sem depender de luz |
+| Abertura maior (f menor, mais luz, menos profundidade de campo) | Abertura menor (f maior, menos luz, mais profundidade de campo) | Ambas são "configurações de abertura" | Número f e abertura física são inversamente relacionados; profundidade de campo aumenta com abertura menor |
+| DPI/PPI (resolução) | Tamanho do arquivo de imagem | Ambos parecem indicar "qualidade" da imagem | Resolução mede densidade de detalhe capturado; tamanho do arquivo depende também de compressão e formato |
+| ISO alto (mais sensível, mais ruído) | ISO baixo (menos sensível, menos ruído) | Ambos são configurações de sensibilidade do sensor | ISO alto amplifica tanto o sinal útil quanto o ruído da imagem |
 
 ## Pegadinhas da banca
 
-- Chamar toda emissão luminosa de reflexão.
-- Confundir lente convergente e divergente em formação de imagem.
-- Achar que maior tensão sempre significa maior segurança ou melhor equipamento.
-- Misturar radiação ultravioleta com infravermelho.
-- Prioridade de atenção: Identificação 1:N busca quem é; autenticação 1:1 confirma se é quem afirma ser.
-- Prioridade de atenção: Biometria tem falso positivo e falso negativo.
-- Prioridade de atenção: Característica biológica deve ser coletável, estável e discriminante.
-- Prioridade de atenção: Sensor converte luz em sinal.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Confundir o princípio físico de cada tecnologia de captura biométrica (óptica, capacitiva, ultrassônica).
+- Inverter a relação entre abertura do diafragma (número f) e profundidade de campo.
+- Achar que aumentar a sensibilidade ISO sempre melhora a imagem, ignorando o aumento de ruído associado.
+- Confundir resolução de captura (DPI/PPI) com qualidade geral do arquivo de imagem (que também depende de compressão).
 
 ## Como resolver questões
 
-1. Identifique o fenômeno: luz mudando de meio, refletindo, formando imagem, excitando material ou alimentando circuito.
-2. Em equipamentos, pense no caminho: iluminação, captura, sensor, processamento e armazenamento.
-3. Em circuitos simples, use relações básicas entre tensão, corrente e resistência.
-4. Em ondas, localize a posição no espectro e a aplicação tecnológica.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para tecnologia de captura biométrica, associe cada uma ao princípio físico específico (luz, capacitância, ultrassom).
+2. Para fotografia forense, lembre o "triângulo da exposição" (abertura, tempo, ISO) e o efeito de cada fator na imagem final.
+3. Para profundidade de campo, relacione sempre o número f à quantidade de luz e à faixa de nitidez.
+4. Para resolução, associe DPI/PPI à capacidade de distinguir detalhes finos, como minúcias papiloscópicas.
+
+## Lacunas honestas
+
+- Ainda não há questão real de banca FGV localizada especificamente para este tema neste levantamento. É prioridade de busca para sessão futura.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Física 4.4.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei o princípio físico de cada tecnologia de captura de impressão digital (óptica, capacitiva, ultrassônica).
+- [ ] Sei por que a resolução (DPI/PPI) precisa ser suficiente para distinguir minúcias.
+- [ ] Sei os três fatores do "triângulo da exposição" em fotografia (abertura, tempo, ISO).
+- [ ] Sei a relação entre abertura do diafragma e profundidade de campo.
+- [ ] Sei o compromisso entre sensibilidade ISO e ruído na imagem.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -165,11 +94,17 @@ O foco não é cálculo pesado. O foco é reconhecer o fenômeno e sua utilidade
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Fisica.pdf`
-- `Materiais QB/Física/`
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+- Nenhuma questão real de FGV localizada especificamente para este tema até o momento (lacuna registrada acima).
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Material local**
+
+- `Materiais QB/Física/` (quando disponível)
+
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Onde não há questão real disponível, a lacuna está registrada explicitamente.

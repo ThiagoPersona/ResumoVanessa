@@ -1,168 +1,89 @@
 # 026 - Criminologia digital e investigação tecnológica
 
-> **Base do edital:** Conhecimentos Específicos; Ciências Forenses 2.4.  
-> **Peso da disciplina:** 10 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- Criminologia digital aplica o olhar criminológico (causas, dinâmica, controle social) ao ambiente digital — por que e como o crime migra e se transforma no espaço virtual, não apenas os aspectos técnicos de perícia (já tratados no tema de crimes digitais/OSINT, item 017).
+- O ambiente digital altera a lógica clássica de oportunidade criminal: reduz a necessidade de proximidade física entre agressor e vítima, amplia o alcance geográfico do crime e cria formas novas de anonimato e de rastro (digital footprint).
+- Investigação tecnológica policial combina ferramentas de OSINT, análise de metadados, geolocalização e cooperação com provedores de aplicação/conexão — sempre dentro dos limites legais de proteção de dados e exigência de ordem judicial quando aplicável.
+- Cibercriminalidade organizada frequentemente opera em rede transnacional, dificultando a persecução penal tradicional e exigindo cooperação entre múltiplas jurisdições.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Ciências Forenses soma 10 questões; este capítulo concentra Ciências Forenses 2.4.
-- **Como a FGV costuma cobrar:** A cobrança tende a misturar conceito e aplicação: nome técnico, finalidade pericial, ordem de preservação e diferença entre vestígio, indício e evidência.
-- **O que mais confunde candidatos:** misturar áreas da Medicina Legal; confundir identificação com reconhecimento; tratar vestígio e evidência como sinônimos absolutos.
-- **Particularidade para Papiloscopista:** Este é o núcleo de identidade do cargo. Papiloscopia, identificação humana, local de crime, cadeia de custódia e documentação devem ter prioridade máxima.
+Este item conecta a criminologia (tema 025) ao ambiente digital, e complementa o bloco de Tecnologia (crimes digitais, evidência eletrônica e OSINT, tema 017) com uma perspectiva mais investigativa e criminológica: como o crime se organiza e se investiga no espaço digital, para além do exame técnico da evidência isolada.
 
-## Leitura rápida
+## Conteúdo completo orientado ao edital
 
-- **Crimes digitais, perfil do criminoso cibernético, deep web e dark web.** Perfil do criminoso cibernético, ambientes digitais criminógenos, vitimização digital, logs, metadados, redes sociais, preservação de evidências digitais, inteligência cibernética e fontes abertas.
-- **Ambientes digitais criminógenos, vitimização digital e rastreamento de informações.** Perfil do criminoso cibernético, ambientes digitais criminógenos, vitimização digital, logs, metadados, redes sociais, preservação de evidências digitais, inteligência cibernética e fontes abertas.
-- **Evidências eletrônicas, logs, metadados, redes sociais, preservação de evidências, inteligência cibernética e OSINT.** Perfil do criminoso cibernético, ambientes digitais criminógenos, vitimização digital, logs, metadados, redes sociais, preservação de evidências digitais, inteligência cibernética e fontes abertas.
-- **Prioridade FGV:** Criminologia é empírica e interdisciplinar.
-- **Prioridade FGV:** Vitimização secundária decorre do tratamento institucional inadequado.
-- **Prioridade FGV:** Controle social formal envolve instituições; informal envolve família, escola, comunidade e cultura.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+### Como o ambiente digital transforma a dinâmica criminal
 
-## Conteúdo essencial
+A teoria das atividades rotineiras (routine activity theory), clássica na criminologia, explica o crime pela convergência de três elementos: um agressor motivado, um alvo adequado e a ausência de um guardião capaz. O ambiente digital altera profundamente esses três elementos:
 
-### Visão de estudo para este tema
+- **Alvo adequado**: multiplica-se exponencialmente (qualquer pessoa conectada é um alvo potencial, independente de localização geográfica).
+- **Ausência de guardião**: o anonimato relativo da internet, o uso de ferramentas de ocultação de identidade e a dificuldade de fiscalização em tempo real reduzem a presença de "guardiões" tradicionais.
+- **Agressor motivado**: ganha escala — um único agressor pode atingir milhares de vítimas simultaneamente (phishing em massa, malware distribuído), diferente do crime físico tradicional, limitado por proximidade.
 
-Ciências Forenses é o bloco mais identitário para Papiloscopista. O estudo precisa separar áreas: Medicina Legal, identificação humana, papiloscopia, criminalística, documentoscopia, criminologia e investigação tecnológica. Cada uma tem objeto, método e vocabulário próprio.
+### Características da criminalidade digital organizada
 
-A FGV tende a cobrar diferença fina: vestígio, indício e evidência; identificação e reconhecimento; local imediato, mediato e relacionado; papiloscopia e outras biometrias; falsificação documental e alteração material; vitimização primária, secundária e terciária.
+- **Transnacionalidade**: servidores, agressores e vítimas frequentemente estão em países diferentes, exigindo cooperação jurídica internacional (tratados de assistência mútua, cooperação entre polícias) para investigação e persecução.
+- **Divisão de trabalho especializada**: grupos de cibercrime organizado frequentemente dividem funções (desenvolvimento de malware, venda de acesso, lavagem de criptoativos, exploração de dados roubados), à semelhança de estruturas de crime organizado tradicional, mas distribuídas digitalmente.
+- **Baixo custo de entrada e alta escala de dano**: ferramentas de ataque cada vez mais acessíveis (inclusive "como serviço", no modelo de crime-as-a-service) reduzem a barreira técnica para cometer crimes digitais de grande escala.
 
-O conteúdo deve ser lido com mentalidade de procedimento. O que a prova quer saber é: quem faz, para quê, com que cuidado, em qual sequência e com qual limitação.
+### Investigação tecnológica: ferramentas e limites
 
-**Aplicação ao cargo:** O Papiloscopista trabalha na individualização humana e na produção técnica de elementos que precisam ser confiáveis, rastreáveis e compreensíveis no processo.
+A investigação de crimes digitais combina diversas técnicas, sempre dentro de limites legais:
 
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
+- **OSINT** (já detalhado no tema 017): coleta de dados de fontes abertas.
+- **Análise de metadados**: informações associadas a um arquivo ou comunicação (data, hora, dispositivo, localização) que ajudam a reconstituir cronologia e autoria, mesmo quando o conteúdo em si é limitado.
+- **Geolocalização**: uso de dados de localização (GPS, torres de celular, endereço IP) para situar um dispositivo ou usuário no tempo e espaço, sujeita a limites de precisão técnica e a exigência de base legal para acesso.
+- **Cooperação com provedores**: acesso a registros de conexão e de acesso a aplicações, mediante requisição com base legal (em regra, ordem judicial), conforme disciplinado pelo Marco Civil da Internet (ver tema 018).
+- **Perícia em dispositivos apreendidos**: extração forense de dados de celulares e computadores, seguindo a cadeia de custódia digital (ver tema 017).
 
-### O que mais merece atenção
+### Controle social no ambiente digital
 
-- papiloscopia e identificação humana
-- cadeia de custódia e local de crime
-- vestígio, indício, evidência e prova
-- documentoscopia e grafoscopia
-- tanatologia, traumatologia e toxicologia básicas
-- criminologia, vitimologia e criminologia digital
+Assim como no controle social tradicional (tema 025), o ambiente digital tem mecanismos formais (legislação específica, atuação policial especializada em crimes cibernéticos, moderação de conteúdo por determinação judicial) e informais (autorregulação de plataformas, educação digital, comunidades de denúncia) — mas a efetividade de ambos é desafiada pela velocidade de mudança tecnológica e pela dificuldade de fiscalização em escala global.
 
-### Conteúdo completo orientado ao edital
+## Prioridades FGV dentro deste tema
 
-### 1. Crimes digitais, perfil do criminoso cibernético, deep web e dark web.
-
-**O que significa:** Criminologia digital observa crime em ambiente tecnológico. Deep web é conteúdo não indexado por buscadores comuns; dark web é parcela acessada por ferramentas específicas e associada a anonimato, embora nem todo uso seja criminoso.
-
-**Como estudar para a prova:** Perfil do criminoso cibernético, ambientes digitais criminógenos, vitimização digital, logs, metadados, redes sociais, preservação de evidências digitais, inteligência cibernética e fontes abertas.
-
-**Como a FGV pode cobrar:** A banca mistura conceitos de rede, investigação e criminologia para ver se o candidato separa ambiente, conduta, vítima e evidência.
-
-**Cuidado de prova:** Não confunda anonimato técnico com impossibilidade de investigação; rastros digitais podem existir em pontos diferentes da infraestrutura.
-
-### 2. Ambientes digitais criminógenos, vitimização digital e rastreamento de informações.
-
-**O que significa:** Criminologia digital observa crime em ambiente tecnológico. Deep web é conteúdo não indexado por buscadores comuns; dark web é parcela acessada por ferramentas específicas e associada a anonimato, embora nem todo uso seja criminoso.
-
-**Como estudar para a prova:** Perfil do criminoso cibernético, ambientes digitais criminógenos, vitimização digital, logs, metadados, redes sociais, preservação de evidências digitais, inteligência cibernética e fontes abertas.
-
-**Como a FGV pode cobrar:** A banca mistura conceitos de rede, investigação e criminologia para ver se o candidato separa ambiente, conduta, vítima e evidência.
-
-**Cuidado de prova:** Não confunda anonimato técnico com impossibilidade de investigação; rastros digitais podem existir em pontos diferentes da infraestrutura.
-
-### 3. Evidências eletrônicas, logs, metadados, redes sociais, preservação de evidências, inteligência cibernética e OSINT.
-
-**O que significa:** Criminologia digital observa crime em ambiente tecnológico. Deep web é conteúdo não indexado por buscadores comuns; dark web é parcela acessada por ferramentas específicas e associada a anonimato, embora nem todo uso seja criminoso.
-
-**Como estudar para a prova:** Perfil do criminoso cibernético, ambientes digitais criminógenos, vitimização digital, logs, metadados, redes sociais, preservação de evidências digitais, inteligência cibernética e fontes abertas.
-
-**Como a FGV pode cobrar:** A banca mistura conceitos de rede, investigação e criminologia para ver se o candidato separa ambiente, conduta, vítima e evidência.
-
-**Cuidado de prova:** Não confunda anonimato técnico com impossibilidade de investigação; rastros digitais podem existir em pontos diferentes da infraestrutura.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
-|---|---|
-| Criminologia é empírica e interdisciplinar. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Vitimização secundária decorre do tratamento institucional inadequado. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Controle social formal envolve instituições; informal envolve família, escola, comunidade e cultura. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-
-### Diferenças que a banca costuma trocar
-
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Crimes digitais, perfil do criminoso cibernético, deep web e dark web. | Não confunda anonimato técnico com impossibilidade de investigação; rastros digitais podem existir em pontos diferentes da infraestrutura. | A banca mistura conceitos de rede, investigação e criminologia para ver se o candidato separa ambiente, conduta, vítima e evidência. |
-| Ambientes digitais criminógenos, vitimização digital e rastreamento de informações. | Não confunda anonimato técnico com impossibilidade de investigação; rastros digitais podem existir em pontos diferentes da infraestrutura. | A banca mistura conceitos de rede, investigação e criminologia para ver se o candidato separa ambiente, conduta, vítima e evidência. |
-| Evidências eletrônicas, logs, metadados, redes sociais, preservação de evidências, inteligência cibernética e OSINT. | Não confunda anonimato técnico com impossibilidade de investigação; rastros digitais podem existir em pontos diferentes da infraestrutura. | A banca mistura conceitos de rede, investigação e criminologia para ver se o candidato separa ambiente, conduta, vítima e evidência. |
+| Explicar como o ambiente digital altera os três elementos da oportunidade criminal | Aplica teoria criminológica clássica ao ambiente novo | Associe cada elemento (alvo, guardião, agressor) à mudança que a internet provoca |
+| Reconhecer características da criminalidade digital organizada (transnacionalidade, divisão de trabalho, baixo custo) | Diferencia investigação digital de investigação tradicional | Liste os três traços e associe a um exemplo de crime digital organizado |
+| Diferenciar as ferramentas de investigação tecnológica (OSINT, metadados, geolocalização, cooperação com provedores) | Evita confundir técnicas com finalidades distintas | Associe cada ferramenta ao tipo de informação que ela revela |
+| Reconhecer os limites legais da investigação tecnológica (necessidade de base legal/ordem judicial) | Conecta com o tema de legislação digital (018) | Lembre que acesso a dado de conexão/aplicação em regra exige ordem judicial |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
-
-### Roteiro de estudo de alta retenção
-
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
-
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Crimes digitais, perfil do criminoso cibernético, deep web e dark web. | Perfil do criminoso cibernético, ambientes digitais criminógenos, vitimização digital, logs, metadados, redes sociais, preservação de evidências digitais, inteligência cibernética e fontes abertas. | Não confunda anonimato técnico com impossibilidade de investigação; rastros digitais podem existir em pontos diferentes da infraestrutura. |
-| Ambientes digitais criminógenos, vitimização digital e rastreamento de informações. | Perfil do criminoso cibernético, ambientes digitais criminógenos, vitimização digital, logs, metadados, redes sociais, preservação de evidências digitais, inteligência cibernética e fontes abertas. | Não confunda anonimato técnico com impossibilidade de investigação; rastros digitais podem existir em pontos diferentes da infraestrutura. |
-| Evidências eletrônicas, logs, metadados, redes sociais, preservação de evidências, inteligência cibernética e OSINT. | Perfil do criminoso cibernético, ambientes digitais criminógenos, vitimização digital, logs, metadados, redes sociais, preservação de evidências digitais, inteligência cibernética e fontes abertas. | Não confunda anonimato técnico com impossibilidade de investigação; rastros digitais podem existir em pontos diferentes da infraestrutura. |
-
-| Ponto quente | Treino recomendado |
-|---|---|
-| Criminologia é empírica e interdisciplinar. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Vitimização secundária decorre do tratamento institucional inadequado. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Controle social formal envolve instituições; informal envolve família, escola, comunidade e cultura. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Crime digital individual/oportunista | Cibercrime organizado | Ambos ocorrem no ambiente digital | Organizado tem divisão de trabalho, escala e frequentemente transnacionalidade; individual costuma ser isolado e de menor escala |
+| Metadados (dados sobre o dado) | Conteúdo da comunicação | Ambos são "informação digital" relevante para investigação | Metadados são dados associados (hora, local, dispositivo); conteúdo é a mensagem/arquivo em si, com proteção legal mais rigorosa |
+| Investigação tecnológica com base legal | Acesso irrestrito a dados de conexão | Ambos envolvem "buscar informação digital" | Acesso a dados de conexão/aplicação exige, em regra, ordem judicial — não é irrestrito |
+| Controle social digital formal | Controle social digital informal | Ambos buscam conter comportamento desviante online | Formal usa legislação/atuação estatal; informal usa autorregulação de plataformas e educação digital |
 
 ## Pegadinhas da banca
 
-- Dizer que papiloscopia depende só de fotografia, sem comparação técnica.
-- Confundir vestígio encontrado com prova já valorada no processo.
-- Achar que local de crime preservado é responsabilidade apenas do perito.
-- Misturar criminologia crítica, positivista e teoria do etiquetamento.
-- Prioridade de atenção: Criminologia é empírica e interdisciplinar.
-- Prioridade de atenção: Vitimização secundária decorre do tratamento institucional inadequado.
-- Prioridade de atenção: Controle social formal envolve instituições; informal envolve família, escola, comunidade e cultura.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Tratar todo crime digital como "crime organizado", ignorando casos individuais/oportunistas.
+- Confundir metadados com o conteúdo da comunicação, tratando-os como a mesma coisa para fins de proteção legal.
+- Achar que a investigação tecnológica pode acessar dados de conexão/aplicação sem base legal ou ordem judicial.
+- Ignorar a dimensão de transnacionalidade e cooperação internacional na investigação de cibercrime organizado.
 
 ## Como resolver questões
 
-1. Comece separando a área pericial: identificação, local de crime, documento, lesão, morte, toxicologia ou criminologia.
-2. Procure o verbo do enunciado: preservar, coletar, comparar, identificar, reconhecer, classificar ou interpretar.
-3. Quando houver cadeia de custódia, pense em rastreabilidade e integridade desde o reconhecimento do vestígio.
-4. Em criminologia, diferencie escola, teoria, objeto e política criminal.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para dinâmica do crime digital, aplique a lógica da oportunidade criminal (alvo, guardião, agressor) e veja como o ambiente digital altera cada elemento.
+2. Para cibercrime organizado, procure sinais de divisão de trabalho, escala e transnacionalidade antes de classificar.
+3. Para ferramentas de investigação, associe cada uma ao tipo específico de dado que revela (metadado, conteúdo, localização).
+4. Para limites legais, lembre que acesso a dado de conexão/aplicação normalmente exige base legal específica, geralmente ordem judicial.
+
+## Lacunas honestas
+
+- Ainda não há questão real de banca FGV localizada especificamente para este tema neste levantamento. É prioridade de busca para sessão futura, idealmente com provas de perícia em informática forense (como PCPI 2025, catalogada em FONTES_DE_QUESTOES.md).
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Ciências Forenses 2.4.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei explicar como o ambiente digital altera os três elementos da oportunidade criminal (alvo, guardião, agressor).
+- [ ] Sei as características centrais da criminalidade digital organizada (transnacionalidade, divisão de trabalho, baixo custo de entrada).
+- [ ] Sei diferenciar as ferramentas de investigação tecnológica (OSINT, metadados, geolocalização, cooperação com provedores).
+- [ ] Sei que acesso a dados de conexão/aplicação exige, em regra, base legal/ordem judicial.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -170,16 +91,17 @@ O conteúdo deve ser lido com mentalidade de procedimento. O que a prova quer sa
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
-- [Código Penal - Planalto](https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm)
-- [Lei Federal n.º 12.737/2012 - Delitos informáticos](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
-- [Lei Federal n.º 14.155/2021 - fraudes eletrônicas e invasão de dispositivo](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14155.htm)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Medicina legal.pdf`
-- `Questões FGV/Questoes Criminalistica.pdf`
-- `Questões FGV/Questoes Criminologia.pdf`
-- `Questões FGV/Questoes Crime.pdf`
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+- Nenhuma questão real de FGV localizada especificamente para este tema até o momento (lacuna registrada acima).
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Material local**
+
+- `Simulados e minisimulados/pacote-exercicios-tecnologia-e-sistemas-de-informacao-e-de-comunicacao-seguranca-cibernetica-e-crimes-digitais-joao-paulo.pdf`
+
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Onde não há questão real disponível, a lacuna está registrada explicitamente.

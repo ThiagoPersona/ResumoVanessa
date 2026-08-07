@@ -2,19 +2,41 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 1 questão.
+**Itens neste banco:** 2 questões (1 questão oficial FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
 
-## Foco FGV
+## Fontes reais usadas neste banco
 
-Estas questões são autorais e calibradas pelo padrão observado em provas FGV policiais/periciais, especialmente SEAD/AP 2022 Papiloscopista, PCPI 2025, PCMG 2024, PCAM 2021, PCRJ 2021 e PCRN 2020. A finalidade é treinar o raciocínio que a banca costuma exigir, sem copiar caderno oficial inteiro.
+- FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 
-## Fontes de padrão
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 43 (gabarito oficial: C)</p>
+<p><strong>1. Acerca da cronotanatognose, avalie as afirmativas a seguir. I. A mancha verde abdominal marca o início da putrefação e tem início entre 8 a 12 horas após a morte. II. A fase de esqueletização termina após três meses quando o indivíduo já está totalmente esqueletizado. III. A circulação póstuma de Brouardel acontece na mesma fase em que surge a mancha verde abdominal, ou seja, na fase de coloração. Está correto o que se afirma em</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-022-pcmg-q43" value="A"> A. I, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-022-pcmg-q43" value="B"> B. II, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-022-pcmg-q43" value="C"> C. III, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-022-pcmg-q43" value="D"> D. II e III, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-022-pcmg-q43" value="E"> E. I, II e III.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV PCMG Perito Criminal 2024, questão 43. Gabarito oficial: C.</p>
+<p><strong>Como pensar:</strong> Desconfie de prazos exatos e fechados para fenômenos cadavéricos, que são altamente variáveis conforme o ambiente.</p>
+<p><strong>Por que a C deve ser marcada:</strong> Apenas a afirmativa III está correta — a circulação póstuma de Brouardel realmente ocorre na fase de coloração, junto com a mancha verde abdominal.</p>
+<ul class="quiz-explain">
+<li><strong>I.</strong> <strong>Falsa.</strong> O intervalo real da mancha verde abdominal costuma ser situado mais tardiamente (cerca de 18-24h) do que "8 a 12 horas".</li>
+<li><strong>II.</strong> <strong>Falsa.</strong> A duração da esqueletização não tem prazo fixo de três meses — varia muito conforme temperatura, umidade e outros fatores ambientais.</li>
+<li><strong>III.</strong> <strong>Verdadeira.</strong> Confirma a associação correta entre a circulação póstuma de Brouardel e a fase de coloração da putrefação.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> As afirmativas I e II fixam prazos exatos e "redondos" (8-12h, três meses) para fenômenos que na realidade são faixas aproximadas e variáveis — desconfie sempre de números fechados demais em fenômenos naturais.</p>
+</div>
+</div>
 
-- Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais
+## Questão autoral de reforço
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>1. A rigidez cadavérica, os livores hipostáticos e o resfriamento do corpo são importantes porque auxiliam:</strong></p>
+<p><strong>2. A rigidez cadavérica, os livores hipostáticos e o resfriamento do corpo são importantes porque auxiliam:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-022" value="A"> A. a provar sempre a identidade civil da vítima.</label>
 <label class="quiz-option"><input type="radio" name="fgv-022" value="B"> B. a estimar fenômenos pós-morte e intervalo aproximado desde o óbito.</label>
@@ -40,5 +62,5 @@ Estas questões são autorais e calibradas pelo padrão observado em provas FGV 
 
 ## Próxima ampliação
 
-- Inserir questões oficiais FGV quando o enunciado, imagens e gabarito estiverem conferidos.
-- Adicionar questões semelhantes de PF/Cebraspe, AOCP e IBFC apenas quando preencherem lacuna técnica do tema.
+- Buscar questão real sobre necropsia (roteiro do exame), toxicologia forense ou psicopatologia forense/imputabilidade penal.
+- Adicionar questões reais de PCRJ, PCRN e PCPI assim que os cadernos forem localizados e o gabarito conferido.

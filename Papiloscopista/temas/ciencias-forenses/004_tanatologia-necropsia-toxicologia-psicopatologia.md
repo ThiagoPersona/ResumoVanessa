@@ -1,168 +1,125 @@
 # 022 - Tanatologia, necropsia, toxicologia e psicopatologia
 
-> **Base do edital:** Conhecimentos Específicos; Ciências Forenses 2.1.  
-> **Peso da disciplina:** 10 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- Tanatologia forense estuda a morte e seus fenômenos — desde os sinais imediatos (abióticos) até os fenômenos transformativos tardios (putrefação, esqueletização).
+- Cronotanatognose é a estimativa da data/hora da morte a partir dos fenômenos cadavéricos — cada fase (imediata, mediata, tardia) tem sinais característicos com uma janela de tempo aproximada, nunca exata.
+- Toxicologia forense identifica substâncias tóxicas envolvidas em óbito ou intoxicação, e trabalha em conjunto com a tanatologia quando a causa da morte é suspeita de envenenamento ou overdose.
+- Psicopatologia forense avalia a capacidade mental do indivíduo (imputabilidade penal, capacidade civil), sendo aplicada tanto a vivos quanto, retrospectivamente, em casos de interesse jurídico envolvendo pessoas já falecidas.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Ciências Forenses soma 10 questões; este capítulo concentra Ciências Forenses 2.1.
-- **Como a FGV costuma cobrar:** A cobrança tende a misturar conceito e aplicação: nome técnico, finalidade pericial, ordem de preservação e diferença entre vestígio, indício e evidência.
-- **O que mais confunde candidatos:** misturar áreas da Medicina Legal; confundir identificação com reconhecimento; tratar vestígio e evidência como sinônimos absolutos.
-- **Particularidade para Papiloscopista:** Este é o núcleo de identidade do cargo. Papiloscopia, identificação humana, local de crime, cadeia de custódia e documentação devem ter prioridade máxima.
+Este item cobre a ciência da morte (tanatologia), o exame do cadáver (necropsia), a identificação de substâncias tóxicas (toxicologia) e a avaliação de transtornos mentais com relevância jurídica (psicopatologia forense) — um bloco denso, central para qualquer perícia envolvendo óbito e para a compreensão da capacidade mental de investigados.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q43: fenômenos cadavéricos e cronotanatognose (mancha verde, esqueletização, circulação póstuma de Brouardel). |
 
-- **Tanatologia, morte, fenômenos cadavéricos e necropsia.** Revise morte real/aparente, fenômenos abióticos imediatos e consecutivos, rigidez, livores, putrefação, necropsia, intoxicações, coleta toxicológica, imputabilidade, simulação e dissimulação.
-- **Toxicologia forense, intoxicações e exames toxicológicos.** Revise morte real/aparente, fenômenos abióticos imediatos e consecutivos, rigidez, livores, putrefação, necropsia, intoxicações, coleta toxicológica, imputabilidade, simulação e dissimulação.
-- **Psicopatologia forense, imputabilidade penal e perícia psiquiátrica.** Revise morte real/aparente, fenômenos abióticos imediatos e consecutivos, rigidez, livores, putrefação, necropsia, intoxicações, coleta toxicológica, imputabilidade, simulação e dissimulação.
-- **Prioridade FGV:** Fenômenos cadavéricos têm sequência temporal.
-- **Prioridade FGV:** Necropsia busca causa da morte e achados correlatos.
-- **Prioridade FGV:** Toxicologia exige amostra adequada e cadeia de custódia.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Fenômenos cadavéricos: a linha do tempo da morte
 
-### Visão de estudo para este tema
+A tanatologia forense organiza os fenômenos que ocorrem no corpo após a morte em fases sucessivas:
 
-Ciências Forenses é o bloco mais identitário para Papiloscopista. O estudo precisa separar áreas: Medicina Legal, identificação humana, papiloscopia, criminalística, documentoscopia, criminologia e investigação tecnológica. Cada uma tem objeto, método e vocabulário próprio.
+**Fenômenos abióticos imediatos** (logo após a morte): cessação da respiração e circulação, perda da consciência e da sensibilidade — os sinais que definem o momento da morte clínica.
 
-A FGV tende a cobrar diferença fina: vestígio, indício e evidência; identificação e reconhecimento; local imediato, mediato e relacionado; papiloscopia e outras biometrias; falsificação documental e alteração material; vitimização primária, secundária e terciária.
+**Fenômenos abióticos consecutivos** (nas primeiras horas): resfriamento do corpo (algor mortis), rigidez cadavérica (rigor mortis, instalação progressiva e depois resolução), livores de hipóstase (manchas arroxeadas por acúmulo de sangue nas partes mais baixas do corpo, por ação da gravidade) e desidratação dos tecidos.
 
-O conteúdo deve ser lido com mentalidade de procedimento. O que a prova quer saber é: quem faz, para quê, com que cuidado, em qual sequência e com qual limitação.
+**Fenômenos transformativos**: dividem-se em **destrutivos** (autólise, putrefação) e **conservadores** (mumificação, saponificação/adipocera, calcificação, em condições ambientais específicas).
 
-**Aplicação ao cargo:** O Papiloscopista trabalha na individualização humana e na produção técnica de elementos que precisam ser confiáveis, rastreáveis e compreensíveis no processo.
+### Putrefação: as fases e seus sinais característicos
 
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
+A putrefação é o fenômeno transformativo destrutivo mais estudado para fins de cronotanatognose, e passa por fases sucessivas:
 
-### O que mais merece atenção
-
-- papiloscopia e identificação humana
-- cadeia de custódia e local de crime
-- vestígio, indício, evidência e prova
-- documentoscopia e grafoscopia
-- tanatologia, traumatologia e toxicologia básicas
-- criminologia, vitimologia e criminologia digital
-
-### Conteúdo completo orientado ao edital
-
-### 1. Tanatologia, morte, fenômenos cadavéricos e necropsia.
-
-**O que significa:** Tanatologia estuda morte e fenômenos cadavéricos; necropsia busca causa mortis e achados; toxicologia estuda agentes tóxicos; psicopatologia forense relaciona transtornos mentais à imputabilidade e perícia psiquiátrica.
-
-**Como estudar para a prova:** Revise morte real/aparente, fenômenos abióticos imediatos e consecutivos, rigidez, livores, putrefação, necropsia, intoxicações, coleta toxicológica, imputabilidade, simulação e dissimulação.
-
-**Como a FGV pode cobrar:** A banca cobra sequência temporal, diferença de fenômenos cadavéricos, finalidade do exame e conceito de imputabilidade.
-
-**Cuidado de prova:** Fenômeno cadavérico não deve ser usado fora do contexto temporal; intoxicação exige amostra e método compatíveis.
-
-### 2. Toxicologia forense, intoxicações e exames toxicológicos.
-
-**O que significa:** Tanatologia estuda morte e fenômenos cadavéricos; necropsia busca causa mortis e achados; toxicologia estuda agentes tóxicos; psicopatologia forense relaciona transtornos mentais à imputabilidade e perícia psiquiátrica.
-
-**Como estudar para a prova:** Revise morte real/aparente, fenômenos abióticos imediatos e consecutivos, rigidez, livores, putrefação, necropsia, intoxicações, coleta toxicológica, imputabilidade, simulação e dissimulação.
-
-**Como a FGV pode cobrar:** A banca cobra sequência temporal, diferença de fenômenos cadavéricos, finalidade do exame e conceito de imputabilidade.
-
-**Cuidado de prova:** Fenômeno cadavérico não deve ser usado fora do contexto temporal; intoxicação exige amostra e método compatíveis.
-
-### 3. Psicopatologia forense, imputabilidade penal e perícia psiquiátrica.
-
-**O que significa:** Tanatologia estuda morte e fenômenos cadavéricos; necropsia busca causa mortis e achados; toxicologia estuda agentes tóxicos; psicopatologia forense relaciona transtornos mentais à imputabilidade e perícia psiquiátrica.
-
-**Como estudar para a prova:** Revise morte real/aparente, fenômenos abióticos imediatos e consecutivos, rigidez, livores, putrefação, necropsia, intoxicações, coleta toxicológica, imputabilidade, simulação e dissimulação.
-
-**Como a FGV pode cobrar:** A banca cobra sequência temporal, diferença de fenômenos cadavéricos, finalidade do exame e conceito de imputabilidade.
-
-**Cuidado de prova:** Fenômeno cadavérico não deve ser usado fora do contexto temporal; intoxicação exige amostra e método compatíveis.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Fase | Sinal característico |
 |---|---|
-| Fenômenos cadavéricos têm sequência temporal. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Necropsia busca causa da morte e achados correlatos. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Toxicologia exige amostra adequada e cadeia de custódia. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Coloração (cromática) | Mancha verde abdominal (região da fossa ilíaca direita), geralmente entre 18 e 24 horas após a morte em condições ambientais médias — o primeiro sinal visível externo de putrefação |
+| Gasosa (enfisematosa) | Formação de gases pela ação bacteriana, causando distensão do corpo, protrusão da língua e dos olhos |
+| Coliquativa | Liquefação dos tecidos moles |
+| Esqueletização | Redução do corpo aos ossos, após consumo/desaparecimento completo das partes moles — prazo altamente variável conforme temperatura, umidade, presença de insetos e outros fatores ambientais, sem um período fixo universal |
 
-### Diferenças que a banca costuma trocar
+Um fenômeno associado à fase de coloração é a **circulação póstuma de Brouardel** (ou rede vascular póstuma): o desenho da rede venosa superficial se torna visível através da pele, por hemólise e infiltração da hemoglobina nos tecidos ao redor dos vasos — ocorre na mesma fase em que surge a mancha verde abdominal.
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+### Cronotanatognose: estimando a data da morte
+
+Cronotanatognose é a técnica de estimar o intervalo de tempo decorrido desde a morte, combinando múltiplos indicadores (temperatura corporal, rigidez, livores, grau de putrefação, entomologia forense — o estágio de desenvolvimento de larvas de insetos no cadáver). Ponto central para prova: nenhum desses indicadores fornece hora exata isoladamente — são faixas aproximadas, influenciadas por temperatura ambiente, umidade, exposição a intempéries, causa da morte e outros fatores; por isso a estimativa combina vários sinais para reduzir a margem de erro.
+
+### Necropsia (autópsia médico-legal)
+
+A necropsia é o exame interno e externo do cadáver realizado para determinar causa da morte, mecanismo de morte e, quando pertinente, a manter cadeia de custódia de vestígios encontrados no próprio corpo. Segue roteiro sistemático (exame externo completo, depois abertura das cavidades craniana, torácica e abdominal), documentando achados relevantes para a investigação — lesões, sinais de doença prévia, presença de substâncias.
+
+### Toxicologia forense
+
+A toxicologia forense identifica e quantifica substâncias tóxicas (venenos, drogas, medicamentos em superdosagem, álcool) envolvidas em uma morte ou intoxicação, e correlaciona a concentração encontrada com o efeito fisiológico esperado, para ajudar a estabelecer se a substância foi causa, contribuiu para, ou é irrelevante para o óbito. Trabalha com amostras biológicas (sangue, urina, conteúdo gástrico, vísceras) coletadas durante a necropsia, exigindo cadeia de custódia rigorosa desde a coleta.
+
+### Psicopatologia forense
+
+A psicopatologia forense avalia transtornos mentais com relevância jurídica, sobretudo para determinar:
+
+- **Imputabilidade penal**: se o agente, ao tempo da conduta, era inteiramente capaz de entender o caráter ilícito do fato e de determinar-se conforme esse entendimento (elemento central da responsabilidade penal, relacionado à inimputabilidade por doença mental prevista no Código Penal).
+- **Capacidade civil**: se a pessoa tem discernimento para praticar atos da vida civil.
+- **Perícia psiquiátrica retrospectiva**: em casos de interesse jurídico (por exemplo, contestação de testamento), pode ser necessário avaliar retrospectivamente a capacidade mental de uma pessoa já falecida, a partir de prontuários, testemunhos e documentação médica prévia.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Tanatologia, morte, fenômenos cadavéricos e necropsia. | Fenômeno cadavérico não deve ser usado fora do contexto temporal; intoxicação exige amostra e método compatíveis. | A banca cobra sequência temporal, diferença de fenômenos cadavéricos, finalidade do exame e conceito de imputabilidade. |
-| Toxicologia forense, intoxicações e exames toxicológicos. | Fenômeno cadavérico não deve ser usado fora do contexto temporal; intoxicação exige amostra e método compatíveis. | A banca cobra sequência temporal, diferença de fenômenos cadavéricos, finalidade do exame e conceito de imputabilidade. |
-| Psicopatologia forense, imputabilidade penal e perícia psiquiátrica. | Fenômeno cadavérico não deve ser usado fora do contexto temporal; intoxicação exige amostra e método compatíveis. | A banca cobra sequência temporal, diferença de fenômenos cadavéricos, finalidade do exame e conceito de imputabilidade. |
+| Ordenar corretamente as fases da putrefação e seus sinais característicos | Evidenciado na questão real PCMG Q43 | Monte a sequência: coloração (mancha verde) → gasosa → coliquativa → esqueletização |
+| Associar a circulação póstuma de Brouardel à fase de coloração da putrefação | Ponto específico já cobrado em prova real | Lembre: Brouardel e mancha verde abdominal aparecem na mesma fase (coloração) |
+| Não fixar prazo exato/rígido para esqueletização | Erro comum de quem decora número sem contexto | Lembre que o prazo é altamente variável conforme ambiente, sem duração fixa universal |
+| Diferenciar fenômenos abióticos (imediatos/consecutivos) de fenômenos transformativos (destrutivos/conservadores) | Organiza toda a linha do tempo da tanatologia | Classifique cada fenômeno cadavérico numa dessas quatro categorias |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Fenômenos abióticos (sinais imediatos/consecutivos) | Fenômenos transformativos (putrefação e afins, mais tardios) | Ambos são "sinais de morte" no corpo | Abióticos aparecem logo após a morte (resfriamento, rigidez, livores); transformativos são fenômenos mais tardios de destruição/conservação do corpo |
+| Putrefação (fenômeno destrutivo) | Mumificação/saponificação (fenômenos conservadores) | Ambos são fenômenos transformativos tardios | Putrefação destrói os tecidos; mumificação e saponificação, em condições ambientais específicas, preservam o corpo de forma diferente |
+| Toxicologia forense (identifica substância) | Necropsia (exame geral do corpo) | Ambas investigam causa da morte | Necropsia é o exame geral; toxicologia é uma perícia especializada em substâncias, muitas vezes solicitada a partir de achados da necropsia |
+| Imputabilidade penal | Capacidade civil | Ambas envolvem avaliação de capacidade mental | Imputabilidade trata de responsabilidade penal por um fato criminoso; capacidade civil trata da aptidão para praticar atos da vida civil |
 
-### Roteiro de estudo de alta retenção
+## Como caiu na prova: questão comentada
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+**Fonte: FGV, PCMG Perito Criminal Área I, Tipo 1, 2024, questão 43 (gabarito oficial: C)**
 
-### Lacunas honestas
+> Acerca da cronotanatognose, avalie as afirmativas: I. A mancha verde abdominal marca o início da putrefação e tem início entre 8 a 12 horas após a morte. II. A fase de esqueletização termina após três meses quando o indivíduo já está totalmente esqueletizado. III. A circulação póstuma de Brouardel acontece na mesma fase em que surge a mancha verde abdominal, ou seja, na fase de coloração. Está correto o que se afirma em
+>
+> (A) I, apenas. (B) II, apenas. (C) III, apenas. (D) II e III, apenas. (E) I, II e III.
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Tanatologia, morte, fenômenos cadavéricos e necropsia. | Revise morte real/aparente, fenômenos abióticos imediatos e consecutivos, rigidez, livores, putrefação, necropsia, intoxicações, coleta toxicológica, imputabilidade, simulação e dissimulação. | Fenômeno cadavérico não deve ser usado fora do contexto temporal; intoxicação exige amostra e método compatíveis. |
-| Toxicologia forense, intoxicações e exames toxicológicos. | Revise morte real/aparente, fenômenos abióticos imediatos e consecutivos, rigidez, livores, putrefação, necropsia, intoxicações, coleta toxicológica, imputabilidade, simulação e dissimulação. | Fenômeno cadavérico não deve ser usado fora do contexto temporal; intoxicação exige amostra e método compatíveis. |
-| Psicopatologia forense, imputabilidade penal e perícia psiquiátrica. | Revise morte real/aparente, fenômenos abióticos imediatos e consecutivos, rigidez, livores, putrefação, necropsia, intoxicações, coleta toxicológica, imputabilidade, simulação e dissimulação. | Fenômeno cadavérico não deve ser usado fora do contexto temporal; intoxicação exige amostra e método compatíveis. |
-
-| Ponto quente | Treino recomendado |
-|---|---|
-| Fenômenos cadavéricos têm sequência temporal. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Necropsia busca causa da morte e achados correlatos. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Toxicologia exige amostra adequada e cadeia de custódia. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+1. **Avalie I**: o intervalo real da mancha verde abdominal costuma ser situado mais tardiamente (em torno de 18 a 24 horas em condições médias) do que "8 a 12 horas" — a afirmativa antecipa demais o prazo. **Falsa**.
+2. **Avalie II**: a duração da esqueletização não tem prazo fixo de "três meses" — varia muito conforme temperatura, umidade, exposição a insetos e outros fatores ambientais. Fixar um prazo rígido é um erro típico de generalização. **Falsa**.
+3. **Avalie III**: a circulação póstuma de Brouardel de fato ocorre na mesma fase (coloração) em que surge a mancha verde abdominal — ambas ligadas ao processo inicial de putrefação por hemólise e ação bacteriana. **Verdadeira**.
+4. **Conclusão**: apenas III está correta. **C é o gabarito**.
 
 ## Pegadinhas da banca
 
-- Dizer que papiloscopia depende só de fotografia, sem comparação técnica.
-- Confundir vestígio encontrado com prova já valorada no processo.
-- Achar que local de crime preservado é responsabilidade apenas do perito.
-- Misturar criminologia crítica, positivista e teoria do etiquetamento.
-- Prioridade de atenção: Fenômenos cadavéricos têm sequência temporal.
-- Prioridade de atenção: Necropsia busca causa da morte e achados correlatos.
-- Prioridade de atenção: Toxicologia exige amostra adequada e cadeia de custódia.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Fixar prazos exatos e rígidos para fenômenos cadavéricos que na realidade são altamente variáveis conforme o ambiente (esqueletização, mancha verde).
+- Confundir fenômenos abióticos consecutivos (livores, rigidez) com fenômenos transformativos (putrefação).
+- Tratar putrefação e mumificação como o mesmo tipo de fenômeno (a primeira é destrutiva, a segunda conservadora).
+- Achar que a psicopatologia forense só se aplica a réus vivos, ignorando perícias psiquiátricas retrospectivas.
+- Confundir imputabilidade penal com capacidade civil.
 
 ## Como resolver questões
 
-1. Comece separando a área pericial: identificação, local de crime, documento, lesão, morte, toxicologia ou criminologia.
-2. Procure o verbo do enunciado: preservar, coletar, comparar, identificar, reconhecer, classificar ou interpretar.
-3. Quando houver cadeia de custódia, pense em rastreabilidade e integridade desde o reconhecimento do vestígio.
-4. Em criminologia, diferencie escola, teoria, objeto e política criminal.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para cronotanatognose, organize mentalmente a linha do tempo (abióticos imediatos → consecutivos → transformativos) antes de julgar qualquer afirmativa sobre prazo.
+2. Desconfie de prazos exatos e fechados para fenômenos naturais influenciados por ambiente (temperatura, umidade) — normalmente são faixas aproximadas.
+3. Para toxicologia, lembre que a substância encontrada precisa ser correlacionada com concentração e efeito fisiológico, não apenas "estar presente".
+4. Para psicopatologia forense, identifique se a questão trata de responsabilidade penal (imputabilidade) ou de capacidade civil antes de responder.
+
+## Lacunas honestas
+
+- Ainda não há questão real localizada sobre necropsia (roteiro do exame), toxicologia forense especificamente, ou psicopatologia forense/imputabilidade penal neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Ciências Forenses 2.1.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei diferenciar fenômenos abióticos (imediatos/consecutivos) de fenômenos transformativos (destrutivos/conservadores).
+- [ ] Sei as fases da putrefação em ordem (coloração, gasosa, coliquativa, esqueletização).
+- [ ] Sei que a circulação póstuma de Brouardel ocorre na fase de coloração, junto com a mancha verde abdominal.
+- [ ] Sei que os prazos de fenômenos cadavéricos são faixas aproximadas, não valores fixos e universais.
+- [ ] Sei o objetivo central da necropsia e da toxicologia forense.
+- [ ] Sei diferenciar imputabilidade penal de capacidade civil na psicopatologia forense.
+- [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
+- [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
 
@@ -170,13 +127,17 @@ O conteúdo deve ser lido com mentalidade de procedimento. O que a prova quer sa
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Medicina legal.pdf`
-- `Questões FGV/Questoes Criminalistica.pdf`
-- `Questões FGV/Questoes Criminologia.pdf`
-- `Questões FGV/Questoes Crime.pdf`
+- FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questão 43. Gabarito definitivo publicado pela FGV.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Material local**
+
+- `Materiais QB/` (materiais de ciências forenses disponíveis localmente)
+
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. A questão citada é real, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.

@@ -2,19 +2,69 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 2 questões.
+**Itens neste banco:** 4 questões (2 questões oficiais FGV com fonte e gabarito conferidos + 2 questões autorais no padrão FGV).
 
-## Foco FGV
+## Fontes reais usadas neste banco
 
-Estas questões são autorais e calibradas pelo padrão observado em provas FGV policiais/periciais, especialmente SEAD/AP 2022 Papiloscopista, PCPI 2025, PCMG 2024, PCAM 2021, PCRJ 2021 e PCRN 2020. A finalidade é treinar o raciocínio que a banca costuma exigir, sem copiar caderno oficial inteiro.
+- FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 
-## Fontes de padrão
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 41 (gabarito oficial: C)</p>
+<p><strong>1. Uma esfera oscila horizontalmente em movimento harmônico simples presa à extremidade de uma mola. Seu deslocamento pode ser descrito pela equação X = 0,2.cos(3π.t + π), medida no sistema internacional de unidades. A velocidade da esfera quando t = 1 s é</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-032-seadap-q41" value="A"> A. – 1,8 m/s.</label>
+<label class="quiz-option"><input type="radio" name="fgv-032-seadap-q41" value="B"> B. – 0,6 m/s.</label>
+<label class="quiz-option"><input type="radio" name="fgv-032-seadap-q41" value="C"> C. 0.</label>
+<label class="quiz-option"><input type="radio" name="fgv-032-seadap-q41" value="D"> D. + 0,6 m/s.</label>
+<label class="quiz-option"><input type="radio" name="fgv-032-seadap-q41" value="E"> E. + 1,8 m/s.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV SEAD/AP Papiloscopista 2022, questão 41. Gabarito oficial: C.</p>
+<p><strong>Como pensar:</strong> Derive a posição para achar a velocidade: v(t) = -0,6π·sen(3πt+π). Calcule a fase em t=1 e o valor do seno.</p>
+<p><strong>Por que a C deve ser marcada:</strong> Fase em t=1: 3π+π=4π. sen(4π)=0. Logo v(1)=0.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Resultado de erro no cálculo da fase ou da derivada.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Resultado de erro de cálculo.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> Cálculo correto: velocidade nula neste instante.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Resultado de erro de cálculo.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Resultado de erro de cálculo.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Esquecer de derivar a posição (usando diretamente a equação de X, sem calcular v) ou errar o cálculo da fase em t=1, que resulta em múltiplo de 2π (seno nulo).</p>
+</div>
+</div>
 
-- Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 49 (gabarito oficial: D)</p>
+<p><strong>2. A figura representa dois anteparos separados por uma distância D. Sobre o primeiro anteparo incide um feixe de raios luminosos horizontais, de luz monocromática. No anteparo existem duas fendas F1 e F2, separadas por uma distância d, muito menor que D, através das quais a luz se difrata e forma, sobre o segundo anteparo, uma figura de interferência. O ponto P é um dos pontos mais próximos do ponto central O, equidistante das fontes F1 e F2, onde se localiza uma franja escura. A diferença de percurso no ponto P entre as duas luzes provenientes das fendas F1 e F2 é 2,4×10⁻⁷m. A tabela mostra o comprimento de onda de diferentes cores (×10⁻⁷m): vermelha 6,5; amarela 5,7; verde 5,4; azul 4,8; violeta 4,5. Assim, a cor usada no experimento é</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-032-seadap-q49" value="A"> A. vermelha.</label>
+<label class="quiz-option"><input type="radio" name="fgv-032-seadap-q49" value="B"> B. amarela.</label>
+<label class="quiz-option"><input type="radio" name="fgv-032-seadap-q49" value="C"> C. verde.</label>
+<label class="quiz-option"><input type="radio" name="fgv-032-seadap-q49" value="D"> D. azul.</label>
+<label class="quiz-option"><input type="radio" name="fgv-032-seadap-q49" value="E"> E. violeta.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: FGV SEAD/AP Papiloscopista 2022, questão 49. Gabarito oficial: D.</p>
+<p><strong>Como pensar:</strong> Para a franja escura mais próxima do centro, a diferença de percurso é λ/2. Isole λ e compare com a tabela.</p>
+<p><strong>Por que a D deve ser marcada:</strong> λ = 2×2,4×10⁻⁷ = 4,8×10⁻⁷ m, que corresponde à cor azul na tabela.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> λ=6,5×10⁻⁷ m não corresponde ao valor calculado.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> λ=5,7×10⁻⁷ m não corresponde ao valor calculado.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> λ=5,4×10⁻⁷ m não corresponde ao valor calculado.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> λ=4,8×10⁻⁷ m corresponde exatamente ao valor calculado.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> λ=4,5×10⁻⁷ m não corresponde ao valor calculado.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Usar a condição de franja clara (Δ=m·λ) em vez da condição de franja escura (Δ=λ/2 para a mais próxima do centro), levando a um comprimento de onda incorreto.</p>
+</div>
+</div>
+
+## Questões autorais de reforço
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>1. Em revelação ou inspeção por fluorescência, a luz ultravioleta pode ser usada porque:</strong></p>
+<p><strong>3. Em revelação ou inspeção por fluorescência, a luz ultravioleta pode ser usada porque:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-032" value="A"> A. sempre torna qualquer superfície radioativa.</label>
 <label class="quiz-option"><input type="radio" name="fgv-032" value="B"> B. pode excitar determinadas substâncias, que emitem luz em outro comprimento de onda.</label>
@@ -40,19 +90,19 @@ Estas questões são autorais e calibradas pelo padrão observado em provas FGV 
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>2. No espectro eletromagnético, considerando luz visível, menor comprimento de onda corresponde, em regra, a:</strong></p>
+<p><strong>4. No espectro eletromagnético, considerando luz visível, menor comprimento de onda corresponde, em regra, a:</strong></p>
 <div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="fgv-072" value="A"> A. menor frequência e menor energia.</label>
-<label class="quiz-option"><input type="radio" name="fgv-072" value="B"> B. maior frequência e maior energia.</label>
-<label class="quiz-option"><input type="radio" name="fgv-072" value="C"> C. ausência de propagação no ar.</label>
-<label class="quiz-option"><input type="radio" name="fgv-072" value="D"> D. velocidade infinita.</label>
-<label class="quiz-option"><input type="radio" name="fgv-072" value="E"> E. transformação automática em som.</label>
+<label class="quiz-option"><input type="radio" name="fgv-032-b" value="A"> A. menor frequência e menor energia.</label>
+<label class="quiz-option"><input type="radio" name="fgv-032-b" value="B"> B. maior frequência e maior energia.</label>
+<label class="quiz-option"><input type="radio" name="fgv-032-b" value="C"> C. ausência de propagação no ar.</label>
+<label class="quiz-option"><input type="radio" name="fgv-032-b" value="D"> D. velocidade infinita.</label>
+<label class="quiz-option"><input type="radio" name="fgv-032-b" value="E"> E. transformação automática em som.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Questão autoral no padrão FGV; não é reprodução literal de caderno oficial.</p>
 <p><strong>Como pensar:</strong> Use c = lambda x f e energia proporcional à frequência.</p>
-<p><strong>Por que a alternativa correta está certa:</strong> A alternativa B está certa porque, no mesmo meio, menor comprimento de onda implica maior frequência e maior energia.</p>
+<p><strong>Por que a alternativa correta está certa:</strong> No mesmo meio, menor comprimento de onda implica maior frequência e maior energia.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> Incorreta. Inverte a relação.</li>
 <li><strong>B.</strong> Correta. Frequência e energia aumentam quando o comprimento de onda diminui.</li>
@@ -66,5 +116,5 @@ Estas questões são autorais e calibradas pelo padrão observado em provas FGV 
 
 ## Próxima ampliação
 
-- Inserir questões oficiais FGV quando o enunciado, imagens e gabarito estiverem conferidos.
-- Adicionar questões semelhantes de PF/Cebraspe, AOCP e IBFC apenas quando preencherem lacuna técnica do tema.
+- Buscar questão real sobre ondas estacionárias/harmônicos em corda vibrante.
+- Adicionar questões reais de PCRJ, PCRN e PCPI assim que os cadernos forem localizados e o gabarito conferido.

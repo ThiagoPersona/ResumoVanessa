@@ -1,141 +1,122 @@
 # 031 - Óptica e formação de imagens
 
-> **Base do edital:** Conhecimentos Específicos; Física 4.1.  
-> **Peso da disciplina:** 5 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- A lei de Snell-Descartes (n₁·senθ₁ = n₂·senθ₂) rege toda refração — e tem uma consequência pouco intuitiva, mas muito cobrada: atravessar camadas paralelas de meios diferentes (como vidro dentro d'água) não muda o ângulo final, se o raio volta ao mesmo meio de destino.
+- Lentes convergentes formam imagem real quando o objeto está além do foco; a posição da lente (mais perto ou mais longe do objeto) muda o tamanho da imagem projetada, mantendo o produto de certas grandezas constante.
+- Sistema óptico afocal (usado em luneta/telescópio, por exemplo) combina duas lentes de forma que a distância entre elas seja igual à soma dos focos — ponto de cálculo direto e recorrente.
+- Vergência (medida em dioptrias) é o inverso da distância focal (C = 1/f) — lentes convergentes têm vergência positiva; divergentes, negativa.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Física soma 5 questões; este capítulo concentra Física 4.1.
-- **Como a FGV costuma cobrar:** A física do edital é aplicada: luz, imagem, ondas, eletricidade e equipamentos usados na identificação humana.
-- **O que mais confunde candidatos:** trocar reflexão por refração; achar que UV é luz visível comum; confundir fluorescência com fosforescência; decorar fórmula sem entender fenômeno.
-- **Particularidade para Papiloscopista:** A conexão com Papiloscopia aparece em fotografia, iluminação, fluorescência, sensores, leitores biométricos e equipamentos de captura.
+Óptica é diretamente aplicada à área pericial: exame de vestígios com lupa/microscópio, fotografia forense, sistemas ópticos de equipamentos de captura de imagem — o entendimento de como a luz se comporta ao atravessar lentes e meios diferentes é pré-requisito técnico para o uso correto desses instrumentos.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q45: ângulos de refração de um raio de luz atravessando meios de índices de refração diferentes antes de chegar à água. Q47: cálculo da vergência de uma lente divergente num sistema óptico afocal. |
 
-- **Natureza da luz, reflexão, refração, espelhos, lentes e formação de imagens.** Propagação retilínea, reflexão regular/difusa, refração, índice de refração, lentes convergentes/divergentes, foco, aumento, imagem real/virtual e nitidez.
-- **Prioridade FGV:** Reflexão, refração e absorção geram efeitos diferentes.
-- **Prioridade FGV:** Lentes e espelhos podem formar imagens reais ou virtuais.
-- **Prioridade FGV:** Fotografia pericial exige escala, foco e iluminação.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Lei de Snell-Descartes: a base da refração
 
-### Visão de estudo para este tema
+Quando um raio de luz passa de um meio para outro com índice de refração diferente, ele muda de direção (refrata), segundo a lei de Snell-Descartes:
 
-Física aparece no edital de forma aplicada. O candidato deve entender luz, formação de imagem, ondas eletromagnéticas, ultravioleta, fluorescência, eletricidade e equipamentos usados para capturar ou revelar informação.
+**n₁ · sen(θ₁) = n₂ · sen(θ₂)**
 
-A FGV pode cobrar conceito simples em enunciado técnico: reflexão versus refração, lente versus espelho, fluorescência versus mera iluminação, corrente versus tensão, resolução versus tamanho do arquivo.
+onde n₁ e n₂ são os índices de refração dos meios de origem e destino, e θ₁, θ₂ são os ângulos de incidência e refração, medidos a partir da normal à superfície.
 
-O foco não é cálculo pesado. O foco é reconhecer o fenômeno e sua utilidade em fotografia, sensores, sistemas biométricos e equipamentos ópticos/eletrônicos.
+**Consequência importante para prova**: se um raio de luz atravessa uma sequência de meios com faces **paralelas** entre si e retorna ao mesmo meio de destino final, o ângulo de saída depende **apenas dos índices de refração do meio inicial e do meio final** — os meios intermediários (por mais que desviem o raio internamente) não alteram o ângulo final, porque os desvios se cancelam matematicanente ao longo do percurso paralelo. Esse é um resultado que surpreende quem não domina a lei de Snell aplicada em cadeia.
 
-**Aplicação ao cargo:** Na identificação humana, a física aparece na iluminação correta, no registro fotográfico, na leitura de sensores e no uso de equipamentos ópticos e eletrônicos.
+### Lentes: convergentes e divergentes
 
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
-
-### O que mais merece atenção
-
-- reflexão, refração, espelhos e lentes
-- formação de imagens e fotografia digital
-- UV, fluorescência e espectro eletromagnético
-- carga, corrente, tensão, resistência e circuitos simples
-- sensores e leitores biométricos
-
-### Conteúdo completo orientado ao edital
-
-### 1. Natureza da luz, reflexão, refração, espelhos, lentes e formação de imagens.
-
-**O que significa:** Óptica estuda comportamento da luz. Reflexão ocorre quando a luz retorna ao meio; refração ocorre quando muda de meio e velocidade; lentes e espelhos formam imagens com características próprias.
-
-**Como estudar para a prova:** Propagação retilínea, reflexão regular/difusa, refração, índice de refração, lentes convergentes/divergentes, foco, aumento, imagem real/virtual e nitidez.
-
-**Como a FGV pode cobrar:** A banca cobra identificação do fenômeno ou efeito prático em equipamento óptico.
-
-**Cuidado de prova:** Imagem maior não significa necessariamente melhor; qualidade depende de foco, iluminação, resolução e ausência de distorção.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
-|---|---|
-| Reflexão, refração e absorção geram efeitos diferentes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Lentes e espelhos podem formar imagens reais ou virtuais. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Fotografia pericial exige escala, foco e iluminação. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-
-### Diferenças que a banca costuma trocar
-
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Tipo | Formato típico | Efeito sobre raios paralelos |
 |---|---|---|
-| Natureza da luz, reflexão, refração, espelhos, lentes e formação de imagens. | Imagem maior não significa necessariamente melhor; qualidade depende de foco, iluminação, resolução e ausência de distorção. | A banca cobra identificação do fenômeno ou efeito prático em equipamento óptico. |
+| Convergente | Mais espessa no centro | Converge os raios para um ponto focal real |
+| Divergente | Mais fina no centro | Diverge os raios, com foco virtual |
 
-### Aplicação direta para Papiloscopista
+**Vergência** (C) é o inverso da distância focal (f), medida em dioptrias (di) quando f está em metros: **C = 1/f**. Lentes convergentes têm vergência positiva; divergentes, negativa.
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+### Formação de imagens por lentes convergentes
 
-### Roteiro de estudo de alta retenção
+Uma lente convergente forma imagem **real** (pode ser projetada num anteparo) quando o objeto está além do foco; forma imagem **virtual** (não pode ser projetada, só vista através da lente) quando o objeto está entre o foco e a lente (como numa lupa).
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+**Duas posições, mesma tela**: para um objeto e um anteparo a distância fixa entre si, existem duas posições possíveis da lente convergente que produzem imagem nítida no anteparo (uma mais perto do objeto, outra mais perto do anteparo) — fenômeno conhecido como método de Bessel. Nessas duas posições, as imagens têm tamanhos diferentes (uma ampliada, outra reduzida), mas existe uma relação fixa entre a altura do objeto e as alturas das duas imagens formadas, que pode ser explorada para medir a distância focal experimentalmente sem conhecer previamente a posição exata do foco.
 
-### Lacunas honestas
+### Sistemas ópticos com duas lentes: o sistema afocal
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
+Quando duas lentes (uma convergente e outra divergente, ou duas convergentes) são combinadas de modo que o foco imagem da primeira coincida com o foco objeto da segunda, o sistema resultante é chamado **afocal**: raios paralelos que entram no sistema saem paralelos (não convergem para um ponto focal único) — é o princípio óptico por trás de luneta e telescópio.
 
-## Tabelas e esquemas
+**Condição para sistema afocal com duas lentes delgadas**: a distância entre as lentes (d) deve ser igual à soma algébrica das distâncias focais das duas lentes: **d = f₁ + f₂** (respeitando o sinal de cada foco: positivo para convergente, negativo para divergente).
 
-| Ponto do edital | O que revisar | Pegadinha provável |
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Natureza da luz, reflexão, refração, espelhos, lentes e formação de imagens. | Propagação retilínea, reflexão regular/difusa, refração, índice de refração, lentes convergentes/divergentes, foco, aumento, imagem real/virtual e nitidez. | Imagem maior não significa necessariamente melhor; qualidade depende de foco, iluminação, resolução e ausência de distorção. |
+| Aplicar a lei de Snell em sequência de meios paralelos, reconhecendo que o ângulo final só depende dos meios inicial e final | Evidenciado na questão real SEAD/AP Q45 | Lembre: n_inicial·senθ_inicial = n_final·senθ_final, independente do que há no meio do caminho, se as faces são paralelas |
+| Calcular a vergência de uma lente a partir da condição de sistema afocal (d = f₁+f₂) | Evidenciado na questão real SEAD/AP Q47 | Converta vergência em foco (f=1/C), monte a equação afocal, resolva para o foco desconhecido, converta de volta para vergência |
+| Diferenciar lente convergente de divergente pelo sinal da vergência/foco | Base de qualquer cálculo com lentes | Lembre: convergente = vergência positiva; divergente = vergência negativa |
+| Reconhecer a formação de imagem real x virtual conforme a posição do objeto em relação ao foco | Base teórica de óptica geométrica | Associe: além do foco = imagem real; entre o foco e a lente = imagem virtual |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Reflexão, refração e absorção geram efeitos diferentes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Lentes e espelhos podem formar imagens reais ou virtuais. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Fotografia pericial exige escala, foco e iluminação. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+## Diferenças que a banca costuma trocar
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Lente convergente (vergência positiva) | Lente divergente (vergência negativa) | Ambas são "lentes esféricas delgadas" | Convergente tem foco real e vergência positiva; divergente tem foco virtual e vergência negativa |
+| Imagem real (pode ser projetada) | Imagem virtual (só vista através da lente) | Ambas são "imagens formadas por lente" | Real forma-se além do foco (objeto), projetável; virtual forma-se entre foco e lente, não projetável |
+| Ângulo de refração dependente só dos meios inicial/final | Ângulo de refração alterado por cada meio intermediário | Ambos envolvem "passar por vários meios" | Em meios de faces paralelas, o ângulo final só depende do meio inicial e do final — os intermediários se cancelam |
+| Sistema afocal (raios paralelos entram e saem paralelos) | Sistema com foco único | Ambos são "sistemas de duas lentes" | Afocal exige d=f₁+f₂; sistema comum converge para um ponto focal definido |
+
+## Como caiu na prova: questões comentadas
+
+**Fonte: FGV, SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 45 (gabarito oficial: E)**
+
+> Um raio de luz monocromática, vindo do ar, chega com ângulo de incidência î à superfície livre da água [...]. Sendo o índice de refração da água nA, ele emerge com ângulo de refração r1. Se para chegar à água esse raio tiver que atravessar uma tampa de vidro de índice de refração nV > nA [...], emergirá com ângulo de refração r2. Se, porém, tiver que atravessar uma tampa de plástico de índice nP < nA [...], emergirá com ângulo de refração r3. Esses ângulos de refração são tais que
+>
+> (A) r2 > r1 = r3. (B) r2 < r1 < r3. (C) r2 > r1 > r3. (D) r2 > r1 < r3. (E) r2 = r1 = r3.
+
+1. **Aplique a lei de Snell em cadeia**: em cada caso, o raio parte do ar e termina na água — os meios intermediários (vidro ou plástico) têm faces paralelas às da água.
+2. **Reconheça a propriedade central**: quando o raio atravessa camadas de faces paralelas e retorna ao mesmo meio de destino (água), o ângulo final na água depende **apenas** dos índices do ar e da água — os desvios causados pelos meios intermediários se cancelam matematicamente ao longo do percurso.
+3. **Conclua**: independentemente de o raio atravessar vidro, plástico ou nada além do ar, o ângulo de refração final na água é sempre o mesmo.
+4. **E é o gabarito**: r2 = r1 = r3.
+
+**Fonte: FGV, SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 47 (gabarito oficial: B)**
+
+> Duas lentes esféricas e delgadas, uma convergente de 2 di e outra divergente, de mesmo eixo principal, estão separadas por uma distância de 25cm. Nessas condições, formam um sistema óptico afocal. A convergência da lente divergente é:
+>
+> (A) – 8 di. (B) – 4 di. (C) – 2 di. (D) – 1 di. (E) – 0,5 di.
+
+1. **Converta a vergência da lente convergente em foco**: C₁ = 2 di → f₁ = 1/C₁ = 0,5 m = 50 cm.
+2. **Aplique a condição de sistema afocal**: d = f₁ + f₂ → 25 = 50 + f₂ → f₂ = 25 - 50 = -25 cm = -0,25 m.
+3. **Converta o foco de volta em vergência**: C₂ = 1/f₂ = 1/(-0,25) = -4 di.
+4. **B é o gabarito**: -4 di.
 
 ## Pegadinhas da banca
 
-- Chamar toda emissão luminosa de reflexão.
-- Confundir lente convergente e divergente em formação de imagem.
-- Achar que maior tensão sempre significa maior segurança ou melhor equipamento.
-- Misturar radiação ultravioleta com infravermelho.
-- Prioridade de atenção: Reflexão, refração e absorção geram efeitos diferentes.
-- Prioridade de atenção: Lentes e espelhos podem formar imagens reais ou virtuais.
-- Prioridade de atenção: Fotografia pericial exige escala, foco e iluminação.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Achar que cada meio intermediário atravessado altera o ângulo final de refração, ignorando o cancelamento que ocorre com faces paralelas e retorno ao mesmo meio de destino.
+- Esquecer de converter vergência em foco (e vice-versa) antes de aplicar a fórmula do sistema afocal.
+- Trocar o sinal do foco/vergência da lente divergente (deve ser negativo).
+- Confundir imagem real com virtual ao posicionar o objeto em relação ao foco da lente convergente.
 
 ## Como resolver questões
 
-1. Identifique o fenômeno: luz mudando de meio, refletindo, formando imagem, excitando material ou alimentando circuito.
-2. Em equipamentos, pense no caminho: iluminação, captura, sensor, processamento e armazenamento.
-3. Em circuitos simples, use relações básicas entre tensão, corrente e resistência.
-4. Em ondas, localize a posição no espectro e a aplicação tecnológica.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para refração em sequência de meios, identifique se as faces são paralelas e se o raio retorna ao mesmo meio de destino — se sim, use apenas os índices inicial e final.
+2. Para sistemas de duas lentes, converta sempre vergência em foco (f=1/C) antes de somar ou subtrair distâncias.
+3. Para sistema afocal, aplique d=f₁+f₂, respeitando o sinal de cada foco (positivo para convergente, negativo para divergente).
+4. Para formação de imagem, localize o objeto em relação ao foco da lente antes de decidir se a imagem é real ou virtual.
+
+## Lacunas honestas
+
+- Ainda não há questão real localizada especificamente sobre o método de Bessel (duas posições de lente convergente) neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Física 4.1.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei aplicar a lei de Snell-Descartes (n₁senθ₁=n₂senθ₂).
+- [ ] Sei que, em meios de faces paralelas com retorno ao mesmo meio de destino, o ângulo final só depende dos meios inicial e final.
+- [ ] Sei calcular vergência a partir da distância focal (C=1/f) e vice-versa.
+- [ ] Sei a condição de sistema óptico afocal (d=f₁+f₂) e aplico corretamente os sinais de lente convergente/divergente.
+- [ ] Sei diferenciar imagem real de virtual conforme a posição do objeto em relação ao foco.
+- [ ] Resolvi as duas questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -143,11 +124,17 @@ O foco não é cálculo pesado. O foco é reconhecer o fenômeno e sua utilidade
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Fisica.pdf`
-- `Materiais QB/Física/`
+- FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questões 45 e 47. Gabarito definitivo publicado pela FGV.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Material local**
+
+- `Materiais QB/Física/` (quando disponível)
+
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.

@@ -1,155 +1,101 @@
 # 024 - Documentoscopia, grafoscopia e falsificações
 
-> **Base do edital:** Conhecimentos Específicos; Ciências Forenses 2.2.  
-> **Peso da disciplina:** 10 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- Documentoscopia examina documentos (papel, impressão, suporte físico) em busca de sinais de falsificação ou adulteração; grafoscopia é o ramo específico dedicado à escrita manual (assinatura, letra cursiva).
+- Toda pessoa tem um "gesto gráfico" com características pessoais estáveis (calibre, inclinação, pressão, ritmo) — a grafoscopia compara esses elementos entre um documento questionado e material de referência (padrões gráficos) da pessoa.
+- Falsificação documental se divide em duas grandes famílias: falsidade **material** (altera a forma/estrutura física do documento — rasura, acréscimo, papel falso) e falsidade **ideológica** (o suporte é genuíno, mas o conteúdo declarado é falso).
+- Métodos de exame incluem luz UV/infravermelha, microscopia, exame de tinta e de papel — cada um revela um tipo diferente de alteração ou de característica de autenticidade.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Ciências Forenses soma 10 questões; este capítulo concentra Ciências Forenses 2.2.
-- **Como a FGV costuma cobrar:** A cobrança tende a misturar conceito e aplicação: nome técnico, finalidade pericial, ordem de preservação e diferença entre vestígio, indício e evidência.
-- **O que mais confunde candidatos:** misturar áreas da Medicina Legal; confundir identificação com reconhecimento; tratar vestígio e evidência como sinônimos absolutos.
-- **Particularidade para Papiloscopista:** Este é o núcleo de identidade do cargo. Papiloscopia, identificação humana, local de crime, cadeia de custódia e documentação devem ter prioridade máxima.
+Este item cobre a perícia documental — reconhecer autenticidade, identificar falsificações e comparar autoria de escrita manual. É relevante para casos de fraude documental, falsificação de assinatura, adulteração de contratos e documentos públicos, área de atuação técnica próxima da papiloscopia (ambas comparam padrões individuais para concluir autoria).
 
-## Leitura rápida
+## Conteúdo completo orientado ao edital
 
-- **Documentoscopia, grafoscopia e análise documental.** Revise suporte, impressão, rasura, lavagem química, montagem, falsificação material/ideológica, imitação servil, disfarce gráfico, espontaneidade e padrões de comparação.
-- **Análise de assinaturas e falsificações.** Revise suporte, impressão, rasura, lavagem química, montagem, falsificação material/ideológica, imitação servil, disfarce gráfico, espontaneidade e padrões de comparação.
-- **Prioridade FGV:** Documentoscopia analisa suporte, impressão, alteração e autenticidade.
-- **Prioridade FGV:** Grafoscopia analisa hábito gráfico, não semelhança superficial.
-- **Prioridade FGV:** Falsidade material e ideológica não são a mesma coisa.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+### Documentoscopia: exame técnico de documentos
 
-## Conteúdo essencial
+Documentoscopia é o ramo da criminalística dedicado ao exame técnico de documentos — papel, tinta, impressão, selos, carimbos, elementos de segurança — para determinar autenticidade, identificar adulterações e reconstituir o histórico do documento (o que foi escrito primeiro, o que foi acrescentado depois).
 
-### Visão de estudo para este tema
+**Elementos analisados**: tipo e composição do papel, tipo de tinta (caneta, impressora, carimbo), técnica de impressão, elementos de segurança (marca d'água, fibras de segurança, hologramas), sequência de sobreposição de traços (o que foi escrito por cima do quê).
 
-Ciências Forenses é o bloco mais identitário para Papiloscopista. O estudo precisa separar áreas: Medicina Legal, identificação humana, papiloscopia, criminalística, documentoscopia, criminologia e investigação tecnológica. Cada uma tem objeto, método e vocabulário próprio.
+### Grafoscopia: exame da escrita manual
 
-A FGV tende a cobrar diferença fina: vestígio, indício e evidência; identificação e reconhecimento; local imediato, mediato e relacionado; papiloscopia e outras biometrias; falsificação documental e alteração material; vitimização primária, secundária e terciária.
+Grafoscopia é o ramo da documentoscopia dedicado especificamente à escrita manual — comparar uma assinatura ou texto manuscrito questionado com material gráfico de referência (padrões) de uma pessoa, para determinar se foram produzidos pelo mesmo punho.
 
-O conteúdo deve ser lido com mentalidade de procedimento. O que a prova quer saber é: quem faz, para quê, com que cuidado, em qual sequência e com qual limitação.
+**Características gráficas analisadas**:
 
-**Aplicação ao cargo:** O Papiloscopista trabalha na individualização humana e na produção técnica de elementos que precisam ser confiáveis, rastreáveis e compreensíveis no processo.
-
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
-
-### O que mais merece atenção
-
-- papiloscopia e identificação humana
-- cadeia de custódia e local de crime
-- vestígio, indício, evidência e prova
-- documentoscopia e grafoscopia
-- tanatologia, traumatologia e toxicologia básicas
-- criminologia, vitimologia e criminologia digital
-
-### Conteúdo completo orientado ao edital
-
-### 1. Documentoscopia, grafoscopia e análise documental.
-
-**O que significa:** Documentoscopia verifica autenticidade, integridade e origem de documentos; grafoscopia examina escrita e assinatura por hábitos gráficos e elementos individualizadores.
-
-**Como estudar para a prova:** Revise suporte, impressão, rasura, lavagem química, montagem, falsificação material/ideológica, imitação servil, disfarce gráfico, espontaneidade e padrões de comparação.
-
-**Como a FGV pode cobrar:** A banca cobra diferença entre documento falso, documento ideologicamente falso, alteração material e assinatura questionada.
-
-**Cuidado de prova:** Grafoscopia não se baseia só em semelhança visual; considera dinâmica, pressão, ritmo, inclinação, espaçamento e variabilidade natural.
-
-### 2. Análise de assinaturas e falsificações.
-
-**O que significa:** Documentoscopia verifica autenticidade, integridade e origem de documentos; grafoscopia examina escrita e assinatura por hábitos gráficos e elementos individualizadores.
-
-**Como estudar para a prova:** Revise suporte, impressão, rasura, lavagem química, montagem, falsificação material/ideológica, imitação servil, disfarce gráfico, espontaneidade e padrões de comparação.
-
-**Como a FGV pode cobrar:** A banca cobra diferença entre documento falso, documento ideologicamente falso, alteração material e assinatura questionada.
-
-**Cuidado de prova:** Grafoscopia não se baseia só em semelhança visual; considera dinâmica, pressão, ritmo, inclinação, espaçamento e variabilidade natural.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Elemento | O que observa |
 |---|---|
-| Documentoscopia analisa suporte, impressão, alteração e autenticidade. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Grafoscopia analisa hábito gráfico, não semelhança superficial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Falsidade material e ideológica não são a mesma coisa. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Calibre | Tamanho das letras |
+| Inclinação | Ângulo do traço em relação à linha de base |
+| Pressão | Força aplicada, refletida na espessura/profundidade do traço |
+| Ritmo/velocidade | Fluência do gesto gráfico, regularidade |
+| Espaçamento | Distância entre letras e palavras |
+| Ponto de ataque e de fuga | Onde o traço começa e termina em cada letra |
 
-### Diferenças que a banca costuma trocar
+O gesto gráfico tem uma base motora inconsciente e razoavelmente estável ao longo do tempo (dentro de certos limites naturais de variação) — por isso permite comparação técnica. **Variabilidade natural** (pequenas diferenças entre duas assinaturas genuínas da mesma pessoa) não deve ser confundida com sinal de falsificação; o perito busca justamente o padrão de variação natural de cada indivíduo, não uma cópia idêntica traço a traço (que, paradoxalmente, é um sinal clássico de falsificação por decalque).
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+### Tipos de falsificação documental
+
+| Tipo | O que é | Exemplo |
 |---|---|---|
-| Documentoscopia, grafoscopia e análise documental. | Grafoscopia não se baseia só em semelhança visual; considera dinâmica, pressão, ritmo, inclinação, espaçamento e variabilidade natural. | A banca cobra diferença entre documento falso, documento ideologicamente falso, alteração material e assinatura questionada. |
-| Análise de assinaturas e falsificações. | Grafoscopia não se baseia só em semelhança visual; considera dinâmica, pressão, ritmo, inclinação, espaçamento e variabilidade natural. | A banca cobra diferença entre documento falso, documento ideologicamente falso, alteração material e assinatura questionada. |
+| Falsidade material | Altera a forma/estrutura física do documento genuíno, ou cria documento inteiramente falso | Rasura, acréscimo de texto, adulteração de dados, papel/selo falsificado |
+| Falsidade ideológica | O suporte físico é genuíno, mas a declaração/conteúdo inserido é falso | Declarar informação falsa em documento verdadeiro (formulário autêntico com dados inventados) |
 
-### Aplicação direta para Papiloscopista
+A distinção entre falsidade material e ideológica também é central no Direito Penal (tipos penais distintos, ver tema de Penal), mas na criminalística o que importa é: falsidade material deixa vestígio físico examinável (papel, tinta, sobreposição de traços); falsidade ideológica frequentemente não deixa vestígio material detectável no próprio documento, exigindo confronto com outras fontes de informação.
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+### Técnicas de exame documentoscópico
 
-### Roteiro de estudo de alta retenção
+- **Luz ultravioleta (UV)**: revela fibras de segurança fluorescentes, rasuras e diferenças de composição de papel/tinta não visíveis a olho nu.
+- **Luz infravermelha (IV)**: distingue tintas de composição química diferente que parecem visualmente idênticas sob luz comum, útil para detectar acréscimos feitos com caneta diferente da original.
+- **Microscopia**: examina a superfície do traço, cruzamentos de linhas (para saber qual traço foi feito primeiro) e características do papel em detalhe.
+- **Exame de decalque/apagamento**: identifica textos apagados (mecânica ou quimicamente) ou textos "fantasmas" que deixaram impressão indentada em folhas subjacentes de um bloco de papel.
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+## Prioridades FGV dentro deste tema
 
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Documentoscopia, grafoscopia e análise documental. | Revise suporte, impressão, rasura, lavagem química, montagem, falsificação material/ideológica, imitação servil, disfarce gráfico, espontaneidade e padrões de comparação. | Grafoscopia não se baseia só em semelhança visual; considera dinâmica, pressão, ritmo, inclinação, espaçamento e variabilidade natural. |
-| Análise de assinaturas e falsificações. | Revise suporte, impressão, rasura, lavagem química, montagem, falsificação material/ideológica, imitação servil, disfarce gráfico, espontaneidade e padrões de comparação. | Grafoscopia não se baseia só em semelhança visual; considera dinâmica, pressão, ritmo, inclinação, espaçamento e variabilidade natural. |
+| Diferenciar falsidade material de falsidade ideológica | Distinção central, cobrada tanto em criminalística quanto em Direito Penal | Pergunte: o suporte físico foi alterado, ou só o conteúdo declarado é mentiroso? |
+| Reconhecer que variação natural entre assinaturas genuínas não é sinal de falsificação | Erro comum de leigo, ponto técnico central da grafoscopia | Lembre: cópia idêntica traço a traço é suspeita (decalque); pequena variação é natural |
+| Associar cada técnica de exame (UV, IV, microscopia) ao tipo de alteração que ela revela | Base prática do exame documentoscópico | Associe: UV=fibras de segurança/rasura; IV=diferença química de tinta; microscopia=sobreposição de traços |
+| Nomear as características gráficas analisadas na comparação de escrita | Vocabulário técnico central da grafoscopia | Liste: calibre, inclinação, pressão, ritmo, espaçamento, pontos de ataque/fuga |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Documentoscopia analisa suporte, impressão, alteração e autenticidade. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Grafoscopia analisa hábito gráfico, não semelhança superficial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Falsidade material e ideológica não são a mesma coisa. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+## Diferenças que a banca costuma trocar
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Falsidade material (altera o suporte físico) | Falsidade ideológica (suporte genuíno, conteúdo falso) | Ambas são "documento falso" | Material mexe na forma física; ideológica mexe só no conteúdo declarado, sem alterar o suporte |
+| Documentoscopia (exame de documento em geral) | Grafoscopia (exame específico de escrita manual) | Ambas examinam documentos | Grafoscopia é um ramo específico da documentoscopia, dedicado à escrita manual/assinatura |
+| Variação natural da assinatura | Sinal de falsificação por decalque | Ambas envolvem "diferença" entre assinaturas | Variação natural é esperada e não idêntica; decalque produz cópia quase idêntica traço a traço, o que é suspeito |
+| Luz UV (fibras/rasura) | Luz IV (diferença química de tinta) | Ambas são luz não visível usadas em exame documental | UV revela fibras de segurança e rasuras; IV distingue tintas quimicamente diferentes mas visualmente iguais |
 
 ## Pegadinhas da banca
 
-- Dizer que papiloscopia depende só de fotografia, sem comparação técnica.
-- Confundir vestígio encontrado com prova já valorada no processo.
-- Achar que local de crime preservado é responsabilidade apenas do perito.
-- Misturar criminologia crítica, positivista e teoria do etiquetamento.
-- Prioridade de atenção: Documentoscopia analisa suporte, impressão, alteração e autenticidade.
-- Prioridade de atenção: Grafoscopia analisa hábito gráfico, não semelhança superficial.
-- Prioridade de atenção: Falsidade material e ideológica não são a mesma coisa.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Tratar pequena variação natural entre assinaturas genuínas como prova de falsificação.
+- Confundir falsidade material com ideológica, ou tratá-las como sinônimos.
+- Atribuir à luz UV uma função que é da luz IV, ou o contrário.
+- Achar que grafoscopia e documentoscopia são termos intercambiáveis (grafoscopia é um ramo específico).
 
 ## Como resolver questões
 
-1. Comece separando a área pericial: identificação, local de crime, documento, lesão, morte, toxicologia ou criminologia.
-2. Procure o verbo do enunciado: preservar, coletar, comparar, identificar, reconhecer, classificar ou interpretar.
-3. Quando houver cadeia de custódia, pense em rastreabilidade e integridade desde o reconhecimento do vestígio.
-4. Em criminologia, diferencie escola, teoria, objeto e política criminal.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para falsificação, pergunte primeiro se o suporte físico foi alterado (material) ou só o conteúdo é mentiroso (ideológica).
+2. Para grafoscopia, lembre que o objetivo é comparar padrão de variação natural, não buscar identidade perfeita entre traços.
+3. Para técnica de exame, associe cada uma (UV, IV, microscopia) ao tipo específico de alteração que ela revela.
+4. Para vocabulário técnico da escrita, tenha em mente os elementos analisados (calibre, inclinação, pressão, ritmo).
+
+## Lacunas honestas
+
+- Ainda não há questão real de banca FGV localizada especificamente para este tema neste levantamento. É prioridade de busca para sessão futura.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Ciências Forenses 2.2.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei diferenciar documentoscopia de grafoscopia.
+- [ ] Sei diferenciar falsidade material de falsidade ideológica.
+- [ ] Sei por que variação natural entre assinaturas genuínas não é sinal de falsificação.
+- [ ] Sei os elementos gráficos analisados na comparação de escrita (calibre, inclinação, pressão, ritmo, espaçamento).
+- [ ] Sei associar cada técnica de exame (UV, IV, microscopia) ao tipo de alteração que revela.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -157,13 +103,17 @@ O conteúdo deve ser lido com mentalidade de procedimento. O que a prova quer sa
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Medicina legal.pdf`
-- `Questões FGV/Questoes Criminalistica.pdf`
-- `Questões FGV/Questoes Criminologia.pdf`
-- `Questões FGV/Questoes Crime.pdf`
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+- Nenhuma questão real de FGV localizada especificamente para este tema até o momento (lacuna registrada acima).
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Material local**
+
+- `Materiais QB/` (materiais de ciências forenses disponíveis localmente)
+
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Onde não há questão real disponível, a lacuna está registrada explicitamente.

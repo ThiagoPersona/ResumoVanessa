@@ -1,168 +1,125 @@
 # 027 - Citologia
 
-> **Base do edital:** Conhecimentos Específicos; Biologia 3.1.  
-> **Peso da disciplina:** 10 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- A célula é a unidade estrutural e funcional de todo ser vivo; células eucarióticas (com núcleo organizado por membrana) são a base do corpo humano e o objeto central deste tema.
+- O citoesqueleto tem três tipos de filamento, cada um com função mecânica distinta: microfilamentos (actina, contração/movimento), filamentos intermediários (resistência mecânica, incluindo a queratina/citoqueratina) e microtúbulos (transporte interno e divisão celular).
+- Organelas membranosas têm funções especializadas e a prova adora testar a diferença fina entre elas: retículo endoplasmático liso x rugoso, mitocôndria x cloroplasto (este último não existe em célula animal), lisossomo x peroxissomo.
+- Citoqueratina (marcador de células epiteliais) é um exemplo direto de aplicação forense da citologia: ajuda a diferenciar tipos de célula em vestígio biológico (ex.: célula de pele x célula de mucosa) em perícia de crimes sexuais.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Biologia soma 10 questões; este capítulo concentra Biologia 3.1.
-- **Como a FGV costuma cobrar:** A banca pode cobrar biologia aplicada: estrutura celular, genética e bases biológicas da identificação humana, sem exigir cálculo longo.
-- **O que mais confunde candidatos:** decorar nomes sem função; misturar DNA, gene e cromossomo; confundir formação embrionária de cristas papilares com impressão digital colhida depois.
-- **Particularidade para Papiloscopista:** Biologia dá a base para entender biometria, hereditariedade, grupos sanguíneos e permanência das cristas papilares.
+Citologia é a base biológica sobre a qual se apoiam genética (tema 028), embriologia (tema 029) e biologia da identificação humana (tema 030) — entender a estrutura e função da célula é pré-requisito para compreender DNA, formação de tecidos e técnicas de identificação biológica usadas em perícia.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q37: identificação da citoqueratina como proteína formadora de filamentos intermediários do citoesqueleto, usada como marcador celular em perícia forense. |
 
-- **Composição química da célula.** Membrana plasmática, transporte passivo/ativo, mitocôndria, ribossomos, retículo, complexo golgiense, lisossomos, núcleo, cromatina, mitose e meiose.
-- **Estrutura e função celular.** Membrana plasmática, transporte passivo/ativo, mitocôndria, ribossomos, retículo, complexo golgiense, lisossomos, núcleo, cromatina, mitose e meiose.
-- **Membrana plasmática, organelas citoplasmáticas, núcleo celular e divisão celular.** Membrana plasmática, transporte passivo/ativo, mitocôndria, ribossomos, retículo, complexo golgiense, lisossomos, núcleo, cromatina, mitose e meiose.
-- **Prioridade FGV:** Associe cada organela à função.
-- **Prioridade FGV:** Membrana seleciona trocas e mantém homeostase.
-- **Prioridade FGV:** Mitose e meiose são cobradas por finalidade e resultado.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### A célula como unidade da vida
 
-### Visão de estudo para este tema
+Toda célula compartilha três componentes básicos: **membrana plasmática** (delimita e controla trocas com o meio), **citoplasma** (meio interno onde ocorrem as reações metabólicas e ficam as organelas) e **material genético** (DNA, que carrega a informação hereditária). Células **eucarióticas** (as do corpo humano) têm núcleo organizado, delimitado por membrana nuclear, e organelas membranosas especializadas; células **procarióticas** (bactérias) não têm núcleo organizado nem organelas membranosas.
 
-Biologia no edital é aplicada à identificação humana. A banca pode partir de citologia e genética, mas o destino é entender características biológicas, hereditariedade, DNA, grupos sanguíneos, embriologia e formação das cristas papilares.
+### Membrana plasmática
 
-A preparação deve evitar dois extremos: decorar nomes sem função ou transformar o tema em biologia de vestibular. Para a prova, importa saber estrutura, função, transmissão hereditária, permanência de características e limites de individualização.
+Estrutura de bicamada fosfolipídica com proteínas embutidas (modelo do mosaico fluido), que controla seletivamente a passagem de substâncias — mecanismos incluem difusão simples, difusão facilitada (via proteínas de canal ou carreadoras), transporte ativo (com gasto de energia, contra o gradiente de concentração), endocitose (englobamento de material externo) e exocitose (liberação de material para fora da célula).
 
-Papiloscopia depende de base biológica: desenhos papilares formam-se no desenvolvimento embrionário, permanecem estáveis em condições normais e podem ser usados em identificação quando coletados e comparados tecnicamente.
+### Organelas membranosas: função de cada uma
 
-**Aplicação ao cargo:** A disciplina dá sustentação técnica para compreender biometria, impressão digital, DNA e identificação humana por características biológicas.
-
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
-
-### O que mais merece atenção
-
-- membrana, organelas, núcleo e divisão celular
-- DNA, RNA, genes e cromossomos
-- Mendel, probabilidade genética e herança ligada ao sexo
-- grupos sanguíneos
-- gametogênese, fecundação e desenvolvimento embrionário
-- cristas papilares, impressões digitais e biometria
-
-### Conteúdo completo orientado ao edital
-
-### 1. Composição química da célula.
-
-**O que significa:** A célula é a unidade estrutural e funcional dos seres vivos. Sua composição inclui água, sais, carboidratos, lipídios, proteínas e ácidos nucleicos; membrana controla trocas; organelas executam funções; núcleo organiza material genético.
-
-**Como estudar para a prova:** Membrana plasmática, transporte passivo/ativo, mitocôndria, ribossomos, retículo, complexo golgiense, lisossomos, núcleo, cromatina, mitose e meiose.
-
-**Como a FGV pode cobrar:** A cobrança tende a relacionar estrutura e função, especialmente quando a alternativa troca organelas ou tipos de divisão.
-
-**Cuidado de prova:** Mitose mantém número cromossômico em células somáticas; meiose forma gametas e reduz o número cromossômico.
-
-### 2. Estrutura e função celular.
-
-**O que significa:** A célula é a unidade estrutural e funcional dos seres vivos. Sua composição inclui água, sais, carboidratos, lipídios, proteínas e ácidos nucleicos; membrana controla trocas; organelas executam funções; núcleo organiza material genético.
-
-**Como estudar para a prova:** Membrana plasmática, transporte passivo/ativo, mitocôndria, ribossomos, retículo, complexo golgiense, lisossomos, núcleo, cromatina, mitose e meiose.
-
-**Como a FGV pode cobrar:** A cobrança tende a relacionar estrutura e função, especialmente quando a alternativa troca organelas ou tipos de divisão.
-
-**Cuidado de prova:** Mitose mantém número cromossômico em células somáticas; meiose forma gametas e reduz o número cromossômico.
-
-### 3. Membrana plasmática, organelas citoplasmáticas, núcleo celular e divisão celular.
-
-**O que significa:** A célula é a unidade estrutural e funcional dos seres vivos. Sua composição inclui água, sais, carboidratos, lipídios, proteínas e ácidos nucleicos; membrana controla trocas; organelas executam funções; núcleo organiza material genético.
-
-**Como estudar para a prova:** Membrana plasmática, transporte passivo/ativo, mitocôndria, ribossomos, retículo, complexo golgiense, lisossomos, núcleo, cromatina, mitose e meiose.
-
-**Como a FGV pode cobrar:** A cobrança tende a relacionar estrutura e função, especialmente quando a alternativa troca organelas ou tipos de divisão.
-
-**Cuidado de prova:** Mitose mantém número cromossômico em células somáticas; meiose forma gametas e reduz o número cromossômico.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Organela | Função principal |
 |---|---|
-| Associe cada organela à função. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Membrana seleciona trocas e mantém homeostase. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Mitose e meiose são cobradas por finalidade e resultado. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Retículo endoplasmático rugoso (com ribossomos) | Síntese de proteínas destinadas à secreção ou a outras organelas |
+| Retículo endoplasmático liso (sem ribossomos) | Síntese de lipídios/esteroides; em hepatócitos, participa da desintoxicação de substâncias (álcool, drogas); em células musculares, forma o retículo sarcoplasmático, que armazena e libera cálcio na contração |
+| Complexo de Golgi | Processa, modifica e empacota proteínas/lipídios vindos do retículo, direcionando-os ao destino final |
+| Mitocôndria | Respiração celular — produção de energia (ATP) a partir de nutrientes e oxigênio |
+| Lisossomo | Digestão intracelular — contém enzimas que degradam material interno ou englobado |
+| Peroxissomo | Degradação de substâncias tóxicas e de ácidos graxos, com produção e neutralização de peróxido de hidrogênio |
+| Núcleo | Armazena e protege o DNA; controla a expressão gênica e a divisão celular |
 
-### Diferenças que a banca costuma trocar
+O retículo endoplasmático liso ilustra bem como uma mesma organela tem funções diferentes conforme o tipo celular: em hepatócitos, faz desintoxicação; em células secretoras de gônadas (ovário/testículo), participa da síntese de hormônios esteroides; em células musculares estriadas, forma o retículo sarcoplasmático, que regula a contração pela liberação de cálcio.
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+### Citoesqueleto: os três tipos de filamento
+
+O citoesqueleto é a rede de proteínas filamentosas que dá forma, sustentação mecânica e capacidade de movimento à célula. Divide-se em três tipos, com função e composição bem diferentes:
+
+| Tipo de filamento | Proteína principal | Função |
 |---|---|---|
-| Composição química da célula. | Mitose mantém número cromossômico em células somáticas; meiose forma gametas e reduz o número cromossômico. | A cobrança tende a relacionar estrutura e função, especialmente quando a alternativa troca organelas ou tipos de divisão. |
-| Estrutura e função celular. | Mitose mantém número cromossômico em células somáticas; meiose forma gametas e reduz o número cromossômico. | A cobrança tende a relacionar estrutura e função, especialmente quando a alternativa troca organelas ou tipos de divisão. |
-| Membrana plasmática, organelas citoplasmáticas, núcleo celular e divisão celular. | Mitose mantém número cromossômico em células somáticas; meiose forma gametas e reduz o número cromossômico. | A cobrança tende a relacionar estrutura e função, especialmente quando a alternativa troca organelas ou tipos de divisão. |
+| Microfilamentos | Actina | Contração muscular, movimento ameboide, mudanças de forma da célula |
+| Filamentos intermediários | Varia por tipo celular (queratina/citoqueratina em epiteliais, por exemplo) | Resistência mecânica à tensão, sustentação estrutural |
+| Microtúbulos | Tubulina | Transporte de organelas, formação do fuso mitótico na divisão celular, estrutura de cílios e flagelos |
 
-### Aplicação direta para Papiloscopista
+**Citoqueratina** é a proteína que forma os filamentos intermediários especificamente em células epiteliais — por ser específica desse tipo celular, funciona como **marcador** em perícia forense para diferenciar, por exemplo, células de pele (epiderme) de células de mucosa (bucal, vaginal) numa amostra biológica, auxiliando investigações de crimes sexuais e outras análises de vestígio celular.
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+### Núcleo e material genético
 
-### Roteiro de estudo de alta retenção
+O núcleo é delimitado pelo envelope nuclear (contínuo com o retículo endoplasmático), contém a cromatina (DNA associado a proteínas, que se condensa em cromossomos durante a divisão celular) e o nucléolo (onde se monta o RNA ribossômico). É o centro de controle da célula, regulando quais genes são expressos e coordenando o ciclo de divisão celular.
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+### Ciclo celular: visão geral
 
-### Lacunas honestas
+O ciclo celular se divide em **interfase** (fase de crescimento e duplicação do DNA, subdividida em G1, S e G2) e **divisão celular** propriamente dita — **mitose** (gera duas células-filhas geneticamente idênticas, usada em crescimento e reparo de tecido) ou **meiose** (gera células com metade do número de cromossomos, usada na formação de gametas, ver tema de genética).
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
+## Prioridades FGV dentro deste tema
 
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Composição química da célula. | Membrana plasmática, transporte passivo/ativo, mitocôndria, ribossomos, retículo, complexo golgiense, lisossomos, núcleo, cromatina, mitose e meiose. | Mitose mantém número cromossômico em células somáticas; meiose forma gametas e reduz o número cromossômico. |
-| Estrutura e função celular. | Membrana plasmática, transporte passivo/ativo, mitocôndria, ribossomos, retículo, complexo golgiense, lisossomos, núcleo, cromatina, mitose e meiose. | Mitose mantém número cromossômico em células somáticas; meiose forma gametas e reduz o número cromossômico. |
-| Membrana plasmática, organelas citoplasmáticas, núcleo celular e divisão celular. | Membrana plasmática, transporte passivo/ativo, mitocôndria, ribossomos, retículo, complexo golgiense, lisossomos, núcleo, cromatina, mitose e meiose. | Mitose mantém número cromossômico em células somáticas; meiose forma gametas e reduz o número cromossômico. |
+| Associar citoqueratina aos filamentos intermediários e à sua aplicação como marcador celular forense | Evidenciado na questão real SEAD/AP Q37 | Lembre: citoqueratina = filamento intermediário = célula epitelial = marcador em perícia |
+| Diferenciar os três tipos de filamento do citoesqueleto pela proteína e função | Base para não confundir citoqueratina com actina ou tubulina | Associe: microfilamento=actina/contração; intermediário=resistência; microtúbulo=tubulina/transporte |
+| Reconhecer as funções específicas do retículo liso conforme o tipo celular | Ponto de aplicação prática recorrente | Associe: hepatócito=desintoxicação; gônada=esteroides; músculo=cálcio/contração |
+| Diferenciar organelas membranosas pela função (não só pelo nome) | Base de qualquer questão de citologia aplicada | Monte a tabela função→organela e reveja periodicamente |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Associe cada organela à função. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Membrana seleciona trocas e mantém homeostase. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Mitose e meiose são cobradas por finalidade e resultado. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+## Diferenças que a banca costuma trocar
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Microfilamentos (actina, contração) | Filamentos intermediários (resistência mecânica) | Ambos são componentes do citoesqueleto | Microfilamento gera movimento/contração; filamento intermediário resiste à tensão, sem gerar movimento |
+| Retículo endoplasmático rugoso (síntese de proteína) | Retículo endoplasmático liso (síntese de lipídio/desintoxicação) | Ambos são "retículo endoplasmático" | Rugoso tem ribossomos e sintetiza proteína; liso não tem ribossomos e sintetiza lipídio/desintoxica |
+| Mitocôndria (respiração celular) | Lisossomo (digestão intracelular) | Ambas são organelas com função metabólica | Mitocôndria produz energia (ATP); lisossomo degrada material com enzimas digestivas |
+| Célula procariótica (sem núcleo organizado) | Célula eucariótica (com núcleo organizado) | Ambas são "célula" | Procariótica não tem envelope nuclear nem organelas membranosas; eucariótica tem ambos |
+
+## Como caiu na prova: questão comentada
+
+**Fonte: FGV, SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 37 (gabarito oficial: D)**
+
+> Em certas investigações forenses, como na suspeita de abuso sexual, a identificação do tipo de célula epitelial presente na amostra biológica forneceria provas comprobatórias importantes. [...] Um desses trabalhos utiliza como marcador celular a proteína citoqueratina, presente no citoesqueleto das células. A citoqueratina é uma das proteínas que forma os
+>
+> (A) microfilamentos que determinam a contração muscular e o movimento ameboide de certas células. (B) centrossomos responsáveis pela forma das células e o movimento dos cromossomos durante a divisão celular. (C) sarcômeros que comandam a contração das células musculares. (D) filamentos intermediários que oferecem à célula resistência mecânica à tensão. (E) microtúbulos que participam do transporte de organelas pelo interior das células.
+
+1. **Lembre a classificação da citoqueratina**: é uma proteína de filamento intermediário, típica de células epiteliais.
+2. **Descarte A**: microfilamentos são formados por actina, não citoqueratina, e relacionam-se à contração/movimento, não à resistência estrutural.
+3. **Descarte B**: centrossomos não são filamentos do citoesqueleto no sentido descrito; são organelas relacionadas à organização de microtúbulos na divisão celular.
+4. **Descarte C**: sarcômeros são unidades contráteis de células musculares, formadas por actina e miosina, não por citoqueratina.
+5. **Confirme D**: filamentos intermediários oferecem resistência mecânica à tensão — é exatamente a categoria à qual a citoqueratina pertence.
+6. **Descarte E**: microtúbulos são formados por tubulina, não citoqueratina, e atuam em transporte, não em resistência estrutural.
+7. **D é o gabarito.**
 
 ## Pegadinhas da banca
 
-- Dizer que impressão digital muda ao longo da vida sem lesão profunda.
-- Confundir RNA com DNA em armazenamento de informação genética permanente.
-- Tratar grupo sanguíneo como identificação individual absoluta.
-- Misturar biometria fisiológica com senha ou token.
-- Prioridade de atenção: Associe cada organela à função.
-- Prioridade de atenção: Membrana seleciona trocas e mantém homeostase.
-- Prioridade de atenção: Mitose e meiose são cobradas por finalidade e resultado.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Confundir os três tipos de filamento do citoesqueleto (microfilamento, intermediário, microtúbulo) e suas proteínas/funções.
+- Trocar a função do retículo liso e do rugoso.
+- Atribuir função de organela membranosa a estrutura errada (ex.: confundir lisossomo com peroxissomo).
+- Tratar célula procariótica como se tivesse organelas membranosas e núcleo organizado.
 
 ## Como resolver questões
 
-1. Relacione estrutura e função antes de memorizar o nome.
-2. Em genética, identifique se a pergunta é de molécula, transmissão hereditária ou probabilidade.
-3. Em embriologia, separe formação biológica da coleta pericial posterior.
-4. Em identificação humana, pense em característica biológica, individualização e limite do método.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para citoesqueleto, identifique a proteína envolvida (actina, filamento intermediário específico do tecido, tubulina) antes de associar à função.
+2. Para organelas, associe primeiro a função central (síntese, digestão, energia, processamento) antes de escolher entre alternativas parecidas.
+3. Para questões de aplicação forense, lembre que marcadores celulares específicos (como citoqueratina) ajudam a diferenciar tipos de célula em vestígio biológico.
+4. Para diferenciar célula procariótica de eucariótica, verifique a presença de núcleo organizado e organelas membranosas.
+
+## Lacunas honestas
+
+- Ainda não há questão real localizada sobre ciclo celular, mitose/meiose (aspectos citológicos gerais, não genéticos) ou membrana plasmática/transporte neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Biologia 3.1.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei os três componentes básicos de qualquer célula (membrana, citoplasma, material genético).
+- [ ] Sei diferenciar célula procariótica de eucariótica.
+- [ ] Sei a função de cada organela membranosa principal (retículo, Golgi, mitocôndria, lisossomo, peroxissomo, núcleo).
+- [ ] Sei os três tipos de filamento do citoesqueleto, a proteína de cada um e sua função.
+- [ ] Sei por que a citoqueratina serve como marcador forense de células epiteliais.
+- [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -170,12 +127,18 @@ Papiloscopia depende de base biológica: desenhos papilares formam-se no desenvo
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Biologia.pdf`
-- `Policia Civil/Biologia/Biologia - cópia.pdf`
+- FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questão 37. Gabarito definitivo publicado pela FGV.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+
+**Material local**
+
 - `Questões FGV/Questoes Biologia.pdf`
+- `Questões FGV/Questoes Biologia anato e fisiologia.pdf`
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. A questão citada é real, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.

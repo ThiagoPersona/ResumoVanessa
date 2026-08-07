@@ -1,155 +1,122 @@
 # 019 - Medicina legal, identificação humana e papiloscopia
 
-> **Base do edital:** Conhecimentos Específicos; Ciências Forenses 2.1.  
-> **Peso da disciplina:** 10 questões na prova objetiva.  
-> **Prioridade:** altíssima.
+## Leitura rápida
+
+- Medicina legal é a ciência que aplica conhecimentos médicos e biológicos a questões de interesse do Direito — a ponte entre o corpo (vivo ou morto) e a prova jurídica.
+- Identificação humana busca responder "quem é essa pessoa" com segurança técnica; individualização é o grau mais forte de identificação, que aponta uma pessoa entre todas as demais do planeta.
+- Papiloscopia (datiloscopia) é o método de identificação mais consolidado do mundo, porque as cristas papilares são **perenes** (não mudam desde a vida intrauterina até a decomposição), **imutáveis** (não se alteram espontaneamente) e **diferentes** (nem gêmeos univitelinos têm o mesmo desenho digital).
+- O sistema de classificação datiloscópica mais usado no Brasil é o de Juan Vucetich, que organiza os desenhos papilares em quatro tipos fundamentais: arco, presilha interna, presilha externa e verticilo.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Ciências Forenses soma 10 questões; este capítulo concentra Ciências Forenses 2.1.
-- **Como a FGV costuma cobrar:** A cobrança tende a misturar conceito e aplicação: nome técnico, finalidade pericial, ordem de preservação e diferença entre vestígio, indício e evidência.
-- **O que mais confunde candidatos:** misturar áreas da Medicina Legal; confundir identificação com reconhecimento; tratar vestígio e evidência como sinônimos absolutos.
-- **Particularidade para Papiloscopista:** Este é o núcleo de identidade do cargo. Papiloscopia, identificação humana, local de crime, cadeia de custódia e documentação devem ter prioridade máxima.
+Este é o item central do cargo de Papiloscopista — o núcleo técnico da profissão. A FGV tende a cobrar tanto o fundamento teórico (o que torna a impressão digital um método confiável de identificação) quanto a aplicação prática (classificação de tipos, pontos característicos, diferença entre métodos de identificação).
 
-## Leitura rápida
+## Conteúdo completo orientado ao edital
 
-- **Medicina Legal: conceito, divisões e importância.** Domine identificação versus reconhecimento, papiloscopia, datiloscopia, quiroscopia, podoscopia, impressões latentes, padrão papilar, pontos característicos, coleta e confronto.
-- **Perícia médico-legal, identificação humana e papiloscopia.** Domine identificação versus reconhecimento, papiloscopia, datiloscopia, quiroscopia, podoscopia, impressões latentes, padrão papilar, pontos característicos, coleta e confronto.
-- **Prioridade FGV:** Papiloscopia individualiza por desenhos papilares, não por aparência geral.
-- **Prioridade FGV:** Princípios clássicos: variabilidade, permanência e classificabilidade.
-- **Prioridade FGV:** Coleta ruim não invalida o método, mas pode prejudicar confronto.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+### Medicina legal: conceito e campo de atuação
 
-## Conteúdo essencial
+Medicina legal (ou medicina forense) é o ramo da medicina que coloca conhecimentos médicos e biológicos a serviço da administração da Justiça, respondendo a quesitos formulados por autoridades (delegado, promotor, juiz) sobre fatos que dependem de exame técnico especializado — lesões, causa da morte, capacidade civil ou penal, identidade, entre outros. Atua tanto sobre pessoa viva (exame de corpo de delito em vítima ou agressor) quanto sobre cadáver (necropsia) e sobre vestígios biológicos.
 
-### Visão de estudo para este tema
+### Identidade, identificação e individualização: três níveis de precisão
 
-Ciências Forenses é o bloco mais identitário para Papiloscopista. O estudo precisa separar áreas: Medicina Legal, identificação humana, papiloscopia, criminalística, documentoscopia, criminologia e investigação tecnológica. Cada uma tem objeto, método e vocabulário próprio.
-
-A FGV tende a cobrar diferença fina: vestígio, indício e evidência; identificação e reconhecimento; local imediato, mediato e relacionado; papiloscopia e outras biometrias; falsificação documental e alteração material; vitimização primária, secundária e terciária.
-
-O conteúdo deve ser lido com mentalidade de procedimento. O que a prova quer saber é: quem faz, para quê, com que cuidado, em qual sequência e com qual limitação.
-
-**Aplicação ao cargo:** O Papiloscopista trabalha na individualização humana e na produção técnica de elementos que precisam ser confiáveis, rastreáveis e compreensíveis no processo.
-
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
-
-### O que mais merece atenção
-
-- papiloscopia e identificação humana
-- cadeia de custódia e local de crime
-- vestígio, indício, evidência e prova
-- documentoscopia e grafoscopia
-- tanatologia, traumatologia e toxicologia básicas
-- criminologia, vitimologia e criminologia digital
-
-### Conteúdo completo orientado ao edital
-
-### 1. Medicina Legal: conceito, divisões e importância.
-
-**O que significa:** Medicina Legal aplica conhecimento médico-biológico ao Direito. Identificação humana busca individualizar pessoa; papiloscopia usa desenhos papilares, com destaque para unicidade, permanência e classificabilidade.
-
-**Como estudar para a prova:** Domine identificação versus reconhecimento, papiloscopia, datiloscopia, quiroscopia, podoscopia, impressões latentes, padrão papilar, pontos característicos, coleta e confronto.
-
-**Como a FGV pode cobrar:** A FGV pode perguntar qual método individualiza, qual apenas reconhece, ou qual cuidado preserva qualidade e rastreabilidade da impressão.
-
-**Cuidado de prova:** Reconhecimento facial ou testemunhal não tem o mesmo peso técnico de identificação papiloscópica ou genética quando o objetivo é individualização.
-
-### 2. Perícia médico-legal, identificação humana e papiloscopia.
-
-**O que significa:** Medicina Legal aplica conhecimento médico-biológico ao Direito. Identificação humana busca individualizar pessoa; papiloscopia usa desenhos papilares, com destaque para unicidade, permanência e classificabilidade.
-
-**Como estudar para a prova:** Domine identificação versus reconhecimento, papiloscopia, datiloscopia, quiroscopia, podoscopia, impressões latentes, padrão papilar, pontos característicos, coleta e confronto.
-
-**Como a FGV pode cobrar:** A FGV pode perguntar qual método individualiza, qual apenas reconhece, ou qual cuidado preserva qualidade e rastreabilidade da impressão.
-
-**Cuidado de prova:** Reconhecimento facial ou testemunhal não tem o mesmo peso técnico de identificação papiloscópica ou genética quando o objetivo é individualização.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Conceito | O que é |
 |---|---|
-| Papiloscopia individualiza por desenhos papilares, não por aparência geral. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Princípios clássicos: variabilidade, permanência e classificabilidade. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Coleta ruim não invalida o método, mas pode prejudicar confronto. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Identidade | Conjunto de caracteres que tornam um indivíduo único e o distinguem de todos os outros |
+| Identificação | Processo técnico de estabelecer a identidade de uma pessoa (viva, morta ou vestígio) por meio de método reconhecido |
+| Individualização | O grau mais forte de identificação: aponta uma única pessoa entre toda a população mundial, com exclusão de qualquer outra |
 
-### Diferenças que a banca costuma trocar
+Nem todo método de identificação alcança individualização plena — características como altura, cor dos olhos ou tipo sanguíneo ajudam a **triar** (excluir suspeitos, reduzir universo de possibilidades), mas só métodos com alto poder discriminativo, como a papiloscopia e o DNA, alcançam individualização.
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+### Métodos de identificação humana: panorama
+
+| Método | Base científica | Poder de individualização |
 |---|---|---|
-| Medicina Legal: conceito, divisões e importância. | Reconhecimento facial ou testemunhal não tem o mesmo peso técnico de identificação papiloscópica ou genética quando o objetivo é individualização. | A FGV pode perguntar qual método individualiza, qual apenas reconhece, ou qual cuidado preserva qualidade e rastreabilidade da impressão. |
-| Perícia médico-legal, identificação humana e papiloscopia. | Reconhecimento facial ou testemunhal não tem o mesmo peso técnico de identificação papiloscópica ou genética quando o objetivo é individualização. | A FGV pode perguntar qual método individualiza, qual apenas reconhece, ou qual cuidado preserva qualidade e rastreabilidade da impressão. |
+| Papiloscopia (datiloscopia) | Desenhos das cristas papilares das polpas digitais (e de palmas/plantas) | Alto — consolidado como método de individualização |
+| Antropometria (Bertillonagem) | Medidas corporais fixas na idade adulta | Historicamente usado, hoje superado pela papiloscopia |
+| Odontologia legal (arcada dentária) | Padrão único de arcada dentária, útil em corpos carbonizados/decompostos | Alto em casos específicos |
+| DNA | Sequência genética | Altíssimo, mas mais caro e demorado que a papiloscopia |
+| Reconhecimento facial/biometria digital | Padrões geométricos faciais ou outros traços biométricos | Crescente, com limitações técnicas (ver tema 020) |
 
-### Aplicação direta para Papiloscopista
+A papiloscopia se consolidou como padrão-ouro histórico de identificação porque combina alta confiabilidade científica, baixo custo, rapidez e ampla base de dados acumulada (arquivos datiloscópicos), vantagens que nenhum outro método reúne ao mesmo tempo.
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+### Fundamentos científicos da papiloscopia: por que a impressão digital identifica com segurança
 
-### Roteiro de estudo de alta retenção
+Três propriedades sustentam cientificamente a papiloscopia como método de individualização:
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+- **Perenidade**: as cristas papilares se formam ainda na vida intrauterina (por volta do quarto mês de gestação) e permanecem, na mesma configuração geral, da vida até certo tempo após a morte (enquanto a pele se conserva).
+- **Imutabilidade**: o desenho papilar não muda espontaneamente ao longo da vida — cresce em tamanho junto com o corpo, mas mantém a mesma configuração de cristas, sulcos e pontos característicos. Cicatrizes superficiais não alteram a camada germinativa da pele, então a crista se regenera com o mesmo padrão; só lesões profundas (que atingem a derme) podem alterar permanentemente o desenho.
+- **Diferenciabilidade (variedade)**: não existem dois indivíduos com o mesmo desenho digital — nem mesmo gêmeos univitelinos (que têm o mesmo DNA), porque a formação exata das cristas papilares depende também de fatores ambientais intrauterinos (posição do feto, pressão, fluxo de líquido amniótico), não só da genética.
 
-### Lacunas honestas
+### Sistema de classificação datiloscópica de Vucetich
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
+Juan Vucetich desenvolveu, no final do século XIX, o sistema de classificação datiloscópica mais usado no mundo de língua portuguesa e espanhola, organizando os desenhos digitais em **quatro tipos fundamentais**, segundo a direção das linhas e a presença/posição do **delta** (ponto de bifurcação/convergência das linhas que demarca o núcleo do desenho):
 
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
+| Tipo fundamental | Característica | Delta |
 |---|---|---|
-| Medicina Legal: conceito, divisões e importância. | Domine identificação versus reconhecimento, papiloscopia, datiloscopia, quiroscopia, podoscopia, impressões latentes, padrão papilar, pontos característicos, coleta e confronto. | Reconhecimento facial ou testemunhal não tem o mesmo peso técnico de identificação papiloscópica ou genética quando o objetivo é individualização. |
-| Perícia médico-legal, identificação humana e papiloscopia. | Domine identificação versus reconhecimento, papiloscopia, datiloscopia, quiroscopia, podoscopia, impressões latentes, padrão papilar, pontos característicos, coleta e confronto. | Reconhecimento facial ou testemunhal não tem o mesmo peso técnico de identificação papiloscópica ou genética quando o objetivo é individualização. |
+| Arco (A) | Linhas atravessam o dedo de um lado a outro, sem formar alça nem espiral | Sem delta |
+| Presilha interna (I) | Linhas formam uma alça (presilha) que se abre para o lado do polegar (radial) | Um delta, do lado oposto à abertura |
+| Presilha externa (E) | Linhas formam uma alça que se abre para o lado do mindinho (ulnar) | Um delta, do lado oposto à abertura |
+| Verticilo (V) | Linhas formam um desenho circular, espiral ou em voluta, fechado sobre si mesmo | Dois deltas |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Papiloscopia individualiza por desenhos papilares, não por aparência geral. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Princípios clássicos: variabilidade, permanência e classificabilidade. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Coleta ruim não invalida o método, mas pode prejudicar confronto. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+A fórmula datiloscópica combina a classificação dos dez dedos das duas mãos, permitindo organizar fisicamente grandes arquivos de fichas datiloscópicas antes da era digital — e ainda hoje serve de base conceitual para sistemas informatizados (AFIS).
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+### Pontos característicos (minúcias): a base da comparação técnica
+
+A comparação entre uma impressão digital colhida (papiloscópica ou latente, de local de crime) e uma ficha de referência não se faz "no olho", pela impressão geral, mas pela identificação de **pontos característicos** (minúcias) — pequenas irregularidades no percurso das cristas papilares, como:
+
+- Bifurcação (uma crista se divide em duas)
+- Ilhota (crista curta isolada)
+- Cortada/interrompida
+- Ponto (fragmento muito curto de crista)
+- Confluência (duas cristas se juntam em uma)
+
+A perícia papiloscópica busca um número mínimo de pontos coincidentes, na mesma posição relativa e sequência, entre a impressão questionada e a ficha padrão, para concluir por identidade com segurança técnica — sem esse método sistemático, a comparação perde valor probatório.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
+|---|---|---|
+| Explicar as três propriedades que sustentam a papiloscopia (perenidade, imutabilidade, diferenciabilidade) | Fundamento teórico central da profissão | Associe cada propriedade a um contraexemplo (o que aconteceria se faltasse) |
+| Diferenciar identificação de individualização | Distinção conceitual clássica de prova | Pergunte: o método aponta um grupo/faixa, ou uma única pessoa exclusiva? |
+| Classificar corretamente os quatro tipos fundamentais de Vucetich pela presença e posição do delta | Base técnica de toda classificação datiloscópica | Conte os deltas (0, 1 ou 2) e veja a direção da abertura da alça |
+| Reconhecer pontos característicos (minúcias) como base da comparação técnica | Evita responder por "impressão geral" em vez de método | Nomeie os tipos de minúcia e sua função na perícia comparativa |
+
+## Diferenças que a banca costuma trocar
+
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Identificação | Individualização | Ambas "reconhecem" uma pessoa | Individualização exclui todas as outras pessoas do mundo; identificação pode só reduzir um grupo |
+| Presilha interna | Presilha externa | Ambas têm um delta e uma alça | Interna abre para o lado do polegar (radial); externa abre para o lado do mindinho (ulnar) |
+| Perenidade | Imutabilidade | Ambas são propriedades das cristas papilares | Perenidade = dura desde a formação até a decomposição; imutabilidade = não muda espontaneamente de padrão |
+| Papiloscopia | Antropometria (Bertillonagem) | Ambos são métodos históricos de identificação | Antropometria usa medidas corporais (superada); papiloscopia usa desenho papilar (padrão atual) |
 
 ## Pegadinhas da banca
 
-- Dizer que papiloscopia depende só de fotografia, sem comparação técnica.
-- Confundir vestígio encontrado com prova já valorada no processo.
-- Achar que local de crime preservado é responsabilidade apenas do perito.
-- Misturar criminologia crítica, positivista e teoria do etiquetamento.
-- Prioridade de atenção: Papiloscopia individualiza por desenhos papilares, não por aparência geral.
-- Prioridade de atenção: Princípios clássicos: variabilidade, permanência e classificabilidade.
-- Prioridade de atenção: Coleta ruim não invalida o método, mas pode prejudicar confronto.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Tratar identificação e individualização como sinônimos.
+- Trocar a direção de abertura da presilha interna com a externa.
+- Achar que gêmeos univitelinos têm a mesma impressão digital (têm o mesmo DNA, mas desenhos papilares diferentes).
+- Considerar que qualquer cicatriz altera permanentemente o desenho papilar (só lesões profundas, que atingem a derme, alteram).
+- Confundir delta (ponto de referência do desenho) com minúcia (ponto característico usado na comparação).
 
 ## Como resolver questões
 
-1. Comece separando a área pericial: identificação, local de crime, documento, lesão, morte, toxicologia ou criminologia.
-2. Procure o verbo do enunciado: preservar, coletar, comparar, identificar, reconhecer, classificar ou interpretar.
-3. Quando houver cadeia de custódia, pense em rastreabilidade e integridade desde o reconhecimento do vestígio.
-4. Em criminologia, diferencie escola, teoria, objeto e política criminal.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para questões de fundamento, associe cada propriedade da papiloscopia (perenidade, imutabilidade, diferenciabilidade) à razão científica que a sustenta.
+2. Para classificação Vucetich, conte os deltas primeiro (0=arco, 1=presilha, 2=verticilo), depois veja a direção da alça se for presilha.
+3. Para questões de comparação técnica, lembre que a conclusão pericial se apoia em pontos característicos (minúcias), não em semelhança visual geral.
+4. Para questões de método de identificação, compare o poder de individualização de cada técnica antes de escolher a alternativa.
+
+## Lacunas honestas
+
+- Ainda não há questão real de banca FGV localizada especificamente para este tema neste levantamento — as questões reais de Ciências Forenses localizadas até agora (nas provas PCMG) tratam de cadeia de custódia, antropologia forense, cronotanatognose, asfixias e balística (temas 020-023), não de fundamentos de papiloscopia isoladamente. É prioridade de busca para sessão futura.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Ciências Forenses 2.1.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei diferenciar identidade, identificação e individualização.
+- [ ] Sei as três propriedades que sustentam a papiloscopia como método científico (perenidade, imutabilidade, diferenciabilidade).
+- [ ] Sei os quatro tipos fundamentais de Vucetich e o número/posição de deltas de cada um.
+- [ ] Sei nomear ao menos três tipos de pontos característicos (minúcias).
+- [ ] Sei comparar o poder de individualização da papiloscopia com outros métodos de identificação.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -157,13 +124,17 @@ O conteúdo deve ser lido com mentalidade de procedimento. O que a prova quer sa
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Medicina legal.pdf`
-- `Questões FGV/Questoes Criminalistica.pdf`
-- `Questões FGV/Questoes Criminologia.pdf`
-- `Questões FGV/Questoes Crime.pdf`
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+- Nenhuma questão real de FGV localizada especificamente para este tema até o momento (lacuna registrada acima).
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Material local**
+
+- `Materiais QB/` (materiais de ciências forenses e criminalística disponíveis localmente)
+
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Onde não há questão real disponível, a lacuna está registrada explicitamente.

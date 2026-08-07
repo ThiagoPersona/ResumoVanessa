@@ -22,9 +22,9 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | RLM | 5 | 4 | 17 | Conhecimentos Gerais, item 2 |
 | Realidade PR | 5 | 2 | 6 | Conhecimentos Gerais, item 3 |
 | Tecnologia | 15 | 6 | 29 | Conhecimentos Específicos, item 1 |
-| Ciências Forenses | 10 | 8 | 11 | Conhecimentos Específicos, item 2 |
-| Biologia | 10 | 4 | 6 | Conhecimentos Específicos, item 3 |
-| Física | 5 | 4 | 6 | Conhecimentos Específicos, item 4 |
+| Ciências Forenses | 10 | 8 | 21 | Conhecimentos Específicos, item 2 |
+| Biologia | 10 | 4 | 15 | Conhecimentos Específicos, item 3 |
+| Física | 5 | 4 | 10 | Conhecimentos Específicos, item 4 |
 | Química | 5 | 5 | 8 | Conhecimentos Específicos, item 5 |
 | Legislação | 5 | 7 | 7 | Conhecimentos Específicos, item 6 |
 | Penal | 3 | 3 | 4 | Conhecimentos Específicos, item 7 |
@@ -73,22 +73,22 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | 016 | Tecnologia | Segurança da informação, malware, phishing e backup | Tecnologia 1.4 | altíssima | 2 (autorais) |
 | 017 | Tecnologia | Crimes digitais, evidências eletrônicas e OSINT | Tecnologia 1.5 | alta | 2 (autorais) |
 | 018 | Tecnologia | Legislação e ética digital | Tecnologia 1.6 | alta | 2 (1 oficial FGV) |
-| 019 | Ciências Forenses | Medicina legal, identificação humana e papiloscopia | Ciências Forenses 2.1 | altíssima | 2 |
-| 020 | Ciências Forenses | Antropologia, odontologia legal, DNA, reconhecimento facial e IA | Ciências Forenses 2.1 | alta | 1 |
-| 021 | Ciências Forenses | Sexologia, traumatologia, asfixiologia e balística | Ciências Forenses 2.1 | alta | 1 |
-| 022 | Ciências Forenses | Tanatologia, necropsia, toxicologia e psicopatologia | Ciências Forenses 2.1 | alta | 1 |
-| 023 | Ciências Forenses | Criminalística, local de crime e cadeia de custódia | Ciências Forenses 2.2 | altíssima | 2 |
-| 024 | Ciências Forenses | Documentoscopia, grafoscopia e falsificações | Ciências Forenses 2.2 | alta | 1 |
-| 025 | Ciências Forenses | Criminologia, vitimologia e controle social | Ciências Forenses 2.3 | alta | 2 |
-| 026 | Ciências Forenses | Criminologia digital e investigação tecnológica | Ciências Forenses 2.4 | alta | 1 |
-| 027 | Biologia | Citologia | Biologia 3.1 | alta | 1 |
-| 028 | Biologia | Genética | Biologia 3.2 | altíssima | 2 |
-| 029 | Biologia | Embriologia e cristas papilares | Biologia 3.3 | altíssima | 1 |
-| 030 | Biologia | Biologia da identificação humana e biometria | Biologia 3.4 | altíssima | 2 |
-| 031 | Física | Óptica e formação de imagens | Física 4.1 | alta | 2 |
-| 032 | Física | UV, fluorescência, ondas e eletromagnetismo | Física 4.1-4.2 | alta | 2 |
-| 033 | Física | Eletricidade e circuitos simples | Física 4.3 | média | 1 |
-| 034 | Física | Física da captura de imagens, biometria e equipamentos | Física 4.4 | alta | 1 |
+| 019 | Ciências Forenses | Medicina legal, identificação humana e papiloscopia | Ciências Forenses 2.1 | altíssima | 2 (autorais) |
+| 020 | Ciências Forenses | Antropologia, odontologia legal, DNA, reconhecimento facial e IA | Ciências Forenses 2.1 | alta | 2 (1 oficial FGV) |
+| 021 | Ciências Forenses | Sexologia, traumatologia, asfixiologia e balística | Ciências Forenses 2.1 | alta | 3 (2 oficiais FGV) |
+| 022 | Ciências Forenses | Tanatologia, necropsia, toxicologia e psicopatologia | Ciências Forenses 2.1 | alta | 2 (1 oficial FGV) |
+| 023 | Ciências Forenses | Criminalística, local de crime e cadeia de custódia | Ciências Forenses 2.2 | altíssima | 8 (6 oficiais FGV) |
+| 024 | Ciências Forenses | Documentoscopia, grafoscopia e falsificações | Ciências Forenses 2.2 | alta | 1 (autoral) |
+| 025 | Ciências Forenses | Criminologia, vitimologia e controle social | Ciências Forenses 2.3 | alta | 2 (autorais) |
+| 026 | Ciências Forenses | Criminologia digital e investigação tecnológica | Ciências Forenses 2.4 | alta | 1 (autoral) |
+| 027 | Biologia | Citologia | Biologia 3.1 | alta | 2 (1 oficial FGV) |
+| 028 | Biologia | Genética | Biologia 3.2 | altíssima | 6 (4 oficiais FGV) |
+| 029 | Biologia | Embriologia e cristas papilares | Biologia 3.3 | altíssima | 2 (1 oficial FGV) |
+| 030 | Biologia | Biologia da identificação humana e biometria | Biologia 3.4 | altíssima | 5 (3 oficiais FGV) |
+| 031 | Física | Óptica e formação de imagens | Física 4.1 | alta | 4 (2 oficiais FGV) |
+| 032 | Física | UV, fluorescência, ondas e eletromagnetismo | Física 4.1-4.2 | alta | 4 (2 oficiais FGV) |
+| 033 | Física | Eletricidade e circuitos simples | Física 4.3 | média | 1 (autoral) |
+| 034 | Física | Física da captura de imagens, biometria e equipamentos | Física 4.4 | alta | 1 (autoral) |
 | 035 | Química | Estrutura da matéria, tabela periódica e ligações | Química 5.1 | média | 1 |
 | 036 | Química | Misturas, soluções, separação e concentração | Química 5.2 | alta | 2 |
 | 037 | Química | Reações, balanceamento, velocidade e equilíbrio | Química 5.3 | média | 2 |

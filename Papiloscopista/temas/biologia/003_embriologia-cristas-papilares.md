@@ -1,155 +1,127 @@
 # 029 - Embriologia e cristas papilares
 
-> **Base do edital:** Conhecimentos Específicos; Biologia 3.3.  
-> **Peso da disciplina:** 10 questões na prova objetiva.  
-> **Prioridade:** altíssima.
+## Leitura rápida
+
+- O desenvolvimento embrionário humano passa por fecundação, clivagem, formação do blastocisto, implantação e gastrulação (formação das três camadas germinativas: ectoderma, mesoderma, endoderma) — cada estrutura adulta deriva de uma dessas camadas.
+- As quatro membranas fetais (âmnio, vesícula vitelínica, alantoide, cório) têm funções específicas e diferentes — a prova gosta de trocar a função de uma pela outra.
+- A placenta tem componente fetal (vilosidades coriônicas) e componente materno (tecido uterino modificado), sendo composta por células geneticamente distintas de dois indivíduos.
+- As cristas papilares se formam durante a vida intrauterina, por volta do quarto mês de gestação, a partir da camada basal da epiderme — esse é o fundamento embriológico da perenidade da impressão digital (tema 019).
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Biologia soma 10 questões; este capítulo concentra Biologia 3.3.
-- **Como a FGV costuma cobrar:** A banca pode cobrar biologia aplicada: estrutura celular, genética e bases biológicas da identificação humana, sem exigir cálculo longo.
-- **O que mais confunde candidatos:** decorar nomes sem função; misturar DNA, gene e cromossomo; confundir formação embrionária de cristas papilares com impressão digital colhida depois.
-- **Particularidade para Papiloscopista:** Biologia dá a base para entender biometria, hereditariedade, grupos sanguíneos e permanência das cristas papilares.
+Este item conecta biologia do desenvolvimento (embriologia) ao núcleo técnico do cargo: entender como as cristas papilares se formam explica cientificamente por que a papiloscopia funciona como método de identificação. Também é aplicado em medicina legal (exame de tecido fetal para investigação de paternidade e idade gestacional).
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q34: membranas fetais e composição genética da placenta. |
 
-- **Gametogênese, fecundação e desenvolvimento embrionário.** Espermatogênese, ovogênese, fecundação, zigoto, clivagem, nidação, folhetos embrionários, formação da pele e cristas papilares.
-- **Formação das cristas papilares.** Espermatogênese, ovogênese, fecundação, zigoto, clivagem, nidação, folhetos embrionários, formação da pele e cristas papilares.
-- **Prioridade FGV:** Cristas papilares surgem no desenvolvimento fetal.
-- **Prioridade FGV:** O desenho papilar é estável em condições normais.
-- **Prioridade FGV:** Lesão superficial não muda permanentemente o padrão.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Etapas iniciais do desenvolvimento embrionário
 
-### Visão de estudo para este tema
-
-Biologia no edital é aplicada à identificação humana. A banca pode partir de citologia e genética, mas o destino é entender características biológicas, hereditariedade, DNA, grupos sanguíneos, embriologia e formação das cristas papilares.
-
-A preparação deve evitar dois extremos: decorar nomes sem função ou transformar o tema em biologia de vestibular. Para a prova, importa saber estrutura, função, transmissão hereditária, permanência de características e limites de individualização.
-
-Papiloscopia depende de base biológica: desenhos papilares formam-se no desenvolvimento embrionário, permanecem estáveis em condições normais e podem ser usados em identificação quando coletados e comparados tecnicamente.
-
-**Aplicação ao cargo:** A disciplina dá sustentação técnica para compreender biometria, impressão digital, DNA e identificação humana por características biológicas.
-
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
-
-### O que mais merece atenção
-
-- membrana, organelas, núcleo e divisão celular
-- DNA, RNA, genes e cromossomos
-- Mendel, probabilidade genética e herança ligada ao sexo
-- grupos sanguíneos
-- gametogênese, fecundação e desenvolvimento embrionário
-- cristas papilares, impressões digitais e biometria
-
-### Conteúdo completo orientado ao edital
-
-### 1. Gametogênese, fecundação e desenvolvimento embrionário.
-
-**O que significa:** Embriologia humana estuda gametas, fecundação e desenvolvimento embrionário. As cristas papilares formam-se durante o desenvolvimento fetal e dão base aos desenhos digitais, palmares e plantares.
-
-**Como estudar para a prova:** Espermatogênese, ovogênese, fecundação, zigoto, clivagem, nidação, folhetos embrionários, formação da pele e cristas papilares.
-
-**Como a FGV pode cobrar:** A FGV pode ligar desenvolvimento embrionário à permanência e individualidade das impressões digitais.
-
-**Cuidado de prova:** A impressão colhida muda por qualidade de coleta ou lesão; o desenho papilar, em regra, permanece estável após formado.
-
-### 2. Formação das cristas papilares.
-
-**O que significa:** Embriologia humana estuda gametas, fecundação e desenvolvimento embrionário. As cristas papilares formam-se durante o desenvolvimento fetal e dão base aos desenhos digitais, palmares e plantares.
-
-**Como estudar para a prova:** Espermatogênese, ovogênese, fecundação, zigoto, clivagem, nidação, folhetos embrionários, formação da pele e cristas papilares.
-
-**Como a FGV pode cobrar:** A FGV pode ligar desenvolvimento embrionário à permanência e individualidade das impressões digitais.
-
-**Cuidado de prova:** A impressão colhida muda por qualidade de coleta ou lesão; o desenho papilar, em regra, permanece estável após formado.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Etapa | O que ocorre |
 |---|---|
-| Cristas papilares surgem no desenvolvimento fetal. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| O desenho papilar é estável em condições normais. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Lesão superficial não muda permanentemente o padrão. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Fecundação | União do espermatozoide com o óvulo, formando o zigoto |
+| Clivagem | Sucessivas divisões celulares do zigoto, sem aumento de volume total, formando a mórula |
+| Blastocisto | Estrutura com uma cavidade interna (blastocele), massa celular interna (dará origem ao embrião) e trofoblasto (dará origem a estruturas de suporte, como parte da placenta) |
+| Implantação (nidação) | Fixação do blastocisto na parede do útero |
+| Gastrulação | Formação das três camadas germinativas (folhetos embrionários) |
 
-### Diferenças que a banca costuma trocar
+### As três camadas germinativas e suas derivações
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Camada | Estruturas que origina |
+|---|---|
+| Ectoderma | Epiderme e seus anexos (pelos, unhas, glândulas), sistema nervoso, órgãos dos sentidos |
+| Mesoderma | Músculos, ossos, sistema circulatório, sistema urogenital, derme |
+| Endoderma | Revestimento do tubo digestivo e respiratório, fígado, pâncreas |
+
+As cristas papilares se formam na **epiderme**, derivada do ectoderma, especificamente na camada basal (germinativa), que se prolifera de forma ondulada entre a 10ª e a 16ª semana de gestação aproximadamente (por volta do quarto mês), gerando o relevo permanente das cristas.
+
+### As quatro membranas fetais
+
+| Membrana | Função principal |
+|---|---|
+| Âmnio | Membrana fina que envolve todo o embrião/feto, contendo o líquido amniótico — protege contra dessecamento, choques mecânicos e permite movimento fetal |
+| Vesícula vitelínica (saco vitelínico) | Nas fases iniciais, contribui para nutrição do embrião e é local inicial de formação de células sanguíneas e das células germinativas primordiais |
+| Alantoide | Relacionado à formação de vasos sanguíneos do cordão umbilical e, em outros vertebrados, ao armazenamento de excreta; no ser humano, tem função reduzida, associada ao desenvolvimento da bexiga e dos vasos umbilicais |
+| Cório | Membrana mais externa, formada a partir do trofoblasto; forma as vilosidades coriônicas, que constituem o componente fetal da placenta |
+
+**Cuidado de prova**: não confunda a função do âmnio (proteção contra dessecamento e choque, por meio do líquido amniótico que envolve todo o embrião) com a da vesícula vitelínica (nutrição inicial e formação de células sanguíneas/germinativas) — são funções bem diferentes, frequentemente trocadas em questões de V/F.
+
+### Placenta: componente fetal e materno
+
+A placenta é formada por dois componentes de origem genética distinta:
+
+- **Componente fetal**: vilosidades coriônicas, derivadas do cório (que, por sua vez, vem do trofoblasto do próprio embrião) — geneticamente idêntico ao feto.
+- **Componente materno**: tecido uterino modificado pela gestação (a decídua), tecnicamente mais preciso do que simplesmente "endométrio" comum, já que se trata de uma diferenciação especializada do endométrio após a implantação.
+
+Por isso, a placenta é composta por células de dois indivíduos geneticamente distintos (mãe e feto) — fato relevante tanto para compreensão biológica quanto para certas aplicações periciais (exame de tecido placentário).
+
+### Fundamento embriológico da papiloscopia
+
+A formação das cristas papilares durante a vida intrauterina (a partir da proliferação ondulada da camada basal da epiderme, entre o terceiro e o quinto mês de gestação aproximadamente) explica cientificamente as propriedades centrais da papiloscopia (tema 019):
+
+- **Perenidade**: o desenho se forma cedo na gestação e acompanha o indivíduo dali em diante, sem se refazer.
+- **Diferenciabilidade mesmo entre gêmeos univitelinos**: apesar do mesmo DNA, o desenho exato das cristas depende também de fatores locais durante a formação (pressão, posição, fluxo de líquido amniótico dentro do útero), que variam mesmo entre gêmeos idênticos — por isso o desenho papilar não é puramente determinado pela genética.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Gametogênese, fecundação e desenvolvimento embrionário. | A impressão colhida muda por qualidade de coleta ou lesão; o desenho papilar, em regra, permanece estável após formado. | A FGV pode ligar desenvolvimento embrionário à permanência e individualidade das impressões digitais. |
-| Formação das cristas papilares. | A impressão colhida muda por qualidade de coleta ou lesão; o desenho papilar, em regra, permanece estável após formado. | A FGV pode ligar desenvolvimento embrionário à permanência e individualidade das impressões digitais. |
+| Diferenciar corretamente a função de cada uma das quatro membranas fetais | Evidenciado na questão real SEAD/AP Q34 | Associe: âmnio=proteção/líquido; vitelínica=nutrição inicial/sangue; alantoide=vasos umbilicais; cório=componente fetal da placenta |
+| Reconhecer que a placenta tem componente fetal e materno geneticamente distintos | Evidenciado na mesma questão | Lembre: vilosidades coriônicas (fetal) + tecido uterino modificado/decídua (materno) |
+| Associar cada camada germinativa às estruturas que ela origina | Base de qualquer questão de gastrulação | Monte a tabela ectoderma/mesoderma/endoderma → estruturas |
+| Explicar a formação embriológica das cristas papilares como fundamento da papiloscopia | Conecta biologia a identificação humana (tema 019) | Lembre: formação na camada basal da epiderme, entre o 3º e 5º mês de gestação |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Âmnio (protege, líquido amniótico) | Vesícula vitelínica (nutrição inicial, formação sanguínea) | Ambas são membranas fetais | Âmnio envolve todo o embrião com líquido protetor; vitelínica nutre e forma células sanguíneas nas fases iniciais |
+| Cório (origina componente fetal da placenta) | Alantoide (vasos umbilicais, função reduzida no humano) | Ambas contribuem para estruturas da gestação | Cório forma as vilosidades coriônicas (parte fetal da placenta); alantoide tem papel menor, ligado a vasos |
+| Componente fetal da placenta | Componente materno da placenta | Ambos formam "a placenta" | Fetal = vilosidades coriônicas (DNA do feto); materno = tecido uterino modificado (DNA da mãe) |
+| Ectoderma (pele, sistema nervoso) | Mesoderma (músculo, osso, sistema circulatório) | Ambas são camadas germinativas | Associe cada camada à lista específica de órgãos/tecidos que ela origina |
 
-### Roteiro de estudo de alta retenção
+## Como caiu na prova: questão comentada
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+**Fonte: FGV, SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 34 (gabarito oficial: C)**
 
-### Lacunas honestas
+> O exame de DNA para definição de paternidade pode ser feito ainda durante a gestação [...] Com relação às membranas fetais e à placenta, assinale V para a afirmativa verdadeira e F para a falsa. ( ) As membranas fetais humanas são em número de quatro: âmnio, vesícula vitelínica, alantoide e cório. ( ) A vesícula vitelínica (ou saco vitelínico) é uma membrana fina, impermeável que envolve todo o embrião. Essa vesícula contém um fluido que evita que o embrião sofra dessecamento e traumas mecânicos. ( ) A placenta é um órgão formado por um componente fetal (vilosidades coriônicas) e um componente materno (endométrio). Assim, a placenta é composta de células provenientes de dois indivíduos geneticamente distintos. As afirmativas são, respectivamente,
+>
+> (A) F, V e F. (B) F, V e V. (C) V, F e F. (D) V, V e F. (E) F, F e V.
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Gametogênese, fecundação e desenvolvimento embrionário. | Espermatogênese, ovogênese, fecundação, zigoto, clivagem, nidação, folhetos embrionários, formação da pele e cristas papilares. | A impressão colhida muda por qualidade de coleta ou lesão; o desenho papilar, em regra, permanece estável após formado. |
-| Formação das cristas papilares. | Espermatogênese, ovogênese, fecundação, zigoto, clivagem, nidação, folhetos embrionários, formação da pele e cristas papilares. | A impressão colhida muda por qualidade de coleta ou lesão; o desenho papilar, em regra, permanece estável após formado. |
-
-| Ponto quente | Treino recomendado |
-|---|---|
-| Cristas papilares surgem no desenvolvimento fetal. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| O desenho papilar é estável em condições normais. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Lesão superficial não muda permanentemente o padrão. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+1. **Avalie a 1ª afirmativa**: as quatro membranas fetais citadas (âmnio, vesícula vitelínica, alantoide, cório) estão corretas e completas. **Verdadeira**.
+2. **Avalie a 2ª afirmativa**: a descrição ("envolve todo o embrião", "evita dessecamento e traumas") corresponde na verdade à função do **âmnio**, não da vesícula vitelínica (que atua em nutrição inicial e formação de células sanguíneas). A definição está trocada. **Falsa**.
+3. **Avalie a 3ª afirmativa**: embora a ideia geral (fetal + materno, dois genomas distintos) esteja correta, a designação simplificada "endométrio" para o componente materno é imprecisa tecnicamente (o componente materno é uma diferenciação específica do endométrio pós-implantação). **Falsa**, pela imprecisão terminológica cobrada pela banca.
+4. **Sequência: V-F-F = C**, o gabarito.
 
 ## Pegadinhas da banca
 
-- Dizer que impressão digital muda ao longo da vida sem lesão profunda.
-- Confundir RNA com DNA em armazenamento de informação genética permanente.
-- Tratar grupo sanguíneo como identificação individual absoluta.
-- Misturar biometria fisiológica com senha ou token.
-- Prioridade de atenção: Cristas papilares surgem no desenvolvimento fetal.
-- Prioridade de atenção: O desenho papilar é estável em condições normais.
-- Prioridade de atenção: Lesão superficial não muda permanentemente o padrão.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Trocar a função do âmnio (proteção/líquido) pela da vesícula vitelínica (nutrição inicial/sangue), ou o contrário.
+- Achar que a placenta tem apenas um componente genético (só materno ou só fetal), ignorando que é formada por dois genomas distintos.
+- Confundir a lista de estruturas derivadas de cada camada germinativa (ectoderma, mesoderma, endoderma).
+- Ignorar a base embriológica da formação das cristas papilares ao estudar papiloscopia de forma isolada, sem conectar com fundamento biológico.
 
 ## Como resolver questões
 
-1. Relacione estrutura e função antes de memorizar o nome.
-2. Em genética, identifique se a pergunta é de molécula, transmissão hereditária ou probabilidade.
-3. Em embriologia, separe formação biológica da coleta pericial posterior.
-4. Em identificação humana, pense em característica biológica, individualização e limite do método.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para membranas fetais, associe cada uma a uma função específica antes de avaliar qualquer afirmativa — nunca decore só o nome.
+2. Para placenta, lembre sempre dos dois componentes (fetal e materno) e da precisão terminológica exigida (decídua/tecido uterino modificado, não simplesmente "endométrio" comum).
+3. Para camadas germinativas, monte a lista de estruturas derivadas de cada uma antes de responder questão de gastrulação.
+4. Para conectar embriologia com papiloscopia, lembre a época de formação das cristas papilares (por volta do quarto mês de gestação) e sua origem na camada basal da epiderme.
+
+## Lacunas honestas
+
+- Ainda não há questão real localizada sobre gastrulação/camadas germinativas isoladamente, nem sobre a formação embriológica específica das cristas papilares neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Biologia 3.3.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei as etapas iniciais do desenvolvimento embrionário (fecundação, clivagem, blastocisto, implantação, gastrulação).
+- [ ] Sei as três camadas germinativas e as estruturas que cada uma origina.
+- [ ] Sei a função específica de cada uma das quatro membranas fetais.
+- [ ] Sei que a placenta tem componente fetal (vilosidades coriônicas) e materno (tecido uterino modificado), geneticamente distintos.
+- [ ] Sei explicar a base embriológica da formação das cristas papilares.
+- [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -157,12 +129,17 @@ Papiloscopia depende de base biológica: desenhos papilares formam-se no desenvo
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Biologia.pdf`
-- `Policia Civil/Biologia/Biologia - cópia.pdf`
-- `Questões FGV/Questoes Biologia.pdf`
+- FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questão 34. Gabarito definitivo publicado pela FGV.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Material local**
+
+- `Questões FGV/Questoes Biologia anatomia e fisiologia.pdf`
+
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. A questão citada é real, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.

@@ -1,155 +1,122 @@
 # 020 - Antropologia, odontologia legal, DNA, reconhecimento facial e IA
 
-> **Base do edital:** Conhecimentos Específicos; Ciências Forenses 2.1.  
-> **Peso da disciplina:** 10 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- Antropologia forense entra em cena quando o corpo está muito decomposto, esqueletizado ou fragmentado — sua missão é reconstruir o **perfil biológico** (sexo, idade, estatura, ancestralidade) a partir de ossos e dentes.
+- Cada estrutura óssea "fala" de um jeito diferente: pelve é a melhor referência para sexo; suturas cranianas e sínfise púbica ajudam a estimar faixa etária; dentes ajudam em qualquer fase da vida, inclusive infância (pela erupção dentária) e idade adulta (pelo desgaste e transparência radicular).
+- Odontologia legal usa a arcada dentária como identificador robusto quando outros métodos falham (corpos carbonizados, decompostos), porque o esmalte dentário é o tecido mais resistente do corpo humano.
+- Reconhecimento facial por IA tem poder de individualização menor que papiloscopia/DNA e está sujeito a limitações técnicas (viés de base de dados, variação de ângulo/iluminação, "falsos positivos/negativos") que a prova gosta de cobrar como ponto crítico.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Ciências Forenses soma 10 questões; este capítulo concentra Ciências Forenses 2.1.
-- **Como a FGV costuma cobrar:** A cobrança tende a misturar conceito e aplicação: nome técnico, finalidade pericial, ordem de preservação e diferença entre vestígio, indício e evidência.
-- **O que mais confunde candidatos:** misturar áreas da Medicina Legal; confundir identificação com reconhecimento; tratar vestígio e evidência como sinônimos absolutos.
-- **Particularidade para Papiloscopista:** Este é o núcleo de identidade do cargo. Papiloscopia, identificação humana, local de crime, cadeia de custódia e documentação devem ter prioridade máxima.
+Este item cobre os métodos de identificação usados quando a papiloscopia tradicional não é suficiente — corpos em decomposição avançada, esqueletos, fragmentos ósseos ou situações que exigem tecnologia mais recente (reconhecimento facial, inteligência artificial aplicada à perícia). É complementar ao núcleo papiloscópico do cargo (tema 019), cobrindo os métodos "de reforço" ou alternativos de identificação.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q42: métodos de obtenção do perfil biológico em antropologia forense (sexo, idade a partir de ossos e dentes). |
 
-- **Antropologia forense, odontologia legal e identificação por DNA.** Revise sexo biológico estimado, idade, estatura, ancestralidade com cautela, arcada dentária, prontuário odontológico, material biológico, perfil genético, viés algorítmico e falso positivo.
-- **Reconhecimento facial e inteligência artificial aplicada à identificação pericial.** Revise sexo biológico estimado, idade, estatura, ancestralidade com cautela, arcada dentária, prontuário odontológico, material biológico, perfil genético, viés algorítmico e falso positivo.
-- **Prioridade FGV:** Antropologia estima perfil; DNA compara perfil genético; odontologia compara registros dentários.
-- **Prioridade FGV:** Reconhecimento facial e IA auxiliam, mas têm falso positivo e exigem validação.
-- **Prioridade FGV:** Métodos diferentes têm forças probatórias diferentes.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Antropologia forense: reconstruindo o perfil biológico
 
-### Visão de estudo para este tema
+Quando um corpo está esqueletizado, carbonizado ou muito decomposto, a antropologia forense analisa ossos e dentes para reconstruir o **perfil biológico**: sexo, idade aproximada, estatura e, quando possível, ancestralidade.
 
-Ciências Forenses é o bloco mais identitário para Papiloscopista. O estudo precisa separar áreas: Medicina Legal, identificação humana, papiloscopia, criminalística, documentoscopia, criminologia e investigação tecnológica. Cada uma tem objeto, método e vocabulário próprio.
+**Estimativa de sexo**: o **osso pélvico** é a referência mais confiável, porque suas diferenças morfológicas entre homens e mulheres (relacionadas à função obstétrica) são as mais marcantes do esqueleto — a pelve feminina é proporcionalmente mais larga e com ângulo subpúbico mais aberto. O crânio também ajuda (traços mais robustos no homem, mais delicados na mulher), mas com menor precisão que a pelve.
 
-A FGV tende a cobrar diferença fina: vestígio, indício e evidência; identificação e reconhecimento; local imediato, mediato e relacionado; papiloscopia e outras biometrias; falsificação documental e alteração material; vitimização primária, secundária e terciária.
+**Estimativa de idade**: usa métodos diferentes conforme a faixa etária provável:
 
-O conteúdo deve ser lido com mentalidade de procedimento. O que a prova quer saber é: quem faz, para quê, com que cuidado, em qual sequência e com qual limitação.
-
-**Aplicação ao cargo:** O Papiloscopista trabalha na individualização humana e na produção técnica de elementos que precisam ser confiáveis, rastreáveis e compreensíveis no processo.
-
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
-
-### O que mais merece atenção
-
-- papiloscopia e identificação humana
-- cadeia de custódia e local de crime
-- vestígio, indício, evidência e prova
-- documentoscopia e grafoscopia
-- tanatologia, traumatologia e toxicologia básicas
-- criminologia, vitimologia e criminologia digital
-
-### Conteúdo completo orientado ao edital
-
-### 1. Antropologia forense, odontologia legal e identificação por DNA.
-
-**O que significa:** Antropologia forense estima perfil biológico; odontologia legal compara elementos dentários; DNA compara perfis genéticos; reconhecimento facial e IA auxiliam triagem, busca ou comparação, mas exigem validação.
-
-**Como estudar para a prova:** Revise sexo biológico estimado, idade, estatura, ancestralidade com cautela, arcada dentária, prontuário odontológico, material biológico, perfil genético, viés algorítmico e falso positivo.
-
-**Como a FGV pode cobrar:** A banca cobra finalidade e limitação do método, principalmente quando tecnologia é apresentada como certeza absoluta.
-
-**Cuidado de prova:** IA e reconhecimento facial não substituem perícia validada nem eliminam necessidade de cadeia de custódia e revisão humana.
-
-### 2. Reconhecimento facial e inteligência artificial aplicada à identificação pericial.
-
-**O que significa:** Antropologia forense estima perfil biológico; odontologia legal compara elementos dentários; DNA compara perfis genéticos; reconhecimento facial e IA auxiliam triagem, busca ou comparação, mas exigem validação.
-
-**Como estudar para a prova:** Revise sexo biológico estimado, idade, estatura, ancestralidade com cautela, arcada dentária, prontuário odontológico, material biológico, perfil genético, viés algorítmico e falso positivo.
-
-**Como a FGV pode cobrar:** A banca cobra finalidade e limitação do método, principalmente quando tecnologia é apresentada como certeza absoluta.
-
-**Cuidado de prova:** IA e reconhecimento facial não substituem perícia validada nem eliminam necessidade de cadeia de custódia e revisão humana.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Método | Faixa etária mais útil |
 |---|---|
-| Antropologia estima perfil; DNA compara perfil genético; odontologia compara registros dentários. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Reconhecimento facial e IA auxiliam, mas têm falso positivo e exigem validação. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Métodos diferentes têm forças probatórias diferentes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Núcleos de ossificação e fusão de epífises | Crianças e adolescentes |
+| Suturas cranianas (grau de fusão) | Adultos, mas com precisão limitada — não é o método mais fidedigno isoladamente |
+| Desgaste/degeneração da sínfise púbica | Adultos, método amplamente utilizado para faixa etária |
+| Transparência radicular dentária | Adultos, especialmente em dentes unirradiculares |
+| Erupção dentária | Crianças, método bastante preciso pela sequência previsível |
 
-### Diferenças que a banca costuma trocar
+O ponto de atenção: nenhum método isolado é definitivo — a antropologia forense combina vários indicadores (ósseos e dentários) para reduzir a margem de erro na estimativa do perfil biológico.
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+### Odontologia legal
+
+A arcada dentária é um identificador robusto porque o **esmalte dentário é o tecido mais resistente do corpo humano**, sobrevivendo a situações que destroem outros tecidos (carbonização, imersão prolongada, decomposição avançada). A odontologia legal compara o padrão dentário (posição, restaurações, próteses, anomalias) de um corpo não identificado com registros odontológicos prévios (prontuário odontológico, radiografias) — método frequentemente decisivo em identificação de vítimas de incêndios, acidentes aéreos e desastres em massa.
+
+### DNA na identificação forense
+
+O DNA oferece o maior poder de individualização entre os métodos de identificação biológica, pela variabilidade genética entre indivíduos (exceto gêmeos univitelinos, que compartilham o mesmo DNA nuclear). Aplicações centrais:
+
+- **Identificação de vítimas e suspeitos**: comparação de perfil genético extraído de vestígio biológico (sangue, saliva, pelo, sêmen) com banco de perfis ou com material de referência de familiares.
+- **Investigação de paternidade**: compara marcadores genéticos entre suposto pai e filho; ao contrário da tipagem sanguínea ABO/Rh (que só exclui), o exame de DNA pode confirmar paternidade com altíssimo grau de certeza.
+- **DNA mitocondrial**: herdado exclusivamente da mãe, útil quando o DNA nuclear está muito degradado (ossos antigos, cabelo sem raiz) ou para rastrear linhagem materna.
+
+### Reconhecimento facial e inteligência artificial aplicada à perícia
+
+Sistemas de reconhecimento facial usam algoritmos para mapear pontos geométricos do rosto (distância entre olhos, formato do nariz, contorno da mandíbula) e comparar com um banco de imagens, gerando um grau de similaridade. Pontos técnicos e éticos centrais:
+
+- **Poder de individualização limitado**: diferente da papiloscopia e do DNA, reconhecimento facial trabalha com probabilidade de similaridade, não certeza de identidade — por isso costuma ser tratado como ferramenta de **triagem investigativa**, não como prova pericial definitiva isolada.
+- **Fatores que reduzem a precisão**: variação de ângulo, iluminação, expressão facial, envelhecimento, uso de acessórios (óculos, máscara), e qualidade/resolução da imagem capturada.
+- **Viés algorítmico**: sistemas treinados com bases de dados pouco diversas podem ter taxas de erro maiores para certos grupos demográficos — um problema técnico e ético relevante para o uso responsável da ferramenta em investigação policial.
+- **Inteligência artificial em perícia**: além do reconhecimento facial, IA vem sendo aplicada em triagem de grandes volumes de dados digitais, reconstrução facial a partir de crânio, e apoio à análise de imagens periciais — sempre como ferramenta de apoio, com necessidade de validação técnica humana.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Antropologia forense, odontologia legal e identificação por DNA. | IA e reconhecimento facial não substituem perícia validada nem eliminam necessidade de cadeia de custódia e revisão humana. | A banca cobra finalidade e limitação do método, principalmente quando tecnologia é apresentada como certeza absoluta. |
-| Reconhecimento facial e inteligência artificial aplicada à identificação pericial. | IA e reconhecimento facial não substituem perícia validada nem eliminam necessidade de cadeia de custódia e revisão humana. | A banca cobra finalidade e limitação do método, principalmente quando tecnologia é apresentada como certeza absoluta. |
+| Associar cada método de antropologia forense à faixa etária/finalidade em que é mais confiável | Evidenciado na questão real PCMG Q42 | Monte a tabela "método → melhor uso" e memorize qual estrutura óssea serve para sexo x idade |
+| Reconhecer o osso pélvico como referência mais confiável para sexo | Erro comum é achar que o crânio é sempre mais preciso | Lembre: pelve tem relação direta com função obstétrica, gerando diferença morfológica mais marcante |
+| Diferenciar DNA (confirma paternidade) de tipagem sanguínea ABO/Rh (só exclui) | Ponto clássico de prova (ver também tema 030) | Associe DNA a "confirma com certeza"; ABO/Rh a "só descarta" |
+| Reconhecer as limitações técnicas do reconhecimento facial como método de identificação | Tema atual e crescente em prova de tecnologia forense | Liste os fatores que reduzem precisão (ângulo, iluminação, viés de base de dados) |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Osso pélvico (melhor para sexo) | Suturas cranianas (não é o método mais fidedigno para idade isoladamente) | Ambos são estruturas ósseas usadas em antropologia forense | Pelve = sexo (mais confiável); suturas cranianas = idade, mas com precisão limitada |
+| Sínfise púbica (idade em adultos) | Erupção dentária (idade em crianças) | Ambos estimam idade, mas em faixas etárias diferentes | Sínfise púbica é método de adulto; erupção dentária é método de criança/adolescente |
+| DNA (confirma identidade/paternidade) | Reconhecimento facial (indica probabilidade de similaridade) | Ambos são "identificação tecnológica" | DNA tem altíssimo poder de individualização; reconhecimento facial é ferramenta de triagem, não prova definitiva isolada |
+| Odontologia legal (identificação por arcada) | Antropologia forense (perfil biológico por ossos) | Ambas trabalham com restos humanos degradados | Odontologia foca em identificação individual pela arcada; antropologia foca em reconstruir perfil biológico geral |
 
-### Roteiro de estudo de alta retenção
+## Como caiu na prova: questão comentada
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+**Fonte: FGV, PCMG Perito Criminal Área I, Tipo 1, 2024, questão 42 (gabarito oficial: D)**
 
-### Lacunas honestas
+> A Antropologia Forense é a ciência que auxilia na identificação de cadáveres em estado avançado de decomposição. Acerca da obtenção do perfil biológico, assinale a afirmativa correta.
+>
+> (A) A extremidade esternal da quarta costela é útil na investigação do sexo do indivíduo. (B) O osso pélvico só tem importância na determinação do sexo do indivíduo e não na idade. (C) O estudo das suturas cranianas é considerado o método mais fidedigno para a determinação da idade do indivíduo. (D) O desgaste da sínfise púbica é um método muito utilizado para a obtenção do intervalo de faixa etária do indivíduo. (E) O estudo da transparência radicular dos dentes unirradiculares pode ser utilizado em qualquer fase da vida para adquirir a estimativa da idade.
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Antropologia forense, odontologia legal e identificação por DNA. | Revise sexo biológico estimado, idade, estatura, ancestralidade com cautela, arcada dentária, prontuário odontológico, material biológico, perfil genético, viés algorítmico e falso positivo. | IA e reconhecimento facial não substituem perícia validada nem eliminam necessidade de cadeia de custódia e revisão humana. |
-| Reconhecimento facial e inteligência artificial aplicada à identificação pericial. | Revise sexo biológico estimado, idade, estatura, ancestralidade com cautela, arcada dentária, prontuário odontológico, material biológico, perfil genético, viés algorítmico e falso positivo. | IA e reconhecimento facial não substituem perícia validada nem eliminam necessidade de cadeia de custódia e revisão humana. |
-
-| Ponto quente | Treino recomendado |
-|---|---|
-| Antropologia estima perfil; DNA compara perfil genético; odontologia compara registros dentários. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Reconhecimento facial e IA auxiliam, mas têm falso positivo e exigem validação. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Métodos diferentes têm forças probatórias diferentes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+1. **Descarte A**: a extremidade esternal da quarta costela é método usado para **estimativa de idade** (método de Iscan), não de sexo.
+2. **Descarte B**: o osso pélvico também é usado para estimar idade (além de sexo), não apenas sexo — a afirmativa restringe indevidamente sua utilidade.
+3. **Descarte C**: suturas cranianas são usadas para idade, mas não são consideradas o método mais fidedigno — têm precisão limitada e variação individual grande.
+4. **Confirme D**: o desgaste/degeneração da sínfise púbica é de fato um método consolidado e muito utilizado para estimar faixa etária em adultos.
+5. **Descarte E**: transparência radicular é método de estimativa de idade adulta, não aplicável a "qualquer fase da vida" (crianças não têm raiz dentária completamente formada para esse tipo de análise).
+6. **D é o gabarito.**
 
 ## Pegadinhas da banca
 
-- Dizer que papiloscopia depende só de fotografia, sem comparação técnica.
-- Confundir vestígio encontrado com prova já valorada no processo.
-- Achar que local de crime preservado é responsabilidade apenas do perito.
-- Misturar criminologia crítica, positivista e teoria do etiquetamento.
-- Prioridade de atenção: Antropologia estima perfil; DNA compara perfil genético; odontologia compara registros dentários.
-- Prioridade de atenção: Reconhecimento facial e IA auxiliam, mas têm falso positivo e exigem validação.
-- Prioridade de atenção: Métodos diferentes têm forças probatórias diferentes.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Trocar a estrutura óssea de referência para sexo (pelve) pela de idade (suturas, sínfise púbica, dentes).
+- Tratar suturas cranianas como "o método mais fidedigno" de idade, quando na verdade têm confiabilidade limitada.
+- Generalizar um método de estimativa de idade adulta (transparência radicular, sínfise púbica) como aplicável "em qualquer fase da vida".
+- Confundir DNA (confirma identidade/paternidade) com métodos apenas exclusivos, como tipagem sanguínea.
+- Superestimar a confiabilidade do reconhecimento facial, tratando-o como prova definitiva de identidade isolada.
 
 ## Como resolver questões
 
-1. Comece separando a área pericial: identificação, local de crime, documento, lesão, morte, toxicologia ou criminologia.
-2. Procure o verbo do enunciado: preservar, coletar, comparar, identificar, reconhecer, classificar ou interpretar.
-3. Quando houver cadeia de custódia, pense em rastreabilidade e integridade desde o reconhecimento do vestígio.
-4. Em criminologia, diferencie escola, teoria, objeto e política criminal.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para antropologia forense, associe cada estrutura óssea/dentária à sua finalidade principal (sexo x idade) antes de avaliar a alternativa.
+2. Desconfie de afirmações que atribuem "o método mais fidedigno" a uma técnica isolada — a antropologia forense combina múltiplos indicadores.
+3. Desconfie de generalizações ("em qualquer fase da vida", "sempre", "só") aplicadas a métodos que na realidade têm faixa etária de aplicação específica.
+4. Para reconhecimento facial/IA, lembre que o poder de individualização é menor que papiloscopia/DNA — trate como ferramenta de apoio à investigação.
+
+## Lacunas honestas
+
+- Ainda não há questão real localizada sobre odontologia legal isoladamente, sobre DNA mitocondrial, ou sobre reconhecimento facial/IA aplicada à perícia neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Ciências Forenses 2.1.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei qual estrutura óssea é a referência mais confiável para estimar sexo (pelve).
+- [ ] Sei os principais métodos de estimativa de idade e a faixa etária em que cada um é mais útil.
+- [ ] Sei por que o esmalte dentário torna a odontologia legal um método robusto em corpos muito degradados.
+- [ ] Sei diferenciar o poder de confirmação do DNA do poder apenas exclusivo da tipagem sanguínea.
+- [ ] Sei listar as principais limitações técnicas do reconhecimento facial como método de identificação.
+- [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
+- [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
 
@@ -157,13 +124,17 @@ O conteúdo deve ser lido com mentalidade de procedimento. O que a prova quer sa
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Medicina legal.pdf`
-- `Questões FGV/Questoes Criminalistica.pdf`
-- `Questões FGV/Questoes Criminologia.pdf`
-- `Questões FGV/Questoes Crime.pdf`
+- FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questão 42. Gabarito definitivo publicado pela FGV.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Material local**
+
+- `Materiais QB/` (materiais de ciências forenses disponíveis localmente)
+
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. A questão citada é real, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.
