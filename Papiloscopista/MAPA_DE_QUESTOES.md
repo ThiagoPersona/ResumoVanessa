@@ -21,7 +21,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | Português | 25 | 6 | 35 | Conhecimentos Gerais, item 1 |
 | RLM | 5 | 4 | 17 | Conhecimentos Gerais, item 2 |
 | Realidade PR | 5 | 2 | 6 | Conhecimentos Gerais, item 3 |
-| Tecnologia | 15 | 6 | 16 | Conhecimentos Específicos, item 1 |
+| Tecnologia | 15 | 6 | 29 | Conhecimentos Específicos, item 1 |
 | Ciências Forenses | 10 | 8 | 11 | Conhecimentos Específicos, item 2 |
 | Biologia | 10 | 4 | 6 | Conhecimentos Específicos, item 3 |
 | Física | 5 | 4 | 6 | Conhecimentos Específicos, item 4 |
@@ -67,12 +67,12 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | 010 | RLM | Problemas lógicos, contagem, probabilidade e sequências | RLM 2.6-2.7, 2.9-2.10, 2.13 | alta | 4 (3 oficiais FGV) |
 | 011 | Realidade PR | História, geografia e organização territorial do Paraná | Realidade do Paraná 3.1-3.3 | média | 3 (autorais) |
 | 012 | Realidade PR | Cultura, indicadores, economia, políticas públicas e atualidades | Realidade do Paraná 3.4-3.7 | média | 3 (autorais) |
-| 013 | Tecnologia | Hardware, software, periféricos e armazenamento | Tecnologia 1.1 | altíssima | 7 |
-| 014 | Tecnologia | Sistemas operacionais, aplicativos e dispositivos móveis | Tecnologia 1.2 | alta | 2 |
-| 015 | Tecnologia | Internet, redes, nuvem, web, bancos e APIs | Tecnologia 1.3 | altíssima | 2 |
-| 016 | Tecnologia | Segurança da informação, malware, phishing e backup | Tecnologia 1.4 | altíssima | 2 |
-| 017 | Tecnologia | Crimes digitais, evidências eletrônicas e OSINT | Tecnologia 1.5 | alta | 2 |
-| 018 | Tecnologia | Legislação e ética digital | Tecnologia 1.6 | alta | 1 |
+| 013 | Tecnologia | Hardware, software, periféricos e armazenamento | Tecnologia 1.1 | altíssima | 7 (autorais) |
+| 014 | Tecnologia | Sistemas operacionais, aplicativos e dispositivos móveis | Tecnologia 1.2 | alta | 11 (9 oficiais FGV) |
+| 015 | Tecnologia | Internet, redes, nuvem, web, bancos e APIs | Tecnologia 1.3 | altíssima | 5 (3 oficiais FGV) |
+| 016 | Tecnologia | Segurança da informação, malware, phishing e backup | Tecnologia 1.4 | altíssima | 2 (autorais) |
+| 017 | Tecnologia | Crimes digitais, evidências eletrônicas e OSINT | Tecnologia 1.5 | alta | 2 (autorais) |
+| 018 | Tecnologia | Legislação e ética digital | Tecnologia 1.6 | alta | 2 (1 oficial FGV) |
 | 019 | Ciências Forenses | Medicina legal, identificação humana e papiloscopia | Ciências Forenses 2.1 | altíssima | 2 |
 | 020 | Ciências Forenses | Antropologia, odontologia legal, DNA, reconhecimento facial e IA | Ciências Forenses 2.1 | alta | 1 |
 | 021 | Ciências Forenses | Sexologia, traumatologia, asfixiologia e balística | Ciências Forenses 2.1 | alta | 1 |

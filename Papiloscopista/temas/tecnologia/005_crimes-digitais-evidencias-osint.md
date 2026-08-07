@@ -1,168 +1,102 @@
 # 017 - Crimes digitais, evidências eletrônicas e OSINT
 
-> **Base do edital:** Conhecimentos Específicos; Tecnologia 1.5.  
-> **Peso da disciplina:** 15 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- Evidência digital é frágil e volátil: pode ser alterada, corrompida ou perdida por manuseio incorreto — por isso a cadeia de custódia digital segue a mesma lógica da cadeia de custódia física, mas com cuidados técnicos adicionais (não ligar/desligar um dispositivo sem protocolo, preservar hash de integridade).
+- O **hash** é a ferramenta central para provar que uma evidência digital não foi alterada entre a coleta e a apresentação — funciona como uma "impressão digital" matemática do arquivo.
+- Crimes digitais se dividem em duas categorias: crimes em que o computador é o **alvo** (invasão, dados roubados) e crimes em que o computador é o **meio/ferramenta** (fraude, ameaça, difamação praticada pela internet).
+- OSINT (Open Source Intelligence) é a coleta de informação a partir de fontes **abertas e públicas** — não envolve invasão nem acesso não autorizado; a legalidade da fonte é o que a diferencia de outras técnicas de investigação.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Tecnologia soma 15 questões; este capítulo concentra Tecnologia 1.5.
-- **Como a FGV costuma cobrar:** A FGV cobra informática por conceito operacional: para que serve, qual risco evita, qual ferramenta se aplica e qual termo técnico foi trocado.
-- **O que mais confunde candidatos:** confundir armazenamento com memória principal; nuvem com backup; autenticação com autorização; log com backup; malware com engenharia social.
-- **Particularidade para Papiloscopista:** No cargo, tecnologia conversa diretamente com evidência digital, biometria, rastreabilidade, sigilo funcional e segurança de dados institucionais.
+Este item cobre a intersecção entre tecnologia e investigação criminal: como identificar, preservar e usar evidências digitais dentro da lei, os tipos de crime que ocorrem no ambiente digital, e a metodologia de investigação em fontes abertas (OSINT). É diretamente aplicável à rotina de um papiloscopista e de qualquer policial que lide com evidência eletrônica em investigação.
 
-## Leitura rápida
+## Conteúdo completo orientado ao edital
 
-- **Crimes digitais, fraudes eletrônicas, invasão de dispositivos e crimes em redes sociais.** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
-- **Coleta, preservação, rastreabilidade e cadeia de custódia de evidências digitais.** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
-- **Rastreamento, recuperação de informações, inteligência cibernética e OSINT.** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
-- **Prioridade FGV:** Separe meio digital, conduta típica e evidência resultante.
-- **Prioridade FGV:** Preservação técnica vale mais que print isolado.
-- **Prioridade FGV:** OSINT é fonte aberta com método documentado.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+### Evidência digital: características que a diferenciam da evidência física
 
-## Conteúdo essencial
-
-### Visão de estudo para este tema
-
-Tecnologia, segurança cibernética e crimes digitais deve ser estudada por função prática. A prova pergunta o que determinado recurso faz, que risco evita, que dado registra, como uma evidência deve ser preservada ou qual norma incide sobre aquela situação.
-
-A FGV costuma trocar termos próximos: autenticação por autorização, backup por sincronização, cache por cookie, log por metadado, criptografia por assinatura digital, malware por engenharia social. O candidato precisa saber a diferença operacional, não apenas reconhecer a palavra.
-
-Para Papiloscopista, a disciplina é aplicada: coleta e preservação de evidências digitais, proteção de dados biométricos, segurança de sistemas institucionais, rastreabilidade e uso responsável de informação policial.
-
-**Aplicação ao cargo:** A atuação papiloscópica moderna conversa com biometria, bases de dados, equipamentos de captura, registros eletrônicos e preservação de evidência técnica.
-
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
-
-### O que mais merece atenção
-
-- hardware, software, armazenamento e inicialização
-- Windows 11, Android, iOS e suítes de escritório
-- redes, IP, DNS, VPN, firewall e nuvem
-- logs, metadados, cookies, cache e rastreabilidade
-- segurança da informação, malware, phishing e backup
-- crimes digitais, OSINT, LGPD e Marco Civil
-
-### Conteúdo completo orientado ao edital
-
-### 1. Crimes digitais, fraudes eletrônicas, invasão de dispositivos e crimes em redes sociais.
-
-**O que significa:** Crime digital pode usar tecnologia como meio, alvo ou ambiente. Evidência eletrônica exige coleta, preservação, documentação, rastreabilidade e cuidado com integridade.
-
-**Como estudar para a prova:** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
-
-**Como a FGV pode cobrar:** A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência.
-
-**Cuidado de prova:** OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método.
-
-### 2. Coleta, preservação, rastreabilidade e cadeia de custódia de evidências digitais.
-
-**O que significa:** Crime digital pode usar tecnologia como meio, alvo ou ambiente. Evidência eletrônica exige coleta, preservação, documentação, rastreabilidade e cuidado com integridade.
-
-**Como estudar para a prova:** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
-
-**Como a FGV pode cobrar:** A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência.
-
-**Cuidado de prova:** OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método.
-
-### 3. Rastreamento, recuperação de informações, inteligência cibernética e OSINT.
-
-**O que significa:** Crime digital pode usar tecnologia como meio, alvo ou ambiente. Evidência eletrônica exige coleta, preservação, documentação, rastreabilidade e cuidado com integridade.
-
-**Como estudar para a prova:** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
-
-**Como a FGV pode cobrar:** A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência.
-
-**Cuidado de prova:** OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Característica | O que significa na prática |
 |---|---|
-| Separe meio digital, conduta típica e evidência resultante. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Preservação técnica vale mais que print isolado. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| OSINT é fonte aberta com método documentado. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Volatilidade | Alguns dados (como conteúdo em memória RAM) desaparecem ao desligar o equipamento — a ordem de coleta importa |
+| Facilidade de alteração | Um arquivo pode ser modificado, movido ou apagado com poucos cliques, muitas vezes sem deixar rastro visível a olho nu |
+| Duplicabilidade | É possível fazer cópias forenses exatas (bit a bit) sem alterar o original, permitindo análise sem risco à fonte primária |
+| Dependência de metadado | Informação sobre o arquivo (data de criação, modificação, geolocalização) pode ser tão relevante quanto o conteúdo em si |
 
-### Diferenças que a banca costuma trocar
+### Cadeia de custódia digital
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+A cadeia de custódia digital documenta cada etapa pela qual uma evidência eletrônica passa — coleta, transporte, armazenamento, análise — de forma a garantir que ela chegue ao julgamento íntegra e sem manipulação indevida. Elementos centrais:
+
+- **Preservação do estado original**: sempre que possível, trabalhar sobre uma cópia forense (imagem bit a bit), preservando o dispositivo original intocado.
+- **Hash de integridade**: calcular um hash (impressão digital matemática, como MD5, SHA-1 ou SHA-256) do arquivo/dispositivo no momento da coleta e conferir esse mesmo hash em cada etapa posterior — se o hash mudar, o dado foi alterado.
+- **Registro documentado**: cada pessoa que teve acesso à evidência, quando e por quê, deve ficar registrado, assim como o local de armazenamento em cada momento.
+- **Metadados como evidência**: informações sobre o arquivo (quando foi criado, modificado, por qual dispositivo/usuário, localização) muitas vezes são tão importantes quanto o conteúdo do arquivo em si para reconstituir uma linha do tempo.
+
+### Tipos de crimes digitais: alvo x meio
+
+| Categoria | O computador/sistema é... | Exemplos |
 |---|---|---|
-| Crimes digitais, fraudes eletrônicas, invasão de dispositivos e crimes em redes sociais. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. | A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência. |
-| Coleta, preservação, rastreabilidade e cadeia de custódia de evidências digitais. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. | A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência. |
-| Rastreamento, recuperação de informações, inteligência cibernética e OSINT. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. | A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência. |
+| Crime próprio/puro | O alvo direto do ataque | Invasão de dispositivo, obtenção não autorizada de dados, sabotagem de sistema |
+| Crime impróprio/impuro | O meio/ferramenta para outro crime | Fraude eletrônica, ameaça por mensagem, estelionato digital, divulgação não autorizada de imagem |
 
-### Aplicação direta para Papiloscopista
+Essa distinção importa porque a tipificação penal e a linha de investigação mudam: um crime "próprio" foca na perícia sobre o sistema invadido; um crime "impróprio" foca no crime-fim (fraude, ameaça), usando a tecnologia como meio de prova de autoria e materialidade.
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+### OSINT: inteligência de fontes abertas
 
-### Roteiro de estudo de alta retenção
+**OSINT (Open Source Intelligence)** é a técnica de coletar, organizar e analisar informação disponível publicamente — redes sociais, registros públicos, sites, mecanismos de busca, imagens e vídeos publicados — para fins de investigação, sem exigir acesso não autorizado a sistemas privados. Características centrais:
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+- **Fonte aberta e lícita**: a informação já está publicamente acessível; o trabalho de OSINT está em localizar, correlacionar e verificar essa informação, não em obtê-la por meio ilegal.
+- **Verificação e correlação**: um dado isolado (uma foto, um post) tem pouco valor probatório sozinho; o valor da técnica está em cruzar múltiplas fontes abertas para confirmar identidade, localização, cronologia ou vínculo.
+- **Limite legal**: mesmo sendo fonte aberta, o uso da informação coletada por OSINT ainda precisa respeitar direitos como privacidade e proteção de dados pessoais (ver tema de legislação e ética digital) — "estar disponível publicamente" não significa "pode ser usado para qualquer finalidade sem limite".
 
-### Lacunas honestas
+### Perícia forense digital: visão geral do processo
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
+A investigação de um dispositivo digital costuma seguir etapas análogas à perícia de local de crime físico: **preservação** (isolar o dispositivo, evitar alteração), **coleta** (cópia forense, com hash), **exame** (análise técnica dos dados copiados, nunca do original), **análise** (interpretação dos achados no contexto da investigação) e **apresentação** (laudo documentando método, achados e cadeia de custódia).
 
-## Tabelas e esquemas
+## Prioridades FGV dentro deste tema
 
-| Ponto do edital | O que revisar | Pegadinha provável |
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Crimes digitais, fraudes eletrônicas, invasão de dispositivos e crimes em redes sociais. | Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. |
-| Coleta, preservação, rastreabilidade e cadeia de custódia de evidências digitais. | Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. |
-| Rastreamento, recuperação de informações, inteligência cibernética e OSINT. | Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. |
+| Explicar a função do hash na cadeia de custódia digital | Ponto técnico central de qualquer prova de evidência digital | Associe hash a "impressão digital do arquivo" que comprova ausência de alteração |
+| Diferenciar crime digital próprio (alvo) de impróprio (meio) | Organiza a lógica de investigação e tipificação | Para cada exemplo, pergunte: o sistema foi atacado, ou foi usado como ferramenta para outro crime? |
+| Reconhecer OSINT como técnica de fonte aberta e lícita, não invasão | Evita confundir investigação legítima com acesso não autorizado | Teste: a informação já estava publicamente acessível, ou exigiu burlar alguma proteção? |
+| Priorizar cópia forense sobre manuseio do dispositivo original | Preserva a integridade da evidência para uso judicial | Sempre pergunte: a análise está sendo feita sobre uma cópia íntegra, ou sobre o original? |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Separe meio digital, conduta típica e evidência resultante. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Preservação técnica vale mais que print isolado. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| OSINT é fonte aberta com método documentado. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+## Diferenças que a banca costuma trocar
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Crime digital próprio (sistema é o alvo) | Crime digital impróprio (sistema é o meio) | Ambos "envolvem tecnologia" | Pergunte se o ataque mirou o próprio sistema, ou se a tecnologia foi ferramenta para outro crime |
+| Hash (verifica integridade) | Criptografia (esconde conteúdo) | Ambos usam "matemática" sobre o arquivo | Hash não é reversível e serve para provar que nada mudou; criptografia esconde e pode ser revertida com chave |
+| OSINT (fonte aberta, lícita) | Invasão/acesso não autorizado | Ambos podem envolver "coletar informação sobre alguém" | OSINT usa apenas o que já é publicamente acessível, sem burlar proteção nenhuma |
+| Evidência (original preservado) | Cópia forense (usada para análise) | Ambos são "o dado" em algum momento da perícia | Análise deve recair sobre a cópia forense; o original fica preservado e intocado |
 
 ## Pegadinhas da banca
 
-- Chamar todo serviço em nuvem de backup.
-- Tratar criptografia como sinônimo de assinatura digital.
-- Confundir dado, metadado, log, cache e cookie.
-- Usar print ou cópia informal como se bastasse para cadeia de custódia.
-- Prioridade de atenção: Separe meio digital, conduta típica e evidência resultante.
-- Prioridade de atenção: Preservação técnica vale mais que print isolado.
-- Prioridade de atenção: OSINT é fonte aberta com método documentado.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Tratar qualquer crime cometido "com auxílio de computador" como se fosse tecnicamente idêntico a uma invasão de sistema.
+- Confundir hash com criptografia, tratando os dois como se resolvessem o mesmo problema.
+- Achar que OSINT permite qualquer uso da informação coletada, sem limite legal, só porque a fonte é pública.
+- Analisar ou manusear o dispositivo original em vez de trabalhar sobre cópia forense, comprometendo a cadeia de custódia.
+- Ignorar metadados (data, geolocalização, autor do arquivo) como parte relevante da evidência.
 
 ## Como resolver questões
 
-1. Classifique o item pela função: armazenar, processar, comunicar, proteger, autenticar, registrar ou investigar.
-2. Nos temas de segurança, aplique a tríade confidencialidade, integridade e disponibilidade.
-3. Em crimes digitais, separe conduta criminosa, meio tecnológico e tratamento da evidência.
-4. Em legislação digital, procure sujeito, dever, finalidade, sigilo e base legal.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para crimes digitais, classifique primeiro se o sistema foi alvo ou meio, antes de decidir a linha de investigação.
+2. Para evidência digital, verifique se o cenário descrito preserva o original e trabalha sobre cópia com hash conferido.
+3. Para OSINT, teste se a informação foi obtida de fonte pública sem burlar proteção alguma.
+4. Para qualquer questão de perícia digital, siga a lógica preservação → coleta → exame → análise → apresentação.
+
+## Lacunas honestas
+
+- Ainda não há questão real de banca FGV localizada especificamente para este tema neste levantamento — as questões reais de Tecnologia localizadas até agora tratam de sistemas operacionais, aplicativos, redes e segurança básica (temas 014, 015 e 016), não de crimes digitais/evidência/OSINT isoladamente. É prioridade de busca para sessão futura, idealmente com provas de perícia em informática forense (como PCPI 2025, catalogada em FONTES_DE_QUESTOES.md).
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Tecnologia 1.5.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei explicar por que evidência digital é volátil e facilmente alterável.
+- [ ] Sei a função do hash na cadeia de custódia digital.
+- [ ] Sei diferenciar crime digital próprio (sistema é alvo) de impróprio (sistema é meio).
+- [ ] Sei o que caracteriza OSINT como técnica de fonte aberta e lícita.
+- [ ] Sei as etapas do processo de perícia forense digital (preservação, coleta, exame, análise, apresentação).
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -170,16 +104,18 @@ Para Papiloscopista, a disciplina é aplicada: coleta e preservação de evidên
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
-- [Código Penal - Planalto](https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm)
-- [Lei Federal n.º 12.737/2012 - Delitos informáticos](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
-- [Lei Federal n.º 14.155/2021 - fraudes eletrônicas e invasão de dispositivo](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14155.htm)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+- Nenhuma questão real de FGV localizada especificamente para este tema até o momento (lacuna registrada acima).
+
+**Material local**
+
 - `Curso Alfacon/Tecnologias e sistema de informacao e seguranca cibernética.pdf`
-- `Materiais QB/Informatica/`
-- `Questões FGV/Exercicios informatica.pdf`
-- `Questões FGV/Questoes informatica.pdf`
+- `Simulados e minisimulados/pacote-exercicios-tecnologia-e-sistemas-de-informacao-e-de-comunicacao-seguranca-cibernetica-e-crimes-digitais-joao-paulo.pdf`
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Onde não há questão real disponível, a lacuna está registrada explicitamente.

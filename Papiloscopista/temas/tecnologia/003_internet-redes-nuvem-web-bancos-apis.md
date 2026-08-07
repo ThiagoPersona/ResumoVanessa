@@ -1,190 +1,172 @@
 # 015 - Internet, redes, nuvem, web, bancos e APIs
 
-> **Base do edital:** Conhecimentos Específicos; Tecnologia 1.3.  
-> **Peso da disciplina:** 15 questões na prova objetiva.  
-> **Prioridade:** altíssima.
+## Leitura rápida
+
+- Redes de computadores têm uma hierarquia de dispositivos por camada: hub (camada física, retransmite tudo), switch (camada de enlace, direciona por endereço MAC) e roteador (camada de rede, direciona por endereço IP entre redes diferentes) — cada um resolve um problema diferente.
+- A internet funciona sobre protocolos em camadas (modelo TCP/IP): endereçamento (IP), nomes de domínio (DNS) e protocolos de aplicação (HTTP/HTTPS, FTP, e-mail).
+- Nuvem (cloud computing) tem modelos de serviço bem definidos — SaaS, PaaS e IaaS — que a prova gosta de testar pela diferença de "o que o provedor entrega pronto" x "o que o cliente ainda precisa gerenciar".
+- No navegador, cookies têm gerenciamento específico (bloquear, excluir ao fechar, excluir por período, excluir por site) que nem sempre inclui todas as opções "óbvias" — é preciso saber exatamente o que o navegador realmente oferece, não o que "faria sentido" oferecer.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Tecnologia soma 15 questões; este capítulo concentra Tecnologia 1.3.
-- **Como a FGV costuma cobrar:** A FGV cobra informática por conceito operacional: para que serve, qual risco evita, qual ferramenta se aplica e qual termo técnico foi trocado.
-- **O que mais confunde candidatos:** confundir armazenamento com memória principal; nuvem com backup; autenticação com autorização; log com backup; malware com engenharia social.
-- **Particularidade para Papiloscopista:** No cargo, tecnologia conversa diretamente com evidência digital, biometria, rastreabilidade, sigilo funcional e segurança de dados institucionais.
+Este item reúne a infraestrutura que sustenta a comunicação digital: como as redes se organizam fisicamente e logicamente, como a internet decide para onde mandar cada pacote de dados, como a computação em nuvem redistribui responsabilidade entre provedor e cliente, e como o navegador gerencia dados de navegação. Nas provas reais localizadas, a cobrança girou em torno de uso prático do navegador e do papel de um dispositivo de rede específico dentro de uma comparação — não definição isolada.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q12: comportamento do atalho de teclado Ctrl+Shift+T no Google Chrome. |
+| FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q23: papel do switch em comparação com hub, repetidor e bridge. |
+| FGV PCAM Investigador de Polícia, Tipo 1 | 2021 | Q22: quais operações de gerenciamento de cookies o Google Chrome realmente oferece. |
 
-- **Internet, intranet, navegadores, correio eletrônico e computação em nuvem.** Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API.
-- **Compartilhamento de arquivos, redes, IP, DNS, VPN e firewall.** Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API.
-- **Redes sociais, plataformas digitais, registros eletrônicos, cookies, cache e metadados.** Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API.
-- **Lógica de programação, aplicações web, HTML, CSS, JavaScript, bancos de dados e APIs.** Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API.
-- **Prioridade FGV:** IP localiza logicamente; DNS resolve nomes; VPN cria túnel; firewall filtra tráfego.
-- **Prioridade FGV:** Cookie, cache, log e metadado são quatro coisas diferentes.
-- **Prioridade FGV:** HTML estrutura, CSS estiliza, JavaScript adiciona comportamento, API integra sistemas.
-- **Prioridade FGV:** UV tem maior energia que luz visível.
-- **Prioridade FGV:** Fluorescência envolve excitação e emissão.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Modelo de camadas: por onde um dado passa até chegar ao destino
 
-### Visão de estudo para este tema
+Redes de computadores funcionam em camadas, cada uma responsável por um aspecto da comunicação. De forma simplificada (aproximando o modelo TCP/IP ao OSI, que a FGV costuma citar por número de camada):
 
-Tecnologia, segurança cibernética e crimes digitais deve ser estudada por função prática. A prova pergunta o que determinado recurso faz, que risco evita, que dado registra, como uma evidência deve ser preservada ou qual norma incide sobre aquela situação.
-
-A FGV costuma trocar termos próximos: autenticação por autorização, backup por sincronização, cache por cookie, log por metadado, criptografia por assinatura digital, malware por engenharia social. O candidato precisa saber a diferença operacional, não apenas reconhecer a palavra.
-
-Para Papiloscopista, a disciplina é aplicada: coleta e preservação de evidências digitais, proteção de dados biométricos, segurança de sistemas institucionais, rastreabilidade e uso responsável de informação policial.
-
-**Aplicação ao cargo:** A atuação papiloscópica moderna conversa com biometria, bases de dados, equipamentos de captura, registros eletrônicos e preservação de evidência técnica.
-
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
-
-### O que mais merece atenção
-
-- hardware, software, armazenamento e inicialização
-- Windows 11, Android, iOS e suítes de escritório
-- redes, IP, DNS, VPN, firewall e nuvem
-- logs, metadados, cookies, cache e rastreabilidade
-- segurança da informação, malware, phishing e backup
-- crimes digitais, OSINT, LGPD e Marco Civil
-
-### Conteúdo completo orientado ao edital
-
-### 1. Internet, intranet, navegadores, correio eletrônico e computação em nuvem.
-
-**O que significa:** Redes conectam dispositivos por protocolos. IP identifica endereço lógico; DNS traduz nomes em endereços; VPN cria túnel protegido; firewall filtra tráfego; APIs permitem comunicação entre sistemas.
-
-**Como estudar para a prova:** Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API.
-
-**Como a FGV pode cobrar:** A banca troca cache por cookie, DNS por navegador, VPN por antivírus, firewall por criptografia e metadado por conteúdo principal.
-
-**Cuidado de prova:** Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível.
-
-### 2. Compartilhamento de arquivos, redes, IP, DNS, VPN e firewall.
-
-**O que significa:** Redes conectam dispositivos por protocolos. IP identifica endereço lógico; DNS traduz nomes em endereços; VPN cria túnel protegido; firewall filtra tráfego; APIs permitem comunicação entre sistemas.
-
-**Como estudar para a prova:** Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API.
-
-**Como a FGV pode cobrar:** A banca troca cache por cookie, DNS por navegador, VPN por antivírus, firewall por criptografia e metadado por conteúdo principal.
-
-**Cuidado de prova:** Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível.
-
-### 3. Redes sociais, plataformas digitais, registros eletrônicos, cookies, cache e metadados.
-
-**O que significa:** Redes conectam dispositivos por protocolos. IP identifica endereço lógico; DNS traduz nomes em endereços; VPN cria túnel protegido; firewall filtra tráfego; APIs permitem comunicação entre sistemas.
-
-**Como estudar para a prova:** Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API.
-
-**Como a FGV pode cobrar:** A banca troca cache por cookie, DNS por navegador, VPN por antivírus, firewall por criptografia e metadado por conteúdo principal.
-
-**Cuidado de prova:** Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível.
-
-### 4. Lógica de programação, aplicações web, HTML, CSS, JavaScript, bancos de dados e APIs.
-
-**O que significa:** Redes conectam dispositivos por protocolos. IP identifica endereço lógico; DNS traduz nomes em endereços; VPN cria túnel protegido; firewall filtra tráfego; APIs permitem comunicação entre sistemas.
-
-**Como estudar para a prova:** Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API.
-
-**Como a FGV pode cobrar:** A banca troca cache por cookie, DNS por navegador, VPN por antivírus, firewall por criptografia e metadado por conteúdo principal.
-
-**Cuidado de prova:** Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
-|---|---|
-| IP localiza logicamente; DNS resolve nomes; VPN cria túnel; firewall filtra tráfego. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Cookie, cache, log e metadado são quatro coisas diferentes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| HTML estrutura, CSS estiliza, JavaScript adiciona comportamento, API integra sistemas. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| UV tem maior energia que luz visível. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Fluorescência envolve excitação e emissão. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Filtros ajudam separar luz de excitação e emissão. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-
-### Diferenças que a banca costuma trocar
-
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Camada (OSI) | Função | Exemplo de protocolo/dispositivo |
 |---|---|---|
-| Internet, intranet, navegadores, correio eletrônico e computação em nuvem. | Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível. | A banca troca cache por cookie, DNS por navegador, VPN por antivírus, firewall por criptografia e metadado por conteúdo principal. |
-| Compartilhamento de arquivos, redes, IP, DNS, VPN e firewall. | Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível. | A banca troca cache por cookie, DNS por navegador, VPN por antivírus, firewall por criptografia e metadado por conteúdo principal. |
-| Redes sociais, plataformas digitais, registros eletrônicos, cookies, cache e metadados. | Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível. | A banca troca cache por cookie, DNS por navegador, VPN por antivírus, firewall por criptografia e metadado por conteúdo principal. |
-| Lógica de programação, aplicações web, HTML, CSS, JavaScript, bancos de dados e APIs. | Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível. | A banca troca cache por cookie, DNS por navegador, VPN por antivírus, firewall por criptografia e metadado por conteúdo principal. |
+| Física (1) | Transmite bits como sinais elétricos/ópticos/sem fio | Cabos, hub |
+| Enlace (2) | Organiza bits em quadros, endereça por MAC dentro da rede local | Switch, endereço MAC |
+| Rede (3) | Endereça e encaminha pacotes entre redes diferentes | Roteador, endereço IP |
+| Transporte (4) | Garante entrega confiável (TCP) ou rápida sem garantia (UDP) | TCP, UDP |
+| Aplicação (7) | Protocolos que os programas usam diretamente | HTTP/HTTPS, FTP, e-mail (SMTP/IMAP/POP) |
 
-### Aplicação direta para Papiloscopista
+### Dispositivos de interconexão: hub, switch, roteador e bridge
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+Este é um dos pontos mais cobrados em prova real — cada dispositivo resolve um problema diferente:
 
-### Roteiro de estudo de alta retenção
-
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
-
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
+| Dispositivo | Camada | Como decide para onde mandar o dado |
 |---|---|---|
-| Internet, intranet, navegadores, correio eletrônico e computação em nuvem. | Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API. | Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível. |
-| Compartilhamento de arquivos, redes, IP, DNS, VPN e firewall. | Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API. | Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível. |
-| Redes sociais, plataformas digitais, registros eletrônicos, cookies, cache e metadados. | Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API. | Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível. |
-| Lógica de programação, aplicações web, HTML, CSS, JavaScript, bancos de dados e APIs. | Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API. | Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível. |
+| Hub | Física (1) | Não decide — retransmite o sinal para todas as portas indiscriminadamente |
+| Switch | Enlace (2) | Direciona por endereço MAC, entregando o quadro só à porta de destino |
+| Bridge | Enlace (2) | Interconecta apenas dois segmentos de rede, filtrando tráfego entre eles |
+| Roteador | Rede (3) | Direciona pacotes por endereço IP, conectando redes diferentes (por exemplo, a rede local à internet) |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| IP localiza logicamente; DNS resolve nomes; VPN cria túnel; firewall filtra tráfego. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Cookie, cache, log e metadado são quatro coisas diferentes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| HTML estrutura, CSS estiliza, JavaScript adiciona comportamento, API integra sistemas. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| UV tem maior energia que luz visível. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Fluorescência envolve excitação e emissão. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Filtros ajudam separar luz de excitação e emissão. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+O switch é, na prática, uma evolução do hub: em vez de replicar o sinal para todos, ele aprende quais dispositivos estão em cada porta (pelo endereço MAC) e envia o quadro só para o destino certo, reduzindo colisões e tráfego desnecessário.
 
-| Filtro de prova | Pergunta mental |
+### Endereçamento IP e DNS
+
+Cada dispositivo numa rede TCP/IP tem um **endereço IP**, que o identifica de forma única (dentro da rede local ou globalmente, conforme o tipo de endereço). Como decorar sequências de números não é prático para humanos, o **DNS (Domain Name System)** funciona como uma "agenda telefônica" da internet, traduzindo nomes de domínio (como um endereço de site) para o endereço IP correspondente do servidor.
+
+### Protocolos de aplicação mais cobrados
+
+| Protocolo | Função |
 |---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| HTTP | Transfere páginas e recursos da web, sem criptografia |
+| HTTPS | Igual ao HTTP, mas com criptografia (camada de segurança TLS/SSL) |
+| FTP | Transferência de arquivos entre computadores |
+| SMTP | Envio de e-mail |
+| IMAP/POP | Recebimento/acesso a e-mail (IMAP sincroniza com o servidor; POP normalmente baixa e remove do servidor) |
+
+### Computação em nuvem: modelos de serviço
+
+A computação em nuvem oferece recursos de TI sob demanda, pela internet, com diferentes níveis de responsabilidade entre provedor e cliente:
+
+| Modelo | O que o provedor entrega pronto | O que o cliente ainda gerencia |
+|---|---|---|
+| IaaS (Infraestrutura como Serviço) | Servidores virtuais, armazenamento, rede | Sistema operacional, aplicações, dados |
+| PaaS (Plataforma como Serviço) | Infraestrutura + ambiente de execução (runtime, banco de dados gerenciado) | Só a aplicação e os dados |
+| SaaS (Software como Serviço) | Aplicação pronta para uso via navegador/app | Praticamente nada além dos próprios dados e configurações de uso |
+
+Modelos de implantação da nuvem: **pública** (infraestrutura compartilhada entre vários clientes, gerida por um provedor terceiro), **privada** (infraestrutura dedicada a uma única organização) e **híbrida** (combinação das duas, com dados/cargas transitando entre ambientes conforme a necessidade).
+
+### Navegador web: gerenciamento de cookies e outras funcionalidades
+
+**Cookies** são pequenos arquivos de dados que sites armazenam no navegador do usuário, usados para lembrar sessão de login, preferências, ou para rastreamento. Navegadores modernos oferecem opções específicas de gerenciamento — mas nem toda combinação "lógica" de opção realmente existe: por exemplo, é comum haver a opção de **bloquear cookies**, **excluir cookies automaticamente ao fechar o navegador**, **excluir cookies de um período específico** e **excluir cookies de um site específico**, mas nem sempre existe uma opção simétrica de "excluir cookies ao iniciar o navegador" — é preciso testar cada opção específica contra a interface real do programa, não presumir simetria.
+
+**Atalhos de navegador** também são cobrados por comportamento exato: por exemplo, um atalho de "reabrir aba" tipicamente reabre a aba fechada mais recentemente, não necessariamente todo o histórico de abas fechadas — a diferença entre "recuperar a mais recente" e "listar as últimas fechadas" é sutil e decisiva para escolher a alternativa certa.
+
+### Bancos de dados: conceitos essenciais
+
+Um **banco de dados relacional** organiza informação em tabelas, com linhas (registros) e colunas (campos), relacionadas entre si por chaves (chave primária identifica um registro de forma única; chave estrangeira referencia um registro de outra tabela). A linguagem padrão para consultar e manipular esses dados é o **SQL** (Structured Query Language), com comandos básicos como SELECT (consultar), INSERT (inserir), UPDATE (atualizar) e DELETE (excluir).
+
+### APIs: como sistemas diferentes conversam entre si
+
+Uma **API (Application Programming Interface)** é um conjunto de regras que permite que diferentes sistemas de software troquem dados e funcionalidades entre si, sem que um precise conhecer os detalhes internos do outro. O padrão mais comum na web atual é a **API REST**, que usa os métodos do próprio protocolo HTTP (GET para consultar, POST para criar, PUT/PATCH para atualizar, DELETE para remover) para representar operações sobre recursos identificados por endereços (URLs).
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
+|---|---|---|
+| Diferenciar hub, switch, bridge e roteador pela camada e pelo critério de encaminhamento | Evidenciado na questão real PCMG Q23 | Associe cada dispositivo à camada OSI e ao critério de decisão (retransmite tudo x MAC x IP) |
+| Saber exatamente quais operações de gerenciamento de cookies um navegador real oferece | Evidenciado na questão real PCAM Q22 | Não presuma simetria de opções (bloquear/excluir); teste cada uma contra o comportamento real do programa |
+| Reconhecer o comportamento exato de um atalho de navegador | Evidenciado na questão real SEAD/AP Q12 | Diferencie "reabrir a última aba fechada" de "listar as últimas abas fechadas" |
+| Diferenciar os modelos de nuvem (IaaS, PaaS, SaaS) pelo que o provedor entrega pronto | Base teórica do tema | Ordene mentalmente do menos pronto (IaaS) ao mais pronto (SaaS) |
+
+## Diferenças que a banca costuma trocar
+
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Hub (camada física, retransmite tudo) | Switch (camada de enlace, direciona por MAC) | Ambos "interconectam" dispositivos numa rede | Switch aprende endereços MAC e direciona; hub apenas replica para todas as portas |
+| Switch (rede local, por MAC) | Roteador (entre redes, por IP) | Ambos "encaminham" dados de forma direcionada | Switch atua dentro da mesma rede local; roteador conecta redes diferentes |
+| HTTP | HTTPS | Ambos transferem conteúdo web | HTTPS adiciona criptografia (TLS/SSL) sobre o HTTP |
+| IaaS | SaaS | Ambos são "nuvem", mas entregam níveis diferentes de prontidão | IaaS entrega só infraestrutura; SaaS entrega a aplicação pronta para uso |
+
+## Como caiu na prova: questões comentadas
+
+**Fonte: FGV, SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 12 (gabarito oficial: E)**
+
+> No Google Chrome, o atalho de teclado Ctrl+Shift+T permite
+>
+> (A) reabrir o conteúdo da aba corrente numa nova aba. (B) recuperar abas a partir do histórico. (C) recuperar todas as abas ativas quando o Google Chrome foi fechado pela última vez. (D) recuperar uma aba numa lista das dez últimas abas fechadas. (E) recuperar uma aba recém-fechada.
+
+1. **Lembre a função exata do atalho**: Ctrl+Shift+T é o atalho padrão de "reabrir aba fechada" nos principais navegadores baseados em Chromium.
+2. **Descarte as alternativas que exageram o alcance do atalho**: C descreve recuperar TODAS as abas de uma sessão fechada (isso é outra funcionalidade, de restauração de sessão); D descreve uma lista de dez abas (o atalho, usado uma vez, recupera a mais recente — usos repetidos vão recuperando as anteriores em ordem, mas a descrição direta do atalho não é "uma lista").
+3. **E é a descrição mais precisa e direta**: recupera a aba fechada mais recentemente.
+
+**Fonte: FGV, PCMG Perito Criminal Área I, Tipo 1, 2024, questão 23 (gabarito oficial: C)**
+
+> No contexto das redes de computadores, considere as funções dos dispositivos de interconexão a seguir: hubs, repetidores, bridges e comutadores (switches). Assinale a opção que descreve corretamente o papel de um switch em comparação aos demais dispositivos.
+>
+> (A) Um switch opera na camada física (camada 1) e retransmite sinais elétricos para todos os dispositivos conectados. (B) Um switch segmenta a rede em domínios de broadcast, restringindo o tráfego de pacotes. (C) Um switch opera na camada de enlace (camada 2), encaminhando quadros para destinos específicos com base em endereços MAC. (D) Um switch replica pacotes para todos os dispositivos da rede, independentemente do destino, como faz um hub. (E) Um switch só pode interconectar dois segmentos de rede, como faz uma bridge, mas com menor eficiência.
+
+1. **Lembre a camada de operação do switch**: camada de enlace (2), diferente do hub (camada física, 1).
+2. **Descarte A e D**: descrevem o comportamento do hub (retransmitir para todos), não do switch.
+3. **Descarte B**: switch não segmenta domínios de broadcast (isso é mais associado a VLANs ou a roteadores, que separam domínios de broadcast); switch reduz domínios de colisão, não de broadcast.
+4. **Descarte E**: switch não se limita a dois segmentos como uma bridge simples — pode interconectar múltiplas portas/dispositivos simultaneamente, com eficiência maior.
+5. **C é o gabarito**, descrição correta e precisa do switch.
+
+**Fonte: FGV, PCAM Investigador de Polícia, Tipo 1, 2021, questão 22 (gabarito oficial: D)**
+
+> Dado que o navegador web Google Chrome permite o gerenciamento de cookies, analise as ações de gerenciamento listadas: 1. bloquear cookies; 2. excluir cookies ao fechar o Google Chrome; 3. excluir cookies ao iniciar o Google Chrome; 4. excluir cookies de um período; 5. excluir cookies de um site. Dessa lista, as operações oferecidas pelo Google Chrome são
+>
+> (A) 2, 3, 4, somente. (B) 1, 2, 3, 5, somente. (C) 1, 4, 5, somente. (D) 1, 2, 4, 5, somente. (E) 1, 2, 3, 4, 5.
+
+1. **Teste cada operação contra a interface real do Chrome**: bloquear cookies (1) — existe; excluir ao fechar o navegador (2) — existe (configuração de limpar dados ao sair); excluir ao **iniciar** o navegador (3) — não existe como opção distinta e nomeada dessa forma; excluir de um período específico (4) — existe (limpar dados de navegação com intervalo de tempo); excluir cookies de um site específico (5) — existe (configurações de site).
+2. **Elimine a opção 3**, que não corresponde a uma funcionalidade real e distinta do Chrome.
+3. **D é o gabarito**: 1, 2, 4 e 5, excluindo a opção 3.
 
 ## Pegadinhas da banca
 
-- Chamar todo serviço em nuvem de backup.
-- Tratar criptografia como sinônimo de assinatura digital.
-- Confundir dado, metadado, log, cache e cookie.
-- Usar print ou cópia informal como se bastasse para cadeia de custódia.
-- Prioridade de atenção: IP localiza logicamente; DNS resolve nomes; VPN cria túnel; firewall filtra tráfego.
-- Prioridade de atenção: Cookie, cache, log e metadado são quatro coisas diferentes.
-- Prioridade de atenção: HTML estrutura, CSS estiliza, JavaScript adiciona comportamento, API integra sistemas.
-- Prioridade de atenção: UV tem maior energia que luz visível.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Confundir a camada de operação de hub, switch e roteador, ou atribuir a um dispositivo o comportamento de outro.
+- Achar que switch segmenta domínio de broadcast (função mais associada a VLAN/roteador) em vez de reduzir domínio de colisão.
+- Presumir que toda combinação lógica de funcionalidade de navegador realmente existe na interface (como "excluir cookies ao iniciar", que não existe no Chrome).
+- Confundir "reabrir a aba mais recente fechada" com "listar as últimas N abas fechadas" ou "restaurar toda a sessão anterior".
+- Tratar HTTP e HTTPS como idênticos, ignorando a camada de criptografia do segundo.
+- Confundir os três modelos de nuvem (IaaS, PaaS, SaaS) quanto ao que vem pronto e ao que o cliente ainda gerencia.
 
 ## Como resolver questões
 
-1. Classifique o item pela função: armazenar, processar, comunicar, proteger, autenticar, registrar ou investigar.
-2. Nos temas de segurança, aplique a tríade confidencialidade, integridade e disponibilidade.
-3. Em crimes digitais, separe conduta criminosa, meio tecnológico e tratamento da evidência.
-4. Em legislação digital, procure sujeito, dever, finalidade, sigilo e base legal.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para dispositivos de rede, identifique primeiro a camada OSI de operação, depois o critério usado para encaminhar o dado (nenhum, MAC ou IP).
+2. Para funcionalidades de navegador/aplicativo, não presuma que uma opção existe só porque "faria sentido" — teste contra o comportamento real conhecido do programa.
+3. Para nuvem, ordene mentalmente do menos gerenciado pelo provedor (IaaS) ao mais gerenciado (SaaS) antes de classificar um cenário.
+4. Para protocolos, associe cada um à sua função central (transferir página, enviar e-mail, transferir arquivo) antes de comparar alternativas.
+
+## Lacunas honestas
+
+- Ainda não há questão real localizada especificamente sobre DNS, endereçamento IP ou bancos de dados/SQL neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
+- Ainda não há questão real localizada sobre APIs REST neste levantamento.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Tecnologia 1.3.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei a camada OSI de operação de hub, switch, bridge e roteador, e o critério de encaminhamento de cada um.
+- [ ] Sei diferenciar HTTP de HTTPS.
+- [ ] Sei diferenciar IaaS, PaaS e SaaS pelo que o provedor entrega pronto.
+- [ ] Sei que nem toda funcionalidade "lógica" de navegador existe de fato na interface real do programa.
+- [ ] Sei os conceitos básicos de banco de dados relacional (tabela, chave primária, chave estrangeira) e os comandos SQL essenciais.
+- [ ] Sei o que é uma API REST e os métodos HTTP associados a cada operação.
+- [ ] Resolvi as três questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
 
@@ -192,13 +174,20 @@ Para Papiloscopista, a disciplina é aplicada: coleta e preservação de evidên
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Tecnologias e sistema de informacao e seguranca cibernética.pdf`
+- FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questão 12. Gabarito definitivo publicado pela FGV.
+- FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questão 23. Gabarito definitivo publicado pela FGV.
+- FGV. PCAM 2021 - Investigador de Polícia, 4ª Classe, Tipo 1. Caderno oficial, questão 22. Gabarito definitivo publicado pela FGV.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+
+**Material local**
+
 - `Materiais QB/Informatica/`
 - `Questões FGV/Exercicios informatica.pdf`
-- `Questões FGV/Questoes informatica.pdf`
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.

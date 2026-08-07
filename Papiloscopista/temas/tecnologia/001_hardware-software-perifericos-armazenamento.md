@@ -1,155 +1,123 @@
 # 013 - Hardware, software, periféricos e armazenamento
 
-> **Base do edital:** Conhecimentos Específicos; Tecnologia 1.1.  
-> **Peso da disciplina:** 15 questões na prova objetiva.  
-> **Prioridade:** altíssima.
+## Leitura rápida
+
+- Hardware é a parte física do computador; software é o conjunto de instruções que o faz funcionar; firmware é um software especial, gravado no próprio hardware, que controla o funcionamento básico do dispositivo.
+- A distinção mais cobrada em prova é entre memória **volátil** (RAM, perde os dados ao desligar) e armazenamento **não volátil** (HD, SSD, pendrive — mantém os dados sem energia).
+- BIOS/UEFI, driver e firmware são três coisas diferentes que a banca gosta de misturar: BIOS/UEFI inicializam o computador; driver permite que o sistema operacional converse com um periférico específico; firmware é o software embutido que controla o hardware em si.
+- Backup não é sincronização: um backup precisa permitir restauração de uma versão anterior dos dados, mesmo depois de o arquivo original ter sido apagado ou corrompido — sincronização automática em nuvem, sozinha, pode replicar até um erro ou exclusão.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Tecnologia soma 15 questões; este capítulo concentra Tecnologia 1.1.
-- **Como a FGV costuma cobrar:** A FGV cobra informática por conceito operacional: para que serve, qual risco evita, qual ferramenta se aplica e qual termo técnico foi trocado.
-- **O que mais confunde candidatos:** confundir armazenamento com memória principal; nuvem com backup; autenticação com autorização; log com backup; malware com engenharia social.
-- **Particularidade para Papiloscopista:** No cargo, tecnologia conversa diretamente com evidência digital, biometria, rastreabilidade, sigilo funcional e segurança de dados institucionais.
+Este item do edital cobre a base física e lógica da informática: hardware, software, periféricos, dispositivos móveis, armazenamento, backup e os componentes que participam da inicialização do computador (BIOS/UEFI, drivers, firmware). É o alicerce sobre o qual os demais temas de Tecnologia se apoiam — sistemas operacionais, redes e segurança da informação pressupõem esse vocabulário básico.
 
-## Leitura rápida
+## Conteúdo completo orientado ao edital
 
-- **Hardware, software, periféricos e dispositivos móveis.** Separe CPU, memória RAM, armazenamento, placa-mãe, periféricos, dispositivos móveis, SSD, HD, pendrive, backup, BIOS, UEFI, driver e firmware.
-- **Armazenamento de dados, backup, BIOS, UEFI, drivers e firmware.** Separe CPU, memória RAM, armazenamento, placa-mãe, periféricos, dispositivos móveis, SSD, HD, pendrive, backup, BIOS, UEFI, driver e firmware.
-- **Prioridade FGV:** RAM é volátil; SSD/HD são armazenamento não volátil.
-- **Prioridade FGV:** BIOS/UEFI participam da inicialização; firmware controla dispositivo; driver integra hardware ao sistema.
-- **Prioridade FGV:** Backup precisa permitir restauração, não só sincronização imediata.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+### Hardware x software x firmware
 
-## Conteúdo essencial
+- **Hardware**: a parte física do computador — processador (CPU), memória, placa-mãe, fontes de energia, periféricos, cabos.
+- **Software**: o conjunto de instruções (programas) que roda sobre o hardware — sistema operacional, aplicativos, drivers.
+- **Firmware**: um tipo especial de software, gravado diretamente em um chip do próprio hardware, que controla o funcionamento básico do dispositivo (por exemplo, o firmware de um SSD ou de um roteador). Diferente de um aplicativo comum, o firmware normalmente não é removido nem trocado pelo usuário no dia a dia — é atualizado via procedimento específico do fabricante.
 
-### Visão de estudo para este tema
+### Componentes centrais do computador
 
-Tecnologia, segurança cibernética e crimes digitais deve ser estudada por função prática. A prova pergunta o que determinado recurso faz, que risco evita, que dado registra, como uma evidência deve ser preservada ou qual norma incide sobre aquela situação.
-
-A FGV costuma trocar termos próximos: autenticação por autorização, backup por sincronização, cache por cookie, log por metadado, criptografia por assinatura digital, malware por engenharia social. O candidato precisa saber a diferença operacional, não apenas reconhecer a palavra.
-
-Para Papiloscopista, a disciplina é aplicada: coleta e preservação de evidências digitais, proteção de dados biométricos, segurança de sistemas institucionais, rastreabilidade e uso responsável de informação policial.
-
-**Aplicação ao cargo:** A atuação papiloscópica moderna conversa com biometria, bases de dados, equipamentos de captura, registros eletrônicos e preservação de evidência técnica.
-
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
-
-### O que mais merece atenção
-
-- hardware, software, armazenamento e inicialização
-- Windows 11, Android, iOS e suítes de escritório
-- redes, IP, DNS, VPN, firewall e nuvem
-- logs, metadados, cookies, cache e rastreabilidade
-- segurança da informação, malware, phishing e backup
-- crimes digitais, OSINT, LGPD e Marco Civil
-
-### Conteúdo completo orientado ao edital
-
-### 1. Hardware, software, periféricos e dispositivos móveis.
-
-**O que significa:** Hardware é a parte física; software é o conjunto lógico; firmware é software gravado no dispositivo para controlar funcionamento básico. BIOS/UEFI inicializam e preparam o equipamento; drivers permitem comunicação entre sistema operacional e hardware.
-
-**Como estudar para a prova:** Separe CPU, memória RAM, armazenamento, placa-mãe, periféricos, dispositivos móveis, SSD, HD, pendrive, backup, BIOS, UEFI, driver e firmware.
-
-**Como a FGV pode cobrar:** A banca troca memória volátil por armazenamento permanente, periférico de entrada por entrada/saída e backup por simples cópia/sincronização.
-
-**Cuidado de prova:** SSD não é RAM; UEFI não é sistema operacional; driver não é o próprio periférico.
-
-### 2. Armazenamento de dados, backup, BIOS, UEFI, drivers e firmware.
-
-**O que significa:** Hardware é a parte física; software é o conjunto lógico; firmware é software gravado no dispositivo para controlar funcionamento básico. BIOS/UEFI inicializam e preparam o equipamento; drivers permitem comunicação entre sistema operacional e hardware.
-
-**Como estudar para a prova:** Separe CPU, memória RAM, armazenamento, placa-mãe, periféricos, dispositivos móveis, SSD, HD, pendrive, backup, BIOS, UEFI, driver e firmware.
-
-**Como a FGV pode cobrar:** A banca troca memória volátil por armazenamento permanente, periférico de entrada por entrada/saída e backup por simples cópia/sincronização.
-
-**Cuidado de prova:** SSD não é RAM; UEFI não é sistema operacional; driver não é o próprio periférico.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Componente | Função |
 |---|---|
-| RAM é volátil; SSD/HD são armazenamento não volátil. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| BIOS/UEFI participam da inicialização; firmware controla dispositivo; driver integra hardware ao sistema. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Backup precisa permitir restauração, não só sincronização imediata. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| CPU (processador) | Executa instruções, faz os cálculos e o processamento central |
+| Memória RAM | Armazena dados e instruções em uso no momento — é **volátil** (perde tudo ao desligar) |
+| Placa-mãe | Conecta e integra todos os componentes internos |
+| Armazenamento (HD/SSD) | Guarda dados de forma permanente — é **não volátil** (mantém os dados sem energia) |
+| Fonte de alimentação | Converte energia elétrica para os componentes internos |
 
-### Diferenças que a banca costuma trocar
+### Memória volátil x armazenamento não volátil: a distinção mais cobrada
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| | Memória RAM | Armazenamento (HD/SSD/pendrive) |
 |---|---|---|
-| Hardware, software, periféricos e dispositivos móveis. | SSD não é RAM; UEFI não é sistema operacional; driver não é o próprio periférico. | A banca troca memória volátil por armazenamento permanente, periférico de entrada por entrada/saída e backup por simples cópia/sincronização. |
-| Armazenamento de dados, backup, BIOS, UEFI, drivers e firmware. | SSD não é RAM; UEFI não é sistema operacional; driver não é o próprio periférico. | A banca troca memória volátil por armazenamento permanente, periférico de entrada por entrada/saída e backup por simples cópia/sincronização. |
+| Volatilidade | Volátil — perde os dados ao desligar | Não volátil — mantém os dados sem energia |
+| Velocidade | Muito rápida | Mais lenta que a RAM (SSD é mais rápido que HD, mas ainda mais lento que RAM) |
+| Função | Área de trabalho temporária para o que está em uso | Guarda de dados e programas a longo prazo |
+| Capacidade típica | Menor (gigabytes) | Maior (centenas de gigabytes a terabytes) |
 
-### Aplicação direta para Papiloscopista
+**HD (disco rígido)** usa discos magnéticos giratórios; **SSD (unidade de estado sólido)** usa memória flash, sem partes móveis, sendo mais rápido, mais resistente a impacto e mais silencioso, ao custo de preço por gigabyte geralmente mais alto que o HD tradicional.
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+### Periféricos: entrada, saída e entrada/saída
 
-### Roteiro de estudo de alta retenção
-
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
-
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
+| Tipo | Função | Exemplos |
 |---|---|---|
-| Hardware, software, periféricos e dispositivos móveis. | Separe CPU, memória RAM, armazenamento, placa-mãe, periféricos, dispositivos móveis, SSD, HD, pendrive, backup, BIOS, UEFI, driver e firmware. | SSD não é RAM; UEFI não é sistema operacional; driver não é o próprio periférico. |
-| Armazenamento de dados, backup, BIOS, UEFI, drivers e firmware. | Separe CPU, memória RAM, armazenamento, placa-mãe, periféricos, dispositivos móveis, SSD, HD, pendrive, backup, BIOS, UEFI, driver e firmware. | SSD não é RAM; UEFI não é sistema operacional; driver não é o próprio periférico. |
+| Entrada | Enviam dados/comandos para o computador | Teclado, mouse, scanner, webcam, microfone |
+| Saída | Recebem dados do computador para o usuário | Monitor, impressora, caixa de som |
+| Entrada e saída | Fazem os dois papéis | Tela touch screen, impressora multifuncional (imprime e digitaliza), pendrive |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| RAM é volátil; SSD/HD são armazenamento não volátil. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| BIOS/UEFI participam da inicialização; firmware controla dispositivo; driver integra hardware ao sistema. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Backup precisa permitir restauração, não só sincronização imediata. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+### BIOS, UEFI e o processo de inicialização
 
-| Filtro de prova | Pergunta mental |
+**BIOS (Basic Input/Output System)** e sua sucessora, a **UEFI (Unified Extensible Firmware Interface)**, são firmwares gravados na placa-mãe responsáveis por iniciar o computador: testam o hardware básico (POST — Power-On Self-Test), localizam o dispositivo de inicialização e carregam o sistema operacional. A UEFI é mais moderna, suporta discos maiores, inicialização mais rápida e interface gráfica, mas cumpre função equivalente à BIOS clássica — nenhuma das duas é, em si, o sistema operacional (que é carregado depois, por elas).
+
+**Driver** é o software que permite que o sistema operacional se comunique com um periférico ou componente específico (uma impressora, uma placa de vídeo). Sem o driver correto, o hardware pode não funcionar plenamente mesmo estando fisicamente conectado e íntegro.
+
+### Backup: o que garante restauração de verdade
+
+Backup é uma cópia de segurança dos dados, feita com o propósito específico de permitir **restauração** em caso de perda, corrupção ou exclusão acidental do original. Características que diferenciam um backup real de uma simples cópia ou sincronização:
+
+- **Versionamento**: um bom backup mantém versões anteriores dos arquivos, não apenas o estado mais recente — isso é o que protege contra exclusão ou corrupção acidental, algo que a sincronização automática (que replica mudanças, inclusive exclusões, para todos os dispositivos conectados) não garante sozinha.
+- **Independência do original**: o backup deve estar armazenado separadamente do dado original (outro disco, outro local, nuvem), para sobreviver a uma falha que afete o original.
+
+| Tipo de backup | Como funciona |
 |---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Completo (full) | Copia todos os dados a cada execução |
+| Incremental | Copia apenas o que mudou desde o último backup (de qualquer tipo) |
+| Diferencial | Copia tudo o que mudou desde o último backup completo |
+
+A regra prática **3-2-1** (frequentemente citada em segurança da informação) recomenda manter 3 cópias dos dados, em 2 tipos de mídia diferentes, com 1 cópia fora do local físico principal.
+
+### Dispositivos móveis: o que muda em relação a um computador de mesa
+
+Smartphones e tablets seguem a mesma lógica de hardware/software/armazenamento, mas com particularidades: armazenamento geralmente em memória flash embutida (sem partes móveis), sistemas operacionais próprios (Android, iOS), e maior dependência de conectividade sem fio (Wi-Fi, dados móveis, Bluetooth) para grande parte de suas funções.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
+|---|---|---|
+| Diferenciar memória volátil (RAM) de armazenamento não volátil (HD/SSD) | Distinção mais clássica de prova de informática básica | Para cada componente citado, pergunte: perde dado ao desligar? |
+| Separar BIOS/UEFI, driver e firmware | Termos parecidos, funções bem diferentes | Associe cada um à sua função: inicializar (BIOS/UEFI), comunicar SO-periférico (driver), controlar hardware (firmware) |
+| Exigir versionamento e independência para considerar algo "backup" de verdade | Erro comum de quem confunde sincronização com backup | Pergunte: essa cópia sobrevive a uma exclusão acidental do original replicada automaticamente? |
+| Classificar periférico por direção do fluxo de dados (entrada, saída, ambos) | Base de qualquer questão sobre periféricos | Pergunte: o dado vai para o computador, sai do computador, ou os dois? |
+
+## Diferenças que a banca costuma trocar
+
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| RAM (volátil) | Armazenamento SSD/HD (não volátil) | Ambos "guardam dados", mas de forma diferente | RAM perde tudo ao desligar; armazenamento mantém |
+| BIOS/UEFI | Sistema operacional | Ambos "iniciam" o funcionamento do computador | BIOS/UEFI prepara o hardware e entrega o controle ao SO, que é carregado depois |
+| Driver | O próprio periférico | Confusão de nome comum | Driver é o software que permite a comunicação; o periférico é o hardware em si |
+| Backup | Sincronização em nuvem | Ambos "protegem" dados na aparência | Backup precisa de versionamento e independência; sincronização replica mudanças, inclusive exclusões |
 
 ## Pegadinhas da banca
 
-- Chamar todo serviço em nuvem de backup.
-- Tratar criptografia como sinônimo de assinatura digital.
-- Confundir dado, metadado, log, cache e cookie.
-- Usar print ou cópia informal como se bastasse para cadeia de custódia.
-- Prioridade de atenção: RAM é volátil; SSD/HD são armazenamento não volátil.
-- Prioridade de atenção: BIOS/UEFI participam da inicialização; firmware controla dispositivo; driver integra hardware ao sistema.
-- Prioridade de atenção: Backup precisa permitir restauração, não só sincronização imediata.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Chamar todo serviço em nuvem de "backup", mesmo quando é apenas sincronização sem versionamento.
+- Tratar SSD como se fosse RAM, ou o contrário.
+- Confundir driver com o próprio periférico, ou com firmware.
+- Considerar UEFI como sinônimo de sistema operacional.
+- Ignorar a diferença entre periférico de entrada, saída e entrada/saída ao classificar um dispositivo.
 
 ## Como resolver questões
 
-1. Classifique o item pela função: armazenar, processar, comunicar, proteger, autenticar, registrar ou investigar.
-2. Nos temas de segurança, aplique a tríade confidencialidade, integridade e disponibilidade.
-3. Em crimes digitais, separe conduta criminosa, meio tecnológico e tratamento da evidência.
-4. Em legislação digital, procure sujeito, dever, finalidade, sigilo e base legal.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Classifique o item pela função: processar, armazenar temporariamente (RAM), armazenar permanentemente, comunicar, inicializar.
+2. Em questão de backup, teste se a estratégia descrita sobrevive a uma exclusão acidental replicada automaticamente.
+3. Em questão de periférico, identifique a direção do fluxo de dados (entrada, saída, ambos).
+4. Em questão de inicialização, separe o papel da BIOS/UEFI (preparar o hardware) do papel do sistema operacional (carregado depois).
+
+## Lacunas honestas
+
+- Ainda não há questão real de banca FGV localizada especificamente para este tema neste levantamento — as questões reais de Tecnologia localizadas até agora (nas provas SEAD/AP, PCMG e PCAM) tratam de sistemas operacionais e aplicativos (tema 014) e de redes (tema 015), não de hardware/periféricos/armazenamento puro. É prioridade de busca para sessão futura.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Tecnologia 1.1.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei diferenciar memória RAM (volátil) de armazenamento HD/SSD (não volátil).
+- [ ] Sei diferenciar BIOS/UEFI, driver e firmware pela função de cada um.
+- [ ] Sei os critérios que tornam uma cópia um backup de verdade (versionamento, independência).
+- [ ] Sei classificar periféricos por direção do fluxo de dados.
+- [ ] Sei diferenciar HD de SSD tecnicamente.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -157,13 +125,20 @@ Para Papiloscopista, a disciplina é aplicada: coleta e preservação de evidên
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+- Nenhuma questão real de FGV localizada especificamente para este tema até o momento (lacuna registrada acima).
+
+**Material local**
+
 - `Curso Alfacon/Tecnologias e sistema de informacao e seguranca cibernética.pdf`
 - `Materiais QB/Informatica/`
 - `Questões FGV/Exercicios informatica.pdf`
 - `Questões FGV/Questoes informatica.pdf`
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Onde não há questão real disponível, a lacuna está registrada explicitamente.

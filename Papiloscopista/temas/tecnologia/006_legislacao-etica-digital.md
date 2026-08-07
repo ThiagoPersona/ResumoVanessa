@@ -1,181 +1,122 @@
 # 018 - Legislação e ética digital
 
-> **Base do edital:** Conhecimentos Específicos; Tecnologia 1.6.  
-> **Peso da disciplina:** 15 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- O Marco Civil da Internet (Lei 12.965/2014) é a "Constituição" da internet brasileira: define direitos do usuário, deveres dos provedores e o princípio da neutralidade de rede.
+- A LGPD (Lei 13.709/2018) regula o tratamento de dados pessoais, com princípios (finalidade, necessidade, transparência) e bases legais que autorizam esse tratamento — não proíbe usar dados pessoais, mas exige justificativa e cuidado.
+- A tipificação de crimes informáticos no Brasil não é uma lei única: combina o Código Penal (com os tipos incluídos pela Lei 12.737/2012, conhecida como "Lei Carolina Dieckmann") e leis específicas posteriores, como a Lei 14.155/2021 (que agravou penas para fraudes eletrônicas e invasão de dispositivo).
+- Neutralidade de rede não significa "internet gratuita" ou "sem controle algum" — significa que o provedor deve tratar todos os pacotes de dados da mesma forma, sem discriminar por conteúdo, origem, destino, serviço ou aplicação.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Tecnologia soma 15 questões; este capítulo concentra Tecnologia 1.6.
-- **Como a FGV costuma cobrar:** A FGV cobra informática por conceito operacional: para que serve, qual risco evita, qual ferramenta se aplica e qual termo técnico foi trocado.
-- **O que mais confunde candidatos:** confundir armazenamento com memória principal; nuvem com backup; autenticação com autorização; log com backup; malware com engenharia social.
-- **Particularidade para Papiloscopista:** No cargo, tecnologia conversa diretamente com evidência digital, biometria, rastreabilidade, sigilo funcional e segurança de dados institucionais.
+Este item fecha o bloco de Tecnologia com o arcabouço legal que regula o uso da internet, a proteção de dados pessoais e os crimes praticados no ambiente digital — base indispensável para qualquer atuação policial que envolva evidência eletrônica, investigação digital ou tratamento de dados de terceiros.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q24: princípio fundamental da neutralidade de rede segundo o Marco Civil da Internet. |
 
-- **Marco Civil da Internet.** Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API.
-- **Lei Geral de Proteção de Dados Pessoais.** Revise privacidade, proteção de dados, finalidade, necessidade, segurança, responsabilização, dados sensíveis, registros de conexão, registros de acesso, consentimento e bases legais.
-- **Lei dos Crimes Informáticos e Lei Federal n.º 14.155/2021.** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
-- **Sigilo funcional e uso ético e responsável da tecnologia e das informações institucionais.** Revise privacidade, proteção de dados, finalidade, necessidade, segurança, responsabilização, dados sensíveis, registros de conexão, registros de acesso, consentimento e bases legais.
-- **Prioridade FGV:** Dados biométricos exigem cuidado reforçado.
-- **Prioridade FGV:** Marco Civil, LGPD e sigilo funcional podem incidir juntos.
-- **Prioridade FGV:** Uso institucional de informação exige finalidade e autorização.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Marco Civil da Internet (Lei 12.965/2014)
 
-### Visão de estudo para este tema
+Estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil. Pontos centrais:
 
-Tecnologia, segurança cibernética e crimes digitais deve ser estudada por função prática. A prova pergunta o que determinado recurso faz, que risco evita, que dado registra, como uma evidência deve ser preservada ou qual norma incide sobre aquela situação.
+- **Neutralidade de rede**: o provedor de conexão deve tratar todos os pacotes de dados de forma isonômica, sem discriminação por conteúdo, origem, destino, serviço, terminal ou aplicação — não pode, por exemplo, degradar deliberadamente o tráfego de um serviço concorrente ou priorizar pacotes de quem paga mais, fora das exceções técnicas e de emergência previstas na própria lei/regulamentação.
+- **Proteção à privacidade e aos dados pessoais**: o Marco Civil já continha disposições sobre privacidade antes mesmo da LGPD, tratando a proteção de dados como um dos fundamentos do uso da internet no país.
+- **Guarda de registros de conexão e acesso**: provedores são obrigados a manter registros de conexão (não o conteúdo das comunicações) por prazos determinados, para eventual uso em investigação, mediante ordem judicial.
+- **Responsabilidade dos provedores por conteúdo de terceiros**: como regra geral, o provedor de aplicação só responde civilmente por conteúdo gerado por terceiros se, após ordem judicial específica, não tomar as providências para tornar indisponível o conteúdo apontado como infringente (com regras específicas e mais protetivas para casos de violação de intimidade, como divulgação não autorizada de imagens íntimas).
 
-A FGV costuma trocar termos próximos: autenticação por autorização, backup por sincronização, cache por cookie, log por metadado, criptografia por assinatura digital, malware por engenharia social. O candidato precisa saber a diferença operacional, não apenas reconhecer a palavra.
+### LGPD - Lei Geral de Proteção de Dados (Lei 13.709/2018)
 
-Para Papiloscopista, a disciplina é aplicada: coleta e preservação de evidências digitais, proteção de dados biométricos, segurança de sistemas institucionais, rastreabilidade e uso responsável de informação policial.
+Regula o tratamento de dados pessoais por pessoas físicas e jurídicas, públicas e privadas, com o objetivo de proteger os direitos fundamentais de liberdade e privacidade.
 
-**Aplicação ao cargo:** A atuação papiloscópica moderna conversa com biometria, bases de dados, equipamentos de captura, registros eletrônicos e preservação de evidência técnica.
+**Princípios centrais** (não são um mero adorno — cada um orienta como o dado deve ser tratado):
 
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
-
-### O que mais merece atenção
-
-- hardware, software, armazenamento e inicialização
-- Windows 11, Android, iOS e suítes de escritório
-- redes, IP, DNS, VPN, firewall e nuvem
-- logs, metadados, cookies, cache e rastreabilidade
-- segurança da informação, malware, phishing e backup
-- crimes digitais, OSINT, LGPD e Marco Civil
-
-### Conteúdo completo orientado ao edital
-
-### 1. Marco Civil da Internet.
-
-**O que significa:** Redes conectam dispositivos por protocolos. IP identifica endereço lógico; DNS traduz nomes em endereços; VPN cria túnel protegido; firewall filtra tráfego; APIs permitem comunicação entre sistemas.
-
-**Como estudar para a prova:** Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API.
-
-**Como a FGV pode cobrar:** A banca troca cache por cookie, DNS por navegador, VPN por antivírus, firewall por criptografia e metadado por conteúdo principal.
-
-**Cuidado de prova:** Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível.
-
-### 2. Lei Geral de Proteção de Dados Pessoais.
-
-**O que significa:** Marco Civil trata de princípios, direitos, deveres e registros no uso da internet. LGPD organiza tratamento de dados pessoais, inclusive dados sensíveis. Sigilo funcional limita o uso de informações institucionais.
-
-**Como estudar para a prova:** Revise privacidade, proteção de dados, finalidade, necessidade, segurança, responsabilização, dados sensíveis, registros de conexão, registros de acesso, consentimento e bases legais.
-
-**Como a FGV pode cobrar:** A FGV usa casos de compartilhamento indevido, exposição de dado pessoal, guarda de registro e uso institucional de informação.
-
-**Cuidado de prova:** Transparência não autoriza expor dado pessoal sensível ou informação de investigação sem base legal.
-
-### 3. Lei dos Crimes Informáticos e Lei Federal n.º 14.155/2021.
-
-**O que significa:** Crime digital pode usar tecnologia como meio, alvo ou ambiente. Evidência eletrônica exige coleta, preservação, documentação, rastreabilidade e cuidado com integridade.
-
-**Como estudar para a prova:** Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT.
-
-**Como a FGV pode cobrar:** A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência.
-
-**Cuidado de prova:** OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método.
-
-### 4. Sigilo funcional e uso ético e responsável da tecnologia e das informações institucionais.
-
-**O que significa:** Marco Civil trata de princípios, direitos, deveres e registros no uso da internet. LGPD organiza tratamento de dados pessoais, inclusive dados sensíveis. Sigilo funcional limita o uso de informações institucionais.
-
-**Como estudar para a prova:** Revise privacidade, proteção de dados, finalidade, necessidade, segurança, responsabilização, dados sensíveis, registros de conexão, registros de acesso, consentimento e bases legais.
-
-**Como a FGV pode cobrar:** A FGV usa casos de compartilhamento indevido, exposição de dado pessoal, guarda de registro e uso institucional de informação.
-
-**Cuidado de prova:** Transparência não autoriza expor dado pessoal sensível ou informação de investigação sem base legal.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Princípio | O que exige |
 |---|---|
-| Dados biométricos exigem cuidado reforçado. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Marco Civil, LGPD e sigilo funcional podem incidir juntos. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Uso institucional de informação exige finalidade e autorização. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Finalidade | O tratamento do dado deve ter propósito específico, explícito e informado ao titular |
+| Necessidade | Coletar apenas o dado estritamente necessário para a finalidade declarada |
+| Transparência | O titular deve poder saber como, por quem e para que seu dado é tratado |
+| Segurança | Medidas técnicas e administrativas para proteger o dado contra acesso não autorizado |
+| Responsabilização (accountability) | Quem trata o dado deve poder demonstrar que cumpre a lei |
 
-### Diferenças que a banca costuma trocar
+**Bases legais** (hipóteses que autorizam o tratamento de dados pessoais, sem exigir sempre o consentimento do titular): consentimento, cumprimento de obrigação legal, execução de política pública, estudo por órgão de pesquisa, execução de contrato, exercício regular de direitos em processo, proteção da vida, tutela da saúde, interesse legítimo do controlador, proteção de crédito — e, especificamente relevante para a atividade policial, o **tratamento para fins de investigação e repressão de infrações penais, realizado por órgão de segurança pública**, que segue regramento próprio dentro da lei.
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+**Dado pessoal sensível**: categoria com proteção reforçada — dados sobre origem racial/étnica, convicção religiosa, opinião política, saúde, vida sexual, dado genético ou biométrico quando vinculado a pessoa natural. Dados biométricos, centrais na atividade papiloscópica, entram nessa categoria — o que reforça a exigência de finalidade específica e segurança redobrada no seu tratamento.
+
+### Crimes informáticos: onde estão tipificados
+
+Não existe um único "Código Penal Digital" no Brasil — a tipificação está distribuída:
+
+| Norma | O que trouxe |
+|---|---|
+| Lei 12.737/2012 ("Lei Carolina Dieckmann") | Incluiu no Código Penal o crime de invasão de dispositivo informático (Art. 154-A), mediante violação indevida de mecanismo de segurança, com o fim de obter, adulterar ou destruir dados/informações |
+| Lei 14.155/2021 | Agravou penas para invasão de dispositivo informático em determinadas circunstâncias e tipificou/agravou fraudes eletrônicas praticadas por meio de dispositivo, incluindo a chamada "fraude por dispositivo eletrônico ou informático" |
+| Identificação criminal (Lei 12.037/2009) | Regula o uso de identificação criminal, incluindo dado biométrico, com relevância direta para o cargo de papiloscopista |
+| Abuso de Autoridade (Lei 13.869/2019) | Tipifica condutas de abuso cometidas por agente público, algumas com dimensão digital (acesso indevido a sistema de informação, por exemplo) |
+
+### Ética digital: princípios que orientam a conduta, não só a lei
+
+Além da tipificação penal, a atuação com tecnologia envolve princípios éticos que orientam a conduta mesmo onde a lei não detalha cada situação: **uso proporcional e finalístico da tecnologia** (usar um recurso tecnológico apenas para o fim que justificou seu uso), **minimização de dados** (coletar e manter só o necessário), **transparência com o titular** (quando possível e não prejudicial à investigação) e **responsabilidade profissional** pelo uso de ferramentas de vigilância, biometria e bancos de dados — especialmente relevante para quem, como o papiloscopista, trabalha diretamente com dado biométrico sensível de identificação humana.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Marco Civil da Internet. | Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível. | A banca troca cache por cookie, DNS por navegador, VPN por antivírus, firewall por criptografia e metadado por conteúdo principal. |
-| Lei Geral de Proteção de Dados Pessoais. | Transparência não autoriza expor dado pessoal sensível ou informação de investigação sem base legal. | A FGV usa casos de compartilhamento indevido, exposição de dado pessoal, guarda de registro e uso institucional de informação. |
-| Lei dos Crimes Informáticos e Lei Federal n.º 14.155/2021. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. | A banca diferencia pesquisar fonte aberta de violar acesso, e também separa mera captura visual de preservação técnica de evidência. |
-| Sigilo funcional e uso ético e responsável da tecnologia e das informações institucionais. | Transparência não autoriza expor dado pessoal sensível ou informação de investigação sem base legal. | A FGV usa casos de compartilhamento indevido, exposição de dado pessoal, guarda de registro e uso institucional de informação. |
+| Explicar o princípio da neutralidade de rede com precisão | Evidenciado na questão real PCMG Q24 | Memorize a formulação central: tratar todos os pacotes igualmente, sem discriminar por conteúdo, origem, destino, serviço ou aplicação |
+| Diferenciar os princípios da LGPD (finalidade, necessidade, transparência, segurança, responsabilização) | Base para qualquer questão de tratamento de dados | Associe cada princípio a uma pergunta: para quê? o quanto é necessário? o titular sabe? está protegido? quem responde? |
+| Localizar corretamente onde cada crime informático está tipificado | Evita confundir Lei 12.737/2012 com Lei 14.155/2021 | Associe: 12.737/2012 = invasão de dispositivo (Art. 154-A CP); 14.155/2021 = agravantes e fraude eletrônica |
+| Reconhecer dado biométrico como dado pessoal sensível na LGPD | Relevância direta para o cargo de papiloscopista | Lembre que biometria exige finalidade específica e segurança redobrada |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Neutralidade de rede | Priorização paga de tráfego | Ambas envolvem "tratamento de pacotes de dados" | Neutralidade exige tratamento igual; priorização paga contraria o princípio, salvo exceções técnicas previstas |
+| Marco Civil da Internet | LGPD | Ambos tratam de "internet" e "dados", mas com foco diferente | Marco Civil regula direitos/deveres gerais de uso da internet; LGPD regula especificamente o tratamento de dados pessoais |
+| Lei 12.737/2012 (invasão de dispositivo) | Lei 14.155/2021 (fraude eletrônica/agravantes) | Ambas tratam de "crime digital" | 12.737 criou o tipo de invasão; 14.155 agravou penas e tratou fraude eletrônica especificamente |
+| Dado pessoal comum | Dado pessoal sensível (inclui biometria) | Ambos são "dado pessoal" protegido pela LGPD | Dado sensível tem proteção reforçada e regras mais restritivas de tratamento |
 
-### Roteiro de estudo de alta retenção
+## Como caiu na prova: questão comentada
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+**Fonte: FGV, PCMG Perito Criminal Área I, Tipo 1, 2024, questão 24 (gabarito oficial: B)**
 
-### Lacunas honestas
+> De acordo com o Marco Civil da Internet (Lei nº 12.965/2014), assinale a alternativa que indica o princípio fundamental que orienta a neutralidade da rede.
+>
+> (A) Garantir que os provedores de conexão priorizem serviços de maior demanda para melhorar a experiência do usuário. (B) Assegurar que os provedores de conexão tratem todos os pacotes de dados da mesma forma, sem discriminação por conteúdo, origem ou destino. (C) Permitir que os provedores bloqueiem ou restrinjam conteúdos considerados prejudiciais ou ilegais, sem necessidade de ordem judicial. (D) Priorizar o tráfego de dados relacionado a serviços essenciais, como saúde e segurança pública, em detrimento de outros. (E) Autorizar os provedores a ajustar velocidades de conexão com base nos planos contratados pelos usuários, mesmo que isso comprometa a neutralidade da rede.
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Marco Civil da Internet. | Internet, intranet, navegador, e-mail, nuvem, compartilhamento, IP, DNS, VPN, firewall, rede social, plataforma digital, registro eletrônico, cookie, cache, metadado, HTML, CSS, JavaScript, banco de dados e API. | Metadado não é necessariamente o conteúdo da mensagem; é dado sobre dado, como horário, origem, formato, dispositivo ou localização quando disponível. |
-| Lei Geral de Proteção de Dados Pessoais. | Revise privacidade, proteção de dados, finalidade, necessidade, segurança, responsabilização, dados sensíveis, registros de conexão, registros de acesso, consentimento e bases legais. | Transparência não autoriza expor dado pessoal sensível ou informação de investigação sem base legal. |
-| Lei dos Crimes Informáticos e Lei Federal n.º 14.155/2021. | Fraudes eletrônicas, invasão de dispositivo, crimes em redes sociais, coleta técnica, preservação, cadeia de custódia, logs, metadados, rastreamento, recuperação de informações, inteligência cibernética e OSINT. | OSINT não significa ausência de limites legais; fonte aberta também precisa de validação, contexto e registro do método. |
-| Sigilo funcional e uso ético e responsável da tecnologia e das informações institucionais. | Revise privacidade, proteção de dados, finalidade, necessidade, segurança, responsabilização, dados sensíveis, registros de conexão, registros de acesso, consentimento e bases legais. | Transparência não autoriza expor dado pessoal sensível ou informação de investigação sem base legal. |
-
-| Ponto quente | Treino recomendado |
-|---|---|
-| Dados biométricos exigem cuidado reforçado. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Marco Civil, LGPD e sigilo funcional podem incidir juntos. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Uso institucional de informação exige finalidade e autorização. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+1. **Lembre a formulação central do princípio**: tratamento isonômico de todos os pacotes, sem discriminação.
+2. **Descarte A, C, D e E**: todas descrevem alguma forma de tratamento diferenciado ou discriminação de tráfego (priorizar por demanda, bloquear sem ordem judicial, priorizar por tipo de serviço, ajustar por plano contratado) — o oposto do que a neutralidade exige.
+3. **B é o gabarito**: descreve exatamente o núcleo do princípio — tratamento igualitário de todos os pacotes, sem discriminação por conteúdo, origem ou destino.
 
 ## Pegadinhas da banca
 
-- Chamar todo serviço em nuvem de backup.
-- Tratar criptografia como sinônimo de assinatura digital.
-- Confundir dado, metadado, log, cache e cookie.
-- Usar print ou cópia informal como se bastasse para cadeia de custódia.
-- Prioridade de atenção: Dados biométricos exigem cuidado reforçado.
-- Prioridade de atenção: Marco Civil, LGPD e sigilo funcional podem incidir juntos.
-- Prioridade de atenção: Uso institucional de informação exige finalidade e autorização.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Descrever alguma forma de priorização ou discriminação de tráfego como se fosse compatível com a neutralidade de rede.
+- Confundir Marco Civil (uso geral da internet) com LGPD (tratamento de dados pessoais especificamente).
+- Trocar a lei que criou o tipo de invasão de dispositivo (12.737/2012) pela lei que tratou fraude eletrônica e agravantes (14.155/2021), ou vice-versa.
+- Tratar dado biométrico como dado pessoal comum, ignorando sua classificação como dado sensível na LGPD.
+- Achar que a LGPD proíbe totalmente o uso de dados pessoais por órgão de segurança pública, quando na verdade há base legal específica para investigação e repressão de infrações penais.
 
 ## Como resolver questões
 
-1. Classifique o item pela função: armazenar, processar, comunicar, proteger, autenticar, registrar ou investigar.
-2. Nos temas de segurança, aplique a tríade confidencialidade, integridade e disponibilidade.
-3. Em crimes digitais, separe conduta criminosa, meio tecnológico e tratamento da evidência.
-4. Em legislação digital, procure sujeito, dever, finalidade, sigilo e base legal.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para neutralidade de rede, teste se a alternativa descreve tratamento igual ou alguma forma de discriminação/priorização — só a primeira está correta.
+2. Para LGPD, identifique qual princípio (finalidade, necessidade, transparência, segurança, responsabilização) ou qual base legal está em jogo no cenário descrito.
+3. Para crimes informáticos, associe o fato descrito à norma específica (invasão = 12.737/2012; fraude eletrônica agravada = 14.155/2021).
+4. Para questões envolvendo biometria, lembre que se trata de dado pessoal sensível, com exigências reforçadas de finalidade e segurança.
+
+## Lacunas honestas
+
+- Ainda não há questão real localizada especificamente sobre LGPD, sobre a tipificação penal dos crimes informáticos (Lei 12.737/2012, Lei 14.155/2021) ou sobre a Lei de Acesso à Informação neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Tecnologia 1.6.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei explicar o princípio da neutralidade de rede com precisão.
+- [ ] Sei os cinco princípios centrais da LGPD e o que cada um exige.
+- [ ] Sei diferenciar dado pessoal comum de dado pessoal sensível, e por que biometria entra nessa segunda categoria.
+- [ ] Sei em qual lei está tipificada a invasão de dispositivo informático, e qual lei tratou fraude eletrônica e agravantes.
+- [ ] Sei a base legal da LGPD que autoriza tratamento de dados por órgão de segurança pública para investigação criminal.
+- [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -183,17 +124,21 @@ Para Papiloscopista, a disciplina é aplicada: coleta e preservação de evidên
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
+
+- FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questão 24. Gabarito definitivo publicado pela FGV.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+
+**Material local**
+
+- `Curso Alfacon/Tecnologias e sistema de informacao e seguranca cibernética.pdf`
+
+**Atualização/fonte externa**
+
 - [Lei Federal n.º 12.965/2014 - Marco Civil da Internet](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)
 - [Lei Federal n.º 13.709/2018 - LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
 - [Lei Federal n.º 12.737/2012 - Delitos informáticos](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
 - [Lei Federal n.º 14.155/2021 - fraudes eletrônicas e invasão de dispositivo](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14155.htm)
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos.
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Tecnologias e sistema de informacao e seguranca cibernética.pdf`
-- `Materiais QB/Informatica/`
-- `Questões FGV/Exercicios informatica.pdf`
-- `Questões FGV/Questoes informatica.pdf`
-
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. A questão citada é real, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente. Para literalidade exata de lei, sempre conferir a fonte oficial.
