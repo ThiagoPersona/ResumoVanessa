@@ -1,155 +1,109 @@
 # 035 - Estrutura da matéria, tabela periódica e ligações
 
-> **Base do edital:** Conhecimentos Específicos; Química 5.1.  
-> **Peso da disciplina:** 5 questões na prova objetiva.  
-> **Prioridade:** média.
+## Leitura rápida
+
+- Um átomo é formado por prótons e nêutrons no núcleo e elétrons na eletrosfera; o número atômico (Z) é o número de prótons e define o elemento químico.
+- A massa molar de um elemento (em g/mol) é numericamente igual à sua massa atômica; ela permite converter entre massa (gramas) e quantidade de matéria (mols) — o cálculo mais recorrente de toda a química básica.
+- A tabela periódica organiza os elementos por número atômico crescente, agrupando famílias (colunas) com propriedades químicas semelhantes; propriedades como raio atômico, eletronegatividade e energia de ionização variam de forma previsível ao longo de períodos e famílias.
+- Ligações químicas (iônica, covalente, metálica) explicam por que átomos se unem e por que os compostos resultantes têm propriedades físicas tão diferentes entre si (ponto de fusão, condutividade, solubilidade).
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Química soma 5 questões; este capítulo concentra Química 5.1.
-- **Como a FGV costuma cobrar:** A química deve aparecer em noções básicas e aplicação pericial: matéria, soluções, reações, funções orgânicas, reagentes e fluorescência.
-- **O que mais confunde candidatos:** confundir mistura homogênea com substância pura; concentração com quantidade total; ácido/base por memorização frágil; reação física com química.
-- **Particularidade para Papiloscopista:** Na Papiloscopia, química ajuda a entender interação de reagentes com resíduos de impressão digital e revelação por fluorescência.
+Estrutura da matéria é a base de toda a química cobrada no edital: sem dominar mol, massa molar e organização periódica, fica impossível resolver estequiometria, soluções ou química forense com segurança. A FGV costuma embutir esse conteúdo dentro de problemas aplicados (identificar um elemento a partir de dados experimentais, por exemplo), não como pergunta puramente teórica isolada.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q59: identificação de um elemento químico (X) a partir da fórmula de um composto (X₂O) e de dados de massa, usando cálculo de mol e massa molar. |
 
-- **Modelos atômicos, estrutura do átomo e elementos químicos.** Prótons, nêutrons, elétrons, número atômico, massa, íons, famílias, períodos, eletronegatividade, ligação iônica, covalente e metálica.
-- **Classificação periódica e ligações químicas.** Prótons, nêutrons, elétrons, número atômico, massa, íons, famílias, períodos, eletronegatividade, ligação iônica, covalente e metálica.
-- **Prioridade FGV:** Número atômico identifica elemento.
-- **Prioridade FGV:** Ligações dependem de interação entre elétrons.
-- **Prioridade FGV:** Tabela periódica prevê propriedades.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Estrutura do átomo
 
-### Visão de estudo para este tema
+| Partícula | Carga | Localização | Massa relativa |
+|---|---|---|---|
+| Próton | Positiva (+1) | Núcleo | ≈ 1 u |
+| Nêutron | Neutra (0) | Núcleo | ≈ 1 u |
+| Elétron | Negativa (–1) | Eletrosfera (orbitais ao redor do núcleo) | ≈ 1/1836 u (desprezível) |
 
-Química deve ser estudada do básico para a aplicação pericial. Estrutura da matéria, ligações, misturas, soluções, reações e funções químicas aparecem como base para entender revelação de impressões digitais e fluorescência.
+- **Número atômico (Z)**: número de prótons. Define o elemento químico (todo átomo com Z=6 é carbono, por exemplo).
+- **Número de massa (A)**: soma de prótons e nêutrons (A = Z + n).
+- **Íons**: átomos que ganharam (ânion, carga negativa) ou perderam (cátion, carga positiva) elétrons, mantendo o mesmo número de prótons.
+- **Isótopos**: átomos do mesmo elemento (mesmo Z) com número de nêutrons diferente (logo, massa diferente) — é a base da datação por radioisótopos, como o carbono-14 usado em datação arqueológica.
 
-A banca costuma trocar categorias: substância pura por mistura, mistura homogênea por heterogênea, dissolução por reação, concentração por quantidade total, ácido por base, fenômeno físico por químico.
+### Mol e massa molar: a conversão mais usada em química
 
-Na Papiloscopia, o valor do tema está em compreender como resíduos de suor, gordura, aminoácidos e outros componentes podem interagir com reagentes e tornar uma impressão latente visível.
+O **mol** é a unidade de quantidade de matéria: 1 mol de qualquer substância contém 6,02×10²³ entidades (número de Avogadro). A **massa molar** (M, em g/mol) de um elemento é numericamente igual à sua massa atômica lida na tabela periódica; para um composto, é a soma das massas molares dos átomos que o formam.
 
-**Aplicação ao cargo:** O estudo químico explica por que certos métodos de revelação funcionam em uma superfície e não em outra, e por que preservação do vestígio importa.
+**Fórmula central**: número de mols (n) = massa (m, em gramas) ÷ massa molar (M, em g/mol).
 
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
+Essa conversão é o primeiro passo de praticamente qualquer problema quantitativo de química: estequiometria de reação, concentração de solução, identificação de elemento por massa experimental — tudo passa por transformar massa em mols (ou o inverso) antes de aplicar a relação proporcional pedida.
 
-### O que mais merece atenção
+### Tabela periódica: organização e tendências
 
-- átomo, tabela periódica e ligações
-- misturas, soluções e métodos de separação
-- concentração e solubilidade
-- balanceamento e equilíbrio
-- funções inorgânicas e orgânicas
-- reagentes, superfícies e fluorescência
+A tabela periódica organiza os elementos em ordem crescente de número atômico, em linhas (**períodos**) e colunas (**famílias** ou grupos). Elementos da mesma família tendem a ter propriedades químicas semelhantes, porque compartilham a mesma configuração de elétrons na última camada (elétrons de valência).
 
-### Conteúdo completo orientado ao edital
-
-### 1. Modelos atômicos, estrutura do átomo e elementos químicos.
-
-**O que significa:** Estrutura da matéria explica átomos, elementos, elétrons e ligações. A tabela periódica organiza propriedades que ajudam a prever comportamento químico.
-
-**Como estudar para a prova:** Prótons, nêutrons, elétrons, número atômico, massa, íons, famílias, períodos, eletronegatividade, ligação iônica, covalente e metálica.
-
-**Como a FGV pode cobrar:** A cobrança costuma trocar partícula, carga, localização e tipo de ligação.
-
-**Cuidado de prova:** Átomo neutro tem prótons e elétrons em igual número; íon resulta de ganho ou perda de elétrons.
-
-### 2. Classificação periódica e ligações químicas.
-
-**O que significa:** Estrutura da matéria explica átomos, elementos, elétrons e ligações. A tabela periódica organiza propriedades que ajudam a prever comportamento químico.
-
-**Como estudar para a prova:** Prótons, nêutrons, elétrons, número atômico, massa, íons, famílias, períodos, eletronegatividade, ligação iônica, covalente e metálica.
-
-**Como a FGV pode cobrar:** A cobrança costuma trocar partícula, carga, localização e tipo de ligação.
-
-**Cuidado de prova:** Átomo neutro tem prótons e elétrons em igual número; íon resulta de ganho ou perda de elétrons.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
-|---|---|
-| Número atômico identifica elemento. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Ligações dependem de interação entre elétrons. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Tabela periódica prevê propriedades. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-
-### Diferenças que a banca costuma trocar
-
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Tendência periódica | Ao longo de um período (esquerda→direita) | Ao longo de uma família (cima→baixo) |
 |---|---|---|
-| Modelos atômicos, estrutura do átomo e elementos químicos. | Átomo neutro tem prótons e elétrons em igual número; íon resulta de ganho ou perda de elétrons. | A cobrança costuma trocar partícula, carga, localização e tipo de ligação. |
-| Classificação periódica e ligações químicas. | Átomo neutro tem prótons e elétrons em igual número; íon resulta de ganho ou perda de elétrons. | A cobrança costuma trocar partícula, carga, localização e tipo de ligação. |
+| Raio atômico | Diminui (maior atração do núcleo sobre a mesma camada) | Aumenta (mais camadas eletrônicas) |
+| Energia de ionização (energia para remover um elétron) | Aumenta | Diminui |
+| Eletronegatividade (tendência de atrair elétrons numa ligação) | Aumenta | Diminui |
 
-### Aplicação direta para Papiloscopista
+Famílias importantes: metais alcalinos (grupo 1, muito reativos, perdem 1 elétron facilmente), gases nobres (grupo 18, estáveis, praticamente não reagem), halogênios (grupo 17, muito eletronegativos, ganham 1 elétron facilmente).
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+### Ligações químicas
 
-### Roteiro de estudo de alta retenção
+| Tipo de ligação | Como ocorre | Exemplo | Propriedades típicas do composto |
+|---|---|---|---|
+| Iônica | Transferência de elétrons entre um metal (perde elétron) e um ametal (ganha elétron), formando íons que se atraem eletrostaticamente | NaCl (sal de cozinha) | Sólido cristalino, alto ponto de fusão, conduz corrente quando dissolvido ou fundido (não no estado sólido) |
+| Covalente | Compartilhamento de pares de elétrons entre átomos, geralmente ametais | H₂O, CO₂ | Pode ser sólido, líquido ou gás; em geral não conduz corrente elétrica (exceto quando ioniza em solução) |
+| Metálica | "Mar de elétrons" deslocalizados entre átomos de metal | Cobre, ferro | Boa condutividade elétrica e térmica, maleabilidade, brilho característico |
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+**Eletronegatividade e polaridade**: numa ligação covalente entre átomos de eletronegatividades muito diferentes, os elétrons compartilhados ficam mais próximos do átomo mais eletronegativo, criando uma ligação covalente **polar** (com pequena separação de cargas). Quando a diferença de eletronegatividade é muito grande, a ligação tende à iônica; quando é nula ou muito pequena (mesmos átomos, por exemplo), a ligação é covalente **apolar**.
 
-### Lacunas honestas
+## Prioridades FGV dentro deste tema
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Modelos atômicos, estrutura do átomo e elementos químicos. | Prótons, nêutrons, elétrons, número atômico, massa, íons, famílias, períodos, eletronegatividade, ligação iônica, covalente e metálica. | Átomo neutro tem prótons e elétrons em igual número; íon resulta de ganho ou perda de elétrons. |
-| Classificação periódica e ligações químicas. | Prótons, nêutrons, elétrons, número atômico, massa, íons, famílias, períodos, eletronegatividade, ligação iônica, covalente e metálica. | Átomo neutro tem prótons e elétrons em igual número; íon resulta de ganho ou perda de elétrons. |
+| Converter massa em mols e mols em massa usando a massa molar | Base de qualquer questão quantitativa de química, incluindo identificação de elemento (evidenciado na questão real Q59) | Sempre monte n = m/M antes de qualquer outro cálculo estequiométrico |
+| Identificar um elemento a partir de dados de massa e fórmula do composto | Evidenciado diretamente na questão real SEAD/AP Q59 | Descubra a massa molar do elemento e compare com os valores da tabela periódica |
+| Diferenciar ligação iônica, covalente e metálica pelas propriedades do composto resultante | Base teórica recorrente em questões de química geral | Associe: sólido cristalino condutor quando dissolvido = iônico; molécula não condutora = covalente; brilho e condutividade no estado sólido = metálico |
+| Reconhecer tendências periódicas (raio atômico, eletronegatividade, energia de ionização) | Frequentemente cobrado de forma indireta, dentro de outra pergunta | Memorize o sentido de cada tendência ao longo de período e de família |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Número atômico identifica elemento. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Ligações dependem de interação entre elétrons. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Tabela periódica prevê propriedades. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+## Diferenças que a banca costuma trocar
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Número atômico (Z, número de prótons) | Número de massa (A, prótons + nêutrons) | Ambos aparecem como "números do átomo" | Z define o elemento; A depende também dos nêutrons (varia entre isótopos do mesmo elemento) |
+| Ligação iônica (transferência de elétrons) | Ligação covalente (compartilhamento de elétrons) | Ambas "unem átomos" | Iônica ocorre entre metal e ametal com grande diferença de eletronegatividade; covalente, entre ametais |
+| Massa atômica (de um átomo/elemento) | Massa molar (de 1 mol da substância, em g/mol) | Os valores numéricos são iguais, o que gera confusão de unidade | Massa atômica é adimensional (unidade de massa atômica, u); massa molar tem unidade g/mol |
 
 ## Pegadinhas da banca
 
-- Tratar dissolução como reação química obrigatória.
-- Confundir solubilidade com velocidade de dissolução.
-- Balancear carga e esquecer quantidade de átomos.
-- Achar que todo reagente serve para qualquer superfície.
-- Prioridade de atenção: Número atômico identifica elemento.
-- Prioridade de atenção: Ligações dependem de interação entre elétrons.
-- Prioridade de atenção: Tabela periódica prevê propriedades.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Confundir número atômico com número de massa ao identificar isótopos.
+- Esquecer de multiplicar a massa molar de um composto pelo número de átomos de cada elemento presente na fórmula.
+- Inverter o sentido das tendências periódicas (achar que eletronegatividade aumenta de cima para baixo numa família, por exemplo).
+- Classificar como iônico um composto formado só por ametais (ou o contrário).
 
 ## Como resolver questões
 
-1. Classifique matéria, mistura, solução ou reação antes de calcular ou escolher reagente.
-2. Em concentração, identifique soluto, solvente, solução e unidade.
-3. Em reações, confira conservação de átomos no balanceamento.
-4. Em aplicação pericial, relacione reagente, substrato, resíduo e método de visualização.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para qualquer problema quantitativo, comece convertendo os dados de massa para mols (n=m/M) antes de aplicar proporções.
+2. Para identificar um elemento desconhecido, isole a massa molar dele a partir dos dados fornecidos e compare com os valores conhecidos da tabela periódica.
+3. Para classificar uma ligação, observe os elementos envolvidos (metal+ametal tende a iônico; ametal+ametal tende a covalente) e confirme pelas propriedades descritas no enunciado (condutividade, ponto de fusão).
+4. Para tendências periódicas, desenhe mentalmente a tabela e aplique a regra de "aumenta/diminui" na direção pedida (período ou família).
+
+## Lacunas honestas
+
+- Nenhuma lacuna relevante identificada para este tema além da ausência de questões reais adicionais sobre ligações químicas puras — a base teórica está coberta de forma completa acima.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Química 5.1.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei a diferença entre próton, nêutron e elétron (carga e localização).
+- [ ] Sei a diferença entre número atômico e número de massa.
+- [ ] Sei converter massa em mols e mols em massa usando a massa molar (n=m/M).
+- [ ] Sei como a tabela periódica está organizada (períodos e famílias) e o sentido das principais tendências periódicas.
+- [ ] Sei diferenciar ligação iônica, covalente e metálica pelas propriedades do composto resultante.
+- [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -157,10 +111,17 @@ Na Papiloscopia, o valor do tema está em compreender como resíduos de suor, go
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Quimica.pdf`
+- FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questão 59. Gabarito definitivo publicado pela FGV.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Material local**
+
+- `Curso Alfacon/Quimica.pdf` (quando disponível)
+
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.

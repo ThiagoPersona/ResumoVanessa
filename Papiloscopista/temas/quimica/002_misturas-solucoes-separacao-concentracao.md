@@ -1,155 +1,105 @@
 # 036 - Misturas, soluções, separação e concentração
 
-> **Base do edital:** Conhecimentos Específicos; Química 5.2.  
-> **Peso da disciplina:** 5 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- Uma mistura pode ser **homogênea** (uma só fase visível, como água salgada) ou **heterogênea** (mais de uma fase visível, como água e óleo) — a classificação depende do que se observa, não da composição química exata.
+- Métodos de separação (filtração, decantação, destilação, evaporação, centrifugação, cromatografia) são escolhidos conforme o tipo de mistura e as propriedades físicas dos componentes (tamanho de partícula, densidade, ponto de ebulição, afinidade com uma fase estacionária).
+- Concentração de uma solução pode ser expressa de várias formas (g/L, mol/L, percentual, ppm/ppb) — a escolha da unidade certa e a conversão entre elas é o ponto mais cobrado deste tema.
+- ppm (partes por milhão) é amplamente usado para concentrações muito baixas, como salinidade de água ou traços de substância — 1 ppm equivale a 1 mg de soluto por litro de solução (aproximadamente, para soluções aquosas diluídas).
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Química soma 5 questões; este capítulo concentra Química 5.2.
-- **Como a FGV costuma cobrar:** A química deve aparecer em noções básicas e aplicação pericial: matéria, soluções, reações, funções orgânicas, reagentes e fluorescência.
-- **O que mais confunde candidatos:** confundir mistura homogênea com substância pura; concentração com quantidade total; ácido/base por memorização frágil; reação física com química.
-- **Particularidade para Papiloscopista:** Na Papiloscopia, química ajuda a entender interação de reagentes com resíduos de impressão digital e revelação por fluorescência.
+Soluções e misturas aparecem tanto na química geral do edital quanto em aplicações periciais (preparo de reagentes, diluições, análise de amostras). A FGV costuma cobrar cálculo de concentração aplicado a situações práticas (tratamento de água, diluição de reagente), exigindo domínio das conversões entre unidades de concentração.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q57: cálculo de massa de sal retida por uma membrana de osmose reversa, a partir de concentrações em ppm antes e depois do processo. |
 
-- **Misturas e métodos de separação.** Filtração, decantação, centrifugação, destilação, evaporação, cromatografia, soluto, solvente, concentração comum, molaridade em nível básico e curva de solubilidade.
-- **Soluções, concentração e solubilidade.** Filtração, decantação, centrifugação, destilação, evaporação, cromatografia, soluto, solvente, concentração comum, molaridade em nível básico e curva de solubilidade.
-- **Prioridade FGV:** Método de separação depende de propriedade física.
-- **Prioridade FGV:** Solução é mistura homogênea.
-- **Prioridade FGV:** Concentração relaciona soluto ao total da solução.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Classificação de misturas
 
-### Visão de estudo para este tema
-
-Química deve ser estudada do básico para a aplicação pericial. Estrutura da matéria, ligações, misturas, soluções, reações e funções químicas aparecem como base para entender revelação de impressões digitais e fluorescência.
-
-A banca costuma trocar categorias: substância pura por mistura, mistura homogênea por heterogênea, dissolução por reação, concentração por quantidade total, ácido por base, fenômeno físico por químico.
-
-Na Papiloscopia, o valor do tema está em compreender como resíduos de suor, gordura, aminoácidos e outros componentes podem interagir com reagentes e tornar uma impressão latente visível.
-
-**Aplicação ao cargo:** O estudo químico explica por que certos métodos de revelação funcionam em uma superfície e não em outra, e por que preservação do vestígio importa.
-
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
-
-### O que mais merece atenção
-
-- átomo, tabela periódica e ligações
-- misturas, soluções e métodos de separação
-- concentração e solubilidade
-- balanceamento e equilíbrio
-- funções inorgânicas e orgânicas
-- reagentes, superfícies e fluorescência
-
-### Conteúdo completo orientado ao edital
-
-### 1. Misturas e métodos de separação.
-
-**O que significa:** Mistura reúne substâncias; solução é mistura homogênea. Métodos de separação dependem de propriedades como tamanho de partícula, densidade, ponto de ebulição, magnetismo e solubilidade.
-
-**Como estudar para a prova:** Filtração, decantação, centrifugação, destilação, evaporação, cromatografia, soluto, solvente, concentração comum, molaridade em nível básico e curva de solubilidade.
-
-**Como a FGV pode cobrar:** A banca apresenta situação cotidiana ou pericial e pede método adequado de separação ou interpretação da concentração.
-
-**Cuidado de prova:** Dissolver não é o mesmo que reagir; mistura homogênea pode ter mais de uma substância.
-
-### 2. Soluções, concentração e solubilidade.
-
-**O que significa:** Mistura reúne substâncias; solução é mistura homogênea. Métodos de separação dependem de propriedades como tamanho de partícula, densidade, ponto de ebulição, magnetismo e solubilidade.
-
-**Como estudar para a prova:** Filtração, decantação, centrifugação, destilação, evaporação, cromatografia, soluto, solvente, concentração comum, molaridade em nível básico e curva de solubilidade.
-
-**Como a FGV pode cobrar:** A banca apresenta situação cotidiana ou pericial e pede método adequado de separação ou interpretação da concentração.
-
-**Cuidado de prova:** Dissolver não é o mesmo que reagir; mistura homogênea pode ter mais de uma substância.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
-|---|---|
-| Método de separação depende de propriedade física. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Solução é mistura homogênea. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Concentração relaciona soluto ao total da solução. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-
-### Diferenças que a banca costuma trocar
-
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Tipo | Definição | Exemplo |
 |---|---|---|
-| Misturas e métodos de separação. | Dissolver não é o mesmo que reagir; mistura homogênea pode ter mais de uma substância. | A banca apresenta situação cotidiana ou pericial e pede método adequado de separação ou interpretação da concentração. |
-| Soluções, concentração e solubilidade. | Dissolver não é o mesmo que reagir; mistura homogênea pode ter mais de uma substância. | A banca apresenta situação cotidiana ou pericial e pede método adequado de separação ou interpretação da concentração. |
+| Mistura homogênea | Uma única fase observável (mesmo a olho nu ou com microscópio óptico simples) | Água + sal dissolvido, ar atmosférico |
+| Mistura heterogênea | Duas ou mais fases observáveis | Água + areia, água + óleo, granito |
 
-### Aplicação direta para Papiloscopista
+Uma solução é sempre uma mistura homogênea entre um **soluto** (o que é dissolvido, geralmente em menor quantidade) e um **solvente** (o que dissolve, geralmente em maior quantidade).
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+### Métodos de separação de misturas
 
-### Roteiro de estudo de alta retenção
-
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
-
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
+| Método | Baseado em | Aplicação típica |
 |---|---|---|
-| Misturas e métodos de separação. | Filtração, decantação, centrifugação, destilação, evaporação, cromatografia, soluto, solvente, concentração comum, molaridade em nível básico e curva de solubilidade. | Dissolver não é o mesmo que reagir; mistura homogênea pode ter mais de uma substância. |
-| Soluções, concentração e solubilidade. | Filtração, decantação, centrifugação, destilação, evaporação, cromatografia, soluto, solvente, concentração comum, molaridade em nível básico e curva de solubilidade. | Dissolver não é o mesmo que reagir; mistura homogênea pode ter mais de uma substância. |
+| Filtração | Tamanho de partícula (sólido não passa por um filtro; líquido/gás passa) | Separar sólido em suspensão de um líquido |
+| Decantação | Diferença de densidade, com repouso | Separar líquidos imiscíveis (água e óleo) ou sólido decantado de um líquido |
+| Centrifugação | Diferença de densidade, acelerada por rotação | Separar componentes de densidades próximas, como no preparo de amostras biológicas |
+| Destilação simples | Diferença de ponto de ebulição, com evaporação e condensação | Separar um sólido dissolvido de um líquido (água de sal dissolvido) |
+| Destilação fracionada | Diferenças de ponto de ebulição entre líquidos miscíveis | Separar dois ou mais líquidos misturados (petróleo em frações) |
+| Evaporação | Evaporação do solvente, deixando o soluto sólido | Obter sal a partir de água salgada (não recupera o solvente) |
+| Cromatografia | Diferença de afinidade dos componentes por uma fase estacionária e uma fase móvel | Separar e identificar componentes de misturas complexas, como drogas ou tintas em análise forense |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Método de separação depende de propriedade física. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Solução é mistura homogênea. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Concentração relaciona soluto ao total da solução. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+### Concentração de soluções
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Unidade | Fórmula | Uso típico |
+|---|---|---|
+| Concentração comum (g/L) | massa do soluto (g) ÷ volume da solução (L) | Uso geral, laboratorial |
+| Concentração em mol/L (molaridade) | mols do soluto ÷ volume da solução (L) | Cálculos estequiométricos em solução |
+| Percentual em massa (%m/m) | massa do soluto ÷ massa total da solução × 100 | Rótulos de produtos, composições |
+| ppm (partes por milhão) | massa do soluto ÷ massa da solução × 10⁶ | Concentrações muito baixas (traços, poluentes, salinidade de água) |
+
+**Conversão prática de ppm**: para soluções aquosas diluídas, a densidade da solução é aproximadamente igual à da água pura (1 kg/L), então 1 ppm ≈ 1 mg de soluto por litro de solução ≈ 1 mg de soluto por kg de solução. Essa aproximação é o que permite calcular diretamente a massa de soluto a partir da concentração em ppm e da massa total da solução.
+
+### Diluição de soluções
+
+Ao diluir uma solução (adicionar mais solvente, sem adicionar mais soluto), a quantidade de soluto permanece a mesma — apenas o volume total aumenta, reduzindo a concentração. A relação central é:
+
+**C₁ · V₁ = C₂ · V₂**
+
+onde C₁, V₁ são a concentração e o volume antes da diluição, e C₂, V₂, depois. Essa mesma lógica de "quantidade de soluto constante" é o que permite calcular a massa de sal retida por uma membrana de osmose reversa: a massa de sal antes do processo, menos a massa de sal que permanece na água tratada, é igual à massa de sal retida pela membrana.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
+|---|---|---|
+| Calcular massa de soluto a partir de concentração em ppm e massa total da solução | Evidenciado diretamente na questão real SEAD/AP Q57 | Lembre: ppm × massa total (em kg) = massa de soluto em gramas, aproximadamente |
+| Calcular a diferença de massa de soluto entre duas concentrações (antes/depois de um processo de separação) | Aplicação direta em problemas de tratamento de água e purificação | Calcule a massa de soluto em cada situação separadamente, depois subtraia |
+| Escolher o método de separação correto conforme a propriedade física envolvida | Base teórica recorrente | Associe: tamanho de partícula=filtração; densidade=decantação/centrifugação; ponto de ebulição=destilação |
+| Converter entre unidades de concentração (g/L, mol/L, %, ppm) | Frequentemente exigido como etapa intermediária de outro cálculo | Sempre identifique a unidade pedida na resposta antes de escolher a fórmula |
+
+## Diferenças que a banca costuma trocar
+
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Mistura homogênea (uma fase) | Mistura heterogênea (mais de uma fase) | Ambas são "misturas de substâncias" | O critério é o número de fases observáveis, não a complexidade da composição |
+| Destilação simples (separa sólido dissolvido de líquido) | Destilação fracionada (separa líquidos miscíveis entre si) | Ambas usam evaporação e condensação | Simples separa sólido de líquido; fracionada separa líquidos com pontos de ebulição próximos entre si |
+| Concentração comum (g/L) | Molaridade (mol/L) | Ambas medem "quanto soluto tem na solução" | g/L usa massa direta; mol/L exige converter a massa em mols antes (usando a massa molar) |
 
 ## Pegadinhas da banca
 
-- Tratar dissolução como reação química obrigatória.
-- Confundir solubilidade com velocidade de dissolução.
-- Balancear carga e esquecer quantidade de átomos.
-- Achar que todo reagente serve para qualquer superfície.
-- Prioridade de atenção: Método de separação depende de propriedade física.
-- Prioridade de atenção: Solução é mistura homogênea.
-- Prioridade de atenção: Concentração relaciona soluto ao total da solução.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Confundir decantação (baseada em densidade, com repouso) com filtração (baseada em tamanho de partícula, com barreira física).
+- Esquecer que, numa diluição, a quantidade de soluto não muda — só o volume/concentração.
+- Errar a conversão de ppm para massa, esquecendo a aproximação de densidade da água (1 kg/L) em soluções diluídas.
+- Confundir destilação simples com fracionada.
 
 ## Como resolver questões
 
-1. Classifique matéria, mistura, solução ou reação antes de calcular ou escolher reagente.
-2. Em concentração, identifique soluto, solvente, solução e unidade.
-3. Em reações, confira conservação de átomos no balanceamento.
-4. Em aplicação pericial, relacione reagente, substrato, resíduo e método de visualização.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Identifique se a mistura é homogênea ou heterogênea antes de escolher o método de separação.
+2. Para escolher o método de separação, identifique a propriedade física que diferencia os componentes (tamanho, densidade, ponto de ebulição, afinidade química).
+3. Para cálculos de concentração em ppm, converta a massa total da solução para a mesma base (geralmente kg ou g) antes de aplicar a definição.
+4. Para problemas de purificação/tratamento (como osmose reversa), calcule a massa de soluto antes e depois separadamente, e subtraia para achar a massa retida ou removida.
+
+## Lacunas honestas
+
+- Nenhuma lacuna relevante identificada para este tema além da ausência de questão real adicional sobre métodos de separação especificamente — a base teórica está coberta de forma completa acima.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Química 5.2.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei diferenciar mistura homogênea de heterogênea.
+- [ ] Sei associar cada método de separação (filtração, decantação, destilação, centrifugação, cromatografia) à propriedade física que ele explora.
+- [ ] Sei calcular concentração em g/L, mol/L, % e ppm, e converter entre essas unidades.
+- [ ] Sei aplicar a relação C₁V₁=C₂V₂ em diluições.
+- [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -157,10 +107,17 @@ Na Papiloscopia, o valor do tema está em compreender como resíduos de suor, go
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Quimica.pdf`
+- FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questão 57. Gabarito definitivo publicado pela FGV.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Material local**
+
+- `Curso Alfacon/Quimica.pdf` (quando disponível)
+
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.

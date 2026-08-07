@@ -25,7 +25,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | Ciências Forenses | 10 | 8 | 21 | Conhecimentos Específicos, item 2 |
 | Biologia | 10 | 4 | 15 | Conhecimentos Específicos, item 3 |
 | Física | 5 | 4 | 10 | Conhecimentos Específicos, item 4 |
-| Química | 5 | 5 | 8 | Conhecimentos Específicos, item 5 |
+| Química | 5 | 5 | 21 | Conhecimentos Específicos, item 5 |
 | Legislação | 5 | 7 | 7 | Conhecimentos Específicos, item 6 |
 | Penal | 3 | 3 | 4 | Conhecimentos Específicos, item 7 |
 | Processo Penal | 3 | 3 | 5 | Conhecimentos Específicos, item 8 |
@@ -89,11 +89,11 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | 032 | Física | UV, fluorescência, ondas e eletromagnetismo | Física 4.1-4.2 | alta | 4 (2 oficiais FGV) |
 | 033 | Física | Eletricidade e circuitos simples | Física 4.3 | média | 1 (autoral) |
 | 034 | Física | Física da captura de imagens, biometria e equipamentos | Física 4.4 | alta | 1 (autoral) |
-| 035 | Química | Estrutura da matéria, tabela periódica e ligações | Química 5.1 | média | 1 |
-| 036 | Química | Misturas, soluções, separação e concentração | Química 5.2 | alta | 2 |
-| 037 | Química | Reações, balanceamento, velocidade e equilíbrio | Química 5.3 | média | 2 |
-| 038 | Química | Funções químicas e química orgânica | Química 5.4 | alta | 1 |
-| 039 | Química | Química da identificação, reagentes e fluorescência | Química 5.5 | altíssima | 2 |
+| 035 | Química | Estrutura da matéria, tabela periódica e ligações | Química 5.1 | média | 3 (1 oficial FGV) |
+| 036 | Química | Misturas, soluções, separação e concentração | Química 5.2 | alta | 3 (1 oficial FGV) |
+| 037 | Química | Reações, balanceamento, velocidade e equilíbrio | Química 5.3 | média | 7 (6 oficiais FGV) |
+| 038 | Química | Funções químicas e química orgânica | Química 5.4 | alta | 4 (2 oficiais FGV) |
+| 039 | Química | Química da identificação, reagentes e fluorescência | Química 5.5 | altíssima | 4 (1 oficial FGV) |
 | 040 | Legislação | Constituição do Paraná: administração, servidores, segurança e Polícia Civil | Legislação 6.1 | alta | 1 |
 | 041 | Legislação | LC 259/2023: carreiras da PCPR | Legislação 6.2 | altíssima | 1 |
 | 042 | Legislação | Lei 14.735/2023: Lei Orgânica Nacional das Polícias Civis | Legislação 6.3 | altíssima | 1 |

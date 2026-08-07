@@ -1,155 +1,124 @@
 # 037 - Reações, balanceamento, velocidade e equilíbrio
 
-> **Base do edital:** Conhecimentos Específicos; Química 5.3.  
-> **Peso da disciplina:** 5 questões na prova objetiva.  
-> **Prioridade:** média.
+## Leitura rápida
+
+- Uma equação química balanceada tem o mesmo número de átomos de cada elemento nos reagentes e nos produtos — é a base de qualquer cálculo estequiométrico (proporção entre quantidades de reagentes e produtos).
+- A velocidade de uma reação aumenta com: maior superfície de contato (sólido em pó reage mais rápido que em pedaço), maior concentração dos reagentes, maior temperatura, e presença de catalisador.
+- Um catalisador acelera a reação (diminui a energia de ativação necessária), mas **não muda** a posição de equilíbrio nem o rendimento final — só faz a reação alcançar o equilíbrio mais rápido.
+- O Princípio de Le Chatelier prevê como um sistema em equilíbrio químico reage a uma perturbação (mudança de concentração, pressão ou temperatura): o equilíbrio se desloca no sentido que tende a **minimizar** o efeito da perturbação.
+- Reações de eletrólise usam corrente elétrica para forçar uma reação não espontânea; a quantidade de produto formado se relaciona com a carga elétrica pela constante de Faraday.
+- Termoquímica estuda a energia (calor) liberada ou absorvida numa reação: reações exotérmicas liberam calor (ΔH negativo); endotérmicas absorvem calor (ΔH positivo).
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Química soma 5 questões; este capítulo concentra Química 5.3.
-- **Como a FGV costuma cobrar:** A química deve aparecer em noções básicas e aplicação pericial: matéria, soluções, reações, funções orgânicas, reagentes e fluorescência.
-- **O que mais confunde candidatos:** confundir mistura homogênea com substância pura; concentração com quantidade total; ácido/base por memorização frágil; reação física com química.
-- **Particularidade para Papiloscopista:** Na Papiloscopia, química ajuda a entender interação de reagentes com resíduos de impressão digital e revelação por fluorescência.
+Este é o núcleo mais denso do edital de Química: reações, seu balanceamento, velocidade e equilíbrio aparecem tanto isoladamente quanto embutidos em problemas de estequiometria aplicada (indústria química, eletrólise, tratamento ambiental). A FGV historicamente cobra vários desses subtemas na mesma prova, com cálculos que exigem interpretação cuidadosa do enunciado antes de qualquer conta.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q52: rendimento de eletrólise da água usando a constante de Faraday. Q53: efeito de catalisador, pressão e temperatura sobre três sistemas em equilíbrio distintos. Q55: estequiometria do Processo de Ostwald (produção de ácido nítrico a partir de amônia, em três etapas). Q56: ordenação de três experimentos por velocidade de reação, variando superfície de contato, concentração e temperatura. Q58: termoquímica de combustão, usando um diagrama de entalpia com duas reações relacionadas. |
+| FGV PCMG - Perito Criminal, Área I | 2024 | Q71: estequiometria de reações de drenagem ácida de minas (produção de ácido sulfúrico a partir de pirita, em sequência de três equações). |
 
-- **Reações químicas e balanceamento.** Reagentes, produtos, coeficientes, conservação de átomos, fatores cinéticos, catalisador, equilíbrio dinâmico e deslocamento qualitativo.
-- **Velocidade das reações e equilíbrio químico.** Reagentes, produtos, coeficientes, conservação de átomos, fatores cinéticos, catalisador, equilíbrio dinâmico e deslocamento qualitativo.
-- **Prioridade FGV:** Balanceamento conserva átomos.
-- **Prioridade FGV:** Catalisador acelera sem ser consumido no balanço global.
-- **Prioridade FGV:** Equilíbrio é dinâmico.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Balanceamento de equações químicas
 
-### Visão de estudo para este tema
+Uma equação química balanceada respeita a **Lei de Conservação da Massa** (Lavoisier): o número de átomos de cada elemento é o mesmo nos reagentes e nos produtos. Balancear consiste em ajustar os coeficientes (números na frente de cada fórmula) até que essa igualdade se cumpra para todos os elementos envolvidos.
 
-Química deve ser estudada do básico para a aplicação pericial. Estrutura da matéria, ligações, misturas, soluções, reações e funções químicas aparecem como base para entender revelação de impressões digitais e fluorescência.
+**Estequiometria** é o cálculo de proporções entre quantidades (em mols, massa ou volume) de reagentes e produtos, usando os coeficientes da equação balanceada como razão de conversão. Numa sequência de reações (como o Processo de Ostwald, com três etapas), a estequiometria total deve considerar cada etapa em ordem, verificando se o produto de uma etapa é o reagente da próxima e se algum subproduto é ou não reaproveitado no processo descrito.
 
-A banca costuma trocar categorias: substância pura por mistura, mistura homogênea por heterogênea, dissolução por reação, concentração por quantidade total, ácido por base, fenômeno físico por químico.
+### Fatores que alteram a velocidade de uma reação
 
-Na Papiloscopia, o valor do tema está em compreender como resíduos de suor, gordura, aminoácidos e outros componentes podem interagir com reagentes e tornar uma impressão latente visível.
-
-**Aplicação ao cargo:** O estudo químico explica por que certos métodos de revelação funcionam em uma superfície e não em outra, e por que preservação do vestígio importa.
-
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
-
-### O que mais merece atenção
-
-- átomo, tabela periódica e ligações
-- misturas, soluções e métodos de separação
-- concentração e solubilidade
-- balanceamento e equilíbrio
-- funções inorgânicas e orgânicas
-- reagentes, superfícies e fluorescência
-
-### Conteúdo completo orientado ao edital
-
-### 1. Reações químicas e balanceamento.
-
-**O que significa:** Reação química rearranja átomos. Balanceamento respeita conservação da matéria. Velocidade depende de concentração, temperatura, superfície, catalisador e natureza dos reagentes. Equilíbrio envolve reações reversíveis.
-
-**Como estudar para a prova:** Reagentes, produtos, coeficientes, conservação de átomos, fatores cinéticos, catalisador, equilíbrio dinâmico e deslocamento qualitativo.
-
-**Como a FGV pode cobrar:** A prova cobra se a equação está balanceada ou qual fator acelera/retarda processo.
-
-**Cuidado de prova:** Coeficiente altera quantidade de moléculas; não altere índices das fórmulas para balancear.
-
-### 2. Velocidade das reações e equilíbrio químico.
-
-**O que significa:** Reação química rearranja átomos. Balanceamento respeita conservação da matéria. Velocidade depende de concentração, temperatura, superfície, catalisador e natureza dos reagentes. Equilíbrio envolve reações reversíveis.
-
-**Como estudar para a prova:** Reagentes, produtos, coeficientes, conservação de átomos, fatores cinéticos, catalisador, equilíbrio dinâmico e deslocamento qualitativo.
-
-**Como a FGV pode cobrar:** A prova cobra se a equação está balanceada ou qual fator acelera/retarda processo.
-
-**Cuidado de prova:** Coeficiente altera quantidade de moléculas; não altere índices das fórmulas para balancear.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
-|---|---|
-| Balanceamento conserva átomos. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Catalisador acelera sem ser consumido no balanço global. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Equilíbrio é dinâmico. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-
-### Diferenças que a banca costuma trocar
-
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Fator | Efeito sobre a velocidade | Por quê |
 |---|---|---|
-| Reações químicas e balanceamento. | Coeficiente altera quantidade de moléculas; não altere índices das fórmulas para balancear. | A prova cobra se a equação está balanceada ou qual fator acelera/retarda processo. |
-| Velocidade das reações e equilíbrio químico. | Coeficiente altera quantidade de moléculas; não altere índices das fórmulas para balancear. | A prova cobra se a equação está balanceada ou qual fator acelera/retarda processo. |
+| Superfície de contato | Maior superfície (pó fino) = reação mais rápida | Mais pontos de contato entre reagentes por unidade de tempo |
+| Concentração dos reagentes | Maior concentração = reação mais rápida | Mais partículas colidindo por unidade de volume e tempo |
+| Temperatura | Maior temperatura = reação mais rápida | Partículas com mais energia cinética colidem com mais frequência e energia suficiente para reagir |
+| Catalisador | Presença de catalisador = reação mais rápida | Reduz a energia de ativação necessária, sem ser consumido no processo |
 
-### Aplicação direta para Papiloscopista
+Quando uma questão pede para comparar a velocidade de vários experimentos, é preciso avaliar **todos** os fatores presentes simultaneamente (superfície, concentração, temperatura) — o experimento mais rápido combina os fatores mais favoráveis; entre experimentos com fatores empatados, o critério restante decide a ordem.
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+### Equilíbrio químico e Princípio de Le Chatelier
 
-### Roteiro de estudo de alta retenção
+Uma reação reversível atinge **equilíbrio** quando a velocidade da reação direta se iguala à velocidade da reação inversa (as concentrações param de mudar, mas as reações continuam ocorrendo nos dois sentidos). O **Princípio de Le Chatelier** prevê que, ao perturbar um sistema em equilíbrio, ele se desloca no sentido que tende a **minimizar** a perturbação:
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+| Perturbação | Efeito sobre o equilíbrio |
+|---|---|
+| Aumento de concentração de um reagente | Desloca no sentido de consumi-lo (formando mais produto) |
+| Aumento de pressão (em sistema gasoso) | Desloca no sentido do menor número de mols de gás |
+| Aumento de temperatura | Desloca no sentido endotérmico (absorve o calor extra) |
+| Diminuição de temperatura | Desloca no sentido exotérmico (libera calor, compensando a perda) |
+| Adição de catalisador | **Não desloca** o equilíbrio; apenas acelera o tempo para atingi-lo, igualmente nos dois sentidos |
 
-### Lacunas honestas
+**Ponto que a banca adora explorar**: catalisador **não** altera o rendimento final de uma reação em equilíbrio — só faz o sistema chegar ao equilíbrio mais rápido. Confundir "acelerar a reação" com "aumentar o rendimento" é o erro mais comum nesse assunto.
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
+### Eletrólise e a constante de Faraday
 
-## Tabelas e esquemas
+Na **eletrólise**, uma corrente elétrica externa força uma reação química não espontânea (o inverso de uma pilha, que gera corrente a partir de reação espontânea). A quantidade de carga elétrica que passa pelo sistema é:
 
-| Ponto do edital | O que revisar | Pegadinha provável |
+**Q = i · t** (corrente em ampères × tempo em segundos, resultando em carga em coulombs)
+
+A relação entre carga e quantidade de matéria transformada usa a **constante de Faraday** (F ≈ 96.500 C/mol de elétrons): o número de mols de elétrons transferidos é n(e⁻) = Q/F. A partir daí, usa-se a estequiometria da semirreação para achar quantos mols do produto (como H₂ gasoso) são teoricamente formados, e comparar com o valor experimental para calcular o **rendimento** do processo (rendimento = quantidade real ÷ quantidade teórica × 100%).
+
+### Termoquímica: entalpia de reação
+
+A **entalpia (H)** é uma medida da energia contida num sistema; a variação de entalpia (ΔH) de uma reação é a diferença entre a entalpia dos produtos e a dos reagentes:
+
+| Tipo de reação | ΔH | O que ocorre |
 |---|---|---|
-| Reações químicas e balanceamento. | Reagentes, produtos, coeficientes, conservação de átomos, fatores cinéticos, catalisador, equilíbrio dinâmico e deslocamento qualitativo. | Coeficiente altera quantidade de moléculas; não altere índices das fórmulas para balancear. |
-| Velocidade das reações e equilíbrio químico. | Reagentes, produtos, coeficientes, conservação de átomos, fatores cinéticos, catalisador, equilíbrio dinâmico e deslocamento qualitativo. | Coeficiente altera quantidade de moléculas; não altere índices das fórmulas para balancear. |
+| Exotérmica | Negativo | Libera calor para o ambiente |
+| Endotérmica | Positivo | Absorve calor do ambiente |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Balanceamento conserva átomos. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Catalisador acelera sem ser consumido no balanço global. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Equilíbrio é dinâmico. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+**Diagramas de entalpia com reações relacionadas**: quando um diagrama mostra a entalpia de mais de uma reação a partir dos mesmos reagentes (por exemplo, combustão completa de metano a CO₂ e combustão parcial a CO), a diferença entre os dois ΔH fornece a entalpia da etapa que liga os dois produtos entre si (nesse caso, a combustão de CO a CO₂), pela Lei de Hess: a variação de entalpia de um processo não depende do caminho, apenas dos estados inicial e final.
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
+|---|---|---|
+| Calcular rendimento de eletrólise usando a constante de Faraday | Evidenciado diretamente na questão real SEAD/AP Q52 | Monte Q=it, converta para mols de elétrons (Q/F), aplique a estequiometria da semirreação, compare com o valor real dado |
+| Aplicar o Princípio de Le Chatelier a mudanças de catalisador, pressão e temperatura em sistemas distintos | Evidenciado diretamente na questão real SEAD/AP Q53 | Trate cada afirmação separadamente: catalisador nunca desloca equilíbrio; pressão desloca para menos mols de gás; temperatura desloca conforme o sinal do ΔH |
+| Resolver estequiometria de reações em sequência (várias equações, um produto vira reagente da próxima) | Evidenciado nas questões reais SEAD/AP Q55 e PCMG Q71 | Acompanhe a substância de interesse por todas as equações, verificando se algo é regenerado/reciclado ou consumido definitivamente em cada etapa |
+| Ordenar experimentos por velocidade de reação, avaliando múltiplos fatores simultâneos | Evidenciado diretamente na questão real SEAD/AP Q56 | Compare os experimentos par a par, fixando um fator de cada vez |
+| Usar Lei de Hess para relacionar entalpias de reações a partir de um diagrama | Evidenciado diretamente na questão real SEAD/AP Q58 | Subtraia os ΔH dados para achar a entalpia da etapa não fornecida diretamente |
+
+## Diferenças que a banca costuma trocar
+
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Catalisador (acelera, não desloca equilíbrio) | Aumento de concentração/pressão/temperatura (desloca o equilíbrio) | Ambos "alteram a reação em equilíbrio" | Catalisador só muda a velocidade de chegada ao equilíbrio; os outros três fatores realmente deslocam a posição do equilíbrio |
+| Reação exotérmica (ΔH negativo, libera calor) | Reação endotérmica (ΔH positivo, absorve calor) | Ambas são "reações com troca de energia" | O sinal do ΔH indica a direção da troca: negativo=libera, positivo=absorve |
+| Rendimento teórico (calculado pela estequiometria) | Rendimento real/experimental (medido no processo) | Ambos aparecem como "quantidade de produto" | O rendimento percentual é sempre real÷teórico×100%, nunca o contrário |
+| Aumento de pressão desloca para menos mols de gás | Aumento de pressão desloca para mais mols de gás | Fácil inverter o sentido | O sistema se opõe ao aumento de pressão, deslocando para o lado com menor volume gasoso (menos mols de gás) |
 
 ## Pegadinhas da banca
 
-- Tratar dissolução como reação química obrigatória.
-- Confundir solubilidade com velocidade de dissolução.
-- Balancear carga e esquecer quantidade de átomos.
-- Achar que todo reagente serve para qualquer superfície.
-- Prioridade de atenção: Balanceamento conserva átomos.
-- Prioridade de atenção: Catalisador acelera sem ser consumido no balanço global.
-- Prioridade de atenção: Equilíbrio é dinâmico.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Achar que um catalisador aumenta o rendimento de uma reação em equilíbrio (ele só acelera a chegada ao equilíbrio).
+- Inverter o sentido do deslocamento de equilíbrio por pressão (confundir "menos mols de gás" com "mais mols de gás").
+- Esquecer de considerar todos os fatores de velocidade simultaneamente ao ordenar experimentos (focar só em temperatura e ignorar concentração ou superfície de contato, por exemplo).
+- Em reações sequenciais, assumir reciclagem de um subproduto quando o enunciado não garante isso explicitamente (ou o oposto, ignorar uma reciclagem que o enunciado deixa clara).
+- Trocar o sinal do ΔH ao aplicar a Lei de Hess (somar quando deveria subtrair, ou o contrário).
 
 ## Como resolver questões
 
-1. Classifique matéria, mistura, solução ou reação antes de calcular ou escolher reagente.
-2. Em concentração, identifique soluto, solvente, solução e unidade.
-3. Em reações, confira conservação de átomos no balanceamento.
-4. Em aplicação pericial, relacione reagente, substrato, resíduo e método de visualização.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para estequiometria, sempre balanceie (ou confirme que já está balanceada) a equação antes de aplicar qualquer proporção.
+2. Para velocidade de reação, liste todos os fatores presentes no enunciado (superfície, concentração, temperatura, catalisador) e avalie o efeito de cada um antes de concluir a ordem.
+3. Para equilíbrio químico, trate cada afirmação isoladamente e lembre a regra fixa: catalisador nunca desloca; pressão desloca para menos mols de gás; temperatura desloca conforme o sinal do ΔH da reação.
+4. Para eletrólise, sempre converta carga (Q=it) em mols de elétrons usando a constante de Faraday antes de aplicar a estequiometria da semirreação.
+5. Para termoquímica com diagrama, identifique quais ΔH são dados diretamente e qual falta — a Lei de Hess permite obter o que falta por soma ou subtração dos valores conhecidos.
+
+## Lacunas honestas
+
+- Nenhuma lacuna relevante identificada para este tema — a cobertura de questões reais é ampla (6 questões de duas fontes distintas), cobrindo praticamente todos os subtemas centrais.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Química 5.3.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei balancear uma equação química simples e aplicar estequiometria básica.
+- [ ] Sei os quatro fatores que alteram a velocidade de uma reação (superfície, concentração, temperatura, catalisador).
+- [ ] Sei aplicar o Princípio de Le Chatelier a mudanças de concentração, pressão e temperatura.
+- [ ] Sei que catalisador não desloca equilíbrio, apenas acelera a chegada a ele.
+- [ ] Sei calcular rendimento de eletrólise usando a constante de Faraday.
+- [ ] Sei diferenciar reação exotérmica de endotérmica pelo sinal do ΔH.
+- [ ] Sei aplicar a Lei de Hess a partir de um diagrama de entalpia.
+- [ ] Resolvi as seis questões reais comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -157,10 +126,18 @@ Na Papiloscopia, o valor do tema está em compreender como resíduos de suor, go
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Quimica.pdf`
+- FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questões 52, 53, 55, 56 e 58. Gabarito definitivo publicado pela FGV.
+- FGV. PCMG - Perito Criminal, Área I, Tipo Branca, 2024/2025. Caderno oficial, questão 71. Gabarito oficial definitivo publicado pela FGV (aplicada em 26/01/2025).
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Material local**
+
+- `Curso Alfacon/Quimica.pdf` (quando disponível)
+
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.
