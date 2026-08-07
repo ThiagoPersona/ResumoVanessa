@@ -1,172 +1,102 @@
 # 011 - História, geografia e organização territorial do Paraná
 
-> **Base do edital:** Conhecimentos Gerais; Realidade do Paraná 3.1-3.3.  
-> **Peso da disciplina:** 5 questões na prova objetiva.  
-> **Prioridade:** média.
+## Leitura rápida
+
+- A formação do Paraná segue uma sequência de ciclos econômicos que explicam a distribuição da população e da economia até hoje: mineração no litoral (séc. XVII), tropeirismo nos Campos Gerais (séc. XVIII), erva-mate (séc. XIX) e café no Norte (séc. XX).
+- Geograficamente, o Estado se divide em duas grandes unidades de relevo: uma faixa litorânea estreita, separada do planalto interior pela Serra do Mar, e um planalto elevado onde vive a maior parte da população, incluindo a Região Metropolitana de Curitiba.
+- A vegetação original do planalto paranaense — a Floresta com Araucária (Mata de Araucária) — é praticamente exclusiva do Sul do Brasil e virou símbolo de identidade regional (o pinheiro-do-paraná/araucária).
+- A divisão territorial do Paraná tem múltiplas camadas que a prova gosta de confundir: municípios, mesorregiões do IBGE, regiões de desenvolvimento do IPARDES e a Região Metropolitana de Curitiba não são a mesma coisa nem se sobrepõem exatamente.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Realidade PR soma 5 questões; este capítulo concentra Realidade do Paraná 3.1-3.3.
-- **Como a FGV costuma cobrar:** A banca tende a cobrar leitura de realidade regional por associação: processo histórico, território, indicadores, políticas públicas e atualidades do Paraná.
-- **O que mais confunde candidatos:** memorizar número isolado sem fonte; confundir Região Metropolitana, macrorregião, município e região de desenvolvimento; tratar atualidade como opinião.
-- **Particularidade para Papiloscopista:** Aqui o foco é repertório organizado e conferido em fonte oficial. Números mudam, então estatística deve vir de IBGE, IPARDES ou governo estadual.
+Este bloco é a base histórico-geográfica do item "Realidade do Paraná" do edital: sem entender como o território se formou e como ele se organiza fisicamente e administrativamente, fica difícil interpretar corretamente qualquer questão de atualidade, economia ou indicador social sobre o Estado (cobertos no capítulo seguinte). A FGV, em provas estaduais de conhecimentos regionais, costuma pedir associação: que ciclo econômico explica a ocupação de determinada região, que bioma predomina em determinada área, a que divisão administrativa pertence um município citado.
 
-## Leitura rápida
+## Conteúdo completo orientado ao edital
 
-- **Formação territorial, processos coloniais, movimentos sociais e desenvolvimento histórico.** Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios.
-- **Geografia física e humana: relevo, clima, hidrografia, vegetação, população, densidade e economia.** Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios.
-- **Divisão político-administrativa: municípios e regiões de desenvolvimento.** Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios.
-- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
-- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
-- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+### Formação territorial: dos ciclos econômicos à ocupação atual
 
-## Conteúdo essencial
+**Ocupação inicial e mineração (séculos XVI-XVII)**: a ocupação portuguesa do litoral paranaense começou ligada à busca de ouro de aluvião nas serras próximas ao litoral, dando origem aos primeiros núcleos urbanos da região, como Paranaguá — um dos portos mais antigos do país — e, mais tarde, Curitiba, fundada no planalto ainda no século XVII, favorecida por sua posição de passagem entre o litoral e o interior.
 
-### Visão de estudo para este tema
+**Tropeirismo (século XVIII)**: com o declínio do ouro, a região dos Campos Gerais (área de campos naturais no planalto, onde hoje ficam cidades como Castro, Ponta Grossa e Lapa) tornou-se corredor de passagem do gado e das mulas que vinham do Rio Grande do Sul rumo às feiras de Sorocaba, em São Paulo. Esse fluxo — o tropeirismo — deixou como herança pousos que viraram cidades, uma cultura campeira (o gaúcho paranaense dos Campos Gerais) e a consolidação de Curitiba como entroncamento estratégico.
 
-Realidade do Paraná exige uma visão organizada do Estado: formação histórica, território, população, economia, cultura, governo e desafios atuais. A prova não deve ser estudada como curiosidade turística, mas como repertório oficial sobre o espaço em que a Polícia Civil atua.
+**Erva-mate (século XIX)**: com a atividade tropeira em declínio, o Paraná passou a exportar erva-mate nativa da Floresta com Araucária, beneficiada em engenhos (os "barbaquás") e escoada pelo porto de Paranaguá — a chamada "era do ouro verde". Foi nesse período (1853) que o Paraná se separou politicamente de São Paulo e se tornou província autônoma.
 
-Dados numéricos mudam. Por isso, o material deve usar IBGE, IPARDES e páginas oficiais quando tratar de população, indicadores, municípios, economia e políticas públicas. O que deve ficar memorizado é a lógica: regiões, processos históricos, eixos econômicos e problemas contemporâneos.
+**Imigração europeia (final do século XIX e início do XX)**: para ocupar e colonizar o território, sobretudo nos arredores de Curitiba e no litoral, o governo imperial e depois republicano atraiu levas de imigrantes europeus — poloneses, italianos, alemães, ucranianos, entre outros — que deixaram marcas fortes na arquitetura, na culinária, na religiosidade e nas festas regionais que ainda hoje caracterizam parte do Estado.
 
-A FGV costuma cobrar associação: determinado fenômeno pertence a qual região, qual indicador mede certo aspecto, qual tema é cultural, histórico, geográfico ou político-institucional.
+**Guerra do Contestado (1912-1916)**: um conflito armado entre posseiros, messiânicos religiosos e forças do Estado, na região de fronteira então disputada entre Paraná e Santa Catarina — episódio central da história social do Sul do Brasil, ligado a conflitos por terra e à expansão da estrada de ferro na região.
 
-**Aplicação ao cargo:** O Papiloscopista atua em um Estado diverso, com interior, fronteira, regiões metropolitanas e realidades socioeconômicas distintas. A disciplina contextualiza essa atuação.
+**Ciclo do café e colonização do Norte (século XX)**: a partir das primeiras décadas do século XX, a cafeicultura avançou do interior paulista para o Norte do Paraná, impulsionada por companhias colonizadoras privadas (a mais conhecida é a antiga Companhia de Terras Norte do Paraná) que planejaram e venderam lotes de terra, fundando cidades como Londrina e Maringá. Esse ciclo trouxe forte crescimento populacional e fez do Paraná, por décadas, um dos maiores produtores de café do país, até geadas históricas e a diversificação agrícola reduzirem esse protagonismo a partir da segunda metade do século.
 
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
+**Industrialização e Curitiba planejada**: na segunda metade do século XX, Curitiba se destacou pelo planejamento urbano (uso do solo integrado ao transporte público, criação de parques, política de reciclagem), tornando-se referência nacional e internacional em urbanismo, enquanto sua região metropolitana atraiu indústria, especialmente automobilística, a partir das décadas de 1990-2000.
 
-### O que mais merece atenção
+### Geografia física: relevo, clima, hidrografia e vegetação
 
-- formação territorial e ocupação
-- geografia física e humana
-- municípios, regiões e dinâmica econômica
-- cultura e patrimônio
-- indicadores oficiais
-- segurança pública, meio ambiente e inclusão social
+**Relevo**: o Paraná se divide, de forma simplificada, em duas grandes unidades — uma **faixa litorânea estreita**, de planície e baixadas, e um **planalto interior** elevado, onde se concentram a maior parte da população e da atividade econômica. Entre essas duas unidades, a **Serra do Mar** forma um degrau abrupto que historicamente dificultou a ligação entre litoral e planalto (superada por rodovias e ferrovias construídas em desníveis acentuados).
 
-### Conteúdo completo orientado ao edital
+**Clima**: o Paraná é o único Estado brasileiro majoritariamente situado em clima subtropical (Cfa e Cfb na classificação de Köppen), sem estação seca definida e com ocorrência regular de geadas no inverno, especialmente no planalto e nas áreas mais altas — diferença importante frente à maior parte do território brasileiro, de clima tropical.
 
-### 1. Formação territorial, processos coloniais, movimentos sociais e desenvolvimento histórico.
+**Hidrografia**: o território se divide entre duas grandes bacias hidrográficas principais — a **bacia do rio Paraná**, que corre pelo oeste do Estado e faz fronteira internacional (onde está a usina de Itaipu, binacional com o Paraguai) e a **bacia do rio Iguaçu**, que atravessa o Estado de leste a oeste e forma, na fronteira com a Argentina, as Cataratas do Iguaçu — um dos principais patrimônios naturais do país. Rios menores drenam diretamente para o litoral, formando a bacia litorânea.
 
-**O que significa:** O Paraná deve ser entendido pela formação territorial, ocupação, ciclos econômicos, fronteira, relevo, clima, hidrografia, vegetação, população e organização municipal/regional.
+**Vegetação**: o bioma predominante no planalto paranaense é a **Floresta Ombrófila Mista**, popularmente chamada de **Mata de Araucária** ou **Mata dos Pinhais** — uma formação típica do Sul do Brasil, marcada pela presença do pinheiro-do-paraná (araucária), hoje bastante reduzida por desmatamento histórico. No litoral e na Serra do Mar predomina a **Mata Atlântica** de encosta, e nos Campos Gerais ocorrem formações de **campos naturais** (vegetação campestre, sem cobertura florestal densa), ligadas à passagem histórica dos tropeiros.
 
-**Como estudar para a prova:** Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios.
+### Divisão político-administrativa: camadas que a prova gosta de confundir
 
-**Como a FGV pode cobrar:** A banca cobra associação entre processo histórico, região, atividade econômica e característica geográfica.
+O território paranaense é organizado em várias camadas administrativas diferentes, que não coincidem entre si — ponto clássico de confusão em prova:
 
-**Cuidado de prova:** Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes.
-
-### 2. Geografia física e humana: relevo, clima, hidrografia, vegetação, população, densidade e economia.
-
-**O que significa:** O Paraná deve ser entendido pela formação territorial, ocupação, ciclos econômicos, fronteira, relevo, clima, hidrografia, vegetação, população e organização municipal/regional.
-
-**Como estudar para a prova:** Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios.
-
-**Como a FGV pode cobrar:** A banca cobra associação entre processo histórico, região, atividade econômica e característica geográfica.
-
-**Cuidado de prova:** Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes.
-
-### 3. Divisão político-administrativa: municípios e regiões de desenvolvimento.
-
-**O que significa:** O Paraná deve ser entendido pela formação territorial, ocupação, ciclos econômicos, fronteira, relevo, clima, hidrografia, vegetação, população e organização municipal/regional.
-
-**Como estudar para a prova:** Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios.
-
-**Como a FGV pode cobrar:** A banca cobra associação entre processo histórico, região, atividade econômica e característica geográfica.
-
-**Cuidado de prova:** Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-
-### Diferenças que a banca costuma trocar
-
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Divisão | O que é | Quem define |
 |---|---|---|
-| Formação territorial, processos coloniais, movimentos sociais e desenvolvimento histórico. | Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes. | A banca cobra associação entre processo histórico, região, atividade econômica e característica geográfica. |
-| Geografia física e humana: relevo, clima, hidrografia, vegetação, população, densidade e economia. | Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes. | A banca cobra associação entre processo histórico, região, atividade econômica e característica geográfica. |
-| Divisão político-administrativa: municípios e regiões de desenvolvimento. | Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes. | A banca cobra associação entre processo histórico, região, atividade econômica e característica geográfica. |
+| Município | Unidade político-administrativa básica, com prefeito e câmara próprios | Constituição/legislação estadual e municipal |
+| Mesorregião e microrregião | Agrupamento de municípios para fins estatísticos | IBGE |
+| Região Metropolitana de Curitiba (RMC) | Agrupamento de municípios legalmente instituído em torno da capital, para fins de planejamento conjunto (transporte, saneamento, uso do solo) | Lei complementar estadual |
+| Região de desenvolvimento (ou regional) | Divisão usada para planejamento de políticas públicas estaduais, nem sempre idêntica à divisão do IBGE | IPARDES / governo do Estado |
 
-### Aplicação direta para Papiloscopista
+O Paraná tem quase 400 municípios (o número exato deve ser conferido em fonte oficial atualizada, pois pode haver criação/alteração de municípios), concentrados majoritariamente no planalto. Curitiba é a capital e o maior polo populacional e econômico do Estado, seguida por polos regionais como Londrina, Maringá, Ponta Grossa, Cascavel e Foz do Iguaçu — cada um funcionando como referência econômica e de serviços para sua respectiva região.
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+## Prioridades FGV dentro deste tema
 
-### Roteiro de estudo de alta retenção
-
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
-
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Formação territorial, processos coloniais, movimentos sociais e desenvolvimento histórico. | Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios. | Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes. |
-| Geografia física e humana: relevo, clima, hidrografia, vegetação, população, densidade e economia. | Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios. | Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes. |
-| Divisão político-administrativa: municípios e regiões de desenvolvimento. | Paraná tradicional e moderno, tropeirismo, erva-mate, café, colonização, industrialização, regiões metropolitanas, litoral, planaltos, rios, agricultura, indústria, serviços e municípios. | Não trate o Estado como homogêneo; litoral, Curitiba/RMC, Norte, Oeste, Sudoeste e Centro têm dinâmicas diferentes. |
+| Associar cada ciclo econômico (mineração, tropeirismo, erva-mate, café) à região do Estado que ele mais impactou | Padrão clássico de cobrança regional | Monte uma linha do tempo com ciclo → região → cidade-referência → herança cultural/econômica |
+| Diferenciar litoral, Serra do Mar e planalto pelo relevo e pelo clima | Base de qualquer questão de geografia física | Associe cada unidade de relevo a um clima e a uma vegetação predominante |
+| Não confundir mesorregião (IBGE), região metropolitana (lei estadual) e região de desenvolvimento (IPARDES) | Cilada recorrente de prova regional | Monte uma tabela comparando quem define cada divisão e para que serve |
+| Associar bacia hidrográfica a um marco geográfico conhecido (Itaipu = rio Paraná; Cataratas = rio Iguaçu) | Facilita fixação e evita troca de bacia | Ligue cada bacia a um "cartão-postal" geográfico do Estado |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+## Diferenças que a banca costuma trocar
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Ciclo da erva-mate | Ciclo do café | Ambos foram exportação agrícola relevante, mas em séculos e regiões diferentes | Erva-mate = século XIX, planalto/litoral via Paranaguá; café = século XX, Norte do Estado |
+| Mata de Araucária (planalto) | Mata Atlântica (litoral/Serra do Mar) | Ambas são floresta, mas biomas distintos com espécies diferentes | Araucária é típica do planalto subtropical; Mata Atlântica de encosta cobre a Serra do Mar e o litoral |
+| Mesorregião do IBGE | Região de desenvolvimento do IPARDES | Ambas dividem o Estado em regiões, mas para finalidades e por critérios diferentes | IBGE é estatística nacional padronizada; IPARDES é planejamento estadual, pode ter contornos diferentes |
+| Bacia do rio Paraná | Bacia do rio Iguaçu | Ambas são bacias hidrográficas relevantes do Estado, cobrindo áreas diferentes | Paraná = fronteira oeste/Itaipu; Iguaçu = corta o Estado, forma as Cataratas na fronteira com a Argentina |
 
 ## Pegadinhas da banca
 
-- Atualidade desatualizada em material antigo.
-- Indicador trocado: IDH, IPDM, densidade, população e PIB não medem a mesma coisa.
-- Generalização do Paraná como se todas as regiões tivessem a mesma base econômica.
-- Confundir cultura popular, patrimônio material e patrimônio imaterial.
-- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
-- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
-- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Tratar o Paraná como território homogêneo, ignorando que litoral, planalto, Norte, Oeste e Sudoeste têm histórias de ocupação e economias diferentes.
+- Trocar o século ou a região associada a um ciclo econômico (por exemplo, atribuir a colonização do Norte cafeeiro ao século XIX, quando na verdade é século XX).
+- Confundir Mata de Araucária com Mata Atlântica, ou tratá-las como sinônimos.
+- Misturar a divisão de mesorregiões do IBGE com a Região Metropolitana de Curitiba, como se fossem a mesma coisa.
 
 ## Como resolver questões
 
-1. Diferencie fato histórico, característica geográfica, indicador social e política pública.
-2. Quando houver dado numérico, confira se o comando pede valor absoluto, posição relativa ou tendência.
-3. Associe economia e território: agroindústria, serviços, logística, energia, fronteira e regiões metropolitanas.
-4. Em atualidades, prefira fonte oficial e evite resposta baseada em manchete solta.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Identifique se a questão pede um fato histórico (ciclo econômico, imigração, conflito) ou uma característica física (relevo, clima, hidrografia, vegetação).
+2. Associe cada fato histórico à região do Estado onde ele ocorreu predominantemente.
+3. Em questões de divisão territorial, confira qual critério está sendo usado (IBGE, lei estadual, IPARDES) antes de escolher a alternativa.
+4. Desconfie de afirmações que tratam o Estado inteiro como uniforme em clima, relevo, economia ou cultura.
+
+## Lacunas honestas
+
+- Números atuais (quantidade exata de municípios, população total e por região, extensão territorial precisa) não são fixados neste capítulo porque mudam e devem ser conferidos em fonte oficial atualizada (IBGE, IPARDES) antes da prova.
+- Ainda não há questão real de banca FGV específica sobre Realidade do Paraná localizada neste levantamento — as provas FGV conferidas até agora (SEAD/AP Amapá, PCMG Minas Gerais, PCAM Amazonas) tratam da realidade de outros Estados, que não se aplica a este tema por natureza (cada prova estadual cobra a realidade do seu próprio Estado). A prioridade para ampliar este banco é localizar prova FGV de concurso público do próprio Paraná ou, na falta dela, apoiar-se com cautela redobrada em bancos secundários que tragam questões de realidade estadual paranaense, sempre com fonte e gabarito conferidos.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Realidade do Paraná 3.1-3.3.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei a sequência dos ciclos econômicos do Paraná e a região que cada um mais influenciou.
+- [ ] Sei diferenciar litoral, Serra do Mar e planalto pelo relevo, clima e vegetação.
+- [ ] Sei diferenciar Mata de Araucária de Mata Atlântica.
+- [ ] Sei as duas principais bacias hidrográficas do Estado e um marco geográfico de cada.
+- [ ] Sei diferenciar município, mesorregião (IBGE), Região Metropolitana de Curitiba e região de desenvolvimento (IPARDES).
+- [ ] Marquei a lacuna de fonte registrada acima (dados numéricos atuais e questão real).
 
 ## Questões relacionadas
 
@@ -174,12 +104,18 @@ A FGV costuma cobrar associação: determinado fenômeno pertence a qual região
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
-- [IPARDES - indicadores e perfis municipais do Paraná](https://www.ipardes.pr.gov.br/)
-- [IBGE Cidades e Estados - Paraná](https://www.ibge.gov.br/cidades-e-estados/pr.html)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+- Nenhuma questão real de FGV sobre Realidade do Paraná localizada até o momento (lacuna registrada acima).
+
+**Material local**
+
 - `GUIA DE DISCIPLINAS.pdf`
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Atualização/fonte externa**
+
+- [IPARDES - Instituto Paranaense de Desenvolvimento Econômico e Social](https://www.ipardes.pr.gov.br/) - divisão regional, indicadores e perfis municipais.
+- [IBGE Cidades e Estados - Paraná](https://www.ibge.gov.br/cidades-e-estados/pr.html) - dados demográficos, territoriais e mesorregiões.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Fatos históricos e geográficos estáveis (ciclos econômicos, relevo, biomas, bacias) são descritos com base em conhecimento geográfico/histórico consolidado; números atuais (população, quantidade de municípios, indicadores) devem ser conferidos em fonte oficial antes da prova.

@@ -1,185 +1,114 @@
 # 012 - Cultura, indicadores, economia, políticas públicas e atualidades
 
-> **Base do edital:** Conhecimentos Gerais; Realidade do Paraná 3.4-3.7.  
-> **Peso da disciplina:** 5 questões na prova objetiva.  
-> **Prioridade:** média.
+## Leitura rápida
+
+- A cultura paranaense é marcada pela diversidade de imigração (polonesa, italiana, alemã, ucraniana) somada às raízes caiçaras do litoral e à cultura campeira dos Campos Gerais — não existe "uma" cultura paranaense única, e sim um mosaico regional.
+- O Paraná costuma aparecer entre os Estados com indicadores sociais acima da média nacional (IDH, renda, escolaridade), mas com desigualdade relevante entre a Região Metropolitana de Curitiba e o interior — números exatos sempre devem ser conferidos em fonte oficial atualizada.
+- A economia estadual combina um agronegócio forte (grãos, especialmente soja e milho), um parque industrial relevante (automotivo, alimentício) concentrado na Região Metropolitana de Curitiba, e ativos estratégicos únicos, como a Usina de Itaipu e o Porto de Paranaguá.
+- Em segurança pública, o candidato deve saber a estrutura básica das forças estaduais (Polícia Civil, Polícia Militar, Polícia Penal, Corpo de Bombeiros) e não confundir atribuições entre elas.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Realidade PR soma 5 questões; este capítulo concentra Realidade do Paraná 3.4-3.7.
-- **Como a FGV costuma cobrar:** A banca tende a cobrar leitura de realidade regional por associação: processo histórico, território, indicadores, políticas públicas e atualidades do Paraná.
-- **O que mais confunde candidatos:** memorizar número isolado sem fonte; confundir Região Metropolitana, macrorregião, município e região de desenvolvimento; tratar atualidade como opinião.
-- **Particularidade para Papiloscopista:** Aqui o foco é repertório organizado e conferido em fonte oficial. Números mudam, então estatística deve vir de IBGE, IPARDES ou governo estadual.
+Este bloco fecha o item de Realidade do Paraná com os aspectos mais "vivos" e mutáveis do Estado: cultura, indicadores sociais, estrutura econômica, políticas públicas e atualidades. É também o bloco mais sensível a desatualização — por isso o material foca em estrutura estável (o que caracteriza a economia, quais indicadores existem e o que medem) e evita fixar números que mudam de ano para ano, deixando a checagem para fontes oficiais.
 
-## Leitura rápida
+## Conteúdo completo orientado ao edital
 
-- **Cultura paranaense: manifestações, patrimônio, festas, artes, literatura, música e tradições.** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
-- **Indicadores sociais e econômicos: IDH, segurança pública, saúde, educação, mobilidade e desenvolvimento regional.** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
-- **Governo estadual, políticas públicas, programas sociais e desafios contemporâneos.** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
-- **Temas atuais: segurança pública, economia, meio ambiente, inclusão social e sustentabilidade.** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
-- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
-- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
-- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+### Cultura paranaense: um mosaico regional, não um bloco único
 
-## Conteúdo essencial
+A cultura do Paraná não tem uma identidade única e homogênea — ela varia fortemente por região, refletindo os diferentes processos de ocupação:
 
-### Visão de estudo para este tema
-
-Realidade do Paraná exige uma visão organizada do Estado: formação histórica, território, população, economia, cultura, governo e desafios atuais. A prova não deve ser estudada como curiosidade turística, mas como repertório oficial sobre o espaço em que a Polícia Civil atua.
-
-Dados numéricos mudam. Por isso, o material deve usar IBGE, IPARDES e páginas oficiais quando tratar de população, indicadores, municípios, economia e políticas públicas. O que deve ficar memorizado é a lógica: regiões, processos históricos, eixos econômicos e problemas contemporâneos.
-
-A FGV costuma cobrar associação: determinado fenômeno pertence a qual região, qual indicador mede certo aspecto, qual tema é cultural, histórico, geográfico ou político-institucional.
-
-**Aplicação ao cargo:** O Papiloscopista atua em um Estado diverso, com interior, fronteira, regiões metropolitanas e realidades socioeconômicas distintas. A disciplina contextualiza essa atuação.
-
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
-
-### O que mais merece atenção
-
-- formação territorial e ocupação
-- geografia física e humana
-- municípios, regiões e dinâmica econômica
-- cultura e patrimônio
-- indicadores oficiais
-- segurança pública, meio ambiente e inclusão social
-
-### Conteúdo completo orientado ao edital
-
-### 1. Cultura paranaense: manifestações, patrimônio, festas, artes, literatura, música e tradições.
-
-**O que significa:** Cultura, indicadores e políticas públicas conectam identidade paranaense e desafios contemporâneos. Dados devem ser conferidos em IPARDES, IBGE e fontes oficiais.
-
-**Como estudar para a prova:** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
-
-**Como a FGV pode cobrar:** A banca cobra leitura de indicador e associação de tema atual ao Estado.
-
-**Cuidado de prova:** Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova.
-
-### 2. Indicadores sociais e econômicos: IDH, segurança pública, saúde, educação, mobilidade e desenvolvimento regional.
-
-**O que significa:** Cultura, indicadores e políticas públicas conectam identidade paranaense e desafios contemporâneos. Dados devem ser conferidos em IPARDES, IBGE e fontes oficiais.
-
-**Como estudar para a prova:** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
-
-**Como a FGV pode cobrar:** A banca cobra leitura de indicador e associação de tema atual ao Estado.
-
-**Cuidado de prova:** Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova.
-
-### 3. Governo estadual, políticas públicas, programas sociais e desafios contemporâneos.
-
-**O que significa:** Cultura, indicadores e políticas públicas conectam identidade paranaense e desafios contemporâneos. Dados devem ser conferidos em IPARDES, IBGE e fontes oficiais.
-
-**Como estudar para a prova:** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
-
-**Como a FGV pode cobrar:** A banca cobra leitura de indicador e associação de tema atual ao Estado.
-
-**Cuidado de prova:** Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova.
-
-### 4. Temas atuais: segurança pública, economia, meio ambiente, inclusão social e sustentabilidade.
-
-**O que significa:** Cultura, indicadores e políticas públicas conectam identidade paranaense e desafios contemporâneos. Dados devem ser conferidos em IPARDES, IBGE e fontes oficiais.
-
-**Como estudar para a prova:** Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão.
-
-**Como a FGV pode cobrar:** A banca cobra leitura de indicador e associação de tema atual ao Estado.
-
-**Cuidado de prova:** Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Região/grupo | Marca cultural |
 |---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Litoral | Cultura caiçara: pesca artesanal, fandango (dança e música tradicional reconhecida como patrimônio cultural), culinária baseada em frutos do mar e no barreado (prato típico feito de carne cozida por horas em panela de barro) |
+| Campos Gerais e áreas de influência tropeira | Cultura campeira, herança gaúcha (chimarrão, laço, tropas), festas ligadas à tradição rural |
+| Região de colonização europeia (arredores de Curitiba e demais polos de imigração) | Arquitetura, gastronomia e festividades de origem polonesa, italiana, alemã e ucraniana — arquitetura enxaimel de influência germânica, igrejas de rito bizantino ucraniano, festas de colonização italiana |
+| Norte do Paraná (área de colonização cafeeira do século XX) | Cultura mais recente, marcada pela migração interna de paulistas e mineiros e pela herança do ciclo do café |
 
-### Diferenças que a banca costuma trocar
+O reconhecimento de manifestações culturais como patrimônio (material ou imaterial) costuma ser tema de prova: saber diferenciar patrimônio material (edificações, acervos) de patrimônio imaterial (saberes, festas, formas de expressão, como o fandango caiçara) é um ponto técnico recorrente em provas de conhecimentos regionais.
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+### Indicadores sociais e econômicos: o que cada um mede
+
+A prova gosta de trocar indicadores parecidos, então o essencial é saber o que cada um mede, não o valor numérico exato (que deve ser conferido em fonte oficial):
+
+| Indicador | O que mede | Quem calcula |
 |---|---|---|
-| Cultura paranaense: manifestações, patrimônio, festas, artes, literatura, música e tradições. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. | A banca cobra leitura de indicador e associação de tema atual ao Estado. |
-| Indicadores sociais e econômicos: IDH, segurança pública, saúde, educação, mobilidade e desenvolvimento regional. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. | A banca cobra leitura de indicador e associação de tema atual ao Estado. |
-| Governo estadual, políticas públicas, programas sociais e desafios contemporâneos. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. | A banca cobra leitura de indicador e associação de tema atual ao Estado. |
-| Temas atuais: segurança pública, economia, meio ambiente, inclusão social e sustentabilidade. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. | A banca cobra leitura de indicador e associação de tema atual ao Estado. |
+| IDH (Índice de Desenvolvimento Humano) | Combina renda, educação e longevidade (expectativa de vida) | PNUD, com dados nacionais adaptados pelo IPEA/IBGE (IDHM municipal) |
+| IPDM (Índice IPARDES de Desempenho Municipal) | Instrumento próprio do Paraná para medir desempenho municipal em áreas como saúde, educação e emprego/renda | IPARDES |
+| PIB (Produto Interno Bruto) | Valor total de bens e serviços produzidos numa região em um período | IBGE |
+| Densidade demográfica | População dividida pela área territorial | IBGE |
+| Taxa de urbanização | Proporção da população vivendo em áreas urbanas em relação à população total | IBGE |
 
-### Aplicação direta para Papiloscopista
+Erro comum: usar um indicador para responder pergunta sobre outro (por exemplo, tratar densidade demográfica como se fosse sinônimo de "desenvolvimento", ou confundir PIB total com PIB per capita — o primeiro mede o tamanho da economia, o segundo divide isso pela população, podendo gerar rankings bem diferentes entre municípios grandes e pequenos).
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+### Estrutura econômica do Paraná
 
-### Roteiro de estudo de alta retenção
+A economia paranaense combina três eixos principais:
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+- **Agronegócio**: o Paraná é historicamente um dos maiores produtores nacionais de grãos, com destaque para soja e milho, além de manter relevância em outras culturas (trigo, café remanescente, fruticultura). A agroindústria (processamento de alimentos, abate e processamento de carnes) é um desdobramento importante dessa base agrícola.
+- **Indústria**: concentrada principalmente na Região Metropolitana de Curitiba, com destaque histórico para o setor automotivo (montadoras instaladas a partir das décadas de 1990-2000) e para a indústria de alimentos e bebidas, distribuída por diferentes polos regionais do Estado.
+- **Energia e infraestrutura estratégica**: a Usina Hidrelétrica de Itaipu, binacional entre Brasil e Paraguai, no rio Paraná, é uma das maiores usinas hidrelétricas do mundo em geração de energia e um marco econômico e geopolítico do Estado. O Porto de Paranaguá é um dos principais portos brasileiros em movimentação de cargas, especialmente grãos, sendo peça central do escoamento da produção agrícola do Paraná e de Estados vizinhos.
 
-### Lacunas honestas
+### Políticas públicas e segurança pública estadual
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
+O Sistema de Segurança Pública do Paraná é organizado, como na maioria dos Estados brasileiros, por diferentes órgãos com atribuições distintas — ponto técnico relevante para quem presta concurso para a área:
 
-## Tabelas e esquemas
+| Órgão | Atribuição principal |
+|---|---|
+| Polícia Civil (PCPR) | Polícia judiciária: investigação, apuração de infrações penais, perícia (papiloscopia, criminalística) |
+| Polícia Militar (PMPR) | Policiamento ostensivo e preservação da ordem pública |
+| Polícia Penal (PR) | Segurança dos estabelecimentos penais |
+| Corpo de Bombeiros Militar | Prevenção e combate a incêndios, resgate e defesa civil |
 
-| Ponto do edital | O que revisar | Pegadinha provável |
+Políticas públicas estaduais em áreas como segurança, saúde, educação e assistência social costumam ser tema de "atualidades" na prova — por isso a orientação deste capítulo é: acompanhar fontes oficiais do governo do Estado e do IPARDES próximo à data da prova, em vez de memorizar um programa específico que pode ser descontinuado ou renomeado.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Cultura paranaense: manifestações, patrimônio, festas, artes, literatura, música e tradições. | Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. |
-| Indicadores sociais e econômicos: IDH, segurança pública, saúde, educação, mobilidade e desenvolvimento regional. | Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. |
-| Governo estadual, políticas públicas, programas sociais e desafios contemporâneos. | Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. |
-| Temas atuais: segurança pública, economia, meio ambiente, inclusão social e sustentabilidade. | Patrimônio material/imaterial, festas, literatura, música, indicadores sociais, IDH, saúde, educação, segurança pública, mobilidade, economia, meio ambiente, sustentabilidade e inclusão. | Dado estatístico desatualizado derruba alternativa; memorize tendências e confira números perto da prova. |
+| Diferenciar patrimônio material de imaterial, com exemplo paranaense de cada | Ponto técnico clássico em prova de cultura regional | Associe cada manifestação cultural citada acima a uma das duas categorias |
+| Saber o que cada indicador mede, sem depender do valor numérico exato | Reduz risco de erro por número desatualizado | Monte associação "indicador → o que mede → quem calcula" |
+| Diferenciar as atribuições de PCPR, PMPR, Polícia Penal e Corpo de Bombeiros | Relevante para o próprio cargo, tema recorrente em prova policial | Associe cada órgão à sua função central, sem sobrepor atribuições |
+| Associar cada eixo econômico (agronegócio, indústria, energia/infraestrutura) a um ativo concreto do Estado | Facilita fixação e evita resposta genérica | Ligue agronegócio→grãos/Paranaguá; indústria→RM Curitiba/automotivo; energia→Itaipu |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+## Diferenças que a banca costuma trocar
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Patrimônio material | Patrimônio imaterial | Ambos são "patrimônio cultural", mas de natureza diferente | Material = bem físico (edificação, acervo); imaterial = saber, prática, festa, forma de expressão |
+| IDH/IDHM | IPDM | Ambos são "índice de desenvolvimento", mas de origem e metodologia diferentes | IDH é internacional/nacional (PNUD); IPDM é instrumento próprio do Paraná (IPARDES) |
+| PIB total | PIB per capita | Ambos "medem a economia", mas de formas diferentes | PIB total mede o tamanho da economia; per capita divide pela população, mudando o ranking |
+| Polícia Civil | Polícia Militar | Ambas são "polícia estadual", mas com função constitucional diferente | Civil = investigação/polícia judiciária; Militar = policiamento ostensivo |
 
 ## Pegadinhas da banca
 
-- Atualidade desatualizada em material antigo.
-- Indicador trocado: IDH, IPDM, densidade, população e PIB não medem a mesma coisa.
-- Generalização do Paraná como se todas as regiões tivessem a mesma base econômica.
-- Confundir cultura popular, patrimônio material e patrimônio imaterial.
-- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
-- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
-- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Tratar a cultura paranaense como uniforme, ignorando a diversidade regional de origem da colonização.
+- Confundir patrimônio material com imaterial ao classificar uma manifestação cultural.
+- Usar um indicador (por exemplo, densidade demográfica) para responder pergunta sobre outro (por exemplo, desenvolvimento humano).
+- Atribuir função de investigação à Polícia Militar, ou função de policiamento ostensivo à Polícia Civil.
+- Citar programa ou dado de política pública desatualizado, sem checar se ainda está vigente.
 
 ## Como resolver questões
 
-1. Diferencie fato histórico, característica geográfica, indicador social e política pública.
-2. Quando houver dado numérico, confira se o comando pede valor absoluto, posição relativa ou tendência.
-3. Associe economia e território: agroindústria, serviços, logística, energia, fronteira e regiões metropolitanas.
-4. Em atualidades, prefira fonte oficial e evite resposta baseada em manchete solta.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Identifique se a pergunta é sobre cultura, indicador, economia ou segurança/política pública — cada eixo tem lógica própria.
+2. Em questão de indicador, pergunte primeiro "o que esse índice mede e quem calcula?" antes de tentar lembrar um número.
+3. Em questão de economia, associe o setor citado a um ativo ou região concreta do Estado.
+4. Em questão de segurança pública, confira a atribuição constitucional de cada órgão antes de responder.
+5. Em questão de atualidade, prefira a informação mais recente e oficial disponível; marque como lacuna se não tiver certeza da vigência do dado.
+
+## Lacunas honestas
+
+- Números atuais de indicadores (IDH, IPDM, PIB, população, taxa de urbanização) não são fixados neste capítulo porque mudam com frequência e devem ser conferidos em fonte oficial (IPARDES, IBGE) próximo à data da prova.
+- Programas específicos de política pública estadual vigentes não são citados nominalmente aqui, porque podem ser alterados, renomeados ou descontinuados — checar página oficial do governo do Paraná antes da prova.
+- Ainda não há questão real de banca FGV sobre Realidade do Paraná localizada neste levantamento — mesma lacuna já registrada no tema anterior (011), pelas mesmas razões (as provas FGV disponíveis são de outros Estados).
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Realidade do Paraná 3.4-3.7.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei diferenciar patrimônio cultural material de imaterial, com exemplo paranaense de cada.
+- [ ] Sei o que cada indicador (IDH/IDHM, IPDM, PIB, densidade, taxa de urbanização) mede e quem o calcula.
+- [ ] Sei os três eixos principais da economia paranaense e um ativo concreto de cada.
+- [ ] Sei as atribuições de Polícia Civil, Polícia Militar, Polícia Penal e Corpo de Bombeiros no Paraná.
+- [ ] Verifiquei, em fonte oficial atualizada, os números e programas de política pública mais recentes antes da prova.
+- [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
 
@@ -187,12 +116,18 @@ A FGV costuma cobrar associação: determinado fenômeno pertence a qual região
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
-- [IPARDES - indicadores e perfis municipais do Paraná](https://www.ipardes.pr.gov.br/)
-- [IBGE Cidades e Estados - Paraná](https://www.ibge.gov.br/cidades-e-estados/pr.html)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+- Nenhuma questão real de FGV sobre Realidade do Paraná localizada até o momento (lacuna registrada acima).
+
+**Material local**
+
 - `GUIA DE DISCIPLINAS.pdf`
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Atualização/fonte externa**
+
+- [IPARDES - Instituto Paranaense de Desenvolvimento Econômico e Social](https://www.ipardes.pr.gov.br/) - indicadores (IPDM), perfis municipais e regiões de desenvolvimento.
+- [IBGE Cidades e Estados - Paraná](https://www.ibge.gov.br/cidades-e-estados/pr.html) - dados demográficos e econômicos.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. A estrutura conceitual (o que cada indicador mede, os eixos econômicos, as atribuições dos órgãos de segurança) é estável e descrita com confiança; números e programas atuais devem ser conferidos em fonte oficial antes da prova.
