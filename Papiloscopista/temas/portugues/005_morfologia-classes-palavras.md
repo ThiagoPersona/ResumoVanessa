@@ -1,9 +1,5 @@
 # 005 - Morfologia e classes de palavras
 
-> **Base do edital:** Conhecimentos Gerais; Língua Portuguesa 1.18-1.20.
-> **Peso da disciplina:** 25 questões na prova objetiva.
-> **Prioridade:** alta.
-
 ## Leitura rápida
 
 - Morfologia estuda a estrutura interna da palavra (de que partes ela é feita) e sua classificação gramatical (a que classe ela pertence e como se flexiona).

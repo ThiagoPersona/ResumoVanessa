@@ -1,8 +1,6 @@
 # NNN - Nome Do Tema
 
-> **Base do edital:** disciplina e item.
-> **Peso da disciplina:** número de questões na prova objetiva.
-> **Prioridade:** baixa, média, alta ou altíssima.
+Não abra o capítulo com uma caixa de metadados do edital (base/peso/prioridade). Isso transforma a página em ficha de prova em vez de material de estudo. Peso e prioridade, quando relevantes, entram como frase dentro de "Por que cai" — nunca como bloco de destaque no topo.
 
 ## Leitura rápida
 

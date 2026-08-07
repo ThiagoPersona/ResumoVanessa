@@ -1,9 +1,5 @@
 # 004 - Frase, sintaxe, discurso e pontuação
 
-> **Base do edital:** Conhecimentos Gerais; Língua Portuguesa 1.7-1.17.
-> **Peso da disciplina:** 25 questões na prova objetiva.
-> **Prioridade:** altíssima.
-
 ## Leitura rápida
 
 - Este é o maior bloco do item de Língua Portuguesa no edital (onze subitens, 1.7 a 1.17): regência, pontuação, ambiguidade, ordem da frase, concordância e estruturas comparativas/paralelísticas moram todos aqui.

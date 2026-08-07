@@ -1,9 +1,5 @@
 # 006 - Semântica, vocabulário, ortografia, acentuação e crase
 
-> **Base do edital:** Conhecimentos Gerais; Língua Portuguesa 1.21-1.26.
-> **Peso da disciplina:** 25 questões na prova objetiva.
-> **Prioridade:** altíssima.
-
 ## Leitura rápida
 
 - Semântica é o sentido; vocabulário é a precisão da palavra certa no contexto certo; ortografia/crase são regra fixa, decorável e cobrável de forma direta.

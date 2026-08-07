@@ -1,9 +1,5 @@
 # 003 - Modos discursivos, tipos textuais e textos literários
 
-> **Base do edital:** Conhecimentos Gerais; Língua Portuguesa 1.4-1.6.
-> **Peso da disciplina:** 25 questões na prova objetiva.
-> **Prioridade:** alta.
-
 ## Leitura rápida
 
 - Tipo textual é a forma que o texto assume para cumprir uma função: narrar, descrever, expor, argumentar ou instruir (injuntivo).

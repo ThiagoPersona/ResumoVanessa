@@ -1,9 +1,5 @@
 # 001 - Interpretação e compreensão de texto
 
-> **Base do edital:** Conhecimentos Gerais; Língua Portuguesa 1.1.
-> **Peso da disciplina:** 25 questões na prova objetiva (a maior de todo o edital).
-> **Prioridade:** altíssima.
-
 ## Leitura rápida
 
 - Compreender é localizar o que o texto diz; interpretar é chegar a um sentido que o texto autoriza, mesmo sem estar escrito literalmente. A FGV cobra as duas coisas, quase sempre misturadas na mesma questão.

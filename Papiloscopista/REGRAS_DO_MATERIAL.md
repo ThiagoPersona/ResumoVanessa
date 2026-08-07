@@ -10,6 +10,8 @@ Este material existe para uma coisa: aprovação na banca FGV. O texto deve ser 
 
 **Ensinar o assunto inteiro vem antes de mapear pegadinha.** O capítulo precisa cobrir o conteúdo completo do item do edital como um professor ensinaria do zero — todos os subtópicos, todas as classificações, com definição e exemplo — e só depois empilhar a camada de "como a FGV cobra isso". Não é aceitável escrever um capítulo derivado apenas dos pontos que apareceram em questão real conferida: isso ensina a decorar gabarito de três questões, não a dominar o tema. Questão real é evidência e prática, não o limite do que deve ser ensinado.
 
+**O conteúdo teórico deve valer por si, além da FGV e do PCPR.** Disciplinas amplas e universais (Português, RLM, conceitos gerais de Biologia/Física/Química/Ciências Forenses) devem ser explicadas de um jeito que sirva a qualquer concurso ou a qualquer leitor querendo aprender o assunto — a FGV entra como camada de "como essa banca cobra isso", não como moldura da explicação. Isso não vale igual para conteúdo que só existe no contexto do cargo (legislação estadual do Paraná, normas institucionais da PCPR): aí a referência ao edital é parte do próprio conteúdo. Por isso: não abrir capítulo com caixa de metadados do edital (base/peso/prioridade) — ver `TEMPLATE_TEMA.md`.
+
 ## Hierarquia de fontes
 
 1. **Prova oficial FGV do próprio cargo (Papiloscopista) com gabarito conferido.** Prioridade máxima — mesmo cargo, mesma banca.

@@ -1,9 +1,5 @@
 # 002 - Organização textual, coesão e coerência
 
-> **Base do edital:** Conhecimentos Gerais; Língua Portuguesa 1.2-1.3.
-> **Peso da disciplina:** 25 questões na prova objetiva.
-> **Prioridade:** altíssima.
-
 ## Leitura rápida
 
 - Coesão é a costura visível do texto: pronomes, conectores, repetição controlada, elipse — os "fios" que ligam uma frase à outra.
