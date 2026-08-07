@@ -1,11 +1,4 @@
-- [Leitura Oficial](LEITURA_OFICIAL.md)
-- [Mapa de Questões](MAPA_DE_QUESTOES.md)
-- [Fontes de Questões](FONTES_DE_QUESTOES.md)
-- [Validação por Provas](VALIDACAO_POR_PROVAS.md)
-- [Lacunas e Reforços](LACUNAS_E_REFORCOS.md)
 - [Provas](PROVAS.md)
-- [Intensivão](INTENSIVAO.md)
-- [Regras](REGRAS_DO_MATERIAL.md)
 
 - **Língua Portuguesa**
   - [001 - Interpretação e compreensão de texto](temas/portugues/001_interpretacao-compreensao-texto.md)

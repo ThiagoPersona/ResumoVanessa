@@ -1,155 +1,144 @@
 # 002 - Organização textual, coesão e coerência
 
-> **Base do edital:** Conhecimentos Gerais; Língua Portuguesa 1.2-1.3.  
-> **Peso da disciplina:** 25 questões na prova objetiva.  
+> **Base do edital:** Conhecimentos Gerais; Língua Portuguesa 1.2-1.3.
+> **Peso da disciplina:** 25 questões na prova objetiva.
 > **Prioridade:** altíssima.
-
-## Por que cai
-
-- **Frequência no edital:** a disciplina Português soma 25 questões; este capítulo concentra Língua Portuguesa 1.2-1.3.
-- **Como a FGV costuma cobrar:** A FGV costuma cobrar língua portuguesa de modo interpretativo: troca uma palavra, muda o referente, desloca pontuação ou pede o efeito de sentido no texto.
-- **O que mais confunde candidatos:** confundir compreensão literal com inferência; decorar regra sem voltar ao trecho; aceitar reescrita gramaticalmente correta, mas semanticamente diferente.
-- **Particularidade para Papiloscopista:** Para Papiloscopista, português vale muito e funciona como disciplina de estabilidade: cada acerto aqui diminui a pressão sobre blocos técnicos mais estreitos.
 
 ## Leitura rápida
 
-- **Organização estrutural dos textos.** Observe tese, argumento, exemplo, explicação, contraste, retomada, antecipação e conclusão. Em texto narrativo, procure sequência de acontecimentos; em argumentativo, tese e justificativas.
-- **Marcas de textualidade: coesão, coerência e intertextualidade.** Domine pronomes, elipses, sinônimos, hiperônimos, conectores, tempos verbais, paralelismo e relações de causa, oposição, condição, concessão e conclusão.
-- **Prioridade FGV:** Mapeie referentes: este, esse, aquele, ele, isso, tal, referido e sinônimos retomadores.
-- **Prioridade FGV:** Classifique conectores por valor: adição, oposição, concessão, causa, consequência, finalidade, condição e conclusão.
-- **Prioridade FGV:** Coerência depende da compatibilidade entre partes, não só da presença de conectivo.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+- Coesão é a costura visível do texto: pronomes, conectores, repetição controlada, elipse — os "fios" que ligam uma frase à outra.
+- Coerência é a lógica invisível: mesmo sem erro gramatical, um texto pode ser incoerente se as ideias não se sustentam entre si.
+- A FGV testa isso principalmente de duas formas: pedindo a reescritura que preserva sentido, e pedindo a melhor forma de organizar um mesmo período (ordem direta, clareza, concisão).
+- A cilada mais comum: a alternativa "reescrita" está gramaticalmente correta, mas muda o sentido, a ênfase ou o alcance da frase original.
 
-## Conteúdo essencial
+## Por que cai
 
-### Visão de estudo para este tema
+Organização textual, coesão e coerência é o item do edital que mais se conecta com reescritura e clareza — habilidades que a FGV testa pedindo para o candidato comparar frases quase idênticas e escolher a que preserva sentido, ou a que está melhor construída.
 
-Português da FGV deve ser estudado de dentro para fora do texto. A banca raramente entrega uma pergunta puramente decorativa; mesmo quando cobra classe gramatical, pontuação, crase ou sintaxe, o ponto decisivo costuma ser o efeito produzido no trecho. Por isso, cada regra precisa ser conectada ao sentido, ao referente, ao registro e à intenção comunicativa.
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q7: reescritura eliminando um advérbio ("não") mantendo o sentido original. |
+| FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q3: escolha do período de melhor redação entre cinco reescritas do mesmo conteúdo (correção, clareza, concisão, elegância). |
 
-A leitura produtiva começa pelo comando da questão. Se o comando pede inferência, não basta localizar frase literal. Se pede reescritura, a alternativa precisa manter sentido, correção e relação lógica. Se pede pontuação, o candidato deve perguntar que termo está sendo isolado, deslocado, enumerado ou explicado.
+O padrão nas duas questões reais localizadas é o mesmo: a banca dá **várias versões quase idênticas** de uma ideia e pede a única que preserva sentido (ou a mais bem construída). Isso não se resolve por "achismo de estilo" — exige método.
 
-Para este concurso, a disciplina pesa muito: 25 questões. A preparação deve buscar estabilidade, não apenas decorar listas. O melhor treino é comparar alternativas parecidas e justificar por que uma muda o sentido, generaliza, restringe, troca causa por consequência ou quebra norma culta.
+## Conteúdo completo orientado ao edital
 
-**Aplicação ao cargo:** Na rotina policial, relatórios, oitivas, comunicações internas e registros precisam ser claros, precisos e sem ambiguidade indevida. A prova usa essa mesma exigência: ler com precisão e escrever mentalmente com controle de sentido.
+### Coesão: os mecanismos que ligam as partes do texto
 
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
+Coesão é a rede de elementos linguísticos que amarra uma frase à outra. Os principais mecanismos, na forma como a FGV costuma testar:
 
-### O que mais merece atenção
+- **Coesão referencial**: pronomes, elipses e expressões que retomam (anáfora) ou anunciam (catáfora) um termo já citado ou por vir. Errar aqui é perder o antecedente correto do pronome.
+- **Coesão sequencial**: conectores que ligam orações e parágrafos, indicando adição, oposição, causa, conclusão, tempo. Trocar um conectivo por outro de valor lógico diferente quebra a coesão sem quebrar a gramática — e é exatamente esse tipo de erro que a banca gosta de esconder em alternativa de reescritura.
+- **Elipse controlada**: omitir um termo que já ficou claro pelo contexto, sem gerar ambiguidade. Um problema comum: quando a elipse deixa dúvida sobre a que termo ela se refere.
 
-- interpretação literal e inferencial
-- reescritura com preservação de sentido
-- coesão referencial e conectores
-- pontuação com efeito sintático-semântico
-- classes de palavras em contexto
-- semântica, ambiguidade, ortografia e crase
+### Coerência: a lógica que sustenta o texto, mesmo sem erro gramatical
 
-### Conteúdo completo orientado ao edital
+Um texto pode estar gramaticalmente perfeito e mesmo assim ser incoerente, quando:
 
-### 1. Organização estrutural dos textos.
+- As ideias se contradizem entre si.
+- Uma conclusão não decorre das premissas apresentadas.
+- O texto muda de tese no meio do caminho sem sinalizar a mudança.
 
-**O que significa:** Organização textual é a forma como introdução, desenvolvimento, conclusão, progressão temática, parágrafos e encadeamento de ideias sustentam o sentido global.
+A FGV costuma testar coerência via **reescritura**: apresenta a frase original e cinco (ou quatro) versões reescritas, pedindo a que preserva exatamente o mesmo sentido, ou a que está mais bem construída (clareza + concisão + correção).
 
-**Como estudar para a prova:** Observe tese, argumento, exemplo, explicação, contraste, retomada, antecipação e conclusão. Em texto narrativo, procure sequência de acontecimentos; em argumentativo, tese e justificativas.
+### Reescritura preservando sentido: o método de teste
 
-**Como a FGV pode cobrar:** A cobrança aparece em perguntas sobre função de parágrafo, ordem de ideias, relação entre segmentos e reescritura que preserva ou rompe a progressão.
+Este é o formato mais evidenciado nas fontes reais localizadas para este tema. O erro do candidato geralmente é comparar as alternativas "por impressão geral", em vez de testar mecanicamente cada uma. O método correto:
 
-**Cuidado de prova:** Não confunda assunto com tese: assunto é o tema geral; tese é a posição defendida ou ideia central sustentada.
+1. **Isole a relação lógica da frase original** (afirmação, negação, causa, restrição, comparação).
+2. **Para cada alternativa reescrita, refaça a mesma pergunta**: essa versão afirma exatamente a mesma coisa, com a mesma intensidade e o mesmo alcance?
+3. **Desconfie de advérbios de frequência e intensidade** ("sempre", "nunca", "raramente", "quase") — trocar um por outro parecido muda o sentido, mesmo mantendo a gramática correta.
+4. **Desconfie de causa reescrita como consequência**, ou de uma ideia sendo substituída por outra próxima, mas não idêntica.
 
-### 2. Marcas de textualidade: coesão, coerência e intertextualidade.
+### Melhor redação: correção, clareza, concisão e elegância
 
-**O que significa:** Coesão é a ligação linguística entre partes do texto; coerência é a lógica de sentido. Intertextualidade ocorre quando o texto dialoga com outro texto, gênero, discurso ou referência cultural.
+Quando a questão pede a "melhor forma de redigir" (não apenas a forma que preserva sentido, mas a mais bem escrita), os critérios cobrados são:
 
-**Como estudar para a prova:** Domine pronomes, elipses, sinônimos, hiperônimos, conectores, tempos verbais, paralelismo e relações de causa, oposição, condição, concessão e conclusão.
-
-**Como a FGV pode cobrar:** A FGV troca conectores por outros de valor diferente ou pede o referente de termo destacado. Também explora incoerência criada por substituição aparentemente elegante.
-
-**Cuidado de prova:** Conector bonito não basta; se muda a relação lógica, a reescritura está errada.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Critério | O que observar |
 |---|---|
-| Mapeie referentes: este, esse, aquele, ele, isso, tal, referido e sinônimos retomadores. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Classifique conectores por valor: adição, oposição, concessão, causa, consequência, finalidade, condição e conclusão. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Coerência depende da compatibilidade entre partes, não só da presença de conectivo. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Correção | Concordância, regência e pontuação de acordo com a norma culta. |
+| Clareza | Ordem direta (sujeito, verbo, complementos, adjuntos), sem ambiguidade. |
+| Concisão | Sem redundância nem palavras desnecessárias. |
+| Elegância | Fluência natural da leitura, sem inversões forçadas nem deslocamentos estranhos de advérbio. |
 
-### Diferenças que a banca costuma trocar
+A ordem direta (sujeito → verbo → complementos → adjuntos ao final) costuma ser a estrutura premiada pela FGV quando o comando pede "a melhor redação", especialmente quando as alternativas comparadas só mudam a posição das mesmas palavras.
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Organização estrutural dos textos. | Não confunda assunto com tese: assunto é o tema geral; tese é a posição defendida ou ideia central sustentada. | A cobrança aparece em perguntas sobre função de parágrafo, ordem de ideias, relação entre segmentos e reescritura que preserva ou rompe a progressão. |
-| Marcas de textualidade: coesão, coerência e intertextualidade. | Conector bonito não basta; se muda a relação lógica, a reescritura está errada. | A FGV troca conectores por outros de valor diferente ou pede o referente de termo destacado. Também explora incoerência criada por substituição aparentemente elegante. |
+| Testar cada alternativa de reescritura contra a relação lógica original, não pela impressão geral | Erro mais evidenciado na questão real da SEAD/AP (Q7) | Reescreva a frase original como fórmula lógica simples antes de comparar as alternativas |
+| Reconhecer a ordem direta como referência de clareza quando o comando pede "melhor redação" | Erro evidenciado na questão real da PCMG (Q3) | Para cada alternativa, marque se é ordem direta (sujeito-verbo-complementos-adjuntos) ou inversão |
+| Desconfiar de advérbios de frequência/intensidade trocados entre alternativas | Padrão recorrente em reescritura FGV | Sublinhe mentalmente "sempre/nunca/raramente/quase" em cada alternativa e confira se batem com o original |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Reescritura que preserva sentido | Reescritura gramaticalmente correta, mas com sentido alterado | Alternativa muda causa por consequência, ou intensifica/restringe uma afirmação | Teste a relação lógica da frase, não só a gramática |
+| Ordem direta (clara) | Ordem inversa (literária, mas menos direta) | Ambas podem estar gramaticalmente certas; a banca prefere a direta quando pede "melhor redação" | Marque a posição de sujeito, verbo e adjuntos antes de escolher |
+| Elipse que não gera ambiguidade | Elipse que deixa dúvida sobre o antecedente | Alternativa omite um termo que já não estava claro o suficiente no contexto | Reconstrua mentalmente o termo omitido e veja se só há uma leitura possível |
 
-### Roteiro de estudo de alta retenção
+## Como caiu na prova: questões comentadas
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+**Fonte: FGV, SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 7 (gabarito oficial: E)**
 
-### Lacunas honestas
+> Em todas as opções abaixo, as frases foram reescritas de modo a, mantendo-se o sentido, eliminar o advérbio "não". Assinale a frase em que isso foi feito de modo adequado.
+>
+> (A) Não me lembro do que ele morreu. Só me lembro que não era nada sério / que eu desconhecia a doença.
+> (B) O maior delito que você comete é o suicídio, porque é o único que não permite arrependimento / evita o pecado.
+> (C) Os homens não seguem aqueles que estão em dúvida / se orientam por aqueles que estão seguros.
+> (D) Nunca superestime a decência humana / Sempre subestime a decência humana.
+> (E) A mulher fala sempre de sua idade, mas não a diz nunca / mas sempre a esconde.
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
+1. **Descarte A e B**: as versões sem "não" introduzem uma ideia nova, não uma reformulação da mesma ideia ("desconhecia a doença" não é o mesmo que "não era nada sério"; "evita o pecado" não é o mesmo que "não permite arrependimento").
+2. **Descarte D**: "nunca superestime" e "sempre subestime" não são equivalentes — existe uma faixa intermediária (estimar corretamente) que a primeira frase permite e a segunda exclui.
+3. **Compare C e E com atenção**: as duas parecem plausíveis à primeira vista.
+4. **Teste a precisão da troca de quantificador**: em E, "nunca... diz" vira "sempre... esconde" — "nunca" e "sempre" são opostos lógicos exatos aplicados à mesma ação (dizer/esconder são ações opostas, então trocar os quantificadores opostos preserva o sentido com precisão). Em C, "em dúvida" e "seguros" são antônimos aproximados, mas menos precisos como par lógico — há mais margem para uma zona intermediária entre dúvida plena e certeza plena.
+5. **E é a reescritura mais precisa e sem perda de sentido**, e é o gabarito oficial.
 
-## Tabelas e esquemas
+**Fonte: FGV, PCMG Perito Criminal Área I, Tipo 1, 2024, questão 3 (gabarito oficial: B)**
 
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Organização estrutural dos textos. | Observe tese, argumento, exemplo, explicação, contraste, retomada, antecipação e conclusão. Em texto narrativo, procure sequência de acontecimentos; em argumentativo, tese e justificativas. | Não confunda assunto com tese: assunto é o tema geral; tese é a posição defendida ou ideia central sustentada. |
-| Marcas de textualidade: coesão, coerência e intertextualidade. | Domine pronomes, elipses, sinônimos, hiperônimos, conectores, tempos verbais, paralelismo e relações de causa, oposição, condição, concessão e conclusão. | Conector bonito não basta; se muda a relação lógica, a reescritura está errada. |
+> As opções a seguir apresentam cinco formas diferentes de redigir o mesmo período. Assinale a opção em que a forma indicada corresponde ao período de melhor redação, considerando correção, clareza, concisão e elegância.
+>
+> (A) Sem a companhia dos tolos, ficaria sempre muito desajeitado um homem de espírito.
+> (B) Um homem de espírito ficaria sempre muito desajeitado sem a companhia dos tolos.
+> (C) Sem a companhia dos tolos um homem de espírito ficaria sempre muito desajeitado.
+> (D) Um homem de espírito, sem a companhia dos tolos, ficaria muito desajeitado sempre.
+> (E) Ficaria sempre muito desajeitado, um homem de espírito, sem a companhia dos tolos.
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Mapeie referentes: este, esse, aquele, ele, isso, tal, referido e sinônimos retomadores. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Classifique conectores por valor: adição, oposição, concessão, causa, consequência, finalidade, condição e conclusão. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Coerência depende da compatibilidade entre partes, não só da presença de conectivo. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+1. **Identifique os elementos**: sujeito ("um homem de espírito"), verbo + predicativo ("ficaria sempre muito desajeitado") e adjunto adverbial ("sem a companhia dos tolos").
+2. **Marque a ordem de cada alternativa**: A e E colocam o adjunto ou o verbo antes do sujeito (ordem inversa); C fronteia o adjunto sem vírgula; D desloca o advérbio "sempre" para depois do predicativo, soando estranho.
+3. **B segue a ordem direta completa**: sujeito → verbo com advérbio e predicativo → adjunto adverbial ao final. É a construção mais clara, concisa e natural das cinco.
+4. **B é o gabarito** por ser a única com ordem direta integral, sem deslocamentos que exijam vírgula ou soem forçados.
 
 ## Pegadinhas da banca
 
-- Alternativa com sinônimo aproximado que muda intensidade ou ponto de vista.
-- Troca de causa por consequência, finalidade por resultado ou fato por opinião.
-- Pontuação que mantém a gramática, mas altera o sentido.
-- Uso de 'sempre', 'nunca', 'apenas' e 'necessariamente' sem apoio textual.
-- Prioridade de atenção: Mapeie referentes: este, esse, aquele, ele, isso, tal, referido e sinônimos retomadores.
-- Prioridade de atenção: Classifique conectores por valor: adição, oposição, concessão, causa, consequência, finalidade, condição e conclusão.
-- Prioridade de atenção: Coerência depende da compatibilidade entre partes, não só da presença de conectivo.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Reescritura que troca causa por consequência mantendo a gramática impecável.
+- Troca de quantificador por um "quase sinônimo" que não é logicamente equivalente (ex.: "em dúvida/seguro" no lugar de "sempre/nunca").
+- Alternativa de "melhor redação" que é gramaticalmente aceitável, mas desloca advérbio ou verbo de forma menos direta.
+- Elipse que parece natural, mas deixa dúvida sobre o termo retomado.
 
 ## Como resolver questões
 
-1. Leia primeiro o comando e marque se a banca quer ideia correta, incorreta, equivalente ou efeito de sentido.
-2. Volte ao trecho exato antes de decidir; a FGV gosta de alternativas plausíveis fora do recorte pedido.
-3. Em reescritura, teste sentido, regência, concordância, pontuação e manutenção do referente.
-4. Quando houver termo absoluto, procure no texto uma exceção, restrição ou modalizador.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Isole a relação lógica exata da frase original (afirmação, negação, causa, restrição).
+2. Teste cada alternativa reescrita contra essa relação, não contra a "sensação" de sentido parecido.
+3. Em questão de "melhor redação", marque a ordem sintática de cada alternativa (direta ou invertida) antes de julgar estilo.
+4. Prefira sempre a alternativa que exige menos esforço de interpretação e não introduz ambiguidade nova.
+
+## Lacunas honestas
+
+- O banco real deste tema tem apenas duas questões, uma de cada prova (SEAD/AP e PCMG). Ainda não há questão real localizada especificamente sobre coesão referencial (pronome retomando termo específico) neste item — o exemplo de pronome está hoje na questão autoral abaixo.
+- Questões sobre conectores lógicos (substituição de conjunção mudando o valor semântico da oração) ainda não foram localizadas em prova real para este tema; é uma lacuna a preencher com PCRJ, PCRN ou PCPI em sessão futura.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Língua Portuguesa 1.2-1.3.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei diferenciar coesão (mecanismo linguístico) de coerência (lógica interna).
+- [ ] Sei testar reescritura pela relação lógica, não pela impressão de sentido parecido.
+- [ ] Sei reconhecer ordem direta como critério de clareza em questão de "melhor redação".
+- [ ] Resolvi as duas questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
 
@@ -157,13 +146,19 @@ Para este concurso, a disciplina pesa muito: 25 questões. A preparação deve b
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
+- FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questão 7. Gabarito definitivo publicado pela FGV.
+- FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questão 3. Gabarito definitivo publicado pela FGV.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+
+**Material local**
+
 - `Curso de Portugues/Manual de Lingua Portuguesa.pdf`
 - `Curso de Portugues/Uso da virgula.pdf`
-- `Curso de Portugues/Crase.pdf`
-- `Materiais QB/Portugues/`
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.

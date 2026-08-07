@@ -18,7 +18,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 
 | Disciplina | Questões no edital | Capítulos | Questões convertidas | Base |
 |---|---:|---:|---:|---|
-| Português | 25 | 6 | 6 | Conhecimentos Gerais, item 1 |
+| Português | 25 | 6 | 35 | Conhecimentos Gerais, item 1 |
 | RLM | 5 | 4 | 4 | Conhecimentos Gerais, item 2 |
 | Realidade PR | 5 | 2 | 2 | Conhecimentos Gerais, item 3 |
 | Tecnologia | 15 | 6 | 16 | Conhecimentos Específicos, item 1 |
@@ -55,12 +55,12 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 
 | ID | Disciplina | Tema | Edital | Prioridade | Questões convertidas |
 |---:|---|---|---|---|---:|
-| 001 | Português | Interpretação e compreensão de texto | Língua Portuguesa 1.1 | altíssima | 1 |
-| 002 | Português | Organização textual, coesão e coerência | Língua Portuguesa 1.2-1.3 | altíssima | 1 |
-| 003 | Português | Modos discursivos, tipos textuais e textos literários | Língua Portuguesa 1.4-1.6 | alta | 1 |
-| 004 | Português | Frase, sintaxe, discurso e pontuação | Língua Portuguesa 1.7-1.17 | altíssima | 1 |
-| 005 | Português | Morfologia e classes de palavras | Língua Portuguesa 1.18-1.20 | alta | 1 |
-| 006 | Português | Semântica, vocabulário, ortografia, acentuação e crase | Língua Portuguesa 1.21-1.26 | altíssima | 1 |
+| 001 | Português | Interpretação e compreensão de texto | Língua Portuguesa 1.1 | altíssima | 7 (6 oficiais FGV) |
+| 002 | Português | Organização textual, coesão e coerência | Língua Portuguesa 1.2-1.3 | altíssima | 3 (2 oficiais FGV) |
+| 003 | Português | Modos discursivos, tipos textuais e textos literários | Língua Portuguesa 1.4-1.6 | alta | 5 (4 oficiais FGV) |
+| 004 | Português | Frase, sintaxe, discurso e pontuação | Língua Portuguesa 1.7-1.17 | altíssima | 10 (9 oficiais FGV) |
+| 005 | Português | Morfologia e classes de palavras | Língua Portuguesa 1.18-1.20 | alta | 4 (3 oficiais FGV) |
+| 006 | Português | Semântica, vocabulário, ortografia, acentuação e crase | Língua Portuguesa 1.21-1.26 | altíssima | 6 (5 oficiais FGV) |
 | 007 | RLM | Lógica proposicional e conjuntos | RLM 2.1-2.2 | alta | 1 |
 | 008 | RLM | Números, porcentagem, juros, proporcionalidade e medidas | RLM 2.3-2.5 | alta | 1 |
 | 009 | RLM | Geometria, plano cartesiano, gráficos e tabelas | RLM 2.8, 2.11-2.12 | média | 1 |

@@ -4,12 +4,12 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 
 | Disciplina | Tema | Edital | Total | Status | Abrir |
 |---|---|---|---:|---|---|
-| Português | Interpretação e compreensão de texto | Língua Portuguesa 1.1 | 1 | 1 questão FGV-style comentada | [Abrir](provas/portugues/001_interpretacao-compreensao-texto.md) |
-| Português | Organização textual, coesão e coerência | Língua Portuguesa 1.2-1.3 | 1 | 1 questão FGV-style comentada | [Abrir](provas/portugues/002_organizacao-textual-coesao-coerencia.md) |
-| Português | Modos discursivos, tipos textuais e textos literários | Língua Portuguesa 1.4-1.6 | 1 | 1 questão FGV-style comentada | [Abrir](provas/portugues/003_modos-discursivos-tipos-textuais-literarios.md) |
-| Português | Frase, sintaxe, discurso e pontuação | Língua Portuguesa 1.7-1.17 | 1 | 1 questão FGV-style comentada | [Abrir](provas/portugues/004_frase-sintaxe-discurso-pontuacao.md) |
-| Português | Morfologia e classes de palavras | Língua Portuguesa 1.18-1.20 | 1 | 1 questão FGV-style comentada | [Abrir](provas/portugues/005_morfologia-classes-palavras.md) |
-| Português | Semântica, vocabulário, ortografia, acentuação e crase | Língua Portuguesa 1.21-1.26 | 1 | 1 questão FGV-style comentada | [Abrir](provas/portugues/006_semantica-vocabulario-ortografia-crase.md) |
+| Português | Interpretação e compreensão de texto | Língua Portuguesa 1.1 | 7 | 6 questões oficiais FGV (fonte e gabarito conferidos) + 1 questão autoral | [Abrir](provas/portugues/001_interpretacao-compreensao-texto.md) |
+| Português | Organização textual, coesão e coerência | Língua Portuguesa 1.2-1.3 | 3 | 2 questões oficiais FGV (fonte e gabarito conferidos) + 1 questão autoral | [Abrir](provas/portugues/002_organizacao-textual-coesao-coerencia.md) |
+| Português | Modos discursivos, tipos textuais e textos literários | Língua Portuguesa 1.4-1.6 | 5 | 4 questões oficiais FGV (fonte e gabarito conferidos) + 1 questão autoral | [Abrir](provas/portugues/003_modos-discursivos-tipos-textuais-literarios.md) |
+| Português | Frase, sintaxe, discurso e pontuação | Língua Portuguesa 1.7-1.17 | 10 | 9 questões oficiais FGV (fonte e gabarito conferidos) + 1 questão autoral | [Abrir](provas/portugues/004_frase-sintaxe-discurso-pontuacao.md) |
+| Português | Morfologia e classes de palavras | Língua Portuguesa 1.18-1.20 | 4 | 3 questões oficiais FGV (fonte e gabarito conferidos) + 1 questão autoral | [Abrir](provas/portugues/005_morfologia-classes-palavras.md) |
+| Português | Semântica, vocabulário, ortografia, acentuação e crase | Língua Portuguesa 1.21-1.26 | 6 | 5 questões oficiais FGV (fonte e gabarito conferidos) + 1 questão autoral | [Abrir](provas/portugues/006_semantica-vocabulario-ortografia-crase.md) |
 | RLM | Lógica proposicional e conjuntos | RLM 2.1-2.2 | 1 | 1 questão FGV-style comentada | [Abrir](provas/rlm/001_logica-proposicional-conjuntos.md) |
 | RLM | Números, porcentagem, juros, proporcionalidade e medidas | RLM 2.3-2.5 | 1 | 1 questão FGV-style comentada | [Abrir](provas/rlm/002_numeros-porcentagem-juros-proporcionalidade-medidas.md) |
 | RLM | Geometria, plano cartesiano, gráficos e tabelas | RLM 2.8, 2.11-2.12 | 1 | 1 questão FGV-style comentada | [Abrir](provas/rlm/003_geometria-plano-cartesiano-graficos-tabelas.md) |

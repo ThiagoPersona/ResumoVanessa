@@ -1,168 +1,176 @@
 # 003 - Modos discursivos, tipos textuais e textos literários
 
-> **Base do edital:** Conhecimentos Gerais; Língua Portuguesa 1.4-1.6.  
-> **Peso da disciplina:** 25 questões na prova objetiva.  
+> **Base do edital:** Conhecimentos Gerais; Língua Portuguesa 1.4-1.6.
+> **Peso da disciplina:** 25 questões na prova objetiva.
 > **Prioridade:** alta.
-
-## Por que cai
-
-- **Frequência no edital:** a disciplina Português soma 25 questões; este capítulo concentra Língua Portuguesa 1.4-1.6.
-- **Como a FGV costuma cobrar:** A FGV costuma cobrar língua portuguesa de modo interpretativo: troca uma palavra, muda o referente, desloca pontuação ou pede o efeito de sentido no texto.
-- **O que mais confunde candidatos:** confundir compreensão literal com inferência; decorar regra sem voltar ao trecho; aceitar reescrita gramaticalmente correta, mas semanticamente diferente.
-- **Particularidade para Papiloscopista:** Para Papiloscopista, português vale muito e funciona como disciplina de estabilidade: cada acerto aqui diminui a pressão sobre blocos técnicos mais estreitos.
 
 ## Leitura rápida
 
-- **Descrição, narração, exposição, argumentação e injunção.** Marque verbos, temporalidade, presença de tese, instruções, enumerações, exemplos e marcas de subjetividade. Um texto pode misturar modos, mas um costuma predominar.
-- **Tipos informativo, publicitário, propagandístico, normativo, didático e divinatório.** Compare texto informativo, publicitário, propagandístico, normativo, didático e divinatório pela finalidade, linguagem, público e grau de objetividade.
-- **Textos literários e não literários.** Revise denotação, conotação, figuras de linguagem, narrador, eu lírico, subjetividade, ambiguidade intencional e função poética.
-- **Prioridade FGV:** Descrição caracteriza; narração encadeia eventos; exposição explica; argumentação defende; injunção orienta.
-- **Prioridade FGV:** Um gênero pode combinar modos, então procure predominância e finalidade.
-- **Prioridade FGV:** Texto normativo e didático podem parecer próximos, mas o normativo impõe conduta.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+- Tipo textual é a forma que o texto assume para cumprir uma função: narrar, descrever, expor, argumentar ou instruir (injuntivo).
+- A FGV cobra menos "decoreba de rótulo" e mais reconhecimento pelo comportamento do texto: como ele estrutura as ideias, se pede ação, se defende tese, se conta uma sequência de eventos.
+- Um mesmo texto curto pode misturar tipos; a banca costuma pedir o tipo predominante ou uma característica isolada (simultaneidade x sequência, tese x norma).
+- A cilada mais comum: confundir uma sequência de causa/efeito com narrativa de ações, ou confundir ordem/norma (injuntivo) com argumento (que precisa de justificativa).
 
-## Conteúdo essencial
+## Por que cai
 
-### Visão de estudo para este tema
+Este bloco do edital reúne tipologia textual (narração, descrição, exposição, argumentação, injunção) e reconhecimento de gênero/registro. Nas provas reais localizadas, a FGV testa isso por meio de textos curtos onde o candidato precisa identificar o mecanismo interno — não apenas dar nome ao tipo.
 
-Português da FGV deve ser estudado de dentro para fora do texto. A banca raramente entrega uma pergunta puramente decorativa; mesmo quando cobra classe gramatical, pontuação, crase ou sintaxe, o ponto decisivo costuma ser o efeito produzido no trecho. Por isso, cada regra precisa ser conectada ao sentido, ao referente, ao registro e à intenção comunicativa.
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q5: reconhecer sequência de ações típica de narrativa. Q6: esquema de cinco partes da narrativa aplicado a um trecho real. |
+| FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q2: identificar a única frase de tipo argumentativo entre frases de tipo injuntivo (ordem/conselho). |
+| FGV PCAM Investigador de Polícia, Tipo 1 | 2021 | Q8: reconhecer simultaneidade de ações (marcada por gerúndio) versus sequência. |
 
-A leitura produtiva começa pelo comando da questão. Se o comando pede inferência, não basta localizar frase literal. Se pede reescritura, a alternativa precisa manter sentido, correção e relação lógica. Se pede pontuação, o candidato deve perguntar que termo está sendo isolado, deslocado, enumerado ou explicado.
+## Conteúdo completo orientado ao edital
 
-Para este concurso, a disciplina pesa muito: 25 questões. A preparação deve buscar estabilidade, não apenas decorar listas. O melhor treino é comparar alternativas parecidas e justificar por que uma muda o sentido, generaliza, restringe, troca causa por consequência ou quebra norma culta.
+### Os cinco modos discursivos e como reconhecer cada um
 
-**Aplicação ao cargo:** Na rotina policial, relatórios, oitivas, comunicações internas e registros precisam ser claros, precisos e sem ambiguidade indevida. A prova usa essa mesma exigência: ler com precisão e escrever mentalmente com controle de sentido.
-
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
-
-### O que mais merece atenção
-
-- interpretação literal e inferencial
-- reescritura com preservação de sentido
-- coesão referencial e conectores
-- pontuação com efeito sintático-semântico
-- classes de palavras em contexto
-- semântica, ambiguidade, ortografia e crase
-
-### Conteúdo completo orientado ao edital
-
-### 1. Descrição, narração, exposição, argumentação e injunção.
-
-**O que significa:** Modos discursivos são formas de organizar o discurso: narrar conta acontecimentos; descrever caracteriza; expor explica; argumentar defende tese; injungir orienta conduta.
-
-**Como estudar para a prova:** Marque verbos, temporalidade, presença de tese, instruções, enumerações, exemplos e marcas de subjetividade. Um texto pode misturar modos, mas um costuma predominar.
-
-**Como a FGV pode cobrar:** A banca pede finalidade comunicativa, predominância de modo e efeito de determinado trecho dentro do texto.
-
-**Cuidado de prova:** Não classifique por uma palavra isolada; classifique pelo funcionamento do trecho.
-
-### 2. Tipos informativo, publicitário, propagandístico, normativo, didático e divinatório.
-
-**O que significa:** Tipos textuais do edital correspondem a finalidades sociais: informar, persuadir, divulgar, normatizar, ensinar ou prever/antecipar algo.
-
-**Como estudar para a prova:** Compare texto informativo, publicitário, propagandístico, normativo, didático e divinatório pela finalidade, linguagem, público e grau de objetividade.
-
-**Como a FGV pode cobrar:** A pergunta costuma pedir características específicas, função de linguagem e adequação de registro.
-
-**Cuidado de prova:** Publicidade e propaganda não são sinônimos perfeitos: a publicidade vende produto/serviço; a propaganda busca adesão a ideia ou causa.
-
-### 3. Textos literários e não literários.
-
-**O que significa:** Texto literário explora linguagem estética, plurissignificação e recursos expressivos; texto não literário tende a finalidade informativa, instrucional, normativa ou argumentativa direta.
-
-**Como estudar para a prova:** Revise denotação, conotação, figuras de linguagem, narrador, eu lírico, subjetividade, ambiguidade intencional e função poética.
-
-**Como a FGV pode cobrar:** A banca cobra efeito expressivo, diferença entre sentido literal e figurado e função de recursos de linguagem.
-
-**Cuidado de prova:** Não confunda texto literário com texto difícil; o critério é a função estética e expressiva.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
-|---|---|
-| Descrição caracteriza; narração encadeia eventos; exposição explica; argumentação defende; injunção orienta. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Um gênero pode combinar modos, então procure predominância e finalidade. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Texto normativo e didático podem parecer próximos, mas o normativo impõe conduta. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-
-### Diferenças que a banca costuma trocar
-
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Modo | O que faz | Marca típica |
 |---|---|---|
-| Descrição, narração, exposição, argumentação e injunção. | Não classifique por uma palavra isolada; classifique pelo funcionamento do trecho. | A banca pede finalidade comunicativa, predominância de modo e efeito de determinado trecho dentro do texto. |
-| Tipos informativo, publicitário, propagandístico, normativo, didático e divinatório. | Publicidade e propaganda não são sinônimos perfeitos: a publicidade vende produto/serviço; a propaganda busca adesão a ideia ou causa. | A pergunta costuma pedir características específicas, função de linguagem e adequação de registro. |
-| Textos literários e não literários. | Não confunda texto literário com texto difícil; o critério é a função estética e expressiva. | A banca cobra efeito expressivo, diferença entre sentido literal e figurado e função de recursos de linguagem. |
+| Narração | Conta uma sequência de ações/eventos praticados por um agente, no tempo | Verbos de ação em sequência, conectivos temporais (depois, em seguida) |
+| Descrição | Apresenta características de um ser, lugar ou objeto | Verbos de estado, adjetivos, ausência de progressão temporal |
+| Exposição | Explica ou informa um conceito, sem defender posição | Verbos no presente atemporal, definição, dado objetivo |
+| Argumentação | Defende uma tese com justificativa/razão | Presença de tese + argumento (frequentemente com conectivo explicativo: porque, já que, pois) |
+| Injunção | Dá ordem, conselho ou instrução | Verbo no imperativo ou infinitivo com valor de comando, sem justificativa obrigatória |
 
-### Aplicação direta para Papiloscopista
+O erro mais recorrente é confundir **injunção com argumentação**: uma frase pode ter formato de conselho/ordem ("goste disso, não daquilo") sem necessariamente justificar por que — isso a mantém como injuntiva. Só vira argumentativa quando o texto acrescenta a razão (thesis + justificativa).
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+### Narrativa: sequência real de ações x causa/efeito disfarçada de sequência
 
-### Roteiro de estudo de alta retenção
+A FGV testa uma distinção fina aqui: nem toda sequência de dois verbos é uma "sequência de ações" no sentido narrativo. Compare:
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+- **"Assaltaram o banco e desapareceram"** — duas ações deliberadas do mesmo agente, uma após a outra: isso é sequência de ações, núcleo da narrativa.
+- **"Choveu muito e as estradas ficaram alagadas"** — um evento natural (causa) gerando um estado resultante (efeito): isso é causa/efeito, não sequência de ações de um agente.
 
-### Lacunas honestas
+O teste rápido: pergunte se há um **agente** praticando **ações deliberadas**, uma após a outra. Se um dos dois elementos for apenas um estado ou consequência física (sem agente decidindo agir), não é sequência narrativa de ações.
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
+### O esquema clássico de cinco partes da narrativa
 
-## Tabelas e esquemas
+A narrativa canônica (situação inicial, complicação, transformação/ação, resolução, situação final) é usada pela FGV para testar se o candidato reconhece a função de cada trecho de um texto narrativo:
 
-| Ponto do edital | O que revisar | Pegadinha provável |
+| Parte | Função | Cuidado de prova |
 |---|---|---|
-| Descrição, narração, exposição, argumentação e injunção. | Marque verbos, temporalidade, presença de tese, instruções, enumerações, exemplos e marcas de subjetividade. Um texto pode misturar modos, mas um costuma predominar. | Não classifique por uma palavra isolada; classifique pelo funcionamento do trecho. |
-| Tipos informativo, publicitário, propagandístico, normativo, didático e divinatório. | Compare texto informativo, publicitário, propagandístico, normativo, didático e divinatório pela finalidade, linguagem, público e grau de objetividade. | Publicidade e propaganda não são sinônimos perfeitos: a publicidade vende produto/serviço; a propaganda busca adesão a ideia ou causa. |
-| Textos literários e não literários. | Revise denotação, conotação, figuras de linguagem, narrador, eu lírico, subjetividade, ambiguidade intencional e função poética. | Não confunda texto literário com texto difícil; o critério é a função estética e expressiva. |
+| Estado inicial | Situa lugar, tempo e personagens | A banca cobra se o trecho citado realmente cobre **os três elementos** — se faltar um (por exemplo, o lugar só fica implícito, nunca dito), a alternativa que afirma cobertura total está errada |
+| Acontecimento perturbador | Rompe o estado inicial, dispara a história | Verbo que marca interrupção/susto/mudança de rumo |
+| Transformações | Sequência de ações/reações até o ápice | Costuma ser o trecho mais longo do texto |
+| Acontecimento equilibrador | Reencaminha para uma resolução | Nem sempre "restabelece" literalmente o estado inicial; pode apenas explicar/encerrar a tensão |
+| Estado final | Fecha a narrativa, feliz ou infeliz | Geralmente curto, reação ou sentimento do narrador/personagem |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Descrição caracteriza; narração encadeia eventos; exposição explica; argumentação defende; injunção orienta. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Um gênero pode combinar modos, então procure predominância e finalidade. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Texto normativo e didático podem parecer próximos, mas o normativo impõe conduta. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+### Argumentação: tese, justificativa e a diferença para injunção/norma
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+Um texto é argumentativo quando apresenta uma tese (posição) **e** desenvolve uma razão que a sustenta. Frases de comando ou conselho ("faça isso", "não faça aquilo") só são argumentativas se explicitarem o motivo. Sem justificativa, permanecem no campo da injunção (ordem, norma, conselho direto).
+
+### Reconhecer simultaneidade de ações
+
+O gerúndio é o principal marcador de ação simultânea em português ("Sorrindo, guardou as fotos" = sorria enquanto guardava). Cuidado: nem toda frase com dois verbos ligados por "e" ou vírgula é simultânea — se o segundo verbo só pode ocorrer depois de concluído o primeiro (entrar → sentar; levantar-se → dirigir-se à saída), é sequência, não simultaneidade, mesmo que um dos verbos esteja no gerúndio (esse uso incorreto de gerúndio para indicar posterioridade é o "gerundismo", tratado com mais detalhe no tema de morfologia).
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
+|---|---|---|
+| Diferenciar sequência de ações de causa/efeito | Evidenciado na questão real SEAD/AP Q5 | Pergunte: há um agente decidindo agir duas vezes, ou é consequência física/natural? |
+| Reconhecer cobertura incompleta de uma parte do esquema narrativo | Evidenciado na questão real SEAD/AP Q6 | Cheque, elemento por elemento (lugar, tempo, personagem), se o trecho citado realmente cobre tudo que a alternativa afirma |
+| Separar argumentação (tese + justificativa) de injunção (ordem sem justificativa) | Evidenciado na questão real PCMG Q2 | Pergunte se o texto diz **por que**, não apenas **o que fazer** |
+| Reconhecer simultaneidade real x sequência disfarçada de gerúndio | Evidenciado na questão real PCAM Q8 | Verifique se as duas ações podem fisicamente ocorrer ao mesmo tempo |
+
+## Diferenças que a banca costuma trocar
+
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Sequência de ações (narrativa) | Causa e efeito (evento natural/físico) | Ambas têm dois verbos ligados por "e"; a diferença é se há agente decidindo agir | Verifique se o sujeito pratica uma ação deliberada, ou apenas sofre/gera uma consequência |
+| Argumentação | Injunção (ordem/conselho) | Frase de comando pode "parecer" defender uma ideia sem realmente justificá-la | Exija a presença de uma razão explícita para classificar como argumentativa |
+| Simultaneidade | Sequência (posterioridade) | Gerúndio nem sempre indica ação simultânea; pode mascarar uma ação posterior | Teste se as duas ações podem ocorrer fisicamente ao mesmo tempo |
+| Estado inicial completo | Estado inicial parcial (falta um elemento) | A alternativa afirma que o trecho cobre lugar, tempo e personagem, mas um desses fica só implícito | Confira os três elementos individualmente, não a impressão geral do trecho |
+
+## Como caiu na prova: questões comentadas
+
+**Fonte: FGV, SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 5 (gabarito oficial: D)**
+
+> A narrativa traz uma sequência de ações ou acontecimentos; assinale a frase abaixo que mostra uma sequência de ações.
+>
+> (A) Choveu muito e as estradas ficaram alagadas.
+> (B) Com o tremor, prédios desabaram e as ruas ficaram com crateras.
+> (C) A dobradiça soltou da moldura e a porta caiu.
+> (D) Assaltaram o banco da cidade e desapareceram.
+> (E) Com o choque, a mesa desabou e a louça partiu.
+
+1. **Teste cada alternativa pela pergunta-chave**: há um agente decidindo agir duas vezes seguidas, ou é consequência física/natural de um evento?
+2. **Descarte A, B, C e E**: em todas, o primeiro elemento é um evento natural ou mecânico (chuva, tremor, dobradiça soltando, choque) e o segundo é uma consequência física — não há agente praticando ação deliberada.
+3. **D é a exceção**: "assaltaram" e "desapareceram" são duas ações deliberadas do mesmo agente implícito (eles assaltaram, depois desapareceram) — uma sequência real de ações no tempo.
+4. **D é o gabarito** por ser a única com agente e ações deliberadas em sequência.
+
+**Fonte: FGV, SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 6 (gabarito oficial: A)**
+
+> Observe o seguinte trecho narrativo: "No último verão, eu dormia com a janela aberta. Despertando, liguei o rádio da cabeceira para ouvir música nos primeiros minutos do dia. [...] Eu sorri sob os lençóis." As narrativas apresentam geralmente um esquema de cinco partes; tendo por base a narrativa acima, assinale a parte da narrativa que **não exemplifica totalmente** a parte indicada.
+>
+> (A) Estado inicial da narrativa, com a definição do lugar, do tempo e dos personagens: "No último verão, eu dormia com a janela aberta".
+> (B) Um acontecimento perturbador mexe com o estado inicial [...]
+> (C) Uma sequência de transformações modifica a situação do personagem [...]
+> (D) Um acontecimento equilibrador restabelece o estado inicial [...]
+> (E) Apresentação de um estado final, feliz ou infeliz: "Eu sorri sob os lençóis".
+
+1. **Leia o comando com atenção**: pede a parte que **não** cobre totalmente o que é afirmado — as outras quatro cobrem integralmente.
+2. **Confira A elemento por elemento**: a alternativa afirma que o trecho define lugar, tempo **e** personagens. O trecho citado dá o tempo ("no último verão") e o personagem (eu), mas o lugar fica apenas implícito (subentende-se um quarto, mas a palavra nunca aparece).
+3. **B, C, D e E cobrem exatamente o que descrevem**: acontecimento perturbador, sequência de transformações, acontecimento equilibrador e estado final — cada trecho citado cumpre integralmente sua função.
+4. **A é a resposta** porque afirma cobertura de três elementos (lugar, tempo, personagens), mas o trecho só garante dois de forma explícita.
+
+**Fonte: FGV, PCMG Perito Criminal Área I, Tipo 1, 2024, questão 2 (gabarito oficial: E)**
+
+> Assinale a opção que apresenta a frase que se insere entre os textos de tipo argumentativo.
+>
+> (A) Após a vitória, afie sua faca!
+> (B) Amigo, oculta a tua vida e propaga teu espírito.
+> (C) Goste de quem o aconselhe e não de quem o elogie.
+> (D) Não se deve imitar somente um, ainda que seja o mais sábio.
+> (E) O que busco, antes de mais nada, é a grandeza: o que é grande sempre é belo.
+
+1. **Classifique cada alternativa como injuntiva (ordem/conselho sem razão) ou argumentativa (tese + razão)**.
+2. **A, B, C e D são comandos ou normas**: dão instrução ou conselho, sem desenvolver o motivo daquela orientação.
+3. **E tem estrutura de tese + justificativa**: "busco a grandeza" é a posição defendida; "o que é grande sempre é belo" é a razão que sustenta essa busca, ligada por dois-pontos que introduz a justificativa.
+4. **E é o gabarito** por ser a única com argumento desenvolvido, não apenas ordem/conselho.
+
+**Fonte: FGV, PCAM Investigador de Polícia, Tipo 1, 2021, questão 8 (gabarito oficial: E)**
+
+> Assinale a opção que apresenta frases que mostram simultaneidade de ações.
+>
+> (A) João trancou a porta e dirigiu-se ao quarto.
+> (B) João entra em cena e profere a sua fala na peça.
+> (C) Enquanto João velejava, tudo já ocorrera.
+> (D) João olhou a paisagem e entristeceu-se.
+> (E) Sorrindo, João guardou as fotos na gaveta.
+
+1. **Teste se as duas ações podem ocorrer fisicamente ao mesmo tempo**.
+2. **A, B e D são sequências**: uma ação claramente termina antes da outra começar (trancar → dirigir-se; entrar → falar; olhar → entristecer-se).
+3. **C é uma armadilha de conectivo**: "enquanto" sugere simultaneidade, mas o verbo "já ocorrera" (mais-que-perfeito) indica que o outro evento já tinha terminado antes — é anterioridade, não simultaneidade real.
+4. **E é a única simultaneidade genuína**: sorrir e guardar as fotos ocorrem ao mesmo tempo, marcados pelo gerúndio em seu uso correto (circunstância concomitante).
 
 ## Pegadinhas da banca
 
-- Alternativa com sinônimo aproximado que muda intensidade ou ponto de vista.
-- Troca de causa por consequência, finalidade por resultado ou fato por opinião.
-- Pontuação que mantém a gramática, mas altera o sentido.
-- Uso de 'sempre', 'nunca', 'apenas' e 'necessariamente' sem apoio textual.
-- Prioridade de atenção: Descrição caracteriza; narração encadeia eventos; exposição explica; argumentação defende; injunção orienta.
-- Prioridade de atenção: Um gênero pode combinar modos, então procure predominância e finalidade.
-- Prioridade de atenção: Texto normativo e didático podem parecer próximos, mas o normativo impõe conduta.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Tratar causa/efeito físico ou natural como se fosse "sequência de ações" narrativa.
+- Afirmar que um trecho cobre todos os elementos de uma etapa narrativa (lugar, tempo, personagem) quando um deles só está implícito.
+- Confundir ordem/conselho (injuntivo) com argumento, quando falta a justificativa explícita.
+- Usar conectivo de simultaneidade ("enquanto") em frase cujo verbo (mais-que-perfeito) indica anterioridade, não simultaneidade real.
 
 ## Como resolver questões
 
-1. Leia primeiro o comando e marque se a banca quer ideia correta, incorreta, equivalente ou efeito de sentido.
-2. Volte ao trecho exato antes de decidir; a FGV gosta de alternativas plausíveis fora do recorte pedido.
-3. Em reescritura, teste sentido, regência, concordância, pontuação e manutenção do referente.
-4. Quando houver termo absoluto, procure no texto uma exceção, restrição ou modalizador.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Classifique o texto pelo comportamento (há agente agindo? há tese e razão? há ordem sem justificativa?), não pelo rótulo que "parece caber".
+2. Em questão de esquema narrativo, confira elemento por elemento o que a alternativa afirma, não a impressão geral do trecho.
+3. Em questão de tipo textual, procure a presença ou ausência de justificativa explícita para separar argumentação de injunção.
+4. Em questão de simultaneidade, teste se as duas ações cabem fisicamente no mesmo instante.
+
+## Lacunas honestas
+
+- Ainda não há questão real localizada sobre textos descritivos ou expositivos puros neste tema; os exemplos reais disponíveis cobrem narração, argumentação e injunção.
+- Textos literários propriamente ditos (poema, conto, crônica) ainda não apareceram nas provas reais localizadas para Papiloscopista/cargos semelhantes; se a prova PCPR 2026 cobrar esse formato, falta ainda fonte real conferida.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Língua Portuguesa 1.4-1.6.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei diferenciar sequência de ações (narrativa) de causa/efeito.
+- [ ] Sei checar cobertura completa de cada elemento numa etapa do esquema narrativo.
+- [ ] Sei separar argumentação de injunção pela presença de justificativa.
+- [ ] Sei reconhecer simultaneidade real x sequência disfarçada de conectivo ou gerúndio.
+- [ ] Resolvi as quatro questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
 
@@ -170,13 +178,19 @@ Para este concurso, a disciplina pesa muito: 25 questões. A preparação deve b
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
+- FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questões 5 e 6. Gabarito definitivo publicado pela FGV.
+- FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questão 2. Gabarito definitivo publicado pela FGV.
+- FGV. PCAM 2021 - Investigador de Polícia, 4ª Classe, Tipo 1. Caderno oficial, questão 8. Gabarito definitivo publicado pela FGV.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+
+**Material local**
+
 - `Curso de Portugues/Manual de Lingua Portuguesa.pdf`
-- `Curso de Portugues/Uso da virgula.pdf`
-- `Curso de Portugues/Crase.pdf`
-- `Materiais QB/Portugues/`
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.
