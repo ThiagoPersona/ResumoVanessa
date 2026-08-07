@@ -19,7 +19,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | Disciplina | Questões no edital | Capítulos | Questões convertidas | Base |
 |---|---:|---:|---:|---|
 | Português | 25 | 6 | 35 | Conhecimentos Gerais, item 1 |
-| RLM | 5 | 4 | 4 | Conhecimentos Gerais, item 2 |
+| RLM | 5 | 4 | 17 | Conhecimentos Gerais, item 2 |
 | Realidade PR | 5 | 2 | 2 | Conhecimentos Gerais, item 3 |
 | Tecnologia | 15 | 6 | 16 | Conhecimentos Específicos, item 1 |
 | Ciências Forenses | 10 | 8 | 11 | Conhecimentos Específicos, item 2 |
@@ -61,10 +61,10 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | 004 | Português | Frase, sintaxe, discurso e pontuação | Língua Portuguesa 1.7-1.17 | altíssima | 10 (9 oficiais FGV) |
 | 005 | Português | Morfologia e classes de palavras | Língua Portuguesa 1.18-1.20 | alta | 4 (3 oficiais FGV) |
 | 006 | Português | Semântica, vocabulário, ortografia, acentuação e crase | Língua Portuguesa 1.21-1.26 | altíssima | 6 (5 oficiais FGV) |
-| 007 | RLM | Lógica proposicional e conjuntos | RLM 2.1-2.2 | alta | 1 |
-| 008 | RLM | Números, porcentagem, juros, proporcionalidade e medidas | RLM 2.3-2.5 | alta | 1 |
-| 009 | RLM | Geometria, plano cartesiano, gráficos e tabelas | RLM 2.8, 2.11-2.12 | média | 1 |
-| 010 | RLM | Problemas lógicos, contagem, probabilidade e sequências | RLM 2.6-2.7, 2.9-2.10, 2.13 | alta | 1 |
+| 007 | RLM | Lógica proposicional e conjuntos | RLM 2.1-2.2 | alta | 4 (3 oficiais FGV) |
+| 008 | RLM | Números, porcentagem, juros, proporcionalidade e medidas | RLM 2.3-2.5 | alta | 6 (5 oficiais FGV) |
+| 009 | RLM | Geometria, plano cartesiano, gráficos e tabelas | RLM 2.8, 2.11-2.12 | média | 3 (2 oficiais FGV) |
+| 010 | RLM | Problemas lógicos, contagem, probabilidade e sequências | RLM 2.6-2.7, 2.9-2.10, 2.13 | alta | 4 (3 oficiais FGV) |
 | 011 | Realidade PR | História, geografia e organização territorial do Paraná | Realidade do Paraná 3.1-3.3 | média | 1 |
 | 012 | Realidade PR | Cultura, indicadores, economia, políticas públicas e atualidades | Realidade do Paraná 3.4-3.7 | média | 1 |
 | 013 | Tecnologia | Hardware, software, periféricos e armazenamento | Tecnologia 1.1 | altíssima | 7 |

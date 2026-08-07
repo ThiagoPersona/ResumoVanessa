@@ -1,198 +1,151 @@
 # 010 - Problemas lógicos, contagem, probabilidade e sequências
 
-> **Base do edital:** Conhecimentos Gerais; RLM 2.6-2.7, 2.9-2.10, 2.13.  
-> **Peso da disciplina:** 5 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- Contagem, probabilidade e sequências compartilham uma mesma exigência: organizar o problema em etapas antes de calcular, nunca "chutar" a operação pela intuição.
+- O erro mais caro em contagem é confundir situações em que a **ordem importa** (arranjo) com situações em que **não importa** (combinação) — a mesma pergunta muda de fórmula conforme esse detalhe.
+- Em probabilidade, o erro mais caro é esquecer que, **sem reposição**, o total de casos possíveis diminui a cada evento — e que probabilidade de eventos consecutivos multiplica (não soma).
+- Nas provas reais localizadas, a FGV aplicou contagem, sequência geométrica e probabilidade a cenários periciais concretos (amostras de local de crime, gravação de câmera de segurança, tentativa de abrir cofre) — todos resolvidos pelo mesmo método: traduzir o cenário para uma estrutura matemática antes de calcular.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina RLM soma 5 questões; este capítulo concentra RLM 2.6-2.7, 2.9-2.10, 2.13.
-- **Como a FGV costuma cobrar:** A FGV prefere problemas curtos, com informação suficiente, mas exige organização visual: tabela, diagrama, árvore, equivalência lógica ou cálculo em etapas.
-- **O que mais confunde candidatos:** sair calculando sem traduzir o enunciado; misturar porcentagem com ponto percentual; esquecer restrições de contagem e probabilidade.
-- **Particularidade para Papiloscopista:** RLM tem menos questões, mas costuma render pontos rápidos quando o método é automático: organizar, calcular, testar e conferir unidade.
+Este bloco cobre associações arbitrárias entre elementos, dedução de informações, raciocínio sequencial, problemas de contagem, probabilidade e sequências/padrões — o núcleo "resolva o problema" do RLM, sem depender de fórmula pronta de porcentagem ou geometria. Nas provas reais localizadas, cada questão embutiu um raciocínio de contagem, sequência ou probabilidade dentro de um cenário investigativo, exigindo primeiro entender a estrutura do problema, só depois calcular.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q12: contagem de combinações escolhendo itens de categorias diferentes. Q13: sequência com padrão geométrico (duplicação) aplicada a tempo de gravação. Q19: probabilidade sem reposição, várias tentativas. |
 
-- **Associações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios.** Tabela de possibilidades, árvore de decisão, princípio multiplicativo, permutação/combinação em nível básico, probabilidade, sequências numéricas, matriciais e orientação espacial/temporal.
-- **Dedução de informações e avaliação de condições.** Tabela de possibilidades, árvore de decisão, princípio multiplicativo, permutação/combinação em nível básico, probabilidade, sequências numéricas, matriciais e orientação espacial/temporal.
-- **Raciocínio verbal, matemático e sequencial; orientação espacial e temporal.** Tabela de possibilidades, árvore de decisão, princípio multiplicativo, permutação/combinação em nível básico, probabilidade, sequências numéricas, matriciais e orientação espacial/temporal.
-- **Problemas aritméticos, geométricos e matriciais.** Tabela de possibilidades, árvore de decisão, princípio multiplicativo, permutação/combinação em nível básico, probabilidade, sequências numéricas, matriciais e orientação espacial/temporal.
-- **Contagem, noções de probabilidade e problemas de lógica.** Tabela de possibilidades, árvore de decisão, princípio multiplicativo, permutação/combinação em nível básico, probabilidade, sequências numéricas, matriciais e orientação espacial/temporal.
-- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
-- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
-- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Princípio fundamental da contagem
 
-### Visão de estudo para este tema
+Se uma tarefa se divide em etapas independentes, com m possibilidades na primeira etapa, n possibilidades na segunda etapa, e assim por diante, o número total de resultados possíveis é o **produto** de todas as possibilidades: m × n × ... Esse é o princípio multiplicativo, base de quase todo problema de contagem em concurso.
 
-Raciocínio lógico-matemático não deve ser tratado como coleção de fórmulas. O núcleo da disciplina é traduzir texto em estrutura: proposição, tabela, relação, diagrama, conta ou figura. A FGV costuma esconder a simplicidade do problema em uma redação compacta.
+### Arranjo, combinação e permutação: a diferença que decide a fórmula
 
-Em itens lógicos, o erro mais caro é negar frase de modo intuitivo. Em porcentagem e juros, é perder a base. Em contagem e probabilidade, é contar duas vezes ou esquecer restrições. Em gráficos, é ignorar escala, unidade ou diferença entre valor absoluto e percentual.
+| Conceito | Quando usar | A ordem importa? | Fórmula |
+|---|---|---|---|
+| Permutação | Organizar todos os n elementos de um conjunto | Sim | n! (n fatorial: n×(n-1)×...×1) |
+| Arranjo | Escolher e ordenar p elementos entre n disponíveis | Sim | n! / (n-p)! |
+| Combinação | Escolher p elementos entre n disponíveis, sem se importar com a ordem | Não | n! / [p! × (n-p)!] |
 
-Como o bloco tem 5 questões, a estratégia é garantir o que resolve rápido: equivalências, conjuntos, regra de três, porcentagem, leitura de gráfico, geometria básica e contagem simples.
+Teste prático: se trocar a ordem dos elementos escolhidos gera um resultado **diferente** (uma senha, um pódio, uma sequência), é arranjo ou permutação. Se trocar a ordem gera o **mesmo** resultado (um grupo de pessoas, um conjunto de itens selecionados), é combinação.
 
-**Aplicação ao cargo:** Para o cargo, RLM ajuda na leitura de indicadores, cruzamento de informações e análise de condições em problemas de investigação.
+Quando um problema de contagem envolve escolher itens de **categorias diferentes e distintas entre si** (por exemplo, um item de cada uma de várias categorias), a solução costuma ser o produto do número de opções em cada categoria escolhida, somado sobre todas as combinações de categorias possíveis — é uma aplicação combinada de combinação (escolher quais categorias entram) e princípio multiplicativo (escolher o item dentro de cada categoria).
 
-**Aviso de fonte:** Quando este tema aparecer em questão, resolva primeiro pelo conceito do edital e depois confira exceções indicadas nas fontes locais.
+### Probabilidade
 
-### O que mais merece atenção
+A probabilidade de um evento é a razão entre **casos favoráveis** e **casos possíveis**: P = casos favoráveis / casos possíveis, sempre um número entre 0 e 1 (ou entre 0% e 100%).
 
-- condicionais, negações e quantificadores
-- conjuntos e diagramas
-- porcentagem e regra de três
-- gráficos, tabelas e unidades
-- contagem e probabilidade básica
-- sequências e problemas de associação
-
-### Conteúdo completo orientado ao edital
-
-### 1. Associações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios.
-
-**O que significa:** Problemas lógicos exigem organizar condições. Contagem enumera possibilidades sem repetição indevida; probabilidade compara casos favoráveis e possíveis.
-
-**Como estudar para a prova:** Tabela de possibilidades, árvore de decisão, princípio multiplicativo, permutação/combinação em nível básico, probabilidade, sequências numéricas, matriciais e orientação espacial/temporal.
-
-**Como a FGV pode cobrar:** A banca coloca restrições suficientes para resolver por eliminação organizada.
-
-**Cuidado de prova:** Se a ordem importa, o cálculo muda; se os casos se sobrepõem, somar direto erra.
-
-### 2. Dedução de informações e avaliação de condições.
-
-**O que significa:** Problemas lógicos exigem organizar condições. Contagem enumera possibilidades sem repetição indevida; probabilidade compara casos favoráveis e possíveis.
-
-**Como estudar para a prova:** Tabela de possibilidades, árvore de decisão, princípio multiplicativo, permutação/combinação em nível básico, probabilidade, sequências numéricas, matriciais e orientação espacial/temporal.
-
-**Como a FGV pode cobrar:** A banca coloca restrições suficientes para resolver por eliminação organizada.
-
-**Cuidado de prova:** Se a ordem importa, o cálculo muda; se os casos se sobrepõem, somar direto erra.
-
-### 3. Raciocínio verbal, matemático e sequencial; orientação espacial e temporal.
-
-**O que significa:** Problemas lógicos exigem organizar condições. Contagem enumera possibilidades sem repetição indevida; probabilidade compara casos favoráveis e possíveis.
-
-**Como estudar para a prova:** Tabela de possibilidades, árvore de decisão, princípio multiplicativo, permutação/combinação em nível básico, probabilidade, sequências numéricas, matriciais e orientação espacial/temporal.
-
-**Como a FGV pode cobrar:** A banca coloca restrições suficientes para resolver por eliminação organizada.
-
-**Cuidado de prova:** Se a ordem importa, o cálculo muda; se os casos se sobrepõem, somar direto erra.
-
-### 4. Problemas aritméticos, geométricos e matriciais.
-
-**O que significa:** Problemas lógicos exigem organizar condições. Contagem enumera possibilidades sem repetição indevida; probabilidade compara casos favoráveis e possíveis.
-
-**Como estudar para a prova:** Tabela de possibilidades, árvore de decisão, princípio multiplicativo, permutação/combinação em nível básico, probabilidade, sequências numéricas, matriciais e orientação espacial/temporal.
-
-**Como a FGV pode cobrar:** A banca coloca restrições suficientes para resolver por eliminação organizada.
-
-**Cuidado de prova:** Se a ordem importa, o cálculo muda; se os casos se sobrepõem, somar direto erra.
-
-### 5. Contagem, noções de probabilidade e problemas de lógica.
-
-**O que significa:** Problemas lógicos exigem organizar condições. Contagem enumera possibilidades sem repetição indevida; probabilidade compara casos favoráveis e possíveis.
-
-**Como estudar para a prova:** Tabela de possibilidades, árvore de decisão, princípio multiplicativo, permutação/combinação em nível básico, probabilidade, sequências numéricas, matriciais e orientação espacial/temporal.
-
-**Como a FGV pode cobrar:** A banca coloca restrições suficientes para resolver por eliminação organizada.
-
-**Cuidado de prova:** Se a ordem importa, o cálculo muda; se os casos se sobrepõem, somar direto erra.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Situação | Como calcular |
 |---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Evento único | P = favoráveis / possíveis |
+| Eventos sucessivos **com** reposição | Multiplicam-se as probabilidades individuais, mantendo o total de casos possíveis constante a cada tentativa |
+| Eventos sucessivos **sem** reposição | Multiplicam-se as probabilidades individuais, mas o total de casos possíveis **diminui** a cada tentativa (o elemento já escolhido sai do grupo) |
+| Eventos mutuamente exclusivos (não podem ocorrer juntos) | Probabilidade de um **ou** outro ocorrer: soma-se as probabilidades |
+| Eventos independentes (um não afeta o outro) | Probabilidade de ambos ocorrerem: multiplicam-se as probabilidades |
 
-### Diferenças que a banca costuma trocar
+Um problema clássico: uma pessoa tem várias tentativas para acertar um item correto entre vários, sem repetir tentativa (sem reposição), e as tentativas são interrompidas se o acerto ocorrer antes do limite. Nesse caso, mais simples do que somar probabilidades tentativa por tentativa: **se todas as sequências têm a mesma chance e o número de tentativas permitidas é conhecido, a probabilidade de sucesso dentro do limite de tentativas é simplesmente (número de tentativas permitidas) / (total de casos possíveis)** — desde que o item correto só possa ser sorteado uma vez e as tentativas erradas sejam descartadas sem devolução ao conjunto.
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+### Sequências e padrões
+
+**Progressão Aritmética (PA)**: sequência em que cada termo é obtido somando uma razão constante (r) ao termo anterior. Termo geral: aₙ = a₁ + (n-1)×r. Soma dos n primeiros termos: Sₙ = n×(a₁+aₙ)/2.
+
+**Progressão Geométrica (PG)**: sequência em que cada termo é obtido multiplicando o termo anterior por uma razão constante (q). Termo geral: aₙ = a₁ × q^(n-1). Soma dos n primeiros termos (q≠1): Sₙ = a₁×(qⁿ-1)/(q-1).
+
+Um padrão muito cobrado em prova: uma grandeza que **dobra a cada etapa** (razão q=2) — típico de problemas de duração de eventos que se repetem com duração crescente geometricamente (1, 2, 4, 8, 16...). Para resolver, é preciso somar os termos já ocorridos e comparar com o total disponível, encontrando em qual termo da sequência o total se esgota — geralmente por tentativa direta (somar termo a termo) mais do que pela fórmula fechada, quando o número de termos é pequeno.
+
+### Problemas lógicos de associação e dedução
+
+Problemas que associam pessoas, lugares, eventos ou características a partir de pistas textuais ("A não fez X", "B fez depois de C", "quem fez X não fez Y") são resolvidos por eliminação sistemática: monte uma tabela com todas as combinações possíveis e vá eliminando as que contradizem cada pista, uma de cada vez, até sobrar uma única solução consistente. Não tente resolver de cabeça — o erro mais comum é aplicar uma pista e esquecer de verificar se ela ainda é compatível com as pistas anteriores.
+
+### Orientação espacial e temporal
+
+Problemas de dias da semana, calendário e sequência de posições (fila, ordem de chegada) seguem lógica cíclica ou de contagem direta: para saber que dia da semana cai um número de dias à frente, calcule o resto da divisão por 7 e conte a partir do dia conhecido; para posições em fila/ordem, monte a lista e aplique as restrições dadas uma a uma, como nos problemas de associação lógica.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Associações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios. | Se a ordem importa, o cálculo muda; se os casos se sobrepõem, somar direto erra. | A banca coloca restrições suficientes para resolver por eliminação organizada. |
-| Dedução de informações e avaliação de condições. | Se a ordem importa, o cálculo muda; se os casos se sobrepõem, somar direto erra. | A banca coloca restrições suficientes para resolver por eliminação organizada. |
-| Raciocínio verbal, matemático e sequencial; orientação espacial e temporal. | Se a ordem importa, o cálculo muda; se os casos se sobrepõem, somar direto erra. | A banca coloca restrições suficientes para resolver por eliminação organizada. |
-| Problemas aritméticos, geométricos e matriciais. | Se a ordem importa, o cálculo muda; se os casos se sobrepõem, somar direto erra. | A banca coloca restrições suficientes para resolver por eliminação organizada. |
-| Contagem, noções de probabilidade e problemas de lógica. | Se a ordem importa, o cálculo muda; se os casos se sobrepõem, somar direto erra. | A banca coloca restrições suficientes para resolver por eliminação organizada. |
+| Escolher corretamente entre arranjo, combinação e princípio multiplicativo puro | Evidenciado na questão real PCMG Q12 | Pergunte se a ordem de escolha muda o resultado; identifique se há categorias distintas envolvidas |
+| Resolver sequência com razão que dobra a cada termo, somando etapa por etapa | Evidenciado na questão real PCMG Q13 | Monte a soma termo a termo até encontrar onde o total do problema se esgota, em vez de aplicar só a fórmula fechada |
+| Calcular probabilidade sem reposição em tentativas sucessivas | Evidenciado na questão real PCMG Q19 | Identifique se o total de casos possíveis diminui a cada tentativa, e se o número de tentativas permitidas é a chave do cálculo |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Combinação (ordem não importa) | Arranjo/permutação (ordem importa) | Ambos "escolhem alguns itens de um grupo maior" | Pergunte se trocar a ordem dos escolhidos muda o resultado prático do problema |
+| Probabilidade com reposição | Probabilidade sem reposição | Ambas envolvem "tentativas sucessivas" | Verifique se o item já usado volta ou não ao conjunto de possibilidades |
+| Progressão aritmética (soma constante) | Progressão geométrica (multiplicação constante) | Ambas são "sequências com padrão" | Veja se a diferença entre termos é constante (PA) ou se a razão entre termos é constante (PG) |
+| Eventos mutuamente exclusivos (somam probabilidade) | Eventos independentes (multiplicam probabilidade) | Ambos envolvem "dois eventos" e uma pergunta de probabilidade combinada | "Ou" que não podem ocorrer juntos soma; "e" que ocorrem sem se afetar multiplica |
 
-### Roteiro de estudo de alta retenção
+## Como caiu na prova: questões comentadas
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+**Fonte: FGV, PCMG Perito Criminal Área I, Tipo 1, 2024, questão 12 (gabarito oficial: C)**
 
-### Lacunas honestas
+> Um perito criminal precisa analisar um conjunto de quatro amostras coletadas de uma cena de crime: cinco fibras de tecido; três fios de cabelo; dois fragmentos de vidro; e uma amostra de solo. Para realizar a análise, ele precisa escolher exatamente três itens entre as amostras, mas cada item deve pertencer a uma amostra diferente. O número total de diferentes trios de itens que o perito pode escolher é
+>
+> (A) 59. (B) 60. (C) 61. (D) 62. (E) 63.
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
+1. **Identifique a estrutura**: escolher 3 itens, cada um de uma categoria diferente, entre 4 categorias disponíveis (tecido=5, cabelo=3, vidro=2, solo=1).
+2. **Determine quais 3 categorias entram**: existem C(4,3)=4 combinações possíveis de categorias (deixando de fora uma categoria por vez).
+3. **Calcule o produto de opções dentro de cada combinação de categorias**: tecido+cabelo+vidro = 5×3×2=30; tecido+cabelo+solo = 5×3×1=15; tecido+vidro+solo = 5×2×1=10; cabelo+vidro+solo = 3×2×1=6.
+4. **Some os quatro resultados**: 30+15+10+6 = 61. **C é o gabarito**.
 
-## Tabelas e esquemas
+**Fonte: FGV, PCMG Perito Criminal Área I, Tipo 1, 2024, questão 13 (gabarito oficial: D)**
 
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Associações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios. | Tabela de possibilidades, árvore de decisão, princípio multiplicativo, permutação/combinação em nível básico, probabilidade, sequências numéricas, matriciais e orientação espacial/temporal. | Se a ordem importa, o cálculo muda; se os casos se sobrepõem, somar direto erra. |
-| Dedução de informações e avaliação de condições. | Tabela de possibilidades, árvore de decisão, princípio multiplicativo, permutação/combinação em nível básico, probabilidade, sequências numéricas, matriciais e orientação espacial/temporal. | Se a ordem importa, o cálculo muda; se os casos se sobrepõem, somar direto erra. |
-| Raciocínio verbal, matemático e sequencial; orientação espacial e temporal. | Tabela de possibilidades, árvore de decisão, princípio multiplicativo, permutação/combinação em nível básico, probabilidade, sequências numéricas, matriciais e orientação espacial/temporal. | Se a ordem importa, o cálculo muda; se os casos se sobrepõem, somar direto erra. |
-| Problemas aritméticos, geométricos e matriciais. | Tabela de possibilidades, árvore de decisão, princípio multiplicativo, permutação/combinação em nível básico, probabilidade, sequências numéricas, matriciais e orientação espacial/temporal. | Se a ordem importa, o cálculo muda; se os casos se sobrepõem, somar direto erra. |
-| Contagem, noções de probabilidade e problemas de lógica. | Tabela de possibilidades, árvore de decisão, princípio multiplicativo, permutação/combinação em nível básico, probabilidade, sequências numéricas, matriciais e orientação espacial/temporal. | Se a ordem importa, o cálculo muda; se os casos se sobrepõem, somar direto erra. |
+> Durante as investigações de um sinistro, foram obtidos exatos 20 minutos e 15 segundos contínuos de gravação de uma câmera de segurança. Por um dano na câmera, ao longo de toda a gravação, alternam-se 2 minutos de imagens nítidas com períodos variáveis de imagens sem qualquer nitidez. O primeiro trecho sem nitidez dura 1 segundo e cada um dos demais dura o dobro do tempo do trecho defeituoso precedente. Com base nessas informações, é correto concluir que o tempo total de imagens sem nitidez nessa gravação é de exatamente
+>
+> (A) 4 minutos. (B) 4 minutos e 3 segundos. (C) 4 minutos e 7 segundos. (D) 4 minutos e 15 segundos. (E) 5 minutos e 31 segundos.
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+1. **Reconheça o padrão geométrico**: os trechos sem nitidez formam uma PG de razão 2: 1s, 2s, 4s, 8s, 16s, 32s, 64s, 128s...
+2. **Monte a sequência completa**: clara(120s), defeito(1s), clara(120s), defeito(2s), clara(120s), defeito(4s)... alternando.
+3. **Some acumulando até bater com o total (1215s = 20min15s)**: após 8 blocos claros (8×120=960s) e 7 defeitos (1+2+4+8+16+32+64=127s), o total é 1087s; restam 1215-1087=128s, que é exatamente a duração do 8º defeito (2⁷=128s) — a gravação termina exatamente no fim desse trecho defeituoso.
+4. **Some o tempo total sem nitidez**: 127s (sete primeiros defeitos) + 128s (oitavo defeito) = 255s = 4 minutos e 15 segundos. **D é o gabarito**.
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+**Fonte: FGV, PCMG Perito Criminal Área I, Tipo 1, 2024, questão 19 (gabarito oficial: D)**
+
+> Um perito criminal está investigando o furto, sem arrombamento, do conteúdo em um cofre que bloqueia automaticamente a sua abertura após três tentativas incorretas e consecutivas de se digitar a senha. A perícia indica que o suspeito tinha um conjunto de 10 sequências possíveis de dígitos no momento do sinistro, sendo apenas uma a senha correta. [...] uma sequência, uma vez utilizada, foi descartada de novas escolhas, antes de o suspeito fazer qualquer tentativa, a probabilidade de ele conseguir abrir o cofre, antes do bloqueio, por meio da senha correta era
+>
+> (A) 8,1%. (B) 25,0%. (C) 27,1%. (D) 30,0%. (E) 32,1%.
+
+1. **Identifique a estrutura**: 10 sequências possíveis, 1 correta, sem reposição (cada tentativa usada é descartada), até 3 tentativas permitidas antes do bloqueio.
+2. **Reconheça o atalho**: como todas as 10 sequências têm a mesma probabilidade de serem escolhidas e são descartadas sem reposição, a chance de a senha correta estar entre as 3 primeiras tentativas é simplesmente 3 (tentativas permitidas) dividido por 10 (total de sequências) — não é preciso somar probabilidade tentativa por tentativa.
+3. **Calcule**: 3/10 = 0,30 = 30,0%. **D é o gabarito**.
+4. **Cuidado de prova**: somar as probabilidades de acertar exatamente na 1ª, exatamente na 2ª e exatamente na 3ª tentativa (sem reposição) chega ao mesmo resultado, mas de forma mais longa — o atalho de "tentativas/total" só vale porque todas as sequências têm a mesma chance e não há reposição.
 
 ## Pegadinhas da banca
 
-- Confundir negação de 'todo' com 'nenhum'.
-- Calcular porcentagem sobre a base errada.
-- Somar probabilidades de eventos que não são mutuamente exclusivos.
-- Ignorar unidade de medida, escala do gráfico ou intervalo da tabela.
-- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
-- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
-- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Usar fórmula de arranjo quando o problema pede combinação (ou o contrário), sem checar se a ordem importa.
+- Esquecer de reduzir o total de casos possíveis em problemas de probabilidade sem reposição.
+- Tentar aplicar a fórmula fechada de soma de PG num problema onde é mais seguro somar termo a termo até bater com o total dado.
+- Somar probabilidades de eventos que não são mutuamente exclusivos (dupla contagem).
+- Em problema de contagem por categorias, esquecer de somar todas as combinações possíveis de categorias, calculando só uma delas.
 
 ## Como resolver questões
 
-1. Transforme o texto em tabela, desenho ou expressão antes de escolher alternativa.
-2. Procure palavras de restrição: todos, algum, nenhum, exatamente, pelo menos, no máximo.
-3. Em porcentagem, defina a base de cálculo antes de aplicar aumento, desconto ou juros.
-4. Em contagem, separe casos incompatíveis e evite contar a mesma situação duas vezes.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Antes de escolher fórmula, pergunte: a ordem dos elementos escolhidos muda o resultado? Isso decide entre arranjo/permutação e combinação.
+2. Em probabilidade, identifique se há reposição (mantém casos possíveis) ou não (reduz casos possíveis a cada tentativa).
+3. Em sequência, teste se a diferença entre termos é constante (PA) ou se a razão é constante (PG); em problemas pequenos, some termo a termo em vez de aplicar só a fórmula fechada.
+4. Em problema de associação lógica, monte tabela de possibilidades e elimine sistematicamente por pista, conferindo compatibilidade com as pistas já aplicadas.
+5. Em problema de contagem por categorias distintas, calcule cada combinação de categorias separadamente e some os resultados.
+
+## Lacunas honestas
+
+- Ainda não há questão real localizada especificamente sobre problemas de associação lógica com tabela de pistas (verdade/mentira, quem fez o quê) neste levantamento.
+- Ainda não há questão real localizada sobre progressão aritmética pura (sem contexto de duplicação geométrica).
+- Ainda não há questão real localizada sobre orientação temporal/calendário (dia da semana) neste levantamento.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: RLM 2.6-2.7, 2.9-2.10, 2.13.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei diferenciar arranjo, combinação e permutação pelo critério "a ordem importa?".
+- [ ] Sei calcular probabilidade com e sem reposição.
+- [ ] Sei diferenciar progressão aritmética de geométrica e suas fórmulas de termo geral e soma.
+- [ ] Sei resolver problema de contagem por categorias distintas, somando todas as combinações possíveis.
+- [ ] Sei resolver problema de associação lógica por eliminação sistemática com tabela.
+- [ ] Resolvi as três questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
 
@@ -200,11 +153,18 @@ Como o bloco tem 5 questões, a estratégia é garantir o que resolve rápido: e
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
+- FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questões 12, 13 e 19. Gabarito definitivo publicado pela FGV.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+
+**Material local**
+
 - `Materiais QB/RLM/raciocinio-logico-mapas-do-concursado.pdf`
 - `Materiais QB/Matematica/`
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.
