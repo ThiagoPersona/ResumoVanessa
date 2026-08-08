@@ -14,6 +14,10 @@ Este item cobre a ciência da morte (tanatologia), o exame do cadáver (necropsi
 | Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
 |---|---:|---|
 | FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q43: fenômenos cadavéricos e cronotanatognose (mancha verde, esqueletização, circulação póstuma de Brouardel). |
+| FGV PC-SC | 2024 | Q3: sinais abióticos imediatos x consecutivos. |
+| FGV PC-AM | 2022 | Q8: espectro equimótico de Legrand du Saulle. Q11: marcha da rigidez (lei de Nysten). Q14: comoriência x premoriência. Q15: infanticídio e estado puerperal. |
+| FGV PC-RJ | 2022 e 2011 | Q4 (2022): sede bacteriana do início da putrefação. Q17 e Q18 (2011): definições de toxicologia forense e de agente tóxico sistêmico. |
+| FGV PC-PI | 2026 | Q7: correspondência entre substância tóxica e efeito farmacológico. |
 
 ## Conteúdo completo orientado ao edital
 
@@ -40,6 +44,22 @@ A putrefação é o fenômeno transformativo destrutivo mais estudado para fins 
 
 Um fenômeno associado à fase de coloração é a **circulação póstuma de Brouardel** (ou rede vascular póstuma): o desenho da rede venosa superficial se torna visível através da pele, por hemólise e infiltração da hemoglobina nos tecidos ao redor dos vasos — ocorre na mesma fase em que surge a mancha verde abdominal.
 
+**Por que a mancha verde começa na fossa ilíaca direita**: a putrefação é fundamentalmente um processo **bacteriano**, não químico ou enzimático isolado — ela começa onde há a maior concentração natural de bactérias do corpo, no **intestino grosso** (região do ceco, próxima à fossa ilíaca direita), e só depois se espalha para o resto do abdome, tórax, pescoço e face.
+
+### Marcha da rigidez cadavérica (Lei de Nysten) e sinais correlatos
+
+A rigidez cadavérica (rigor mortis) não começa nos músculos maiores ou mais volumosos, mas segue uma ordem fisiológica fixa: **começa nos músculos involuntários** (miocárdio e diafragma), depois passa para a face/mandíbula, pescoço, e progride no sentido **crânio-caudal** até os membros inferiores — essa sequência é conhecida como Lei de Nysten. Em crianças, por terem menor massa muscular, a rigidez tende a se instalar e se desfazer **mais rapidamente**, não mais devagar.
+
+**Espectro equimótico de Legrand du Saulle**: é a mudança progressiva de cor de uma equimose ao longo do tempo (de avermelhada para azulada, esverdeada e depois amarelada), causada pela **degradação bioquímica progressiva da hemoglobina** em outros pigmentos — ferramenta usada para estimar a idade de uma lesão (não a hora da morte).
+
+### Comoriência e premoriência (Art. 8º do Código Civil)
+
+Embora seja um conceito de Direito Civil, a FGV cobra sua base médico-legal: quando dois ou mais indivíduos morrem na mesma ocasião e **não é possível apurar, tecnicamente, se algum precedeu os outros**, a lei presume que morreram **simultaneamente** (comoriência) — independentemente de terem morrido no mesmo local. Se a perícia consegue estabelecer a ordem cronológica das mortes, não há comoriência, pois a presunção só se aplica na dúvida técnica real.
+
+### Infanticídio: elementos médico-legais do tipo penal
+
+O infanticídio (Art. 123 do Código Penal) é um tipo penal com sujeito ativo restrito: só pode ser cometido pela **mãe**, sob influência do **estado puerperal** (condições hormonais e dor do parto que alteram sua compreensão do ato) — não exige diagnóstico psiquiátrico prévio, não se restringe a um meio específico (como asfixia) e não admite comprovação de "múltiplas agressões" como requisito.
+
 ### Cronotanatognose: estimando a data da morte
 
 Cronotanatognose é a técnica de estimar o intervalo de tempo decorrido desde a morte, combinando múltiplos indicadores (temperatura corporal, rigidez, livores, grau de putrefação, entomologia forense — o estágio de desenvolvimento de larvas de insetos no cadáver). Ponto central para prova: nenhum desses indicadores fornece hora exata isoladamente — são faixas aproximadas, influenciadas por temperatura ambiente, umidade, exposição a intempéries, causa da morte e outros fatores; por isso a estimativa combina vários sinais para reduzir a margem de erro.
@@ -51,6 +71,12 @@ A necropsia é o exame interno e externo do cadáver realizado para determinar c
 ### Toxicologia forense
 
 A toxicologia forense identifica e quantifica substâncias tóxicas (venenos, drogas, medicamentos em superdosagem, álcool) envolvidas em uma morte ou intoxicação, e correlaciona a concentração encontrada com o efeito fisiológico esperado, para ajudar a estabelecer se a substância foi causa, contribuiu para, ou é irrelevante para o óbito. Trabalha com amostras biológicas (sangue, urina, conteúdo gástrico, vísceras) coletadas durante a necropsia, exigindo cadeia de custódia rigorosa desde a coleta.
+
+**Definição doutrinária**: a Toxicologia Forense estuda as **reações tóxicas e os venenos causadores dessas reações** — definição que reúne tanto o agente (a substância) quanto o efeito (a reação no organismo), mais completa do que recortes parciais como "só o mecanismo" ou "só a classificação química".
+
+**Agente tóxico sistêmico x agente tóxico local**: um agente **local** provoca lesão no próprio ponto de contato (ex.: substância cáustica na pele); um agente **sistêmico** provoca efeitos deletérios em locais **distantes** do ponto de contato inicial, após ser absorvido e distribuído pelo organismo. Essa classificação (por local de ação) é diferente da classificação por tipo de efeito (asfixiante, mutagênico, carcinogênico).
+
+**Correspondência substância-efeito clássica**: digitálicos (digoxina) em doses tóxicas agem sobre a bomba de sódio-potássio do miocárdio, causando **arritmias e parada cardíaca** — associação farmacológica consolidada e frequentemente cobrada em prova, junto de outras (monóxido de carbono → hipóxia por competição com o oxigênio na hemoglobina; organofosforados/carbamatos → inibição da acetilcolinesterase, síndrome colinérgica).
 
 ### Psicopatologia forense
 
@@ -91,6 +117,62 @@ A psicopatologia forense avalia transtornos mentais com relevância jurídica, s
 3. **Avalie III**: a circulação póstuma de Brouardel de fato ocorre na mesma fase (coloração) em que surge a mancha verde abdominal — ambas ligadas ao processo inicial de putrefação por hemólise e ação bacteriana. **Verdadeira**.
 4. **Conclusão**: apenas III está correta. **C é o gabarito**.
 
+**Fonte: FGV, PC-SC, 2024, questão 3 (gabarito oficial: B)**
+
+> Sinais abióticos imediatos x tardios: exemplo de cada.
+
+1. **Perda de consciência = imediato; resfriamento cadavérico = tardio/consecutivo.**
+2. **B é o gabarito.**
+
+**Fonte: FGV, PC-AM, 2022, questão 8 (gabarito oficial: B)**
+
+> Espectro equimótico de Legrand du Saulle corresponde a quê?
+
+1. **É a degradação progressiva da hemoglobina, que muda a cor de uma equimose ao longo do tempo.**
+2. **B é o gabarito.**
+
+**Fonte: FGV, PC-AM, 2022, questão 11 (gabarito oficial: C)**
+
+> Ordem da marcha da rigidez cadavérica.
+
+1. **A rigidez começa no miocárdio e no diafragma (Lei de Nysten), não nos membros.**
+2. **C é o gabarito.**
+
+**Fonte: FGV, PC-AM, 2022, questão 14 (gabarito oficial: D)**
+
+> Definição correta de comoriência.
+
+1. **Presunção de morte simultânea quando não se apura a ordem cronológica das mortes, independentemente do local.**
+2. **D é o gabarito.**
+
+**Fonte: FGV, PC-AM, 2022, questão 15 (gabarito oficial: B)**
+
+> Sobre o infanticídio.
+
+1. **Só a mãe, sob estado puerperal, pode ser sujeito ativo dessa figura penal privilegiada.**
+2. **B é o gabarito.**
+
+**Fonte: FGV, PC-RJ, 2022, questão 4 (gabarito oficial: C)**
+
+> Por que a mancha verde surge na região inguinoabdominal.
+
+1. **O intestino grosso (fossa ilíaca direita) concentra a maior quantidade de bactérias, iniciando a putrefação ali.**
+2. **C é o gabarito.**
+
+**Fonte: FGV, PC-RJ, 2011, questões 17 e 18 (gabarito oficial: C e B)**
+
+> Definições de Toxicologia Forense e de agente tóxico sistêmico.
+
+1. **Toxicologia Forense estuda reações tóxicas e os venenos que as causam (definição completa, une agente e efeito).**
+2. **Agente sistêmico age longe do ponto de contato inicial, após absorção — diferente do agente local.**
+
+**Fonte: FGV, PC-PI, 2026, questão 7 (gabarito oficial: D)**
+
+> Correspondência substância tóxica x efeito.
+
+1. **Digitálicos em dose tóxica causam arritmias e parada cardíaca — associação farmacológica correta.**
+2. **D é o gabarito.**
+
 ## Pegadinhas da banca
 
 - Fixar prazos exatos e rígidos para fenômenos cadavéricos que na realidade são altamente variáveis conforme o ambiente (esqueletização, mancha verde).
@@ -98,6 +180,11 @@ A psicopatologia forense avalia transtornos mentais com relevância jurídica, s
 - Tratar putrefação e mumificação como o mesmo tipo de fenômeno (a primeira é destrutiva, a segunda conservadora).
 - Achar que a psicopatologia forense só se aplica a réus vivos, ignorando perícias psiquiátricas retrospectivas.
 - Confundir imputabilidade penal com capacidade civil.
+- Achar que a rigidez começa nos músculos maiores/mais volumosos (membros), em vez dos involuntários (miocárdio, diafragma).
+- Confundir espectro equimótico (idade de uma lesão) com fenômenos de cronotanatognose (tempo de morte).
+- Exigir "mesmo local" para caracterizar comoriência — o requisito é a impossibilidade de apurar a ordem das mortes.
+- Atribuir o infanticídio a transtorno psiquiátrico diagnosticado, em vez do estado puerperal (fisiológico).
+- Confundir agente tóxico sistêmico (age longe do contato) com agente local (age no próprio ponto de contato).
 
 ## Como resolver questões
 
@@ -108,17 +195,19 @@ A psicopatologia forense avalia transtornos mentais com relevância jurídica, s
 
 ## Lacunas honestas
 
-- Ainda não há questão real localizada sobre necropsia (roteiro do exame), toxicologia forense especificamente, ou psicopatologia forense/imputabilidade penal neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
+- Ainda não há questão real localizada sobre necropsia (roteiro do exame) especificamente, nem sobre psicopatologia forense/imputabilidade penal neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
 - [ ] Sei diferenciar fenômenos abióticos (imediatos/consecutivos) de fenômenos transformativos (destrutivos/conservadores).
-- [ ] Sei as fases da putrefação em ordem (coloração, gasosa, coliquativa, esqueletização).
+- [ ] Sei as fases da putrefação em ordem (coloração, gasosa, coliquativa, esqueletização) e por que ela começa no intestino grosso.
 - [ ] Sei que a circulação póstuma de Brouardel ocorre na fase de coloração, junto com a mancha verde abdominal.
 - [ ] Sei que os prazos de fenômenos cadavéricos são faixas aproximadas, não valores fixos e universais.
-- [ ] Sei o objetivo central da necropsia e da toxicologia forense.
+- [ ] Sei a marcha da rigidez cadavérica (Lei de Nysten) e o que é o espectro equimótico.
+- [ ] Sei diferenciar comoriência de premoriência e os elementos médico-legais do infanticídio.
+- [ ] Sei o objetivo central da necropsia e da toxicologia forense, e a diferença entre agente tóxico sistêmico e local.
 - [ ] Sei diferenciar imputabilidade penal de capacidade civil na psicopatologia forense.
-- [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
+- [ ] Resolvi as dez questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
@@ -130,6 +219,10 @@ A psicopatologia forense avalia transtornos mentais com relevância jurídica, s
 **Prova/FGV**
 
 - FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questão 43. Gabarito definitivo publicado pela FGV.
+- FGV. PC-SC, 2024. Questão 3 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. PC-AM, 2022. Questões 8, 11, 14 e 15 localizadas em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. PC-RJ, 2022 e 2011. Questões localizadas em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. PC-PI, 2026. Questão 7 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**

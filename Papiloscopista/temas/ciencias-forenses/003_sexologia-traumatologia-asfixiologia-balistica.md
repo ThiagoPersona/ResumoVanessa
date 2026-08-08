@@ -14,6 +14,11 @@ Este item cobre um núcleo denso e muito aplicado da medicina legal: violência 
 | Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
 |---|---:|---|
 | FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q44: classificação dos tipos de asfixia mecânica pelo mecanismo de impedimento respiratório. Q45: os quatro movimentos do projétil de arma de fogo (rotação, translação, precessão, nutação). |
+| FGV SEAD-AP | 2022 | Q1: diferenciar enforcamento, estrangulamento e esganadura pela definição correta. |
+| FGV PC-AM | 2022 | Q18: tríade asfíxica e sinais da esganadura. Q14: himenologia (entalhe x carúncula mirtiforme). |
+| FGV PC-RN | 2021 | Q7: reconhecer esganadura pelo sinal de estigmas ungueais em meia lua. Q8: gás tóxico predominante em incêndios fechados. |
+| FGV PC-MA | 2012 | Q18: achado de necropsia da sufocação indireta por compressão torácica (máscara equimótica). |
+| FGV PC-RJ | 2021 | Q17: sentido médico-legal de "estado puerperal" no infanticídio. Q19: características que favorecem o diagnóstico de entalhe himenal. |
 
 ## Conteúdo completo orientado ao edital
 
@@ -39,13 +44,32 @@ Asfixia é a interrupção ou dificuldade grave da troca gasosa normal. As asfix
 | Sufocação indireta | Impedimento dos movimentos respiratórios por constrição da parede do tórax/abdome, sem obstruir as vias aéreas diretamente |
 | Soterramento | Alteração do meio ambiente ao redor da vítima, podendo causar obstrução de vias aéreas e constrição torácica ao mesmo tempo |
 | Enforcamento | Constrição do pescoço usando o **peso do próprio corpo** da vítima como força |
-| Estrangulamento | Constrição do pescoço por força externa (mãos, laço), sem depender do peso corporal da vítima |
+| Estrangulamento | Constrição do pescoço por um **laço acionado por força externa** (mãos de outra pessoa), sem depender do peso corporal da vítima |
+| Esganadura | Constrição do pescoço diretamente pelas **mãos ou membros** (antebraço, cotovelo, pé, perna) de outra pessoa, **sem laço** |
 
-**Diferença central entre enforcamento e estrangulamento**: no enforcamento, o sulco produzido no pescoço tende a ser **oblíquo** (em V, mais alto na região oposta ao ponto de suspensão, refletindo a tração do peso do corpo); no estrangulamento, o sulco tende a ser **horizontal** e mais uniforme, porque a força é aplicada perpendicularmente ao pescoço.
+**Diferença central entre enforcamento, estrangulamento e esganadura**: no enforcamento, o sulco produzido no pescoço tende a ser **oblíquo** (em V, refletindo a tração do peso do corpo); no estrangulamento (com laço), o sulco tende a ser **horizontal** e mais uniforme; na esganadura (sem laço, só mãos), não há sulco de laço — em vez disso, aparecem **estigmas ungueais** (marcas de unha, tipicamente em formato de meia lua/crescente) na pele do pescoço. Cogumelo de espuma e protrusão da língua (sinais clássicos de enforcamento/estrangulamento) são eventos **raros** na esganadura.
+
+**Tríade asfíxica clássica**: sangue fluido e escuro (exceto no afogamento), congestão polivisceral e equimoses de Tardieu (petéquias puntiformes por ruptura de pequenos vasos). Atenção: apenas enforcamento, estrangulamento e esganadura constringem o pescoço — a sufocação (direta ou indireta) não é um exemplo de asfixia por constrição cervical.
+
+**Achado específico da sufocação indireta por compressão torácica**: a compressão do tórax impede o retorno venoso da cabeça/pescoço, represando sangue na parte superior do corpo — mecanismo conhecido como síndrome de Perthes, cujo achado de necropsia característico é a **máscara equimótica** (ou equimose cérvico-facial).
+
+**Intoxicação por gases em incêndios**: em ambientes fechados, a causa de morte mais frequente não é a queimadura térmica direta, mas a inalação de **monóxido de carbono** (CO) — gás incolor e inodoro que se liga fortemente à hemoglobina, formando carboxiemoglobina e impedindo o transporte de oxigênio.
 
 ### Sexologia forense: elementos centrais
 
 A sexologia forense examina vestígios de conjunção carnal, atos libidinosos e violência sexual, com atenção a: sinais de vitalidade da lesão (se ocorreu em vida ou postmortem), presença de material biológico (sêmen, saliva) para exame de DNA, achados no exame ginecológico/proctológico compatíveis com o relato, e a diferenciação entre lesão recente e antiga. É um exame que exige extremo cuidado técnico e ético, já que integra tanto a comprovação de materialidade do crime quanto o acolhimento da vítima.
+
+**Himenologia forense — entalhe x rotura x carúncula mirtiforme**:
+
+| Achado | O que é | Características |
+|---|---|---|
+| Entalhe | Variação anatômica congênita (não é lesão) | Simétrico, bordas regulares, sem sinais de trauma agudo |
+| Rotura | Lesão traumática recente | Aspecto em "V", assimétrica, com hemorragia e edema quando recente |
+| Carúncula mirtiforme | Cicatriz de rotura himenal já consolidada | Pequenos retalhos/tubérculos remanescentes da cicatrização |
+
+O diagnóstico de estupro não depende exclusivamente de lesão himenal — o conceito legal de estupro é mais amplo (inclui atos libidinosos diversos da conjunção carnal) e pode se sustentar por outros meios de prova, mesmo sem lesão física constatável.
+
+**Infanticídio e "estado puerperal"** (Art. 123 do Código Penal): a expressão não se refere a surto psicótico nem a "sentimento de desonra" (concepção antiga já superada), mas às **condições hormonais e à dor do parto** que podem alterar a compreensão da mãe em relação ao ato, no momento imediatamente posterior ao parto — fundamento fisiológico do tipo penal privilegiado.
 
 ### Balística forense: os movimentos do projétil
 
@@ -105,6 +129,65 @@ Além dos movimentos, a balística forense também trata de: **balística intern
 4. **"Evolução cônica de revolução, vértice na ogiva"** = Precessão (2) — o movimento cônico maior do eixo do projétil.
 5. **Sequência: 3-4-1-2 = D**, o gabarito.
 
+**Fonte: FGV, SEAD-AP, 2022, questão 1 (gabarito oficial: C)**
+
+> Sobre estrangulamento, enforcamento e esganadura, analise I, II e III (ver enunciado completo no banco de questões).
+
+1. **I e II trocam as definições entre si**: I descreve enforcamento mas chama de "estrangulamento"; II descreve estrangulamento mas chama de "enforcamento".
+2. **III descreve corretamente a esganadura** (compressão manual, sem laço, com cogumelo de espuma/protrusão da língua raros).
+3. **C (III, somente) é o gabarito.**
+
+**Fonte: FGV, PC-AM, 2022, questão 18 (gabarito oficial: C)**
+
+> V/F sobre tríade asfíxica, exemplos de constrição do pescoço e sinal da esganadura.
+
+1. **1ª afirmativa (tríade asfíxica): verdadeira.**
+2. **2ª afirmativa: falsa** — sufocação não constringe o pescoço.
+3. **3ª afirmativa (estigmas ungueais = esganadura): verdadeira.**
+4. **V-F-V = C, o gabarito.**
+
+**Fonte: FGV, PC-RN, 2021, questão 7 (gabarito oficial: C)**
+
+> Escoriações em meia lua no pescoço, lábios e dedos arroxeados — principal suspeita.
+
+1. **Escoriações em meia lua = marca de unha = esganadura.**
+2. **C é o gabarito.**
+
+**Fonte: FGV, PC-RN, 2021, questão 8 (gabarito oficial: A)**
+
+> Gás tóxico mais importante em incêndios de ambiente fechado.
+
+1. **Monóxido de carbono é o gás clássico de óbito em incêndios fechados.**
+2. **A é o gabarito.**
+
+**Fonte: FGV, PC-MA, 2012, questão 18 (gabarito oficial: D)**
+
+> Achado de necropsia típico da sufocação indireta por compressão torácica.
+
+1. **A compressão torácica represa sangue venoso na cabeça/pescoço (síndrome de Perthes).**
+2. **Máscara equimótica (D) é o achado clássico.**
+
+**Fonte: FGV, PC-RJ, 2021, questão 17 (gabarito oficial: B)**
+
+> Significado de "estado puerperal" no infanticídio.
+
+1. **Refere-se a condições hormonais e dor do parto, não a psicose nem a "desonra".**
+2. **B é o gabarito.**
+
+**Fonte: FGV, PC-AM, 2022, questão 14 (gabarito oficial: B)**
+
+> Sobre himenologia: carúnculas mirtiformes.
+
+1. **Carúnculas mirtiformes são retalhos/tubérculos de cicatrização de rotura himenal.**
+2. **B é o gabarito.**
+
+**Fonte: FGV, PC-RJ, 2021, questão 19 (gabarito oficial: D)**
+
+> Característica que favorece o diagnóstico de entalhe himenal (em vez de rotura).
+
+1. **Entalhe é variação congênita: simétrica, regular, sem sinais de trauma agudo.**
+2. **D (simetria) é o gabarito.**
+
 ## Pegadinhas da banca
 
 - Trocar sufocação direta (vias aéreas) por sufocação indireta (tórax), ou o contrário.
@@ -112,6 +195,12 @@ Além dos movimentos, a balística forense também trata de: **balística intern
 - Trocar precessão (movimento cônico maior) por nutação (oscilação pequena sobreposta), ou o contrário.
 - Atribuir a rotação a uma causa errada (a rotação vem do raiamento do cano, não do formato da ogiva).
 - Classificar lesão pelo agente errado (por exemplo, chamar de "cortante" uma lesão produzida por instrumento contundente).
+- Trocar as definições de enforcamento e estrangulamento entre si (peso próprio x força externa com laço).
+- Incluir "sufocação" numa lista de asfixias por constrição do pescoço (só enforcamento, estrangulamento e esganadura constringem o pescoço).
+- Confundir marca de laço (sulco contínuo) com estigmas ungueais em meia lua (esganadura, sem laço).
+- Achar que morte em incêndio é sempre por queimadura térmica direta, ignorando a intoxicação por CO.
+- Confundir entalhe himenal (congênito, simétrico) com carúncula mirtiforme (cicatriz de rotura, retalho) ou com rotura recente (assimétrica, com hemorragia/edema).
+- Atribuir o fundamento do "estado puerperal" a psicose ou vergonha, em vez de condições hormonais/dor do parto.
 
 ## Como resolver questões
 
@@ -122,16 +211,19 @@ Além dos movimentos, a balística forense também trata de: **balística intern
 
 ## Lacunas honestas
 
-- Ainda não há questão real localizada sobre sexologia forense isoladamente, nem sobre balística interna/externa/de efeitos (padrões de disparo por distância) neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
+- Ainda não há questão real localizada sobre balística interna/externa/de efeitos (padrões de disparo por distância) neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
 - [ ] Sei classificar lesões traumatológicas pelo agente causador (contundente, cortante, perfurante, perfurocontundente, cortocontundente).
-- [ ] Sei os cinco tipos de asfixia mecânica e o mecanismo específico de cada um.
-- [ ] Sei diferenciar enforcamento de estrangulamento pelo formato do sulco e pela origem da força.
+- [ ] Sei os seis tipos de asfixia mecânica (incluindo esganadura) e o mecanismo específico de cada um.
+- [ ] Sei diferenciar enforcamento, estrangulamento e esganadura pelo formato do sulco/marca e pela origem da força.
+- [ ] Sei a tríade asfíxica clássica e o achado específico da sufocação indireta (máscara equimótica).
+- [ ] Sei por que o monóxido de carbono é a principal causa de morte em incêndios fechados.
 - [ ] Sei os quatro movimentos do projétil (rotação, translação, precessão, nutação) e a causa física de cada um.
-- [ ] Sei os elementos centrais do exame de sexologia forense.
-- [ ] Resolvi as duas questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Sei diferenciar entalhe himenal, rotura e carúncula mirtiforme.
+- [ ] Sei o fundamento médico-legal do "estado puerperal" no infanticídio.
+- [ ] Resolvi as dez questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
@@ -143,6 +235,11 @@ Além dos movimentos, a balística forense também trata de: **balística intern
 **Prova/FGV**
 
 - FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questões 44 e 45. Gabarito definitivo publicado pela FGV.
+- FGV. SEAD-AP, 2022. Questão 1 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. PC-AM, 2022. Questões 18 e 14 localizadas em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. PC-RN, 2021. Questões 7 e 8 localizadas em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. PC-MA, 2012. Questão 18 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. PC-RJ, 2021. Questões 17 e 19 localizadas em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**
