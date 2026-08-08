@@ -29,7 +29,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | Legislação | 5 | 7 | 25 | Conhecimentos Específicos, item 6 |
 | Penal | 3 | 3 | 14 | Conhecimentos Específicos, item 7 |
 | Processo Penal | 3 | 3 | 17 | Conhecimentos Específicos, item 8 |
-| Constitucional | 3 | 3 | 3 | Conhecimentos Específicos, item 9 |
+| Constitucional | 3 | 3 | 19 | Conhecimentos Específicos, item 9 |
 | Administrativo | 3 | 3 | 3 | Conhecimentos Específicos, item 10 |
 | Direitos Humanos | 3 | 3 | 3 | Conhecimentos Específicos, item 11 |
 
@@ -107,9 +107,9 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | 050 | Processo Penal | Princípios, inquérito, ação penal e direitos do investigado | Processo Penal 8.1 | alta | 5 (4 oficiais FGV) |
 | 051 | Processo Penal | Provas, cadeia de custódia, busca e reconhecimento | Processo Penal 8.2 | altíssima | 8 (7 oficiais FGV) |
 | 052 | Processo Penal | Prisões, cautelares e leis processuais extravagantes | Processo Penal 8.3-8.4 | alta | 4 (3 oficiais FGV) |
-| 053 | Constitucional | Princípios, direitos, garantias e remédios constitucionais | Constitucional 8.1-8.3 | altíssima | 1 |
-| 054 | Constitucional | Organização do Estado, Poderes e segurança pública | Constitucional 8.4-8.6 | altíssima | 1 |
-| 055 | Constitucional | Controle de constitucionalidade e Constituição do Paraná | Constitucional 8.7-8.8 | alta | 1 |
+| 053 | Constitucional | Princípios, direitos, garantias e remédios constitucionais | Constitucional 8.1-8.3 | altíssima | 8 (7 oficiais FGV) |
+| 054 | Constitucional | Organização do Estado, Poderes e segurança pública | Constitucional 8.4-8.6 | altíssima | 7 (6 oficiais FGV) |
+| 055 | Constitucional | Controle de constitucionalidade e Constituição do Paraná | Constitucional 8.7-8.8 | alta | 4 (autorais) |
 | 056 | Administrativo | Conceito, fontes, princípios e Administração Pública | Administrativo 9.1-9.2 | alta | 1 |
 | 057 | Administrativo | Atos, poderes, serviços, licitações e contratos | Administrativo 9.3-9.6 | altíssima | 1 |
 | 058 | Administrativo | Agentes, responsabilidade, improbidade e controle | Administrativo 9.7-9.10 | alta | 1 |

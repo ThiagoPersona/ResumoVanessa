@@ -1,185 +1,113 @@
 # 053 - Princípios, direitos, garantias e remédios constitucionais
 
-> **Base do edital:** Conhecimentos Específicos; Constitucional 8.1-8.3.  
-> **Peso da disciplina:** 3 questões na prova objetiva.  
-> **Prioridade:** altíssima.
+## Leitura rápida
+
+- A prisão civil por dívida só é admitida, no ordenamento brasileiro atual, na hipótese de inadimplemento voluntário e inescusável de obrigação alimentícia — a prisão do depositário infiel, embora prevista literalmente no texto constitucional, está superada pela Súmula Vinculante 25 do STF.
+- Igualdade formal (tratar todos igualmente perante a lei) e igualdade material (tratar desigualmente os desiguais, na medida de suas desigualdades) não se confundem; ações afirmativas rompem a igualdade formal exatamente para construir a igualdade material.
+- Direitos sociais, em regra, são normas constitucionais de eficácia limitada, exigindo integração por legislação infraconstitucional para sua plena exigibilidade.
+- O mandado de injunção é o remédio constitucional cabível quando a falta de norma regulamentadora torna inviável o exercício de direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania.
+- Condenação criminal transitada em julgado suspende os direitos políticos enquanto durarem seus efeitos — inclusive durante o cumprimento de livramento condicional, período em que o condenado não pode votar nem ser votado.
+- A irredutibilidade do valor dos benefícios da seguridade social é objetivo constitucional expresso (Art. 194, parágrafo único, IV, CF) — lei que autorize reduzir esses valores é inconstitucional.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Constitucional soma 3 questões; este capítulo concentra Constitucional 8.1-8.3.
-- **Como a FGV costuma cobrar:** Constitucional costuma vir por literalidade inteligente: princípio, direito fundamental, remédio constitucional, competência e art. 144.
-- **O que mais confunde candidatos:** misturar direito individual com remédio; confundir polícia judiciária com policiamento ostensivo; trocar competência legislativa por material.
-- **Particularidade para Papiloscopista:** A base constitucional limita e legitima a atividade policial: segurança pública, garantias individuais, dados, domicílio, prisão e devido processo legal.
+Este é o núcleo mais denso e frequentemente cobrado do Direito Constitucional em provas de carreiras policiais: direitos e garantias fundamentais aparecem tanto em questões teóricas quanto embutidos em casos concretos que exigem raciocínio jurídico aplicado, sendo prioridade altíssima do edital.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV PCMG - Perito Criminal, Área I | 2024 | Q32: gratuidade constitucional da obtenção de certidão para defesa de direitos e esclarecimento de situação de interesse pessoal (Art. 5º, XXXIV, CF). |
+| FGV PCAM - Investigador de Polícia, 4ª Classe | 2021/2022 | Q46: hipóteses admitidas de prisão civil por dívida. Q47: distinção entre igualdade formal e material, e o papel das ações afirmativas. Q48: eficácia limitada dos direitos sociais, em regra. Q49: mandado de injunção como remédio cabível para omissão legislativa que impede exercício de prerrogativa. Q50: suspensão dos direitos políticos durante cumprimento de pena, inclusive em livramento condicional. Q55: irredutibilidade do valor dos benefícios da seguridade social como objetivo constitucional. |
 
-- **Princípios fundamentais da Constituição de 1988.** Fundamentos, objetivos, direitos individuais/coletivos, direitos sociais, nacionalidade, direitos políticos, devido processo, domicílio, sigilo, prisão, HC, HD, MS, MI e ação popular.
-- **Direitos e garantias fundamentais, direitos sociais, nacionalidade, direitos políticos e garantias constitucionais.** Fundamentos, objetivos, direitos individuais/coletivos, direitos sociais, nacionalidade, direitos políticos, devido processo, domicílio, sigilo, prisão, HC, HD, MS, MI e ação popular.
-- **Devido processo legal, inviolabilidade de domicílio, sigilo de dados e comunicações, prisão e liberdade.** Fundamentos, objetivos, direitos individuais/coletivos, direitos sociais, nacionalidade, direitos políticos, devido processo, domicílio, sigilo, prisão, HC, HD, MS, MI e ação popular.
-- **Habeas corpus, habeas data, mandado de segurança, mandado de injunção e ação popular.** Fundamentos, objetivos, direitos individuais/coletivos, direitos sociais, nacionalidade, direitos políticos, devido processo, domicílio, sigilo, prisão, HC, HD, MS, MI e ação popular.
-- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
-- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
-- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Prisão civil por dívida
 
-### Visão de estudo para este tema
+A CF (Art. 5º, LXVII) prevê literalmente: "não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel." Porém, o STF (Súmula Vinculante 25) pacificou que **"é ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito"** — em razão do Pacto de San José da Costa Rica (que o Brasil ratificou, e que só admite prisão civil por dívida alimentícia). Na prática atual, portanto, **só resta admitida a prisão civil por dívida de natureza alimentícia** (inadimplemento voluntário e inescusável).
 
-Direito Constitucional dá o limite superior da atividade policial. Direitos fundamentais, devido processo, inviolabilidade de domicílio, sigilo de dados, prisão e liberdade não são enfeites: são parâmetros de validade da investigação.
+### Igualdade formal e igualdade material
 
-A FGV cobra muito a literalidade inteligente da Constituição: princípio fundamental, direito individual, remédio constitucional, competência federativa, Poderes e art. 144 sobre segurança pública.
-
-O estudo deve ligar norma constitucional a prática policial: quem investiga, quem preserva direitos, quando há reserva de jurisdição e qual remédio protege cada situação.
-
-**Aplicação ao cargo:** A Constituição legitima e limita a atuação policial, inclusive na coleta de dados, ingresso em domicílio, prisão, sigilo e investigação criminal.
-
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
-
-### O que mais merece atenção
-
-- princípios fundamentais
-- direitos e garantias individuais
-- remédios constitucionais
-- organização do Estado e Poderes
-- art. 144 e Polícia Civil
-- controle de constitucionalidade
-
-### Conteúdo completo orientado ao edital
-
-### 1. Princípios fundamentais da Constituição de 1988.
-
-**O que significa:** Princípios fundamentais orientam o Estado; direitos e garantias limitam o poder; remédios constitucionais protegem situações específicas como liberdade, informação, direito líquido e certo e omissão normativa.
-
-**Como estudar para a prova:** Fundamentos, objetivos, direitos individuais/coletivos, direitos sociais, nacionalidade, direitos políticos, devido processo, domicílio, sigilo, prisão, HC, HD, MS, MI e ação popular.
-
-**Como a FGV pode cobrar:** A FGV cobra qual remédio cabe, qual garantia foi violada ou qual exceção constitucional permite restrição.
-
-**Cuidado de prova:** Habeas data protege conhecimento/retificação de dados pessoais; mandado de segurança protege direito líquido e certo não amparado por HC/HD.
-
-### 2. Direitos e garantias fundamentais, direitos sociais, nacionalidade, direitos políticos e garantias constitucionais.
-
-**O que significa:** Princípios fundamentais orientam o Estado; direitos e garantias limitam o poder; remédios constitucionais protegem situações específicas como liberdade, informação, direito líquido e certo e omissão normativa.
-
-**Como estudar para a prova:** Fundamentos, objetivos, direitos individuais/coletivos, direitos sociais, nacionalidade, direitos políticos, devido processo, domicílio, sigilo, prisão, HC, HD, MS, MI e ação popular.
-
-**Como a FGV pode cobrar:** A FGV cobra qual remédio cabe, qual garantia foi violada ou qual exceção constitucional permite restrição.
-
-**Cuidado de prova:** Habeas data protege conhecimento/retificação de dados pessoais; mandado de segurança protege direito líquido e certo não amparado por HC/HD.
-
-### 3. Devido processo legal, inviolabilidade de domicílio, sigilo de dados e comunicações, prisão e liberdade.
-
-**O que significa:** Princípios fundamentais orientam o Estado; direitos e garantias limitam o poder; remédios constitucionais protegem situações específicas como liberdade, informação, direito líquido e certo e omissão normativa.
-
-**Como estudar para a prova:** Fundamentos, objetivos, direitos individuais/coletivos, direitos sociais, nacionalidade, direitos políticos, devido processo, domicílio, sigilo, prisão, HC, HD, MS, MI e ação popular.
-
-**Como a FGV pode cobrar:** A FGV cobra qual remédio cabe, qual garantia foi violada ou qual exceção constitucional permite restrição.
-
-**Cuidado de prova:** Habeas data protege conhecimento/retificação de dados pessoais; mandado de segurança protege direito líquido e certo não amparado por HC/HD.
-
-### 4. Habeas corpus, habeas data, mandado de segurança, mandado de injunção e ação popular.
-
-**O que significa:** Princípios fundamentais orientam o Estado; direitos e garantias limitam o poder; remédios constitucionais protegem situações específicas como liberdade, informação, direito líquido e certo e omissão normativa.
-
-**Como estudar para a prova:** Fundamentos, objetivos, direitos individuais/coletivos, direitos sociais, nacionalidade, direitos políticos, devido processo, domicílio, sigilo, prisão, HC, HD, MS, MI e ação popular.
-
-**Como a FGV pode cobrar:** A FGV cobra qual remédio cabe, qual garantia foi violada ou qual exceção constitucional permite restrição.
-
-**Cuidado de prova:** Habeas data protege conhecimento/retificação de dados pessoais; mandado de segurança protege direito líquido e certo não amparado por HC/HD.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Conceito | Definição |
 |---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Igualdade formal | Todos são iguais perante a lei, sem distinções |
+| Igualdade material (substancial) | Tratar desigualmente os desiguais, na medida de suas desigualdades, para alcançar igualdade real de oportunidades |
+| Ações afirmativas | Medidas que **rompem** a igualdade formal (tratamento diferenciado) exatamente para **construir** a igualdade material |
 
-### Diferenças que a banca costuma trocar
+Ações afirmativas (cotas, políticas de inclusão) não contrariam o princípio da igualdade — são o instrumento pelo qual a igualdade material é perseguida, mediante desigualdade formal justificada e proporcional.
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+### Eficácia das normas constitucionais: direitos sociais
+
+Direitos sociais (Art. 6º e seguintes da CF), em **regra**, são normas de **eficácia limitada** — dependem de integração por legislação infraconstitucional para sua plena exigibilidade e regulamentação (diferente dos direitos individuais clássicos, geralmente de eficácia plena ou contida). Isso não significa ausência total de efeitos imediatos (alguns direitos sociais têm aplicabilidade imediata em seu núcleo essencial), mas, como regra geral, a efetivação depende de política pública e legislação regulamentadora.
+
+### Remédios constitucionais
+
+| Remédio | Cabimento |
+|---|---|
+| Habeas corpus | Proteger a liberdade de locomoção, ameaçada ou violada por ilegalidade ou abuso de poder |
+| Habeas data | Assegurar o conhecimento ou retificação de informações relativas à pessoa do impetrante, constantes de registros/bancos de dados de entidades governamentais ou de caráter público |
+| Mandado de segurança | Proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, violado por ilegalidade ou abuso de poder de autoridade |
+| **Mandado de injunção** | Cabível quando a **falta de norma regulamentadora torna inviável o exercício** de direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania |
+| Ação popular | Qualquer cidadão pode propor, para anular ato lesivo ao patrimônio público, à moralidade administrativa, ao meio ambiente ou ao patrimônio histórico/cultural |
+
+**Ponto de prova recorrente**: o mandado de injunção é o remédio certo quando a **omissão do Poder Legislativo** impede o exercício de uma prerrogativa constitucional individual e concreta — diferente da ação direta de inconstitucionalidade por omissão (ADO), que é instrumento de controle abstrato, não voltado à situação individual e concreta de uma pessoa específica.
+
+### Suspensão dos direitos políticos
+
+CF, Art. 15, III: a **condenação criminal transitada em julgado** suspende os direitos políticos, **enquanto durarem seus efeitos**. Isso inclui o período de cumprimento de pena mesmo em **livramento condicional** (que ainda é uma forma de cumprimento da pena, sob condições) — enquanto os efeitos da condenação perdurarem, o condenado permanece com os direitos políticos suspensos, **não podendo votar nem ser votado**.
+
+### Irredutibilidade de benefícios da seguridade social
+
+A CF (Art. 194, parágrafo único, IV) lista, entre os objetivos da seguridade social, a **"irredutibilidade do valor dos benefícios"**. Uma lei que autorize reduzir o valor de benefícios de assistência social (ou de qualquer benefício da seguridade social) contraria esse objetivo constitucional expresso, sendo **inconstitucional**.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Princípios fundamentais da Constituição de 1988. | Habeas data protege conhecimento/retificação de dados pessoais; mandado de segurança protege direito líquido e certo não amparado por HC/HD. | A FGV cobra qual remédio cabe, qual garantia foi violada ou qual exceção constitucional permite restrição. |
-| Direitos e garantias fundamentais, direitos sociais, nacionalidade, direitos políticos e garantias constitucionais. | Habeas data protege conhecimento/retificação de dados pessoais; mandado de segurança protege direito líquido e certo não amparado por HC/HD. | A FGV cobra qual remédio cabe, qual garantia foi violada ou qual exceção constitucional permite restrição. |
-| Devido processo legal, inviolabilidade de domicílio, sigilo de dados e comunicações, prisão e liberdade. | Habeas data protege conhecimento/retificação de dados pessoais; mandado de segurança protege direito líquido e certo não amparado por HC/HD. | A FGV cobra qual remédio cabe, qual garantia foi violada ou qual exceção constitucional permite restrição. |
-| Habeas corpus, habeas data, mandado de segurança, mandado de injunção e ação popular. | Habeas data protege conhecimento/retificação de dados pessoais; mandado de segurança protege direito líquido e certo não amparado por HC/HD. | A FGV cobra qual remédio cabe, qual garantia foi violada ou qual exceção constitucional permite restrição. |
+| Saber que só a dívida alimentícia admite prisão civil hoje (depositário infiel superado pela SV 25) | Evidenciado diretamente na questão real PCAM Q46 | Memorize a Súmula Vinculante 25 como a atualização mais importante sobre o tema |
+| Diferenciar igualdade formal de material e o papel das ações afirmativas | Evidenciado diretamente na questão real PCAM Q47 | Associe: ações afirmativas rompem a formal para construir a material |
+| Saber que direitos sociais são, em regra, de eficácia limitada | Evidenciado diretamente na questão real PCAM Q48 | Lembre a regra geral, sem esquecer que há exceções pontuais de eficácia imediata |
+| Saber quando cabe mandado de injunção (omissão legislativa que impede exercício de direito individual e concreto) | Evidenciado diretamente na questão real PCAM Q49 | Diferencie do controle abstrato (ADO), que não atende a uma situação individual específica |
+| Saber que direitos políticos ficam suspensos durante os efeitos da condenação, inclusive em livramento condicional | Evidenciado diretamente na questão real PCAM Q50 | Associe: enquanto durarem os efeitos da condenação = suspensão, não perda definitiva |
+| Saber a gratuidade constitucional de certidão para defesa de direitos/esclarecimento de interesse pessoal | Evidenciado diretamente na questão real PCMG Q32 | Memorize o Art. 5º, XXXIV, "b", CF |
+| Saber a irredutibilidade do valor dos benefícios da seguridade social como objetivo constitucional | Evidenciado diretamente na questão real PCAM Q55 | Associe: reduzir valor de benefício = contraria objetivo constitucional expresso |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
-
-### Roteiro de estudo de alta retenção
-
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
-
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Princípios fundamentais da Constituição de 1988. | Fundamentos, objetivos, direitos individuais/coletivos, direitos sociais, nacionalidade, direitos políticos, devido processo, domicílio, sigilo, prisão, HC, HD, MS, MI e ação popular. | Habeas data protege conhecimento/retificação de dados pessoais; mandado de segurança protege direito líquido e certo não amparado por HC/HD. |
-| Direitos e garantias fundamentais, direitos sociais, nacionalidade, direitos políticos e garantias constitucionais. | Fundamentos, objetivos, direitos individuais/coletivos, direitos sociais, nacionalidade, direitos políticos, devido processo, domicílio, sigilo, prisão, HC, HD, MS, MI e ação popular. | Habeas data protege conhecimento/retificação de dados pessoais; mandado de segurança protege direito líquido e certo não amparado por HC/HD. |
-| Devido processo legal, inviolabilidade de domicílio, sigilo de dados e comunicações, prisão e liberdade. | Fundamentos, objetivos, direitos individuais/coletivos, direitos sociais, nacionalidade, direitos políticos, devido processo, domicílio, sigilo, prisão, HC, HD, MS, MI e ação popular. | Habeas data protege conhecimento/retificação de dados pessoais; mandado de segurança protege direito líquido e certo não amparado por HC/HD. |
-| Habeas corpus, habeas data, mandado de segurança, mandado de injunção e ação popular. | Fundamentos, objetivos, direitos individuais/coletivos, direitos sociais, nacionalidade, direitos políticos, devido processo, domicílio, sigilo, prisão, HC, HD, MS, MI e ação popular. | Habeas data protege conhecimento/retificação de dados pessoais; mandado de segurança protege direito líquido e certo não amparado por HC/HD. |
-
-| Ponto quente | Treino recomendado |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Suspensão dos direitos políticos (condenação transitada em julgado, enquanto durarem os efeitos) | Perda definitiva dos direitos políticos | Ambas parecem "privação de direitos políticos" | A condenação criminal gera suspensão temporária (enquanto durarem os efeitos), não perda definitiva e permanente |
+| Mandado de injunção (situação individual e concreta, omissão que impede exercício de direito) | Ação direta de inconstitucionalidade por omissão (controle abstrato, geral) | Ambos tratam de "omissão legislativa" | Injunção resolve caso concreto individual; ADO por omissão é controle abstrato, sem vinculação a uma situação pessoal específica |
+| Igualdade formal (todos iguais perante a lei) | Igualdade material (tratamento diferenciado para compensar desigualdades) | Ambas são "igualdade constitucional" | Ações afirmativas rompem a formal para buscar a material — não são incompatíveis com o princípio da igualdade, são sua efetivação |
 
 ## Pegadinhas da banca
 
-- Achar que segurança pública elimina direitos fundamentais.
-- Confundir Polícia Civil com polícia administrativa ostensiva.
-- Misturar habeas data com mandado de segurança.
-- Tratar competência comum, privativa e concorrente como sinônimas.
-- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
-- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
-- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Achar que a prisão do depositário infiel ainda é válida no Brasil, ignorando a Súmula Vinculante 25.
+- Achar que ações afirmativas contrariam o princípio da igualdade, quando na verdade o realizam.
+- Achar que todos os direitos sociais têm eficácia plena e imediata, ignorando a regra geral de eficácia limitada.
+- Confundir mandado de injunção (caso concreto individual) com ADO (controle abstrato).
+- Achar que o livramento condicional restabelece os direitos políticos, quando na verdade a suspensão persiste enquanto durarem os efeitos da condenação.
 
 ## Como resolver questões
 
-1. Localize o assunto: fundamento, direito, organização do Estado, poder, segurança pública ou controle.
-2. Em direitos fundamentais, verifique titular, garantia, exceção e reserva legal/judicial.
-3. Em art. 144, diferencie funções de cada órgão de segurança.
-4. Em controle, separe ADI e ADC por finalidade.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para prisão civil por dívida, lembre que apenas a dívida alimentícia é hoje admitida na prática (SV 25 superou o depositário infiel).
+2. Para igualdade, sempre distinga o argumento formal do material antes de avaliar a legitimidade de uma ação afirmativa.
+3. Para eficácia de normas constitucionais, identifique se a norma é de direito individual clássico (eficácia plena/contida) ou de direito social (eficácia limitada, em regra).
+4. Para remédios constitucionais, identifique se a situação é individual e concreta (mandado de injunção, habeas corpus, habeas data, mandado de segurança) ou abstrata (ADI, ADO, ADC).
+5. Para direitos políticos, verifique se os efeitos da condenação ainda perduram (inclusive livramento condicional) antes de concluir se há suspensão.
+
+## Lacunas honestas
+
+- Nenhuma lacuna relevante identificada para este tema — foram localizadas sete questões reais de duas fontes distintas, cobrindo os pontos mais centrais de princípios, direitos, garantias e remédios constitucionais.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Constitucional 8.1-8.3.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei que apenas a dívida alimentícia admite prisão civil atualmente (SV 25).
+- [ ] Sei diferenciar igualdade formal de material e o papel das ações afirmativas.
+- [ ] Sei que direitos sociais são, em regra, de eficácia limitada.
+- [ ] Sei quando cabe mandado de injunção, diferenciando-o do controle abstrato de constitucionalidade por omissão.
+- [ ] Sei que direitos políticos ficam suspensos enquanto durarem os efeitos da condenação, inclusive em livramento condicional.
+- [ ] Sei a gratuidade constitucional de certidão para defesa de direitos e esclarecimento de interesse pessoal.
+- [ ] Sei a irredutibilidade do valor dos benefícios da seguridade social como objetivo constitucional.
+- [ ] Resolvi as sete questões reais comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -187,12 +115,24 @@ O estudo deve ligar norma constitucional a prática policial: quem investiga, qu
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
-- [Constituição Federal de 1988 - Planalto](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Direito Constitucional - cópia.pdf`
-- `Materiais QB/Constitucional/`
+- FGV. PCMG - Perito Criminal, Área I, Tipo Branca, 2024/2025. Caderno oficial, questão 32. Gabarito oficial definitivo publicado pela FGV (aplicada em 26/01/2025).
+- FGV. PCAM - Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022. Caderno oficial, questões 46, 47, 48, 49, 50 e 55. Gabarito oficial definitivo publicado pela FGV (aplicada em 03/04/2022).
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Lei seca**
+
+- Constituição Federal de 1988, arts. 5º, 6º, 15, 194.
+- Súmula Vinculante n.º 25, STF.
+
+**Material local**
+
+- `Curso Alfacon/Direito Constitucional - cópia.pdf` (quando disponível)
+
+**Atualização/fonte externa**
+
+- [Constituição Federal - Planalto](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos.

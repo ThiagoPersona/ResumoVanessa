@@ -1,172 +1,113 @@
 # 054 - Organização do Estado, Poderes e segurança pública
 
-> **Base do edital:** Conhecimentos Específicos; Constitucional 8.4-8.6.  
-> **Peso da disciplina:** 3 questões na prova objetiva.  
-> **Prioridade:** altíssima.
+## Leitura rápida
+
+- Na competência legislativa concorrente, se a União edita lei federal de normas gerais em sentido contrário a uma lei estadual preexistente sobre a mesma matéria, a eficácia da lei estadual fica **suspensa** (não revogada) no que for contrário à norma federal.
+- O estado de defesa é decretado pelo Presidente da República para preservar ou restabelecer, em locais restritos e determinados, a ordem pública ou a paz social ameaçadas por grave instabilidade institucional ou atingidas por calamidades de grandes proporções na natureza.
+- Municípios têm autonomia política constitucionalmente assegurada; nem a União, nem os Estados (inclusive por emenda à Constituição Estadual) podem reduzir essa autonomia para além dos limites já traçados pela própria Constituição Federal.
+- Restrições a direitos fundamentais (como liberdade de ir e vir, igualdade de acesso) só podem ser criadas por **lei**, não por mero decreto do Poder Executivo municipal.
+- A segurança viária (educação, engenharia e fiscalização de trânsito) é atribuição, no âmbito de Estados, Distrito Federal e Municípios, dos respectivos órgãos executivos e de seus **agentes de trânsito estruturados em carreira** — dispositivo constitucional relativamente recente (EC 82/2014, art. 144, § 10, CF).
+- Servidor público efetivo eleito para cargo executivo (como Prefeito) fica **afastado** do cargo efetivo durante o mandato, podendo optar pela remuneração mais vantajosa — não é demitido nem aposentado.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Constitucional soma 3 questões; este capítulo concentra Constitucional 8.4-8.6.
-- **Como a FGV costuma cobrar:** Constitucional costuma vir por literalidade inteligente: princípio, direito fundamental, remédio constitucional, competência e art. 144.
-- **O que mais confunde candidatos:** misturar direito individual com remédio; confundir polícia judiciária com policiamento ostensivo; trocar competência legislativa por material.
-- **Particularidade para Papiloscopista:** A base constitucional limita e legitima a atividade policial: segurança pública, garantias individuais, dados, domicílio, prisão e devido processo legal.
+Este tema conecta a estrutura federativa (competências da União, Estados e Municípios), os mecanismos excepcionais de restrição de direitos (estado de defesa/sítio) e a organização constitucional da segurança pública — sendo, junto com o tema 053, o núcleo mais denso e mais cobrado de Direito Constitucional no edital.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV PCMG - Perito Criminal, Área I | 2024 | Q31: efeito da superveniência de lei federal de normas gerais sobre lei estadual preexistente em competência concorrente (suspensão da eficácia). Q33: hipótese de decretação do estado de defesa diante de calamidade natural restrita a uma região. |
+| FGV PCAM - Investigador de Polícia, 4ª Classe | 2021/2022 | Q51: inconstitucionalidade de decreto municipal que restringe acesso a locais de diversão apenas a moradores locais. Q52: limites da Constituição Estadual sobre a autonomia política dos Municípios. Q53: afastamento (não demissão) do servidor efetivo eleito para cargo executivo. Q54: atribuição constitucional da segurança viária aos agentes de trânsito estruturados em carreira (Art. 144, § 10, CF). |
 
-- **União, Estados, Municípios, Distrito Federal e competências constitucionais.** União, Estados, Municípios, Distrito Federal, competências, Executivo, Legislativo, Judiciário, Polícia Civil, polícia judiciária, investigação criminal e diferenças entre órgãos de segurança.
-- **Poder Executivo, Legislativo e Judiciário: funções, competências e limites.** União, Estados, Municípios, Distrito Federal, competências, Executivo, Legislativo, Judiciário, Polícia Civil, polícia judiciária, investigação criminal e diferenças entre órgãos de segurança.
-- **Segurança pública no art. 144, polícias, Polícia Civil, polícia judiciária e investigação criminal.** União, Estados, Municípios, Distrito Federal, competências, Executivo, Legislativo, Judiciário, Polícia Civil, polícia judiciária, investigação criminal e diferenças entre órgãos de segurança.
-- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
-- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
-- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Competência legislativa concorrente (CF, art. 24)
 
-### Visão de estudo para este tema
+Nas matérias de competência concorrente entre União e Estados, a União estabelece **normas gerais**, e os Estados exercem competência **suplementar**. Regras centrais (Art. 24, §§ 1º a 4º, CF):
 
-Direito Constitucional dá o limite superior da atividade policial. Direitos fundamentais, devido processo, inviolabilidade de domicílio, sigilo de dados, prisão e liberdade não são enfeites: são parâmetros de validade da investigação.
-
-A FGV cobra muito a literalidade inteligente da Constituição: princípio fundamental, direito individual, remédio constitucional, competência federativa, Poderes e art. 144 sobre segurança pública.
-
-O estudo deve ligar norma constitucional a prática policial: quem investiga, quem preserva direitos, quando há reserva de jurisdição e qual remédio protege cada situação.
-
-**Aplicação ao cargo:** A Constituição legitima e limita a atuação policial, inclusive na coleta de dados, ingresso em domicílio, prisão, sigilo e investigação criminal.
-
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
-
-### O que mais merece atenção
-
-- princípios fundamentais
-- direitos e garantias individuais
-- remédios constitucionais
-- organização do Estado e Poderes
-- art. 144 e Polícia Civil
-- controle de constitucionalidade
-
-### Conteúdo completo orientado ao edital
-
-### 1. União, Estados, Municípios, Distrito Federal e competências constitucionais.
-
-**O que significa:** Organização do Estado reparte competências entre entes; Poderes exercem funções típicas e atípicas; segurança pública, no art. 144, distribui atribuições entre órgãos.
-
-**Como estudar para a prova:** União, Estados, Municípios, Distrito Federal, competências, Executivo, Legislativo, Judiciário, Polícia Civil, polícia judiciária, investigação criminal e diferenças entre órgãos de segurança.
-
-**Como a FGV pode cobrar:** A banca cobra atribuição constitucional da Polícia Civil e troca com Polícia Militar, Polícia Federal ou Polícia Penal.
-
-**Cuidado de prova:** Polícia judiciária e investigação criminal não equivalem a policiamento ostensivo.
-
-### 2. Poder Executivo, Legislativo e Judiciário: funções, competências e limites.
-
-**O que significa:** Organização do Estado reparte competências entre entes; Poderes exercem funções típicas e atípicas; segurança pública, no art. 144, distribui atribuições entre órgãos.
-
-**Como estudar para a prova:** União, Estados, Municípios, Distrito Federal, competências, Executivo, Legislativo, Judiciário, Polícia Civil, polícia judiciária, investigação criminal e diferenças entre órgãos de segurança.
-
-**Como a FGV pode cobrar:** A banca cobra atribuição constitucional da Polícia Civil e troca com Polícia Militar, Polícia Federal ou Polícia Penal.
-
-**Cuidado de prova:** Polícia judiciária e investigação criminal não equivalem a policiamento ostensivo.
-
-### 3. Segurança pública no art. 144, polícias, Polícia Civil, polícia judiciária e investigação criminal.
-
-**O que significa:** Organização do Estado reparte competências entre entes; Poderes exercem funções típicas e atípicas; segurança pública, no art. 144, distribui atribuições entre órgãos.
-
-**Como estudar para a prova:** União, Estados, Municípios, Distrito Federal, competências, Executivo, Legislativo, Judiciário, Polícia Civil, polícia judiciária, investigação criminal e diferenças entre órgãos de segurança.
-
-**Como a FGV pode cobrar:** A banca cobra atribuição constitucional da Polícia Civil e troca com Polícia Militar, Polícia Federal ou Polícia Penal.
-
-**Cuidado de prova:** Polícia judiciária e investigação criminal não equivalem a policiamento ostensivo.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Situação | Efeito |
 |---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Inexistindo lei federal de normas gerais | Estado exerce competência legislativa plena para atender suas peculiaridades |
+| Superveniência de lei federal de normas gerais, em sentido contrário à lei estadual já existente | A **eficácia da lei estadual fica suspensa**, no que lhe for contrário — não é revogação |
 
-### Diferenças que a banca costuma trocar
+**Ponto de prova recorrente**: o efeito da lei federal posterior sobre a lei estadual preexistente e conflitante é a **suspensão de eficácia** (não a revogação) — distinção sutil, mas tecnicamente relevante, pois a lei estadual pode voltar a ter eficácia se a lei federal for revogada.
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+### Estado de defesa e estado de sítio
+
+| Instituto | Situação que autoriza | Abrangência |
 |---|---|---|
-| União, Estados, Municípios, Distrito Federal e competências constitucionais. | Polícia judiciária e investigação criminal não equivalem a policiamento ostensivo. | A banca cobra atribuição constitucional da Polícia Civil e troca com Polícia Militar, Polícia Federal ou Polícia Penal. |
-| Poder Executivo, Legislativo e Judiciário: funções, competências e limites. | Polícia judiciária e investigação criminal não equivalem a policiamento ostensivo. | A banca cobra atribuição constitucional da Polícia Civil e troca com Polícia Militar, Polícia Federal ou Polícia Penal. |
-| Segurança pública no art. 144, polícias, Polícia Civil, polícia judiciária e investigação criminal. | Polícia judiciária e investigação criminal não equivalem a policiamento ostensivo. | A banca cobra atribuição constitucional da Polícia Civil e troca com Polícia Militar, Polícia Federal ou Polícia Penal. |
+| Estado de defesa (Art. 136 CF) | Preservar ou restabelecer, em locais restritos e determinados, a ordem pública ou a paz social ameaçadas por grave e iminente instabilidade institucional ou atingidas por calamidades de grandes proporções na natureza | Restrito a locais determinados (não é medida de abrangência nacional) |
+| Estado de sítio (Art. 137 CF) | Comoção grave de repercussão nacional, ineficácia do estado de defesa, ou declaração de guerra/resposta a agressão armada estrangeira | Medida mais grave, de abrangência potencialmente mais ampla |
 
-### Aplicação direta para Papiloscopista
+**Ponto de prova recorrente**: uma grande enchente causando grave ameaça à paz social, restrita a uma região específica do território, é hipótese clássica de **estado de defesa** (calamidade de grandes proporções na natureza, em local restrito), não de estado de sítio.
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+### Autonomia municipal e seus limites
 
-### Roteiro de estudo de alta retenção
+Os Municípios têm autonomia política constitucionalmente assegurada (CF, art. 18 e art. 30), incluindo competência para legislar sobre assuntos de interesse local. Consequências centrais:
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+- **A Constituição Estadual não pode reduzir a autonomia política dos Municípios** para além dos balizamentos já estabelecidos pela própria Constituição Federal — mesmo por emenda constitucional estadual, o Estado não tem competência para invadir a esfera de autonomia municipal garantida constitucionalmente.
+- **Restrições a direitos fundamentais** (como acesso a locais públicos, liberdade de ir e vir) exigem **lei** (ato normativo primário, aprovado pelo Poder Legislativo) — um decreto do Prefeito, sozinho, não tem essa força normativa, especialmente quando cria distinção discriminatória (como restringir acesso a não-moradores do próprio Município).
 
-### Lacunas honestas
+### Segurança pública: órgãos e competências (Art. 144 CF)
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
+A CF (Art. 144) lista os órgãos de segurança pública em nível federal e estadual: Polícia Federal, Polícia Rodoviária Federal, Polícia Ferroviária Federal, Polícias Civis, Polícias Militares e Corpos de Bombeiros Militares, e Polícia Penal.
 
-## Tabelas e esquemas
+**Segurança viária** (Art. 144, § 10, CF, incluído pela Emenda Constitucional n.º 82/2014): dispositivo específico e relativamente recente, que trata da segurança viária como atividade exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio **nas vias públicas**:
 
-| Ponto do edital | O que revisar | Pegadinha provável |
+> "I - compreende a educação, engenharia e fiscalização de trânsito, além de outras atividades previstas em lei, que assegurem ao cidadão o direito à mobilidade urbana eficiente; II - compete, no âmbito dos Estados, do Distrito Federal e dos Municípios, aos respectivos órgãos ou entidades executivos e seus agentes de trânsito, **estruturados em Carreira**, na forma da lei."
+
+### Afastamento de servidor efetivo eleito para cargo executivo (CF, art. 38)
+
+Servidor público em cargo efetivo, empregado ou função, quando **investido em mandato eletivo do Poder Executivo** (Prefeito, Governador, Presidente), fica **afastado** do cargo, emprego ou função de origem, facultando-se-lhe optar por sua remuneração — **não é demitido, nem aposentado, nem passa à reserva**. O servidor mantém o vínculo com o cargo efetivo, apenas afastado durante o exercício do mandato.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| União, Estados, Municípios, Distrito Federal e competências constitucionais. | União, Estados, Municípios, Distrito Federal, competências, Executivo, Legislativo, Judiciário, Polícia Civil, polícia judiciária, investigação criminal e diferenças entre órgãos de segurança. | Polícia judiciária e investigação criminal não equivalem a policiamento ostensivo. |
-| Poder Executivo, Legislativo e Judiciário: funções, competências e limites. | União, Estados, Municípios, Distrito Federal, competências, Executivo, Legislativo, Judiciário, Polícia Civil, polícia judiciária, investigação criminal e diferenças entre órgãos de segurança. | Polícia judiciária e investigação criminal não equivalem a policiamento ostensivo. |
-| Segurança pública no art. 144, polícias, Polícia Civil, polícia judiciária e investigação criminal. | União, Estados, Municípios, Distrito Federal, competências, Executivo, Legislativo, Judiciário, Polícia Civil, polícia judiciária, investigação criminal e diferenças entre órgãos de segurança. | Polícia judiciária e investigação criminal não equivalem a policiamento ostensivo. |
+| Saber que lei federal superveniente de normas gerais suspende (não revoga) a eficácia de lei estadual conflitante | Evidenciado diretamente na questão real PCMG Q31 | Memorize: suspensão de eficácia, não revogação |
+| Saber diferenciar estado de defesa (local restrito) de estado de sítio (comoção de repercussão nacional) | Evidenciado diretamente na questão real PCMG Q33 | Associe: calamidade natural em região específica = estado de defesa |
+| Saber que restrições a direitos fundamentais exigem lei, não decreto, e que Municípios não podem discriminar não-moradores | Evidenciado diretamente na questão real PCAM Q51 | Lembre: decreto não tem força de lei para restringir direitos de forma discriminatória |
+| Saber que Constituição Estadual não pode reduzir a autonomia municipal além dos limites da Constituição Federal | Evidenciado diretamente na questão real PCAM Q52 | Associe: autonomia municipal é garantia constitucional federal, indisponível ao Estado |
+| Saber que servidor efetivo eleito para cargo executivo fica afastado (não demitido) do cargo de origem | Evidenciado diretamente na questão real PCAM Q53 | Memorize o Art. 38 CF: afastamento, com opção de remuneração |
+| Saber que a segurança viária é atribuída a agentes de trânsito estruturados em carreira (Art. 144, § 10, CF) | Evidenciado diretamente na questão real PCAM Q54 | Memorize esse dispositivo específico, menos conhecido, da EC 82/2014 |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+## Diferenças que a banca costuma trocar
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Suspensão de eficácia da lei estadual (efeito da lei federal superveniente conflitante) | Revogação da lei estadual | Ambos parecem "a lei estadual deixa de valer" | O efeito técnico correto é suspensão, não revogação — a lei estadual pode voltar a ter eficácia se a lei federal for revogada |
+| Estado de defesa (local restrito, calamidade natural ou instabilidade institucional grave) | Estado de sítio (comoção de repercussão nacional, guerra) | Ambos são "medidas excepcionais de restrição de direitos" | O critério central é a abrangência territorial e a gravidade: defesa é local; sítio é nacional/mais grave |
+| Afastamento do servidor eleito (Art. 38 CF) | Demissão/aposentadoria do servidor eleito | Ambos parecem "consequências de ser eleito" | A CF prevê apenas afastamento, com opção de remuneração, não extinção do vínculo |
 
 ## Pegadinhas da banca
 
-- Achar que segurança pública elimina direitos fundamentais.
-- Confundir Polícia Civil com polícia administrativa ostensiva.
-- Misturar habeas data com mandado de segurança.
-- Tratar competência comum, privativa e concorrente como sinônimas.
-- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
-- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
-- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Confundir suspensão de eficácia (correto) com revogação (incorreto) da lei estadual conflitante com lei federal superveniente.
+- Confundir estado de defesa (local restrito) com estado de sítio (nacional, mais grave).
+- Achar que um decreto municipal pode restringir livremente o acesso a espaços públicos, sem lei e sem discriminar moradores de outros Municípios.
+- Achar que a Constituição Estadual pode disciplinar livremente políticas públicas municipais, sem respeitar a autonomia constitucionalmente garantida.
+- Achar que servidor eleito para cargo executivo é demitido ou aposentado, ao invés de apenas afastado.
+- Esquecer o dispositivo específico da segurança viária (Art. 144, § 10, CF) e seus agentes de trânsito estruturados em carreira.
 
 ## Como resolver questões
 
-1. Localize o assunto: fundamento, direito, organização do Estado, poder, segurança pública ou controle.
-2. Em direitos fundamentais, verifique titular, garantia, exceção e reserva legal/judicial.
-3. Em art. 144, diferencie funções de cada órgão de segurança.
-4. Em controle, separe ADI e ADC por finalidade.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para competência concorrente, identifique se a lei federal é superveniente (suspende eficácia estadual conflitante) ou se inexiste lei federal (Estado tem competência plena).
+2. Para estado de defesa/sítio, avalie a abrangência territorial e a gravidade da situação descrita.
+3. Para restrições a direitos por ato do Poder Executivo local, sempre verifique se há lei (não apenas decreto) autorizando a restrição, e se não há discriminação indevida.
+4. Para autonomia municipal, lembre que nem o Estado (via Constituição Estadual) pode reduzi-la além dos limites federais.
+5. Para servidor eleito, lembre que a consequência é afastamento (com opção de remuneração), não extinção do vínculo efetivo.
+
+## Lacunas honestas
+
+- Nenhuma lacuna relevante identificada para este tema — foram localizadas seis questões reais de duas fontes distintas, cobrindo competência concorrente, mecanismos de restrição excepcional de direitos, autonomia municipal, segurança pública e situação do servidor eleito.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Constitucional 8.4-8.6.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei que lei federal superveniente de normas gerais suspende (não revoga) lei estadual conflitante.
+- [ ] Sei diferenciar estado de defesa (local) de estado de sítio (nacional/mais grave).
+- [ ] Sei que restrições a direitos fundamentais exigem lei, não decreto, e que Municípios não podem discriminar não-moradores.
+- [ ] Sei que a Constituição Estadual não pode reduzir a autonomia municipal além dos limites federais.
+- [ ] Sei que servidor efetivo eleito para cargo executivo fica afastado, não demitido nem aposentado.
+- [ ] Sei que a segurança viária é atribuída a agentes de trânsito estruturados em carreira (Art. 144, § 10, CF).
+- [ ] Resolvi as seis questões reais comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -174,12 +115,23 @@ O estudo deve ligar norma constitucional a prática policial: quem investiga, qu
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
-- [Constituição Federal de 1988 - Planalto](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Direito Constitucional - cópia.pdf`
-- `Materiais QB/Constitucional/`
+- FGV. PCMG - Perito Criminal, Área I, Tipo Branca, 2024/2025. Caderno oficial, questões 31 e 33. Gabarito oficial definitivo publicado pela FGV (aplicada em 26/01/2025).
+- FGV. PCAM - Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022. Caderno oficial, questões 51, 52, 53 e 54. Gabarito oficial definitivo publicado pela FGV (aplicada em 03/04/2022).
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Lei seca**
+
+- Constituição Federal de 1988, arts. 18, 24, 30, 38, 136, 137 e 144 (especialmente § 10, incluído pela EC 82/2014).
+
+**Material local**
+
+- `Curso Alfacon/Direito Constitucional - cópia.pdf` (quando disponível)
+
+**Atualização/fonte externa**
+
+- [Constituição Federal - Planalto](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos.
