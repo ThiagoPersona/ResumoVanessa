@@ -2,14 +2,16 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 7 questões (6 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
+**Itens neste banco:** 9 questões (8 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
 
 ## Fontes reais usadas neste banco
 
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 - FGV, PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1 (a própria prova declara avaliar "capacidade de interpretar e compreender"). Gabarito definitivo publicado pela FGV.
+- FGV, PM-SP 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, Prefeitura de São José dos Campos - SP, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 
-As seis primeiras questões abaixo são reprodução fiel de caderno oficial FGV, com fonte, ano, número e gabarito conferidos. A última é autoral, no padrão observado da banca, usada como reforço enquanto o banco de questões reais deste item específico ainda está sendo ampliado (ver lacuna registrada no tema).
+As oito primeiras questões abaixo são reprodução fiel de caderno oficial FGV, com fonte, ano, número e gabarito conferidos. A última é autoral, no padrão observado da banca, usada como reforço enquanto o banco de questões reais deste item específico ainda está sendo ampliado (ver lacuna registrada no tema).
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 3</p>
@@ -167,11 +169,63 @@ As seis primeiras questões abaixo são reprodução fiel de caderno oficial FGV
 </div>
 </div>
 
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - PM-SP, 2025</p>
+<p><strong>7. Um código indiano de leis registra o seguinte: "Toda vez que o homem reconhece e confessa ter pecado, libera-se do próprio pecado como uma serpente, da pele velha." Sobre o significado e a estruturação desse segmento textual, é correto afirmar que</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-001-pmsp-q3" value="A"> A. a introdução da imagem da serpente no texto se prende à ideia má, contida nos pecados.</label>
+<label class="quiz-option"><input type="radio" name="fgv-001-pmsp-q3" value="B"> B. a comparação da liberação dos pecados com a liberação da pele por parte da serpente é exemplo de linguagem lógica.</label>
+<label class="quiz-option"><input type="radio" name="fgv-001-pmsp-q3" value="C"> C. o reconhecimento do pecado e a sua confissão levam à liberação de culpas no pecador.</label>
+<label class="quiz-option"><input type="radio" name="fgv-001-pmsp-q3" value="D"> D. o texto condena implicitamente a confissão dos pecados presente no catolicismo.</label>
+<label class="quiz-option"><input type="radio" name="fgv-001-pmsp-q3" value="E"> E. a última vírgula empregada no texto é necessária em função da inversão sintática de termos na frase.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, PM-SP, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Separe a ideia central do texto (o que o reconhecimento e a confissão do pecado produzem) da imagem usada para ilustrá-la (a serpente trocando de pele), sem misturar as duas nem inventar julgamentos que o texto não faz.</p>
+<p><strong>Por que a C deve ser marcada:</strong> É a paráfrase fiel da ideia central: reconhecer e confessar o pecado leva à liberação da culpa, tal como a serpente se livra da pele velha.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> A imagem da serpente ilustra renovação/libertação, não uma "ideia má" associada ao pecado.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> A comparação com a serpente é linguagem figurada (metáfora), não linguagem lógica/literal.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> Reflete corretamente o sentido central do texto.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> O texto não menciona nem condena a confissão católica; é um código indiano, sem essa referência.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> A vírgula antes de "da pele velha" marca a omissão (elipse) do verbo "se libera" repetido na comparação, não uma inversão sintática.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir a figura de linguagem usada para ilustrar a ideia (a serpente) com o próprio conteúdo da ideia, ou atribuir ao texto um julgamento (sobre religião, sobre o pecado) que ele simplesmente não faz.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">FGV - Prefeitura de São José dos Campos - SP, 2026</p>
+<p><strong>8. Leia atentamente o trecho inicial de um informativo publicado pelo MEC acerca do Plano Nacional de Alfabetização. "Ao longo da atual gestão tornou-se usual utilizar-se de um adágio que sintetiza a importância fundamental da alfabetização: 'É preciso aprender a ler para então ler para aprender'. Sob esse prisma, portanto, é possível ter uma noção da gravidade e dos impactos negativos de uma crise de aprendizagem nos primeiros anos da trajetória escolar." No sentido do que está exposto, é correto afirmar que a existência de um plano de alfabetização para todo o território nacional contribui para</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-001-sjc-q19" value="A"> A. unificar as práticas de forma a eliminar diferenciações nas estratégias de alfabetização usadas nas escolas brasileiras.</label>
+<label class="quiz-option"><input type="radio" name="fgv-001-sjc-q19" value="B"> B. determinar a metodologia de ensino de leitura que se deseja aplicar, gradativamente, em todo o Brasil.</label>
+<label class="quiz-option"><input type="radio" name="fgv-001-sjc-q19" value="C"> C. dirimir problemas da falha de base do sistema educacional brasileiro no que se refere à aprendizagem de leitura.</label>
+<label class="quiz-option"><input type="radio" name="fgv-001-sjc-q19" value="D"> D. organizar práticas de ensino de leitura, compreendendo-se que o ato de ler é a base para posteriores aprendizagens.</label>
+<label class="quiz-option"><input type="radio" name="fgv-001-sjc-q19" value="E"> E. resolver a crise de aprendizagem na Educação Básica por meio de uma metodologia de alfabetização pré-definida.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: FGV, Prefeitura de São José dos Campos - SP, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Compare o grau de certeza de cada alternativa com o grau de certeza real do texto — o texto afirma que o plano "contribui para" organizar práticas, não que ele "elimina", "determina de forma fechada" ou "resolve" definitivamente algo.</p>
+<p><strong>Por que a D deve ser marcada:</strong> É a única alternativa com verbo/alcance moderado ("organizar práticas"), compatível com o que o texto realmente sustenta, retomando o adágio citado (ler é base para aprendizagens posteriores).</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> "Eliminar diferenciações" é afirmação absoluta demais, não sustentada pelo texto.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> O texto não fala em impor uma metodologia única e fechada.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> "Dirimir" (resolver por completo) é forte demais; o texto fala em "contribuir", não em solucionar definitivamente.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> Reflete o alcance real e moderado da afirmação do texto.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> "Resolver a crise... por meio de metodologia pré-definida" também extrapola o que o texto afirma.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Marcar uma alternativa que "parece certa" por repetir palavras do texto, mas que exagera o alcance real da afirmação (trocando "contribui" por "resolve", "elimina" ou "determina").</p>
+</div>
+</div>
+
 ## Questão autoral de reforço
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>7. Em uma questão de interpretação, a alternativa correta afirma uma consequência que não está literalmente escrita, mas decorre de duas informações do texto. Nessa situação, o candidato deve:</strong></p>
+<p><strong>9. Em uma questão de interpretação, a alternativa correta afirma uma consequência que não está literalmente escrita, mas decorre de duas informações do texto. Nessa situação, o candidato deve:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-001" value="A"> A. verificar se a conclusão decorre logicamente do texto, sem acrescentar dado externo.</label>
 <label class="quiz-option"><input type="radio" name="fgv-001" value="B"> B. marcar a alternativa apenas se ela repetir palavras usadas no texto.</label>

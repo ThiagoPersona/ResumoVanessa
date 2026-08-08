@@ -2,13 +2,15 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 5 questões (4 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
+**Itens neste banco:** 7 questões (6 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
 
 ## Fontes reais usadas neste banco
 
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 - FGV, PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1. Gabarito definitivo publicado pela FGV.
+- FGV, DPE-RO 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, EBSERH 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 
 <div class="quiz-card" data-answer="D">
 <p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 5</p>
@@ -114,11 +116,63 @@
 </div>
 </div>
 
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">FGV - DPE-RO, 2025</p>
+<p><strong>5. A ironia é uma figura de linguagem em que se comunica o oposto do que se quer dar a entender. A ironia está presente na seguinte frase:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-003-dpero-q9" value="A"> A. Mais vale agir sem arrependimento do que se arrepender de não ter feito nada.</label>
+<label class="quiz-option"><input type="radio" name="fgv-003-dpero-q9" value="B"> B. Dinheiro não tem cheiro.</label>
+<label class="quiz-option"><input type="radio" name="fgv-003-dpero-q9" value="C"> C. Perdoar é além do mais, um bom negócio.</label>
+<label class="quiz-option"><input type="radio" name="fgv-003-dpero-q9" value="D"> D. Quarenta para você e sessenta para mim; parceiros iguais seremos assim.</label>
+<label class="quiz-option"><input type="radio" name="fgv-003-dpero-q9" value="E"> E. Enquanto se delibera, muitas vezes a ocasião se perde.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: FGV, DPE-RO, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Procure a frase em que o que é dito literalmente contradiz o que a situação realmente descreve — a marca central da ironia.</p>
+<p><strong>Por que a D deve ser marcada:</strong> A frase propõe uma divisão claramente desigual (quarenta contra sessenta) e a rotula como "parceiros iguais" — a palavra "iguais" contradiz o próprio conteúdo numérico da frase, gerando o efeito irônico.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> É uma máxima direta sobre ação e arrependimento, sem contradição entre forma e conteúdo.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> É uma afirmação literal (expressão idiomática), sem inversão irônica.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> É uma afirmação direta sobre o valor de perdoar, sem oposição interna.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> Contém a contradição entre "iguais" e a divisão desigual descrita — ironia clássica.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> É uma constatação direta sobre deliberação e oportunidade perdida, sem ironia.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir qualquer frase de efeito ou máxima popular com ironia — a ironia exige especificamente uma contradição entre o que se afirma e o que a situação descrita realmente mostra.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">FGV - EBSERH, 2025</p>
+<p><strong>6. As frases a seguir se iniciam por uma metáfora, ou seja, uma comparação figurada entre dois termos. Assinale a frase em que essa comparação não aparece explicada.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-003-ebserh-q4" value="A"> A. As palavras são os médicos de uma mente doente.</label>
+<label class="quiz-option"><input type="radio" name="fgv-003-ebserh-q4" value="B"> B. Chega de jogador mandioca, que fica plantado no meio de campo.</label>
+<label class="quiz-option"><input type="radio" name="fgv-003-ebserh-q4" value="C"> C. Futebol é como viaduto. Num dia estamos por cima. No outro, por baixo.</label>
+<label class="quiz-option"><input type="radio" name="fgv-003-ebserh-q4" value="D"> D. O cérebro é como um paraquedas: só funciona quando está aberto.</label>
+<label class="quiz-option"><input type="radio" name="fgv-003-ebserh-q4" value="E"> E. Uma cama de hospital, pelo preço, é como um táxi parado com o taxímetro acionado.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: FGV, EBSERH, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Em cada alternativa, verifique se, depois de apresentar a metáfora, a frase continua e explica ou detalha em que consiste a comparação, ou se ela para por aí, sem desenvolvimento.</p>
+<p><strong>Por que a A deve ser marcada:</strong> "As palavras são os médicos de uma mente doente" apresenta a metáfora e termina — não há nenhum desenvolvimento posterior explicando de que forma as palavras "curam".</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> A metáfora não é desenvolvida nem explicada na sequência da frase.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> A oração seguinte ("que fica plantado no meio de campo") explica o sentido da metáfora "jogador mandioca".</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> As frases seguintes ("num dia estamos por cima...") desenvolvem a comparação com o viaduto.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> A oração após os dois-pontos explica a comparação com o paraquedas.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> "Pelo preço" e a menção ao taxímetro explicam em que sentido a cama de hospital se compara ao táxi.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Não perceber que quatro das cinco alternativas desenvolvem/explicam a metáfora logo em seguida, e apenas uma (a resposta) apresenta a imagem e para, sem elaboração.</p>
+</div>
+</div>
+
 ## Questão autoral de reforço
 
 <div class="quiz-card" data-answer="C">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>5. Um texto que expõe uma tese, apresenta fundamentos e tenta convencer o leitor pertence predominantemente ao modo:</strong></p>
+<p><strong>7. Um texto que expõe uma tese, apresenta fundamentos e tenta convencer o leitor pertence predominantemente ao modo:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-003" value="A"> A. narrativo.</label>
 <label class="quiz-option"><input type="radio" name="fgv-003" value="B"> B. descritivo.</label>

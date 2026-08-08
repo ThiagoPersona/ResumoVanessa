@@ -22,6 +22,8 @@ Isso já é uma evidência real e não uma suposição: no caderno FGV de **Inve
 |---|---:|---|
 | FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q3: coerência lógica interna de frases curtas (contradição lógica). Q8: leitura de estrutura argumentativa (tese, argumento, inferência) a partir de um trecho de Montesquieu. |
 | FGV PCAM Investigador de Polícia – 4ª Classe, Tipo 1 | 2021 | Q2: relação lógica entre partes de um texto (causa e efeito entre teorias concorrentes). Q4: raciocínio indutivo em frase curta. Q6: identificação da ordem premissa → conclusão. Q7: reconhecimento do tipo de registro de um texto (diário, impressões momentâneas). |
+| FGV PM-SP | 2025 | Leitura de um pequeno texto (código indiano de leis) para identificar a paráfrase correta do sentido central, descartando leituras que extrapolam ou distorcem o texto. |
+| FGV Prefeitura de São José dos Campos - SP | 2026 | Avaliação do alcance/força de cada alternativa em relação ao que o texto realmente sustenta (evitar afirmações absolutas quando o texto é moderado). |
 
 O que mais confunde o candidato aqui não é vocabulário difícil — os textos da FGV costumam ser curtos e de leitura simples. O que confunde é a **alternativa plausível fora do recorte pedido**: ela soa correta porque usa palavras do texto, mas desloca uma relação lógica (troca causa por consequência, presente por generalização, inferência autorizada por extrapolação).
 
@@ -94,6 +96,7 @@ Nem toda questão de interpretação pede uma conclusão lógica: parte delas pe
 | Reconhecer relação lógica pela estrutura, não pelo conectivo | A FGV usa "porque/pois/já que" em quase todas as alternativas de uma questão para forçar leitura rasa | Reescreva cada alternativa como "PREMISSA → CONCLUSÃO" e veja se a ordem e o conteúdo batem com o que o texto realmente mostra. |
 | Separar tese, argumento e função do exemplo em texto argumentativo curto | Formato recorrente em provas de nível superior (SEAD/AP, PCMG) | Sublinhe mentalmente: qual frase é a tese? Qual frase prova a tese? O exemplo prova o quê exatamente? |
 | Reconhecer registro/tipo de texto sem rótulo explícito | Cobrado diretamente na PCAM 2021 (diário) | Liste marcas linguísticas (tempo verbal, marcação temporal, tipo de frase) antes de escolher a alternativa. |
+| Avaliar o alcance/força de cada alternativa frente ao que o texto realmente sustenta | Cobrado diretamente na questão real de São José dos Campos 2026 | Desconfie de verbos fortes demais na alternativa ("eliminar", "resolver", "determinar") quando o texto usa linguagem moderada ("contribui para") |
 
 ## Diferenças que a banca costuma trocar
 
@@ -197,7 +200,8 @@ Mais três questões reais (SEAD/AP Q3, PCAM Q4 e PCAM Q7), com a mesma fonte e 
 - [ ] Sei reconhecer causa/efeito com causas concorrentes, sem confundir com encadeamento.
 - [ ] Sei identificar a ordem premissa → conclusão dentro de uma frase, mesmo com conectivo causal.
 - [ ] Sei separar tese, argumento e função do exemplo em texto argumentativo curto.
-- [ ] Resolvi as seis questões reais comentadas deste tema (tema + banco de questões) sem olhar o gabarito antes.
+- [ ] Sei desconfiar de alternativas com verbo/alcance mais forte do que o texto realmente sustenta.
+- [ ] Resolvi as oito questões reais comentadas deste tema (tema + banco de questões) sem olhar o gabarito antes.
 - [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
@@ -210,6 +214,8 @@ Mais três questões reais (SEAD/AP Q3, PCAM Q4 e PCAM Q7), com a mesma fonte e 
 
 - FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial de questões, questão 8 (e questão 3, ver banco de questões). Gabarito definitivo publicado pela FGV.
 - FGV. PCAM 2021 - Investigador de Polícia, 4ª Classe, Tipo 1. Caderno oficial de questões, questões 2 e 6 (e questões 4 e 7, ver banco de questões). Gabarito definitivo publicado pela FGV.
+- FGV. PM-SP, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. Prefeitura de São José dos Campos - SP, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**

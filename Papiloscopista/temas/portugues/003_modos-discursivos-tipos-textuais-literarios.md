@@ -16,6 +16,8 @@ Este bloco do edital reúne tipologia textual (narração, descrição, exposiç
 | FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q5: reconhecer sequência de ações típica de narrativa. Q6: esquema de cinco partes da narrativa aplicado a um trecho real. |
 | FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q2: identificar a única frase de tipo argumentativo entre frases de tipo injuntivo (ordem/conselho). |
 | FGV PCAM Investigador de Polícia, Tipo 1 | 2021 | Q8: reconhecer simultaneidade de ações (marcada por gerúndio) versus sequência. |
+| FGV DPE-RO | 2025 | Identificação de ironia como figura de linguagem, entre frases de efeito semelhantes mas sem ironia. |
+| FGV EBSERH | 2025 | Reconhecimento de metáfora não desenvolvida/explicada, entre metáforas que se desdobram na sequência da frase. |
 
 ## Conteúdo completo orientado ao edital
 
@@ -201,7 +203,9 @@ O gerúndio é o principal marcador de ação simultânea em português ("Sorrin
 - [ ] Sei os seis tipos textuais por finalidade social, especialmente a diferença entre publicitário e propagandístico.
 - [ ] Sei diferenciar texto literário de não literário pela função da linguagem predominante.
 - [ ] Sei reconhecer simultaneidade real x sequência disfarçada de conectivo ou gerúndio.
-- [ ] Resolvi as quatro questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Sei identificar ironia pela contradição entre o que se afirma e o que a situação realmente mostra.
+- [ ] Sei reconhecer metáfora não desenvolvida, distinguindo-a de metáforas explicadas na sequência da frase.
+- [ ] Resolvi as seis questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
@@ -215,6 +219,8 @@ O gerúndio é o principal marcador de ação simultânea em português ("Sorrin
 - FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questões 5 e 6. Gabarito definitivo publicado pela FGV.
 - FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questão 2. Gabarito definitivo publicado pela FGV.
 - FGV. PCAM 2021 - Investigador de Polícia, 4ª Classe, Tipo 1. Caderno oficial, questão 8. Gabarito definitivo publicado pela FGV.
+- FGV. DPE-RO, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. EBSERH, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**

@@ -2,13 +2,17 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 10 questões (9 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
+**Itens neste banco:** 14 questões (13 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
 
 ## Fontes reais usadas neste banco
 
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 - FGV, PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1. Gabarito definitivo publicado pela FGV.
+- FGV, AL-RO 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, AMAZUL 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, CPRM 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, Prefeitura de São José dos Campos - SP, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 
 <div class="quiz-card" data-answer="C">
 <p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 1</p>
@@ -244,11 +248,115 @@
 </div>
 </div>
 
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">FGV - AL-RO, 2026</p>
+<p><strong>10. A frase abaixo em que o emprego da vírgula está justificado corretamente, é:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-004-alro-q14" value="A"> A. "A natureza tem o macaco enquanto a igreja, o diabo." (Victor Hugo) / elipse do verbo "ter".</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-alro-q14" value="B"> B. "Quando nada é certo, tudo é possível." (Margaret Drabble) / separação de orações coordenadas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-alro-q14" value="C"> C. "Enquanto odiamos as coisas, a vida passa." (Sêneca) / evitar ambiguidade.</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-alro-q14" value="D"> D. "No fim, tudo é uma piada." (Charles Chaplin) / antecipação de uma oração subordinada.</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-alro-q14" value="E"> E. "Se o lobo compreendesse os cordeiros, morreria de fome" (Henri Michaux) / separar palavras numa enumeração.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: FGV, AL-RO, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Para cada alternativa, verifique se a justificativa indicada (depois da barra) corresponde exatamente ao que a vírgula está fazendo na frase — não basta a frase ter vírgula "razoável", a explicação técnica precisa bater.</p>
+<p><strong>Por que a A deve ser marcada:</strong> A vírgula antes de "o diabo" marca a omissão (elipse) do verbo "tem", que já apareceu antes ("A natureza tem o macaco enquanto a igreja [tem] o diabo").</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> A justificativa (elipse do verbo) corresponde exatamente ao uso da vírgula na frase.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> A vírgula separa uma oração subordinada adverbial anteposta da principal, não duas orações coordenadas.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> A vírgula segue a regra geral de oração subordinada anteposta, não evita ambiguidade.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "No fim" é um adjunto adverbial (não uma oração subordinada); não há antecipação de oração.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não há enumeração de palavras nessa frase; a vírgula separa a oração condicional anteposta da principal.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Aceitar uma justificativa "genérica" (como "separar orações") sem checar se ela corresponde exatamente ao fenômeno gramatical presente naquela frase específica.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="E">
+<p class="quiz-source">FGV - AMAZUL, 2026</p>
+<p><strong>11. Assinale a opção que apresenta sujeito expresso na oração.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-004-amazul-q6" value="A"> A. Havia a levíssima embriaguez de andarem juntos.</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-amazul-q6" value="B"> B. Andavam por ruas e ruas falando e rindo.</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-amazul-q6" value="C"> C. E se vê que por admiração se estava de boca entreaberta.</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-amazul-q6" value="D"> D. Só porque, de súbitos, exigentes e duros, quiseram ter o que já tinham.</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-amazul-q6" value="E"> E. E ao toque brilhava o brilho da água deles.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: E.</strong> Fonte: FGV, AMAZUL, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Para cada oração, pergunte: existe um substantivo/pronome explicitamente escrito praticando a ação, ou o sujeito só aparece "escondido" na desinência verbal (oculto) ou é indeterminado/inexistente?</p>
+<p><strong>Por que a E deve ser marcada:</strong> "Brilhava" tem sujeito simples posposto e explicitamente escrito: "o brilho da água deles" — é ele quem brilha.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> "Havia" no sentido de existir é verbo impessoal, sem sujeito.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "Andavam" tem sujeito oculto (desinencial), identificável só pela terminação verbal ("eles"), não expresso por palavra escrita.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> "Se vê" e "se estava" indicam indeterminação do sujeito (partícula "se"), não sujeito expresso.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "Quiseram" tem sujeito oculto, apenas subentendido pela desinência verbal.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> "O brilho da água deles" é o sujeito, escrito explicitamente, ainda que posposto ao verbo.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir sujeito oculto/desinencial (identificável só pela terminação do verbo) com sujeito expresso (escrito explicitamente na frase, mesmo que depois do verbo).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - CPRM, 2025</p>
+<p><strong>12. O uso das vírgulas no trecho "Esse processo, chamado de efeito estufa, ocorre naturalmente e é fundamental para a vida na Terra", se justifica porque</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-004-cprm-q3" value="A"> A. acompanha uma oração adjetiva explicativa.</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-cprm-q3" value="B"> B. indica um aposto explicativo.</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-cprm-q3" value="C"> C. demarca uma enumeração de itens.</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-cprm-q3" value="D"> D. aponta uma oração adjetiva restritiva.</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-cprm-q3" value="E"> E. caracteriza um adjunto adverbial deslocado.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, CPRM, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Verifique se o termo isolado por vírgulas é uma oração (com verbo) ou apenas um termo nominal que explica/reforça o substantivo anterior.</p>
+<p><strong>Por que a B deve ser marcada:</strong> "Chamado de efeito estufa" não tem verbo próprio (é uma expressão nominal reduzida) e explica/identifica "esse processo" — é exatamente a função do aposto explicativo.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Oração adjetiva explicativa teria verbo próprio (ex.: "que é chamado de..."), o que não é o caso da estrutura reduzida presente.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> Corresponde exatamente à função de aposto explicativo.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não há lista de itens no trecho.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Restritivas não seriam isoladas por vírgula, e o trecho não restringe, apenas explica.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não é uma circunstância (tempo, modo, lugar), mas uma explicação sobre o próprio termo "processo".</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir aposto explicativo (nominal, sem verbo próprio) com oração adjetiva explicativa (que exigiria verbo próprio, como "que é chamado").</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - Prefeitura de São José dos Campos - SP, 2026</p>
+<p><strong>13. Há uma série de locuções conjuntivas que terminam com o vocábulo "que". Assinale a frase abaixo em que a locução sublinhada tem seu significado erradamente indicado.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-004-sjc-q10" value="A"> A. A gente distorce a forma a fim de que criemos espaço. / finalidade.</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-sjc-q10" value="B"> B. O sinal certo de um bom livro é que ele nos agrada cada vez mais à medida que envelhecemos. / tempo.</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-sjc-q10" value="C"> C. Todas as palavras são pinos para que nelas se pendurem as ideias. / direção.</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-sjc-q10" value="D"> D. Sou a favor da liberdade de pensamento, desde que não se transforme em palavras. / condição.</label>
+<label class="quiz-option"><input type="radio" name="fgv-004-sjc-q10" value="E"> E. Escrever é simplesmente um modo de falar sem que interrompam a gente. / modo.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, Prefeitura de São José dos Campos - SP, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Traduza mentalmente cada locução por um sinônimo e veja se o rótulo dado (finalidade, tempo, direção, condição, modo) corresponde ao sentido real da locução na frase.</p>
+<p><strong>Por que a C deve ser marcada:</strong> "Para que" indica finalidade (o propósito de existirem as palavras é servir de suporte às ideias), não "direção" — o rótulo está errado.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> "A fim de que" realmente indica finalidade — rótulo correto.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "À medida que" realmente indica proporção temporal — rótulo correto.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> "Para que" indica finalidade, não direção — é o rótulo errado pedido pelo comando.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "Desde que" realmente indica condição — rótulo correto.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> "Sem que" realmente pode ser classificada como modo (circunstância concomitante negativa) — rótulo aceito como correto.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> "Para que" é frequentemente confundida com ideia de direção espacial pela presença da preposição "para" (que também indica destino/direção em outros contextos), mas em locução conjuntiva final, "para que" sempre expressa finalidade.</p>
+</div>
+</div>
+
 ## Questão autoral de reforço
 
 <div class="quiz-card" data-answer="D">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>10. Assinale a opção em que a vírgula separa corretamente uma expressão adverbial deslocada para o início da frase.</strong></p>
+<p><strong>14. Assinale a opção em que a vírgula separa corretamente uma expressão adverbial deslocada para o início da frase.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-004" value="A"> A. O delegado, instaurou o inquérito após a notícia do crime.</label>
 <label class="quiz-option"><input type="radio" name="fgv-004" value="B"> B. Os papiloscopistas, analisaram as impressões latentes.</label>

@@ -15,6 +15,7 @@ Organização textual, coesão e coerência é o item do edital que mais se cone
 |---|---:|---|
 | FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q7: reescritura eliminando um advérbio ("não") mantendo o sentido original. |
 | FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q3: escolha do período de melhor redação entre cinco reescritas do mesmo conteúdo (correção, clareza, concisão, elegância). |
+| FGV DPE-RO | 2025 | Reconhecimento do verbo "fazer" como elemento de coesão (uso pró-verbal, substituindo predicado inteiro já mencionado). |
 
 O padrão nas duas questões reais localizadas é o mesmo: a banca dá **várias versões quase idênticas** de uma ideia e pede a única que preserva sentido (ou a mais bem construída). Isso não se resolve por "achismo de estilo" — exige método.
 
@@ -167,7 +168,7 @@ A ordem direta (sujeito → verbo → complementos → adjuntos ao final) costum
 
 ## Lacunas honestas
 
-- O banco real deste tema tem apenas duas questões, uma de cada prova (SEAD/AP e PCMG). Ainda não há questão real localizada especificamente sobre coesão referencial (pronome retomando termo específico) neste item — o exemplo de pronome está hoje na questão autoral abaixo.
+- Ainda não há questão real localizada especificamente sobre coesão referencial (pronome retomando termo específico) neste item — o exemplo de pronome está hoje na questão autoral abaixo.
 - Questões sobre conectores lógicos (substituição de conjunção mudando o valor semântico da oração) ainda não foram localizadas em prova real para este tema; é uma lacuna a preencher com PCRJ, PCRN ou PCPI em sessão futura.
 
 ## Checklist de revisão
@@ -177,7 +178,8 @@ A ordem direta (sujeito → verbo → complementos → adjuntos ao final) costum
 - [ ] Sei os quatro princípios de coerência (não contradição, não tautologia, relevância, progressão).
 - [ ] Sei testar reescritura pela relação lógica, não pela impressão de sentido parecido.
 - [ ] Sei reconhecer ordem direta como critério de clareza em questão de "melhor redação".
-- [ ] Resolvi as duas questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Sei reconhecer o verbo "fazer" como elemento de coesão quando substitui um predicado inteiro já mencionado.
+- [ ] Resolvi as três questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
@@ -190,6 +192,7 @@ A ordem direta (sujeito → verbo → complementos → adjuntos ao final) costum
 
 - FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questão 7. Gabarito definitivo publicado pela FGV.
 - FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questão 3. Gabarito definitivo publicado pela FGV.
+- FGV. DPE-RO, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**

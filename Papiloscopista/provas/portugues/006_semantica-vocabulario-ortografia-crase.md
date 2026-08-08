@@ -2,13 +2,15 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 6 questões (5 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
+**Itens neste banco:** 8 questões (7 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
 
 ## Fontes reais usadas neste banco
 
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 - FGV, PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1. Gabarito definitivo publicado pela FGV.
+- FGV, AGESAN-RS, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, ALERJ, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 2</p>
@@ -140,11 +142,63 @@
 </div>
 </div>
 
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - AGESAN-RS, 2025</p>
+<p><strong>6. Assinale a opção que indica a frase em que o emprego do acento grave indicativo de crase está correto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-006-agesan-q20" value="A"> A. As riquezas, qualquer um deus as pode conceder até mesmo à um malvado, mas a virtude cabe a poucos.</label>
+<label class="quiz-option"><input type="radio" name="fgv-006-agesan-q20" value="B"> B. Quem é rico em virtude, é semelhante à jovens.</label>
+<label class="quiz-option"><input type="radio" name="fgv-006-agesan-q20" value="C"> C. Quanto à virtude não basta conhecê-la, devemos colocá-la em prática.</label>
+<label class="quiz-option"><input type="radio" name="fgv-006-agesan-q20" value="D"> D. Não se pode conceder a inteligência à todos.</label>
+<label class="quiz-option"><input type="radio" name="fgv-006-agesan-q20" value="E"> E. Comprar à crédito é mais fácil.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, AGESAN-RS, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Crase só existe na fusão da preposição "a" com o artigo feminino "a" (ou variantes). Teste se, no lugar do termo craseado, cabe um substantivo feminino precedido de artigo definido.</p>
+<p><strong>Por que a C deve ser marcada:</strong> "Quanto a" é locução prepositiva regendo "a virtude" (substantivo feminino com artigo definido) — a fusão preposição+artigo é obrigatória: "quanto à virtude".</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> "Um malvado" é masculino, precedido de artigo indefinido — não há artigo feminino para fundir com a preposição.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "Jovens" está sem artigo definido (sentido genérico/plural indeterminado) — não há crase.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> Fusão correta de preposição "a" (exigida por "quanto a") com artigo feminino "a" de "virtude".</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "Todos" é pronome indefinido masculino — não admite artigo feminino, logo não há crase.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> "Crédito" é substantivo masculino; expressões adverbiais com substantivo masculino não recebem crase.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Colocar o acento grave só porque "soa bem" ou porque há uma palavra feminina nas proximidades, sem checar se há de fato artigo feminino definido regido por preposição.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - ALERJ, 2026</p>
+<p><strong>7. Entre as frases a seguir, assinale aquela em que a preposição A tem valor semântico de finalidade.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-006-alerj-q10" value="A"> A. "Pode ir a São Paulo, a Pernambuco ou ainda mais longe." (Dom Casmurro)</label>
+<label class="quiz-option"><input type="radio" name="fgv-006-alerj-q10" value="B"> B. "Alguma vez desceu a jantar, com os olhos vermelhos e a fronte pesarosa." (Helena)</label>
+<label class="quiz-option"><input type="radio" name="fgv-006-alerj-q10" value="C"> C. "Também Capitu, em solteira, fora tratá-la à Rua dos Inválidos." (Dom Casmurro)</label>
+<label class="quiz-option"><input type="radio" name="fgv-006-alerj-q10" value="D"> D. "Tio Cosme acomodava as carnes, e a besta partia a trote." (Dom Casmurro)</label>
+<label class="quiz-option"><input type="radio" name="fgv-006-alerj-q10" value="E"> E. "Era lido, posto que de atropelo, o bastante para divertir ao serão e à sobremesa." (Dom Casmurro)</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, ALERJ, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Teste se "a" pode ser parafraseado por "para" sem quebrar o sentido — marca típica de finalidade quando liga verbo de movimento a um infinitivo.</p>
+<p><strong>Por que a B deve ser marcada:</strong> "Desceu a jantar" equivale a "desceu para jantar" — a preposição liga o verbo de movimento ao infinitivo que expressa o propósito da descida.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> "A São Paulo", "a Pernambuco" indicam direção/destino espacial, não finalidade.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> Valor de finalidade, parafraseável por "para jantar".</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> "À Rua dos Inválidos" (crase) indica lugar, não finalidade.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "A trote" indica modo (como a besta partia), não finalidade.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> "Ao serão" e "à sobremesa" indicam tempo/ocasião, não finalidade.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir qualquer preposição "a" (direção, modo, tempo, lugar) com valor de finalidade só porque a estrutura "verbo + a + termo" se repete nas cinco alternativas.</p>
+</div>
+</div>
+
 ## Questão autoral de reforço
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>6. Assinale a frase em que o acento indicativo de crase é obrigatório.</strong></p>
+<p><strong>8. Assinale a frase em que o acento indicativo de crase é obrigatório.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-006" value="A"> A. O laudo foi entregue a autoridade competente.</label>
 <label class="quiz-option"><input type="radio" name="fgv-006" value="B"> B. O documento foi anexado a este procedimento.</label>
@@ -170,6 +224,5 @@
 
 ## Próxima ampliação
 
-- Buscar questão real sobre crase — lacuna mais urgente deste tema.
 - Buscar questão real sobre "por que/por quê/porque/porquê" e sobre acentuação gráfica.
 - Adicionar questões reais de PCRJ, PCRN e PCPI assim que os cadernos forem localizados e o gabarito conferido.

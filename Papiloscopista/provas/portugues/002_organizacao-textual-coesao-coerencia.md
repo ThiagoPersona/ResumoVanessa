@@ -2,12 +2,13 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 3 questões (2 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
+**Itens neste banco:** 4 questões (3 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
 
 ## Fontes reais usadas neste banco
 
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
+- FGV, DPE-RO 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 
 <div class="quiz-card" data-answer="E">
 <p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 7</p>
@@ -61,11 +62,37 @@
 </div>
 </div>
 
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">FGV - DPE-RO, 2025</p>
+<p><strong>3. Assinale a opção em que o verbo fazer funciona como elemento de coesão, substituindo todo o predicado.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-002-dpero-q12" value="A"> A. As crianças, no zoológico, brincaram com todos os animais, mas os pais não faziam o mesmo.</label>
+<label class="quiz-option"><input type="radio" name="fgv-002-dpero-q12" value="B"> B. Os professores da turma fizeram, com os alunos, todos os exercícios do livro.</label>
+<label class="quiz-option"><input type="radio" name="fgv-002-dpero-q12" value="C"> C. Nunca mais se fez nada igual no Brasil.</label>
+<label class="quiz-option"><input type="radio" name="fgv-002-dpero-q12" value="D"> D. Os meninos e as meninas fizeram os mesmos desenhos.</label>
+<label class="quiz-option"><input type="radio" name="fgv-002-dpero-q12" value="E"> E. A costureira, com paciência, fez as casas dos botões.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: FGV, DPE-RO, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Um verbo funciona como elemento de coesão quando substitui, "por vicariação", um predicado inteiro já mencionado antes — não quando é apenas o verbo principal, literal, de uma nova ação.</p>
+<p><strong>Por que a A deve ser marcada:</strong> "Não faziam o mesmo" substitui o predicado inteiro já enunciado ("brincaram com todos os animais"), evitando repeti-lo — uso coesivo (pró-verbal) de "fazer".</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> "Faziam o mesmo" substitui o predicado anterior, sem repeti-lo.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "Fizeram... os exercícios" é o próprio predicado principal da frase, uso literal, não substituição de predicado anterior.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> "Se fez" é verbo literal ("realizar/criar"), não substitui predicado nenhum mencionado antes.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Uso literal de "fazer" (fazer desenhos), não coesivo.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Uso literal de "fazer" (fazer as casas dos botões), não coesivo.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir qualquer ocorrência do verbo "fazer" com uso coesivo — o uso coesivo específico exige que o verbo esteja substituindo um predicado inteiro já mencionado antes na frase, não introduzindo uma ação nova.</p>
+</div>
+</div>
+
 ## Questão autoral de reforço
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>3. No trecho &#39;O perito recolheu o vestígio e o encaminhou ao laboratório&#39;, o pronome &#39;o&#39; retoma:</strong></p>
+<p><strong>4. No trecho &#39;O perito recolheu o vestígio e o encaminhou ao laboratório&#39;, o pronome &#39;o&#39; retoma:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-002" value="A"> A. o perito.</label>
 <label class="quiz-option"><input type="radio" name="fgv-002" value="B"> B. o vestígio.</label>

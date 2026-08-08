@@ -9,13 +9,17 @@
 
 ## Por que cai
 
-Este é o subitem mais extenso do edital de Português (onze pontos: 1.7 a 1.17, cobrindo tipologia de frase, deslocamento/substituição, pontuação, termos e orações, ordem direta/inversa, tipos de discurso, registro e função da linguagem). Nas provas reais localizadas, é também o subitem com mais volume de questões identificadas — nove, distribuídas em regência, ambiguidade, pontuação, oração concessiva, identificação de agente, reescritura sem mudança de sentido, paralelismo e erro gramatical.
+Este é o subitem mais extenso do edital de Português (onze pontos: 1.7 a 1.17, cobrindo tipologia de frase, deslocamento/substituição, pontuação, termos e orações, ordem direta/inversa, tipos de discurso, registro e função da linguagem). Nas provas reais localizadas, é também o subitem com mais volume de questões identificadas — treze, distribuídas em regência, ambiguidade, pontuação, oração concessiva, identificação de agente, reescritura sem mudança de sentido, paralelismo, erro gramatical, elipse por vírgula, sujeito expresso x oculto e locuções conjuntivas.
 
 | Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
 |---|---:|---|
 | FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q1: regência da preposição "de". Q9: interrogação indireta. |
 | FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q4: ambiguidade. Q5: justificativa de uso de vírgula. Q10: oração concessiva. |
 | FGV PCAM Investigador de Polícia, Tipo 1 | 2021 | Q3: identificação objetiva do agente da ação (voz e indeterminação do sujeito). Q5: reescritura que muda o sentido por deslocamento de advérbio. Q9: paralelismo sintático. Q10: erro gramatical (concordância). |
+| FGV AL-RO | 2026 | Q14: vírgula marcando elipse de verbo. |
+| FGV AMAZUL | 2026 | Q6: sujeito expresso x sujeito oculto/indeterminado. |
+| FGV CPRM | 2025 | Q3: vírgula marcando aposto explicativo. |
+| FGV Prefeitura de São José dos Campos - SP | 2026 | Q10: locuções conjuntivas terminadas em "que" e seu valor semântico. |
 
 ## Conteúdo completo orientado ao edital
 
@@ -307,6 +311,66 @@ Reconhecer a função predominante de um trecho ajuda a resolver questões de in
 3. **C tem o erro clássico**: o correto é "meio-dia e **meia**" — "meia" concorda com "hora" (elemento subentendido, feminino), não com "dia" (masculino).
 4. **C é o gabarito**, o erro gramatical pedido.
 
+**Fonte: FGV, AL-RO, 2026, questão 14 (gabarito oficial: A)**
+
+> A frase abaixo em que o emprego da vírgula está justificado corretamente, é:
+>
+> (A) "A natureza tem o macaco enquanto a igreja, o diabo." (Victor Hugo) / elipse do verbo "ter".
+> (B) "Quando nada é certo, tudo é possível." (Margaret Drabble) / separação de orações coordenadas.
+> (C) "Enquanto odiamos as coisas, a vida passa." (Sêneca) / evitar ambiguidade.
+> (D) "No fim, tudo é uma piada." (Charles Chaplin) / antecipação de uma oração subordinada.
+> (E) "Se o lobo compreendesse os cordeiros, morreria de fome" (Henri Michaux) / separar palavras numa enumeração.
+
+1. **Confira se a justificativa (depois da barra) corresponde exatamente ao que a vírgula faz**, não apenas se a frase "parece" ter vírgula razoável.
+2. **A**: a vírgula antes de "o diabo" marca a omissão do verbo "tem", já citado antes — combina exatamente com "elipse do verbo".
+3. **B, C, D e E** têm justificativas que não batem com o fenômeno real (oração subordinada anteposta em B e C, não coordenação nem ambiguidade; adjunto adverbial em D, não oração subordinada; oração condicional anteposta em E, não enumeração).
+4. **A é o gabarito**, única combinação frase/justificativa coerente.
+
+**Fonte: FGV, AMAZUL, 2026, questão 6 (gabarito oficial: E)**
+
+> Assinale a opção que apresenta sujeito expresso na oração.
+>
+> (A) Havia a levíssima embriaguez de andarem juntos.
+> (B) Andavam por ruas e ruas falando e rindo.
+> (C) E se vê que por admiração se estava de boca entreaberta.
+> (D) Só porque, de súbitos, exigentes e duros, quiseram ter o que já tinham.
+> (E) E ao toque brilhava o brilho da água deles.
+
+1. **Para cada oração, pergunte se há um substantivo/pronome escrito exercendo o papel de sujeito**, ou se ele só existe na desinência verbal (oculto), é indeterminado ou inexistente.
+2. **A** tem "havia" impessoal (sem sujeito); **B** e **D** têm sujeito oculto, identificável só pela terminação verbal; **C** tem "se" indeterminador.
+3. **E tem sujeito expresso e posposto**: "o brilho da água deles" é quem brilha, escrito explicitamente na frase.
+4. **E é o gabarito**, único com sujeito expresso.
+
+**Fonte: FGV, CPRM, 2025, questão 3 (gabarito oficial: B)**
+
+> O uso das vírgulas no trecho "Esse processo, chamado de efeito estufa, ocorre naturalmente e é fundamental para a vida na Terra", se justifica porque
+>
+> (A) acompanha uma oração adjetiva explicativa.
+> (B) indica um aposto explicativo.
+> (C) demarca uma enumeração de itens.
+> (D) aponta uma oração adjetiva restritiva.
+> (E) caracteriza um adjunto adverbial deslocado.
+
+1. **Verifique se o termo isolado por vírgulas é uma oração (com verbo próprio) ou um termo nominal que só explica o substantivo anterior**.
+2. **"Chamado de efeito estufa" não tem verbo próprio** (estrutura nominal reduzida) e identifica "esse processo" — função clássica de aposto explicativo.
+3. **A exigiria verbo próprio** (ex.: "que é chamado"); **C** não há lista; **D** restritivas não levam vírgula; **E** não é circunstância, é explicação sobre o próprio termo.
+4. **B é o gabarito**, único que nomeia corretamente a função (aposto explicativo).
+
+**Fonte: FGV, Prefeitura de São José dos Campos - SP, 2026, questão 10 (gabarito oficial: C)**
+
+> Há uma série de locuções conjuntivas que terminam com o vocábulo "que". Assinale a frase abaixo em que a locução sublinhada tem seu significado erradamente indicado.
+>
+> (A) A gente distorce a forma a fim de que criemos espaço. / finalidade.
+> (B) O sinal certo de um bom livro é que ele nos agrada cada vez mais à medida que envelhecemos. / tempo.
+> (C) Todas as palavras são pinos para que nelas se pendurem as ideias. / direção.
+> (D) Sou a favor da liberdade de pensamento, desde que não se transforme em palavras. / condição.
+> (E) Escrever é simplesmente um modo de falar sem que interrompam a gente. / modo.
+
+1. **Traduza mentalmente cada locução por um sinônimo** e confira se o rótulo dado corresponde ao sentido real.
+2. **A ("a fim de que" = finalidade), B ("à medida que" = tempo/proporção), D ("desde que" = condição) e E ("sem que" = modo) estão corretamente rotuladas**.
+3. **C erra o rótulo**: "para que" indica finalidade (o propósito das palavras é sustentar as ideias), não direção.
+4. **C é o gabarito**, a locução com rótulo errado pedido pelo comando.
+
 ## Pegadinhas da banca
 
 - Confundir regência pura (exigência estrutural do verbo) com preposição de valor semântico (posse, finalidade, matéria).
@@ -317,6 +381,9 @@ Reconhecer a função predominante de um trecho ajuda a resolver questões de in
 - Deslocar advérbio para dentro de uma coordenação e não perceber que isso muda o alcance do advérbio.
 - Confundir contraste de ideias com paralelismo sintático real (que exige repetição estrutural).
 - Aceitar "meio-dia e meio" como certo, ou generalizar "a maioria... viajaram" como erro categórico.
+- Confundir aposto explicativo (nominal, sem verbo próprio) com oração adjetiva explicativa (que exigiria verbo próprio).
+- Confundir sujeito oculto/desinencial (identificável só pela terminação do verbo) com sujeito expresso (escrito explicitamente, mesmo que posposto).
+- Achar que "para que" indica direção espacial por causa da preposição "para" — em locução conjuntiva final, sempre expressa finalidade.
 
 ## Como resolver questões
 
@@ -345,7 +412,7 @@ Reconhecer a função predominante de um trecho ajuda a resolver questões de in
 - [ ] Sei reconhecer paralelismo pela repetição estrutural, não só pelo contraste.
 - [ ] Sei diferenciar discurso direto, indireto e indireto livre.
 - [ ] Sei as seis funções da linguagem e reconheço a predominante em um trecho.
-- [ ] Resolvi as nove questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Resolvi as treze questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
@@ -359,6 +426,10 @@ Reconhecer a função predominante de um trecho ajuda a resolver questões de in
 - FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questões 1 e 9. Gabarito definitivo publicado pela FGV.
 - FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questões 4, 5 e 10. Gabarito definitivo publicado pela FGV.
 - FGV. PCAM 2021 - Investigador de Polícia, 4ª Classe, Tipo 1. Caderno oficial, questões 3, 5, 9 e 10. Gabarito definitivo publicado pela FGV.
+- FGV. AL-RO, 2026. Questão 14 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. AMAZUL, 2026. Questão 6 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. CPRM, 2025. Questão 3 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. Prefeitura de São José dos Campos - SP, 2026. Questão 10 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**

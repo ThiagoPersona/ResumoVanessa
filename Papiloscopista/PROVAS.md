@@ -4,12 +4,12 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 
 | Disciplina | Tema | Total | Abrir |
 |---|---|---:|---|
-| Português | Interpretação e compreensão de texto | 7 | [Abrir](provas/portugues/001_interpretacao-compreensao-texto.md) |
-| Português | Organização textual, coesão e coerência | 3 | [Abrir](provas/portugues/002_organizacao-textual-coesao-coerencia.md) |
-| Português | Modos discursivos, tipos textuais e textos literários | 5 | [Abrir](provas/portugues/003_modos-discursivos-tipos-textuais-literarios.md) |
-| Português | Frase, sintaxe, discurso e pontuação | 10 | [Abrir](provas/portugues/004_frase-sintaxe-discurso-pontuacao.md) |
-| Português | Morfologia e classes de palavras | 4 | [Abrir](provas/portugues/005_morfologia-classes-palavras.md) |
-| Português | Semântica, vocabulário, ortografia, acentuação e crase | 6 | [Abrir](provas/portugues/006_semantica-vocabulario-ortografia-crase.md) |
+| Português | Interpretação e compreensão de texto | 9 | [Abrir](provas/portugues/001_interpretacao-compreensao-texto.md) |
+| Português | Organização textual, coesão e coerência | 4 | [Abrir](provas/portugues/002_organizacao-textual-coesao-coerencia.md) |
+| Português | Modos discursivos, tipos textuais e textos literários | 7 | [Abrir](provas/portugues/003_modos-discursivos-tipos-textuais-literarios.md) |
+| Português | Frase, sintaxe, discurso e pontuação | 14 | [Abrir](provas/portugues/004_frase-sintaxe-discurso-pontuacao.md) |
+| Português | Morfologia e classes de palavras | 8 | [Abrir](provas/portugues/005_morfologia-classes-palavras.md) |
+| Português | Semântica, vocabulário, ortografia, acentuação e crase | 8 | [Abrir](provas/portugues/006_semantica-vocabulario-ortografia-crase.md) |
 | RLM | Lógica proposicional e conjuntos | 4 | [Abrir](provas/rlm/001_logica-proposicional-conjuntos.md) |
 | RLM | Números, porcentagem, juros, proporcionalidade e medidas | 6 | [Abrir](provas/rlm/002_numeros-porcentagem-juros-proporcionalidade-medidas.md) |
 | RLM | Geometria, plano cartesiano, gráficos e tabelas | 3 | [Abrir](provas/rlm/003_geometria-plano-cartesiano-graficos-tabelas.md) |
@@ -30,10 +30,10 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Ciências Forenses | Documentoscopia, grafoscopia e falsificações | 1 | [Abrir](provas/ciencias-forenses/006_documentoscopia-grafoscopia-falsificacoes.md) |
 | Ciências Forenses | Criminologia, vitimologia e controle social | 2 | [Abrir](provas/ciencias-forenses/007_criminologia-vitimologia-controle-social.md) |
 | Ciências Forenses | Criminologia digital e investigação tecnológica | 1 | [Abrir](provas/ciencias-forenses/008_criminologia-digital-investigacao-tecnologica.md) |
-| Biologia | Citologia | 2 | [Abrir](provas/biologia/001_citologia.md) |
-| Biologia | Genética | 6 | [Abrir](provas/biologia/002_genetica.md) |
-| Biologia | Embriologia e cristas papilares | 2 | [Abrir](provas/biologia/003_embriologia-cristas-papilares.md) |
-| Biologia | Biologia da identificação humana e biometria | 5 | [Abrir](provas/biologia/004_biologia-identificacao-humana-biometria.md) |
+| Biologia | Citologia | 6 | [Abrir](provas/biologia/001_citologia.md) |
+| Biologia | Genética | 10 | [Abrir](provas/biologia/002_genetica.md) |
+| Biologia | Embriologia e cristas papilares | 3 | [Abrir](provas/biologia/003_embriologia-cristas-papilares.md) |
+| Biologia | Biologia da identificação humana e biometria | 8 | [Abrir](provas/biologia/004_biologia-identificacao-humana-biometria.md) |
 | Física | Óptica e formação de imagens | 4 | [Abrir](provas/fisica/001_optica-formacao-imagens.md) |
 | Física | UV, fluorescência, ondas e eletromagnetismo | 4 | [Abrir](provas/fisica/002_uv-fluorescencia-ondas-eletromagnetismo.md) |
 | Física | Eletricidade e circuitos simples | 1 | [Abrir](provas/fisica/003_eletricidade-circuitos-simples.md) |

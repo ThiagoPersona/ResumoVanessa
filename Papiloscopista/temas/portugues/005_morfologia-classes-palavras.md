@@ -17,6 +17,10 @@ Nas provas reais localizadas, o padrão dominante não é pedir rótulo gramatic
 |---|---:|---|
 | FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q10: reconhecer voz passiva sintética/pronominal com "se" entre quatro outras funções possíveis da mesma partícula. |
 | FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q8: pronomes de tratamento e seus destinatários corretos. Q9: emprego correto x incorreto do gerúndio. |
+| FGV AL-RO | 2026 | Q17: pronome SE recíproco x reflexivo. |
+| FGV PGM-RJ | 2025 | Q20: transformação de voz passiva pronominal em passiva analítica preservando o tempo verbal. |
+| FGV SEDUC-TO | 2023 | Q53: substantivação real de adjetivo x mera troca de posição. |
+| FGV Prefeitura de São José dos Campos - SP | 2026 | Q14: pronome pessoal reto x oblíquo como objeto direto. |
 
 ## Conteúdo completo orientado ao edital
 
@@ -308,6 +312,66 @@ Teste rápido: pergunte se as duas ações podem fisicamente ocorrer no mesmo in
 4. **C, D e E são gerundismo**: em todas, a segunda ação é claramente posterior à primeira (levantou, DEPOIS se dirigiu; ficou quieto, e SÓ DEPOIS DE MEIA HORA reclamou; entrou, DEPOIS sentou) — o gerúndio finge simultaneidade que não existe.
 5. **A é o gabarito**, único caso de simultaneidade genuína sem indício de posterioridade.
 
+**Fonte: FGV, AL-RO, 2026, questão 17 (gabarito oficial: E)**
+
+> Assinale a frase em que o pronome SE tem valor de pronome recíproco.
+>
+> (A) "O primeiro passo para conhecer-se é desconfiar de si mesmo." (Júlio Augusto Hare)
+> (B) "Apresse-se devagar." (César Augusto)
+> (C) "A pessoa deveria se autoexaminar por bastante tempo, antes de pensar em condenar os outros." (Molière)
+> (D) "O homem pouco claro não pode ter ilusões: ou engana-se a si mesmo ou trata de enganar os outros." (Stendhal)
+> (E) "Se vocês não se entendem, não entenderão a ninguém mais do grupo." (N. Giovanni)
+
+1. **Diferencie reflexivo (ação sobre si mesmo) de recíproco (ação mútua entre sujeitos)**.
+2. **A, B, C e D são reflexivos**, todos reforçados por marcas de reflexividade ("de si mesmo", "a si mesmo", prefixo "auto-") ou pelo próprio sentido de ação sobre si.
+3. **E é recíproco**: "não se entendem" equivale a "não entendem um ao outro" — ação mútua entre "vocês".
+4. **E é o gabarito**, único valor recíproco genuíno.
+
+**Fonte: FGV, PGM-RJ, 2025, questão 20 (gabarito oficial: C)**
+
+> Assinale a afirmativa em que a voz passiva pronominal (com o pronome se) foi corretamente transformada na voz passiva analítica (com o auxiliar ser).
+>
+> (A) Este ano se verá um cometa. / Este ano seria visto um cometa.
+> (B) Utiliza-se a maracujina como calmante. / A maracujina era usada como calmante.
+> (C) Descobriu-se finalmente o criminoso. / O criminoso foi finalmente descoberto.
+> (D) Viu-se um helicóptero voando a grande altura. / Um helicóptero tinha sido visto voando a grande altura.
+> (E) Derrubavam-se paredes em dois minutos. / Paredes foram derrubadas em dois minutos.
+
+1. **Verifique se o tempo verbal da forma pronominal foi preservado na forma analítica**.
+2. **A troca futuro por futuro do pretérito; B troca presente por imperfeito; D troca perfeito por mais-que-perfeito composto; E troca imperfeito por perfeito** — todas mudam o tempo verbal ao transformar.
+3. **C preserva o tempo**: "descobriu-se" (pretérito perfeito) vira "foi descoberto" (pretérito perfeito da passiva analítica).
+4. **C é o gabarito**, única transformação que mantém o mesmo tempo verbal.
+
+**Fonte: FGV, SEDUC-TO, 2023, questão 53 (gabarito oficial: B)**
+
+> Nas opções a seguir há uma frase inicial com um adjetivo sublinhado, seguida de uma frase em que esse adjetivo foi substantivado. Assinale a opção em que essa modificação foi feita de forma adequada.
+>
+> (A) O bondoso homem socorreu o menino. / O homem bondoso socorreu o menino.
+> (B) As nuvens cinzentas indicam chuva. / O cinzento das nuvens indica chuva.
+> (C) As folhas do livro estavam amareladas. / Estavam amareladas as folhas do livro.
+> (D) Os cabelos brancos mostravam a idade do juiz. / Os cabelos do juiz, brancos, mostravam sua idade.
+> (E) Os velhos livros enfeitavam a estante. / Os livros velhos enfeitavam a estante.
+
+1. **Substantivar significa mudar a classe gramatical (de adjetivo para substantivo), não apenas reposicionar a palavra**.
+2. **A, C, D e E apenas deslocam o adjetivo dentro da frase**, sem trocar sua classe gramatical.
+3. **B troca "cinzentas" (adjetivo) por "o cinzento" (substantivo, com artigo, núcleo do novo sujeito)** — substantivação real.
+4. **B é o gabarito**, única com mudança efetiva de classe gramatical.
+
+**Fonte: FGV, Prefeitura de São José dos Campos - SP, 2026, questão 14 (gabarito oficial: C)**
+
+> Os segmentos abaixo, retirados da crônica de Stanislaw, tiveram termos substituídos por equivalentes. Assinale a frase em que essa substituição foi realizada de forma correta e conveniente.
+>
+> (A) Todo dia ela passava pela fronteira / Periodicamente ela passava pela fronteira.
+> (B) O pessoal da Alfândega – tudo malandro velho / O pessoal da Alfândega – tudo velho malandro.
+> (C) o fiscal mandou ela parar / mandou-a parar.
+> (D) com esse saco aí atrás / com este saco aí atrás.
+> (E) que ela adquirira no odontólogo / que ela adquiria no odontólogo.
+
+1. **Teste se a substituição preserva sentido, registro e tempo verbal**.
+2. **A muda o registro (mais formal/abstrato); B inverte a ordem dos adjetivos, alterando a nuance idiomática; D troca o valor dêitico (esse x este); E troca mais-que-perfeito por imperfeito**.
+3. **C corrige "mandou ela parar" (pronome reto como objeto, coloquial) por "mandou-a parar" (pronome oblíquo átono, norma culta)**, mantendo exatamente o mesmo sentido.
+4. **C é o gabarito**, única substituição gramaticalmente correta e equivalente.
+
 ## Pegadinhas da banca
 
 - Tratar qualquer "se" como voz passiva, sem testar se o verbo é transitivo direto.
@@ -316,6 +380,10 @@ Teste rápido: pergunte se as duas ações podem fisicamente ocorrer no mesmo in
 - Aceitar gerúndio com expressão de tempo posterior ("depois", "após X minutos") como se fosse simultaneidade.
 - Confundir derivação parassintética com a simples soma de derivação prefixal e sufixal comuns.
 - Classificar locução adjetiva como se fosse locução adverbial (ou o contrário) sem checar o que ela modifica.
+- Confundir pronome recíproco (ação mútua entre sujeitos) com reflexivo (ação sobre si mesmo).
+- Trocar o tempo verbal ao transformar passiva pronominal em analítica, e não perceber a incoerência.
+- Aceitar mero deslocamento de posição do adjetivo como se fosse substantivação real.
+- Aceitar pronome reto ("ela", "ele") como objeto direto de verbo — a norma culta exige o pronome oblíquo átono.
 
 ## Como resolver questões
 
@@ -340,7 +408,7 @@ Teste rápido: pergunte se as duas ações podem fisicamente ocorrer no mesmo in
 - [ ] Sei a tabela de destinatários corretos dos pronomes de tratamento mais cobrados.
 - [ ] Sei diferenciar gerúndio de simultaneidade real de gerundismo.
 - [ ] Sei o que é um modalizador e reconheço os quatro tipos.
-- [ ] Resolvi as três questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Resolvi as sete questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
@@ -353,6 +421,10 @@ Teste rápido: pergunte se as duas ações podem fisicamente ocorrer no mesmo in
 
 - FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questão 10. Gabarito definitivo publicado pela FGV.
 - FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questões 8 e 9. Gabarito definitivo publicado pela FGV.
+- FGV. AL-RO, 2026. Questão 17 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. PGM-RJ, 2025. Questão 20 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. SEDUC-TO, 2023. Questão 53 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. Prefeitura de São José dos Campos - SP, 2026. Questão 14 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**

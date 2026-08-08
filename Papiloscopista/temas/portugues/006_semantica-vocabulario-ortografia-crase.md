@@ -16,6 +16,8 @@ Este subitem fecha o bloco de Língua Portuguesa reunindo sentido próprio/figur
 | FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q2: valor semântico de "finalidade" na preposição "de". Q4: reconhecer repetição de palavra com o mesmo sentido (sem polissemia). |
 | FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q6: escolha do termo mais adequado ao contexto entre dois sinônimos próximos. Q7: uso correto das expressões fixas "ao pé", "a pé", "de pé" e "em pé". |
 | FGV PCAM Investigador de Polícia, Tipo 1 | 2021 | Q1: reconhecer a metáfora que não tem sua base de comparação desenvolvida no texto. |
+| FGV AGESAN-RS | 2025 | Q20: teste das duas condições de crase (termo que exige "a" + termo que aceita artigo feminino). |
+| FGV ALERJ | 2026 | Q10: valor semântico de finalidade da preposição "a". |
 
 ## Conteúdo completo orientado ao edital
 
@@ -231,6 +233,36 @@ Teste prático rápido: troque o termo feminino por um masculino equivalente. Se
 3. **D não desenvolve nada**: apenas apresenta "palavras cruzadas são a linguagem em férias", sem explicar por que a linguagem estaria "em férias" ali.
 4. **D é o gabarito**, a única metáfora sem desenvolvimento explicativo.
 
+**Fonte: FGV, AGESAN-RS, 2025, questão 20 (gabarito oficial: C)**
+
+> Assinale a opção que indica a frase em que o emprego do acento grave indicativo de crase está correto.
+>
+> (A) As riquezas, qualquer um deus as pode conceder até mesmo à um malvado, mas a virtude cabe a poucos.
+> (B) Quem é rico em virtude, é semelhante à jovens.
+> (C) Quanto à virtude não basta conhecê-la, devemos colocá-la em prática.
+> (D) Não se pode conceder a inteligência à todos.
+> (E) Comprar à crédito é mais fácil.
+
+1. **Teste as duas condições da crase**: termo anterior que exige "a" + termo posterior que aceita artigo feminino definido.
+2. **A** tem "um malvado" (masculino, indefinido) — sem artigo feminino para fundir. **B** tem "jovens" sem artigo definido. **D** tem "todos" (pronome indefinido masculino). **E** tem "crédito" (substantivo masculino).
+3. **C tem "quanto a" regendo "a virtude"** (substantivo feminino com artigo definido) — as duas condições se encontram.
+4. **C é o gabarito**, único caso de fusão preposição+artigo realmente cabível.
+
+**Fonte: FGV, ALERJ, 2026, questão 10 (gabarito oficial: B)**
+
+> Entre as frases a seguir, assinale aquela em que a preposição A tem valor semântico de finalidade.
+>
+> (A) "Pode ir a São Paulo, a Pernambuco ou ainda mais longe." (Dom Casmurro)
+> (B) "Alguma vez desceu a jantar, com os olhos vermelhos e a fronte pesarosa." (Helena)
+> (C) "Também Capitu, em solteira, fora tratá-la à Rua dos Inválidos." (Dom Casmurro)
+> (D) "Tio Cosme acomodava as carnes, e a besta partia a trote." (Dom Casmurro)
+> (E) "Era lido, posto que de atropelo, o bastante para divertir ao serão e à sobremesa." (Dom Casmurro)
+
+1. **Teste se "a" pode ser parafraseado por "para" sem quebrar o sentido**.
+2. **A** indica direção espacial; **C** indica lugar (com crase); **D** indica modo; **E** indica tempo/ocasião.
+3. **B**: "desceu a jantar" equivale a "desceu para jantar" — a preposição liga o verbo de movimento ao infinitivo que expressa o propósito da ação.
+4. **B é o gabarito**, único valor de finalidade genuíno.
+
 ## Pegadinhas da banca
 
 - Confundir qualquer "de" com valor de finalidade, sem testar a estrutura "substantivo + de + infinitivo".
@@ -238,6 +270,8 @@ Teste prático rápido: troque o termo feminino por um masculino equivalente. Se
 - Escolher sinônimo tecnicamente correto no dicionário, mas de registro ou colocação estranha ao contexto.
 - Trocar "a pé" por "ao pé de" (ou vice-versa) por semelhança sonora.
 - Aceitar qualquer frase com comparação como "metáfora explicada", sem checar se o texto realmente desenvolve o porquê.
+- Marcar crase por haver palavra feminina próxima, sem checar as duas condições (termo que exige "a" + termo que aceita artigo feminino).
+- Confundir qualquer preposição "a" (direção, modo, tempo, lugar) com finalidade só pela estrutura repetida "verbo + a + termo".
 
 ## Como resolver questões
 
@@ -249,7 +283,7 @@ Teste prático rápido: troque o termo feminino por um masculino equivalente. Se
 
 ## Lacunas honestas
 
-- Ainda não há questão real localizada sobre crase, acentuação gráfica, "por que/por quê/porque/porquê", parônimos, dicionário ou neologismo/arcaísmo/estrangeirismo/latinismo neste levantamento — a teoria de todos esses pontos está coberta acima; falta apenas a camada de prática com questão real conferida, prioridade para a próxima rodada de busca de fontes (PCRJ, PCRN, PCPI).
+- Ainda não há questão real localizada sobre acentuação gráfica, "por que/por quê/porque/porquê", parônimos, dicionário ou neologismo/arcaísmo/estrangeirismo/latinismo neste levantamento — a teoria de todos esses pontos está coberta acima; falta apenas a camada de prática com questão real conferida, prioridade para a próxima rodada de busca de fontes (PCRJ, PCRN, PCPI).
 
 ## Checklist de revisão
 
@@ -264,7 +298,7 @@ Teste prático rápido: troque o termo feminino por um masculino equivalente. Se
 - [ ] Sei usar corretamente "por que", "por quê", "porque" e "porquê".
 - [ ] Sei as regras de acentuação de oxítonas, paroxítonas, proparoxítonas e monossílabos tônicos, e os casos especiais de hiato/ditongo após o Acordo Ortográfico.
 - [ ] Sei testar crase pelas duas condições (termo que exige "a" + termo que aceita artigo feminino) e pelo teste do "ao".
-- [ ] Resolvi as cinco questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Resolvi as sete questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
@@ -278,6 +312,8 @@ Teste prático rápido: troque o termo feminino por um masculino equivalente. Se
 - FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questões 2 e 4. Gabarito definitivo publicado pela FGV.
 - FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questões 6 e 7. Gabarito definitivo publicado pela FGV.
 - FGV. PCAM 2021 - Investigador de Polícia, 4ª Classe, Tipo 1. Caderno oficial, questão 1. Gabarito definitivo publicado pela FGV.
+- FGV. AGESAN-RS, 2025. Questão 20 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. ALERJ, 2026. Questão 10 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**

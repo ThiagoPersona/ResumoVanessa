@@ -5,7 +5,7 @@
 O mapa abaixo separa duas coisas que não devem ser misturadas:
 
 - **Peso oficial do edital:** já está completo para Papiloscopista.
-- **Banco FGV-style:** neste momento há 254 questões comentadas, com pelo menos uma por tema do edital.
+- **Banco FGV-style:** neste momento há 281 questões comentadas, com pelo menos uma por tema do edital.
 - **Validação por provas semelhantes:** já tem página própria para confrontar FGV Papiloscopista, FGV Perito/Polícia Civil e bancas próximas com os 61 temas.
 
 Isso evita inventar estatística de prova. À medida que os PDFs locais e oficiais forem convertidos, os totais por tema e a distribuição de alternativas devem ser atualizados aqui.
@@ -18,12 +18,12 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 
 | Disciplina | Questões no edital | Capítulos | Questões convertidas | Base |
 |---|---:|---:|---:|---|
-| Português | 25 | 6 | 35 | Conhecimentos Gerais, item 1 |
+| Português | 25 | 6 | 50 | Conhecimentos Gerais, item 1 |
 | RLM | 5 | 4 | 17 | Conhecimentos Gerais, item 2 |
 | Realidade PR | 5 | 2 | 6 | Conhecimentos Gerais, item 3 |
 | Tecnologia | 15 | 6 | 29 | Conhecimentos Específicos, item 1 |
 | Ciências Forenses | 10 | 8 | 21 | Conhecimentos Específicos, item 2 |
-| Biologia | 10 | 4 | 15 | Conhecimentos Específicos, item 3 |
+| Biologia | 10 | 4 | 27 | Conhecimentos Específicos, item 3 |
 | Física | 5 | 4 | 10 | Conhecimentos Específicos, item 4 |
 | Química | 5 | 5 | 21 | Conhecimentos Específicos, item 5 |
 | Legislação | 5 | 7 | 25 | Conhecimentos Específicos, item 6 |
@@ -55,12 +55,12 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 
 | ID | Disciplina | Tema | Edital | Prioridade | Questões convertidas |
 |---:|---|---|---|---|---:|
-| 001 | Português | Interpretação e compreensão de texto | Língua Portuguesa 1.1 | altíssima | 7 (6 oficiais FGV) |
-| 002 | Português | Organização textual, coesão e coerência | Língua Portuguesa 1.2-1.3 | altíssima | 3 (2 oficiais FGV) |
-| 003 | Português | Modos discursivos, tipos textuais e textos literários | Língua Portuguesa 1.4-1.6 | alta | 5 (4 oficiais FGV) |
-| 004 | Português | Frase, sintaxe, discurso e pontuação | Língua Portuguesa 1.7-1.17 | altíssima | 10 (9 oficiais FGV) |
-| 005 | Português | Morfologia e classes de palavras | Língua Portuguesa 1.18-1.20 | alta | 4 (3 oficiais FGV) |
-| 006 | Português | Semântica, vocabulário, ortografia, acentuação e crase | Língua Portuguesa 1.21-1.26 | altíssima | 6 (5 oficiais FGV) |
+| 001 | Português | Interpretação e compreensão de texto | Língua Portuguesa 1.1 | altíssima | 9 (8 oficiais FGV) |
+| 002 | Português | Organização textual, coesão e coerência | Língua Portuguesa 1.2-1.3 | altíssima | 4 (3 oficiais FGV) |
+| 003 | Português | Modos discursivos, tipos textuais e textos literários | Língua Portuguesa 1.4-1.6 | alta | 7 (6 oficiais FGV) |
+| 004 | Português | Frase, sintaxe, discurso e pontuação | Língua Portuguesa 1.7-1.17 | altíssima | 14 (13 oficiais FGV) |
+| 005 | Português | Morfologia e classes de palavras | Língua Portuguesa 1.18-1.20 | alta | 8 (7 oficiais FGV) |
+| 006 | Português | Semântica, vocabulário, ortografia, acentuação e crase | Língua Portuguesa 1.21-1.26 | altíssima | 8 (7 oficiais FGV) |
 | 007 | RLM | Lógica proposicional e conjuntos | RLM 2.1-2.2 | alta | 4 (3 oficiais FGV) |
 | 008 | RLM | Números, porcentagem, juros, proporcionalidade e medidas | RLM 2.3-2.5 | alta | 6 (5 oficiais FGV) |
 | 009 | RLM | Geometria, plano cartesiano, gráficos e tabelas | RLM 2.8, 2.11-2.12 | média | 3 (2 oficiais FGV) |
@@ -81,10 +81,10 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | 024 | Ciências Forenses | Documentoscopia, grafoscopia e falsificações | Ciências Forenses 2.2 | alta | 1 (autoral) |
 | 025 | Ciências Forenses | Criminologia, vitimologia e controle social | Ciências Forenses 2.3 | alta | 2 (autorais) |
 | 026 | Ciências Forenses | Criminologia digital e investigação tecnológica | Ciências Forenses 2.4 | alta | 1 (autoral) |
-| 027 | Biologia | Citologia | Biologia 3.1 | alta | 2 (1 oficial FGV) |
-| 028 | Biologia | Genética | Biologia 3.2 | altíssima | 6 (4 oficiais FGV) |
-| 029 | Biologia | Embriologia e cristas papilares | Biologia 3.3 | altíssima | 2 (1 oficial FGV) |
-| 030 | Biologia | Biologia da identificação humana e biometria | Biologia 3.4 | altíssima | 5 (3 oficiais FGV) |
+| 027 | Biologia | Citologia | Biologia 3.1 | alta | 6 (5 oficiais FGV) |
+| 028 | Biologia | Genética | Biologia 3.2 | altíssima | 10 (8 oficiais FGV) |
+| 029 | Biologia | Embriologia e cristas papilares | Biologia 3.3 | altíssima | 3 (2 oficiais FGV) |
+| 030 | Biologia | Biologia da identificação humana e biometria | Biologia 3.4 | altíssima | 8 (6 oficiais FGV) |
 | 031 | Física | Óptica e formação de imagens | Física 4.1 | alta | 4 (2 oficiais FGV) |
 | 032 | Física | UV, fluorescência, ondas e eletromagnetismo | Física 4.1-4.2 | alta | 4 (2 oficiais FGV) |
 | 033 | Física | Eletricidade e circuitos simples | Física 4.3 | média | 1 (autoral) |
