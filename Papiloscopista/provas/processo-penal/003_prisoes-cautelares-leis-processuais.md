@@ -9,7 +9,7 @@
 - FGV, PCAM - Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022 (cargo policial correlato). Gabarito oficial definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 67 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 67</p>
 <p><strong>1. Michael responde, preso preventivamente, a inquérito policial conduzido pela Polícia Civil, que investiga a prática do crime de extorsão simples, previsto no Art. 158 do Código Penal. Quanto ao prazo de duração, é correto dizer que o inquérito em questão deve ser concluído no prazo de</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-052-pcam-q67" value="A"> A. 15 dias, contados do dia em que foi executada a ordem de prisão.</label>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 68 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 68</p>
 <p><strong>2. No curso de inquérito que investigava uma organização criminosa especializada na prática do crime de contrabando, policiais federais obtiveram informações sobre a importação clandestina de mercadoria em data futura. A autoridade comunicou ao juízo competente o retardamento da intervenção policial, com a finalidade de acompanhar toda a ação e obter maiores informações sobre a organização. Os policiais observaram a prática delitiva, deixando de prender os agentes imediatamente, para efetuar a prisão apenas em momento posterior, quando obtiveram informações mais relevantes. Assim sendo, houve, no caso, flagrante</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-052-pcam-q68" value="A"> A. provocado.</label>
@@ -61,7 +61,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 69 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 69</p>
 <p><strong>3. O Ministério Público ofereceu denúncia em face de Leandro, imputando-lhe a prática de roubo com emprego de arma branca. Leandro, que passou o inquérito em liberdade, teve sua prisão preventiva decretada de ofício pelo magistrado que recebeu a denúncia, pois inexistia pedido do Parquet. De acordo com os dados fornecidos, é correto afirmar que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-052-pcam-q69" value="A"> A. O juiz não poderia decretar a prisão preventiva de ofício.</label>

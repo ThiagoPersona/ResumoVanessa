@@ -10,7 +10,7 @@
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 7 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 7</p>
 <p><strong>1. Em todas as opções abaixo, as frases foram reescritas de modo a, mantendo-se o sentido, eliminar o advérbio "não". Assinale a frase em que isso foi feito de modo adequado.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-002-seadap-q7" value="A"> A. Não me lembro do que ele morreu. Só me lembro que não era nada sério / que eu desconhecia a doença.</label>
@@ -36,7 +36,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 3 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 3</p>
 <p><strong>2. As opções a seguir apresentam cinco formas diferentes de redigir o mesmo período. Assinale a opção em que a forma indicada corresponde ao período de melhor redação, considerando correção, clareza, concisão e elegância.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-002-pcmg-q3" value="A"> A. Sem a companhia dos tolos, ficaria sempre muito desajeitado um homem de espírito.</label>

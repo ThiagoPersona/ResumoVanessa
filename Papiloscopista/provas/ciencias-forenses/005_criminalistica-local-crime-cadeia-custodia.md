@@ -9,7 +9,7 @@
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 41 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 41</p>
 <p><strong>1. Sabemos, por meio da análise do Art. 158-A do CPP, que o início da cadeia de custódia ocorre com procedimentos policiais ou periciais em que se detecte a existência de um vestígio. Sobre as etapas da cadeia de custódia, assinale a afirmativa incorreta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-023-pcmg-q41" value="A"> A. O isolamento é a primeira etapa, definida como ato de evitar que se altere o estado das coisas.</label>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 46 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 46</p>
 <p><strong>2. Acerca da criminalística, assinale a afirmativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-023-pcmg-q46" value="A"> A. É o conjunto de normas e princípios que define as infrações penais e as respectivas penas.</label>
@@ -61,7 +61,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 47 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 47</p>
 <p><strong>3. Analise o fragmento a seguir. Se a diligência consistir na produção de prova _____, o Juiz Presidente nomeará Perito e formulará quesitos. Assinale a opção que completa corretamente a lacuna do fragmento acima.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-023-pcmg-q47" value="A"> A. confessional.</label>
@@ -87,7 +87,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 48 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 48</p>
 <p><strong>4. Acerca das formas de prova e do exame de corpo de delito, assinale a afirmativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-023-pcmg-q48" value="A"> A. Na falta de perito oficial, o exame poderá ser realizado por duas pessoas com curso superior na área específica.</label>
@@ -113,7 +113,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 49 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 49</p>
 <p><strong>5. Acerca do local do crime, avalie as afirmativas e assinale (V) para a verdadeira e (F) para a falsa. ( ) Local externo é aquele que não sofreu alterações, tendo sido preservado tal como foi deixado após a consumação do crime. ( ) Local inidôneo é aquele que foi mal protegido, resultando em prejuízo ao exame pericial. ( ) Local interno é o espaço coberto, podendo ter ou não sua área confinada por paredes. As afirmativas são, respectivamente,</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-023-pcmg-q49" value="A"> A. F – F – V.</label>
@@ -137,7 +137,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 50 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 50</p>
 <p><strong>6. No que se refere ao local do crime, relacione os componentes a seguir às respectivas definições. I. Indícios; II. Vestígios; III. Provas. ( ) Constituem o conjunto de meios idôneos que visam afirmar a existência ou não de um fato. ( ) São as circunstâncias conhecidas e provadas que permitem presumir a existência de outros fatos relacionados ao crime. ( ) São todos os objetos ou materiais brutos que se relacionam à infração penal. Assinale a opção que indica a relação correta, na ordem apresentada.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-023-pcmg-q50" value="A"> A. I – II – III.</label>

@@ -9,7 +9,7 @@
 - FGV, PCAM - Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022 (cargo policial correlato). Gabarito oficial definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 73 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 73</p>
 <p><strong>1. Marta é a nova Delegada de Polícia Civil que acaba de assumir a titularidade da Xª DP. Marta está realizando correições internas e editando ordens de serviço, buscando prestar um serviço público à população com mais qualidade, menos gastos, mais presteza e, acima de tudo, visando a um bom desempenho funcional de todos os policiais lotados na delegacia, para beneficiar a coletividade. As providências adotadas por Marta se encaixam no princípio expresso da administração pública da</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-056-pcam-q73" value="A"> A. eficácia.</label>

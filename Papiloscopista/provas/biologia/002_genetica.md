@@ -9,7 +9,7 @@
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 32 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 32</p>
 <p><strong>1. Um estudo internacional permitiu identificar, em um esqueleto de cerca de mil anos encontrado em Portugal, a existência de uma síndrome provocada por uma alteração cromossômica numérica. A análise do DNA do esqueleto utilizou diferentes metodologias e revelou a presença de cromossomos X e Y, na proporção de 2:1. A descoberta tornou-se o registro mais antigo da síndrome de</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-028-seadap-q32" value="A"> A. Down, e o esqueleto pertencia a uma mulher.</label>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 33 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 33</p>
 <p><strong>2. O ácido desoxirribonucleico (DNA) desempenha um papel vital na ciência forense. Sobre a natureza química e a constituição do material genético, analise os itens: I. A molécula de DNA é um polímero de unidades menores chamada nucleotídeos, formado por desoxirribose, fosfato e base nitrogenada. II. Se uma molécula de DNA tem 34% de suas bases correspondentes à guanina, então o percentual correspondente à citosina será, obrigatoriamente, 16%. III. A duplicação do DNA é dita semiconservativa porque origina duas moléculas filhas idênticas: uma composta por dois filamentos recém-formados, e a outra conserva os dois filamentos originais. Está correto o que se afirma em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-028-seadap-q33" value="A"> A. I, apenas.</label>
@@ -59,7 +59,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 39 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 39</p>
 <p><strong>3. [Caso de investigação de paternidade decidida décadas depois por exame de DNA, após tipagem sanguínea ABO/Rh não conclusiva.] Com relação ao caso descrito e à herança dos grupos sanguíneos, analise os itens: I. Em casos de dúvida na paternidade, a tipagem sanguínea ABO e Rh pode ser usada para excluir um homem de ser pai, mas não pode ser usada para confirmar. II. Se a mãe e o filho têm sangue tipo A Rh+, o pai pode pertencer a qualquer grupo sanguíneo do sistema ABO e a qualquer grupo Rh. III. A tipagem sanguínea e o exame de DNA estão baseados na análise de moléculas presentes nos eritrócitos. Está correto o que se afirma em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-028-seadap-q39" value="A"> A. I, apenas.</label>
@@ -83,7 +83,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 40 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 40</p>
 <p><strong>4. Observe o heredograma a seguir. Nele, os indivíduos que estão marcados em preto são hemofílicos. A hemofilia é uma doença genética cuja herança é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-028-seadap-q40" value="A"> A. autossômica e codominante.</label>

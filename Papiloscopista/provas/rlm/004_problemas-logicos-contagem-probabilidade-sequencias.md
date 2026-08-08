@@ -9,7 +9,7 @@
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 12 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 12</p>
 <p><strong>1. Um perito criminal precisa analisar um conjunto de quatro amostras coletadas de uma cena de crime. As amostras incluem os seguintes itens distintos: cinco fibras de tecido; três fios de cabelo; dois fragmentos de vidro; e uma amostra de solo. Para realizar a análise, ele precisa escolher exatamente três itens entre as amostras, mas cada item deve pertencer a uma amostra diferente. O número total de diferentes trios de itens que o perito pode escolher é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-010-pcmg-q12" value="A"> A. 59.</label>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 13 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 13</p>
 <p><strong>2. Durante as investigações de um sinistro, foram obtidos exatos 20 minutos e 15 segundos contínuos de gravação de uma câmera de segurança. Por um dano na câmera, ao longo de toda a gravação, alternam-se 2 minutos de imagens nítidas com períodos variáveis de imagens sem qualquer nitidez. O primeiro trecho sem nitidez dura 1 segundo e cada um dos demais dura o dobro do tempo do trecho defeituoso precedente. Com base nessas informações, é correto concluir que o tempo total de imagens sem nitidez nessa gravação é de exatamente</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-010-pcmg-q13" value="A"> A. 4 minutos.</label>
@@ -61,7 +61,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 19 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 19</p>
 <p><strong>3. Um perito criminal está investigando o furto, sem arrombamento, do conteúdo em um cofre que bloqueia automaticamente a sua abertura após três tentativas incorretas e consecutivas de se digitar a senha. A perícia indica que o suspeito tinha um conjunto de 10 sequências possíveis de dígitos no momento do sinistro, sendo apenas uma a senha correta. O perito supõe que o suspeito não tinha qualquer preferência entre as sequências que detinha, e todas teriam a mesma probabilidade de serem escolhidas. Sabendo-se que uma sequência, uma vez utilizada, foi descartada de novas escolhas, a probabilidade de ele conseguir abrir o cofre, antes do bloqueio, por meio da senha correta era</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-010-pcmg-q19" value="A"> A. 8,1%.</label>

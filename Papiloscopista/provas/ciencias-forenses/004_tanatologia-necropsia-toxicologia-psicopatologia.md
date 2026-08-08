@@ -9,7 +9,7 @@
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 43 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 43</p>
 <p><strong>1. Acerca da cronotanatognose, avalie as afirmativas a seguir. I. A mancha verde abdominal marca o início da putrefação e tem início entre 8 a 12 horas após a morte. II. A fase de esqueletização termina após três meses quando o indivíduo já está totalmente esqueletizado. III. A circulação póstuma de Brouardel acontece na mesma fase em que surge a mancha verde abdominal, ou seja, na fase de coloração. Está correto o que se afirma em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-022-pcmg-q43" value="A"> A. I, apenas.</label>

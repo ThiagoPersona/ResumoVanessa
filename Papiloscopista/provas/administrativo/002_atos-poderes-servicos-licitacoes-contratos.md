@@ -9,7 +9,7 @@
 - FGV, PCAM - Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022 (cargo policial correlato). Gabarito oficial definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 71 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 71</p>
 <p><strong>1. João, Investigador de Polícia Civil, praticou ato administrativo relacionado à organização do Setor de Investigações da delegacia onde exerce a função de chefe. Tal ato era de competência do Delegado Titular, que tem interesse em manter o ato exatamente como foi praticado por João. Não tendo havido prejuízo a terceiros e recomendando o interesse público a manutenção do ato, o Delegado Titular</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-057-pcam-q71" value="A"> A. não poderá ratificar o ato, pois se trata de vício insanável de competência, devendo revogar o ato anterior e praticar outro equivalente.</label>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 74 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 74</p>
 <p><strong>2. Delegado-Geral de Polícia Civil, dentro de sua competência legal, editou ato administrativo geral e abstrato, com efeito erga omnes, para complementar e facilitar a execução de determinada lei, minudenciando seus termos. A providência adotada está diretamente relacionada ao poder administrativo</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-057-pcam-q74" value="A"> A. de polícia, eis que editada pelo superior hierárquico da Polícia Civil.</label>
@@ -61,7 +61,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 77 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 77</p>
 <p><strong>3. A Polícia Civil do Estado Alfa instaurou processos administrativos que adotarão a modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto. Levando em conta o regime jurídico previsto na nova Lei de Licitações (Lei nº 14.133/21), as contratações em pauta ocorrerão na modalidade</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-057-pcam-q77" value="A"> A. concorrência.</label>

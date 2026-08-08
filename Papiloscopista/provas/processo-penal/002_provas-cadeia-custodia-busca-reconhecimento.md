@@ -11,7 +11,7 @@
 - FGV, PCAM - Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022 (cargo policial correlato). Gabarito oficial definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 22 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 22</p>
 <p><strong>1. Durante o inquérito policial, foi judicialmente determinada a busca e apreensão domiciliar de um computador específico na residência de Helena. Contudo, os agentes confundiram-se e apreenderam o computador que estava na residência da vizinha de Helena. Nessa hipótese, é correto afirmar que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-051-seadap-q22" value="A"> A. os elementos de informação colhidos nesse ato não poderão integrar o material probatório a ser valorado pelo juiz.</label>
@@ -37,7 +37,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 25 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 25</p>
 <p><strong>2. Indício é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-051-seadap-q25" value="A"> A. a circunstância conhecida e provada, que, tendo relação com o fato, autorize, por indução, concluir-se a existência de outra ou outras circunstâncias.</label>
@@ -63,7 +63,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 26 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 26</p>
 <p><strong>3. Em relação à prova, avalie as afirmativas e assinale V para a verdadeira e F para a falsa: ( ) O juiz formará sua convicção pela livre apreciação da prova produzida em contraditório judicial. ( ) O juiz pode fundamentar sua decisão exclusivamente nos elementos informativos colhidos na investigação. ( ) As provas cautelares, não repetíveis e antecipadas não devem influenciar a convicção do juiz. As afirmativas são, respectivamente,</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-051-seadap-q26" value="A"> A. V, V e V.</label>
@@ -89,7 +89,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 27 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 27</p>
 <p><strong>4. Em relação ao corpo de delito, avalie: I. Quando a infração deixar vestígios, será indispensável o exame de corpo de delito, direto ou indireto, não podendo supri-lo a confissão do acusado. II. Dar-se-á prioridade à realização do exame de corpo de delito quando se tratar de crime que envolva violência doméstica e familiar contra mulher. III. Dar-se-á prioridade à realização do exame de corpo de delito quando se tratar de crime que envolva violência contra criança, adolescente, idoso ou pessoa com deficiência. Está correto o que se afirma em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-051-seadap-q27" value="A"> A. I, apenas.</label>
@@ -115,7 +115,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 29 (gabarito oficial: E — alternativa INCORRETA)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 29</p>
 <p><strong>5. No que tange ao exame de corpo de delito e perícias em geral, assinale a afirmativa incorreta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-051-seadap-q29" value="A"> A. Em caso de lesões corporais, se o primeiro exame pericial tiver sido incompleto, proceder-se-á a exame complementar por determinação da autoridade policial ou judiciária, de ofício, ou a requerimento do Ministério Público, do ofendido ou do acusado, ou de seu defensor.</label>
@@ -141,7 +141,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 39 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 39</p>
 <p><strong>6. Após representação da autoridade policial, ratificada pelo Ministério Público, o Juiz expediu mandado de busca e apreensão a ser cumprido no endereço residencial de Túlio. Considerando o CPP, avalie: I. A busca domiciliar será executada de dia, salvo se o morador consentir que se realize à noite, e, antes de penetrarem na casa, os executores mostrarão e lerão o mandado ao morador, intimando-o a abrir a porta. II. Recalcitrando o morador, será permitido o emprego de força contra coisas existentes no interior da casa, para o descobrimento do que se procura. III. Finda a diligência, os executores lavrarão auto circunstanciado, assinando-o, se possível, com uma testemunha presencial. Está correto o que se afirma em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-051-pcmg-q39" value="A"> A. I, apenas.</label>
@@ -167,7 +167,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 70 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 70</p>
 <p><strong>7. No curso de inquérito por corrupção passiva, a autoridade policial obteve autorização judicial para interceptação telefônica pelo prazo de 15 dias. Após a implementação, não houve pedido ou decisão sobre renovação, mas a interceptação não foi interrompida no prazo. No 16º dia, um diálogo revelou informação até então desconhecida. Munido dessa informação, o delegado representou por buscas em endereço onde, em cumprimento a mandado judicial, foram apreendidos documentos que instruíram a denúncia. É correto afirmar que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-051-pcam-q70" value="A"> A. Os documentos devem ser admitidos no processo pois obtidos por fonte absolutamente independente.</label>

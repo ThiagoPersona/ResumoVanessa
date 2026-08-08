@@ -9,7 +9,7 @@
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 44 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 44</p>
 <p><strong>1. As asfixias mecânicas são as que ocorrem com mais frequência. Nesse sentido, correlacione as colunas de acordo com a definição de cada tipo de asfixia. 1. Sufocação direta; 2. Sufocação indireta; 3. Soterramento; 4. Enforcamento; 5. Estrangulamento. ( ) Necessita do peso do corpo para o acionamento do mecanismo de constrição. ( ) Costuma ser caracterizado por sulcos em disposição horizontal. ( ) Corresponde à obstrução das vias aéreas superiores. ( ) Há impedimento de entrada de ar por constrição da parede do tórax. ( ) Há alteração do meio ambiente podendo ocorrer obstrução de vias aéreas superiores e constrição da parede do tórax. Assinale a opção que indica a relação correta, segundo a ordem apresentada.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-021-pcmg-q44" value="A"> A. 4 – 2 – 1 – 5 – 3.</label>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 45 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 45</p>
 <p><strong>2. A balística é o ramo da Mecânica que estuda os projéteis, sendo fundamental a compreensão dos movimentos que interferem na sua aerodinâmica. Nesse sentido, associe os movimentos a seguir às respectivas definições. 1. Nutação; 2. Precessão; 3. Rotação; 4. Translação. ( ) Movimento ocasionado pela raiação do cano da arma. ( ) Movimento que corresponde ao deslocamento do projétil pelo ar, em forma parabólica. ( ) Movimento vibratório de pequena amplitude na base do projétil, durante o movimento cônico de precessão. ( ) Movimento em que é gerada uma evolução cônica de revolução do projétil na base e cujo vértice é a extremidade anterior da ogiva. Assinale a opção que indica a associação correta, na ordem apresentada.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-021-pcmg-q45" value="A"> A. 1 – 2 – 3 – 4.</label>

@@ -10,7 +10,7 @@
 - FGV, PCAM - Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022 (cargo policial correlato). Gabarito oficial definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 31 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 31</p>
 <p><strong>1. O Estado Alfa, no exercício da competência legislativa concorrente em matéria de integração de pessoas com determinada espécie de deficiência, editou a Lei Estadual nº X. Em momento posterior, a União, que ainda não tinha legislado sobre essa matéria específica, editou a Lei Federal nº Y, estabelecendo normas gerais em sentido diametralmente oposto ao da lei estadual. Considerando a situação descrita, é correto afirmar que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-054-pcmg-q31" value="A"> A. a Lei Estadual nº X foi revogada.</label>
@@ -36,7 +36,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 33 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 33</p>
 <p><strong>2. Em razão de uma grande enchente que assolou determinada região do país, caracterizando grave ameaça à paz social no território atingido, o Presidente da República reuniu seus assessores para verificar a medida passível de ser adotada para restabelecer a normalidade, admitindo-se restrição aos direitos individuais. Considerando os balizamentos constitucionais, é correto afirmar que pode ser decretado</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-054-pcmg-q33" value="A"> A. o estado de sítio.</label>
@@ -62,7 +62,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 51 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 51</p>
 <p><strong>3. O Prefeito do Município Beta editou decreto dispondo que, nos finais de semana, os locais de diversão do Município somente poderiam ser frequentados pelos moradores de Beta, sob a justificativa de que moradores de Municípios vizinhos geravam grande lotação no local. À luz da sistemática constitucional, é correto afirmar que o decreto é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-054-pcam-q51" value="A"> A. inconstitucional, pois restrição dessa natureza somente poderia ser criada por lei.</label>
@@ -88,7 +88,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 52 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 52</p>
 <p><strong>4. A Constituição do Estado Alfa foi alterada por Emenda Constitucional, estabelecendo ordem de prioridade das políticas públicas de interesse local a serem implementadas pelos Municípios situados em seu território. Um advogado foi consultado e respondeu corretamente que o estabelecimento dessa ordem de prioridades é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-054-pcam-q52" value="A"> A. inconstitucional, pois a Constituição Estadual não projeta força normativa sobre os Municípios.</label>
@@ -114,7 +114,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 53 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 53</p>
 <p><strong>5. Joaquim, policial civil, pretende concorrer ao cargo eletivo de Prefeito, mas tem dúvidas sobre as consequências de sua eleição em relação ao cargo de provimento efetivo que já ocupava. Foi-lhe informado corretamente que, caso eleito, Joaquim</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-054-pcam-q53" value="A"> A. será demitido.</label>
@@ -140,7 +140,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 54 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 54</p>
 <p><strong>6. O Governador do Estado Alfa solicitou um estudo sobre os agentes responsáveis pela atividade de segurança desenvolvida com o objetivo de preservar a incolumidade das pessoas e do respectivo patrimônio nas vias públicas. A assessoria informou corretamente que essa atividade</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-054-pcam-q54" value="A"> A. deve ser desenvolvida conforme convênio entre Estado e Municípios, por policiais militares e guardas municipais.</label>

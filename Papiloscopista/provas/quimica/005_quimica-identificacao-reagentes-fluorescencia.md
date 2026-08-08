@@ -9,7 +9,7 @@
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 54 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 54</p>
 <p><strong>1. No ano de 2016 um novo sítio arqueológico foi descoberto no Brasil, na zona rural de São Manuel (SP). Para estimar a idade dos objetos encontrados, amostras de carvão foram enviadas para datação por radiocarbono. Esse radioisótopo possui tempo de meia-vida de 5730 anos e, em uma fonte de material recente, apresenta 18,2×10³ desintegrações em um período de 20 horas. Considerando que a análise do material brasileiro enviado tenha apresentado 5,2×10³ desintegrações para o mesmo período de tempo, é possível estimar que a idade da amostra analisada, em anos, é, aproximadamente, igual a (Dado: log 3,5=0,54; log 2=0,30)</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-039-seadap-q54" value="A"> A. 3.500.</label>

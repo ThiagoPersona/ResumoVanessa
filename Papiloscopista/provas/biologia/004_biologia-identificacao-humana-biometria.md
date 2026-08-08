@@ -9,7 +9,7 @@
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 31 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 31</p>
 <p><strong>1. O luminol é o mais eficiente detector de sangue oculto em cenas de crime. Esse composto reage quimicamente com o sangue, liberando energia (fótons) sob forma de uma luz azul, numa reação denominada quimiluminescência. O componente do sangue que reage com o luminol é o</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-030-seadap-q31" value="A"> A. íon cálcio do plasma.</label>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 35 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 35</p>
 <p><strong>2. Para a detecção de impressões digitais latentes podem ser utilizadas diversas técnicas, onde substâncias corantes interagem com componentes do suor deixado em um objeto ou superfície. Para o caso de superfícies porosas, como papel e paredes de alvenaria, costuma-se utilizar o método da ninidrina, substância que reage com certas moléculas orgânicas presentes no suor, resultando em um produto de coloração púrpura. A ninidrina detecta um grupo funcional que contém nitrogênio, encontrado tipicamente em moléculas de</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-030-seadap-q35" value="A"> A. ácidos graxos, componentes dos glicídios.</label>
@@ -61,7 +61,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 36 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 36</p>
 <p><strong>3. A tipagem sanguínea pode auxiliar na investigação criminal. O exame deve ser feito por meio de prova direta, com uso de soro anti-A, anti-B, anti-A,B e anti-D e, em seguida, confirmada através de prova indireta (hemácias tipadas A e B). A figura mostra o resultado do exame de um suspeito. Assinale V/F: ( ) A prova direta pesquisa aglutininas no soro do suspeito, enquanto a prova indireta pesquisa aglutinogênios em suas hemácias. ( ) Para a classificação rotineira do RhD não há prova reversa, pois os indivíduos não apresentam naturalmente anticorpos séricos contra o antígeno RhD. ( ) O resultado acima mostra que o suspeito apresenta sangue do tipo O+, que é considerado receptor universal. As afirmativas são, respectivamente,</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-030-seadap-q36" value="A"> A. F, V e F.</label>

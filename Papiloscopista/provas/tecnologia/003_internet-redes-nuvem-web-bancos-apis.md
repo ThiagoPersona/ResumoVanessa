@@ -11,7 +11,7 @@
 - FGV, PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 12 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 12</p>
 <p><strong>1. No Google Chrome, o atalho de teclado Ctrl+Shift+T permite</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-015-seadap-q12" value="A"> A. reabrir o conteúdo da aba corrente numa nova aba.</label>
@@ -37,7 +37,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 23 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 23</p>
 <p><strong>2. No contexto das redes de computadores, considere as funções dos dispositivos de interconexão a seguir: hubs, repetidores, bridges e comutadores (switches). Assinale a opção que descreve corretamente o papel de um switch em comparação aos demais dispositivos.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-015-pcmg-q23" value="A"> A. Um switch opera na camada física (camada 1) e retransmite sinais elétricos para todos os dispositivos conectados.</label>
@@ -63,7 +63,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 22 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 22</p>
 <p><strong>3. Dado que o navegador web Google Chrome permite o gerenciamento de cookies, analise as ações de gerenciamento listadas a seguir. 1. bloquear cookies; 2. excluir cookies ao fechar o Google Chrome; 3. excluir cookies ao iniciar o Google Chrome; 4. excluir cookies de um período; 5. excluir cookies de um site. Dessa lista, as operações oferecidas pelo Google Chrome são</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-015-pcam-q22" value="A"> A. 2, 3, 4, somente.</label>

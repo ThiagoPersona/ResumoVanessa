@@ -11,7 +11,7 @@
 - FGV, PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 2 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 2</p>
 <p><strong>1. A maioria das palavras mostra vários significados (polissemia), o que também ocorre com as preposições. Indique a frase em que a preposição DE tem o valor de "finalidade".</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-006-seadap-q2" value="A"> A. A glória é como o vagalume: brilha de longe, mas vista de perto, não dá luz nem calor.</label>
@@ -37,7 +37,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 4 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 4</p>
 <p><strong>2. Assinale a frase a seguir em que as duas palavras sublinhadas mostram o mesmo sentido.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-006-seadap-q4" value="A"> A. Seja paciente no trânsito para não ser paciente no hospital.</label>
@@ -63,7 +63,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 6 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 6</p>
 <p><strong>3. Todas as frases a seguir mostram dois termos sublinhados que podem ser empregados na frase. Assinale a opção em que o primeiro termo é o mais adequado.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-006-pcmg-q6" value="A"> A. Marta não quis que existisse / ocorresse qualquer desentendimento com o noivo.</label>
@@ -89,7 +89,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 7 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 7</p>
 <p><strong>4. Assinale a opção que indica a frase em que houve a troca indevida entre as expressões ao pé, a pé, de pé e em pé.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-006-pcmg-q7" value="A"> A. Minha casa está ao pé da serra.</label>
@@ -115,7 +115,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 1 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 1</p>
 <p><strong>5. Todas as frases abaixo se apoiam em metáforas, que é um tipo de figura de base comparativa, ou seja, que estabelece um ponto de semelhança entre duas coisas. Assinale a opção em que a comparação ou metáfora não está explicada.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-006-pcam-q1" value="A"> A. Sou como o dólar: mesmo se estiver em baixa, tenho valor.</label>

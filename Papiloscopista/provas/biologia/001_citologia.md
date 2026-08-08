@@ -9,7 +9,7 @@
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 37 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 37</p>
 <p><strong>1. Em certas investigações forenses, como na suspeita de abuso sexual, a identificação do tipo de célula epitelial presente na amostra biológica forneceria provas comprobatórias importantes. Nesse sentido, estudos vêm sendo realizados para desenvolver técnicas que permitam diferenciar células da epiderme de células de mucosas (bucal e vaginal). Um desses trabalhos utiliza como marcador celular a proteína citoqueratina, presente no citoesqueleto das células. A citoqueratina é uma das proteínas que forma os</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-027-seadap-q37" value="A"> A. microfilamentos que determinam a contração muscular e o movimento ameboide de certas células.</label>

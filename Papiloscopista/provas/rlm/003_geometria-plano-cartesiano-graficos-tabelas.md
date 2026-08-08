@@ -9,7 +9,7 @@
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 14 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 14</p>
 <p><strong>1. Um perito criminal está analisando dados sobre a criminalidade em cinco áreas diferentes de uma cidade. Tais dados são apresentados na tabela a seguir: Área 1: 20 crimes registrados, 10.000 habitantes; Área 2: 15 crimes, 8.000 habitantes; Área 3: 25 crimes, 12.000 habitantes; Área 4: 30 crimes, 18.000 habitantes; Área 5: 10 crimes, 4.000 habitantes. A área que apresenta a maior taxa de criminalidade por 1.000 habitantes é a de número</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-009-pcmg-q14" value="A"> A. 1.</label>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 18 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 18</p>
 <p><strong>2. Um perito criminal investiga marcas de frenagem em uma estrada após uma série de acidentes em um mesmo trecho. As distâncias das marcas de frenagem (em metros) foram medidas em relação ao ponto de colisão, obtendo-se os seguintes valores: 19 – 22 – 20 – 18 – 23 – 30 – 22 – 18 – 21 – 19 – 24 – 18 – 21 – 20. Escrevendo-se essa lista em ordem crescente, pode-se dividi-la em dois grupos de sete valores, cada um com um termo central (quartil): Q1 para o grupo dos menores valores, Q3 para o grupo dos maiores. São considerados outliers os valores maiores que Q3 + 1,5×(Q3-Q1) e os menores que Q1 - 1,5×(Q3-Q1). Com base nessas informações, pode-se afirmar, corretamente, que o conjunto de distâncias registradas pelo perito</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-009-pcmg-q18" value="A"> A. não possui outlier.</label>

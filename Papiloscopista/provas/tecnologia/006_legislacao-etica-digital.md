@@ -9,7 +9,7 @@
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 24 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 24</p>
 <p><strong>1. De acordo com o Marco Civil da Internet (Lei nº 12.965/2014), assinale a alternativa que indica o princípio fundamental que orienta a neutralidade da rede.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-018-pcmg-q24" value="A"> A. Garantir que os provedores de conexão priorizem serviços de maior demanda para melhorar a experiência do usuário.</label>

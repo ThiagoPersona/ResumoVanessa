@@ -10,7 +10,7 @@
 - FGV, PCMG - Perito Criminal, Área I, Tipo Branca, 2024/2025 (cargo pericial correlato). Gabarito oficial definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 60 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 60</p>
 <p><strong>1. As propriedades físico-químicas de uma substância dependem não só da sua composição atômica, como também da distribuição desses átomos na molécula. Observe os pontos de ebulição de quatro compostos orgânicos: butanal (76,0°C), butan-2-ona (80,0°C), butan-1-ol (117,0°C), ácido propanoico (141,0°C). O fato que justifica o ácido propanoico possuir maior ponto de ebulição que os demais é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-038-seadap-q60" value="A"> A. a diminuição do tamanho da cadeia carbônica.</label>
@@ -36,7 +36,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 72 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 72</p>
 <p><strong>2. A descoberta da Penicilina G ou Benzilpenicilina e o seu subsequente uso terapêutico representou um marco na terapia medicamentosa. Assinale a opção que indica as funções orgânicas presentes nessa molécula.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-038-pcmg-q72" value="A"> A. Éter e Amida.</label>

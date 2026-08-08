@@ -9,7 +9,7 @@
 - FGV, PCMG - Perito Criminal, Área I, Tipo Branca, 2024/2025 (cargo pericial correlato). Gabarito oficial definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 38 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 38</p>
 <p><strong>1. João, primário e portador de bons antecedentes, foi capturado em flagrante pela prática do crime de tráfico de drogas, com a arrecadação de 60 pinos de cocaína, totalizando 50 gramas da substância ilícita. João foi encaminhado à Delegacia de Polícia de plantão para a adoção das medidas legais cabíveis. Considerando as disposições do Código de Processo Penal e da legislação aplicável, é correto afirmar que o Delegado de Polícia</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-049-pcmg-q38" value="A"> A. poderá conceder fiança a João, desde que o submeta, cumulativamente, a outras medidas cautelares de natureza diversa da prisão.</label>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 40 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 40</p>
 <p><strong>2. Antônio, policial civil, está atuando em complexa investigação e resolveu analisar a legislação que trata dos crimes hediondos, cotejando-a com os delitos que teriam sido praticados pelos investigados. De acordo com as disposições da Lei 8.072/1990, avalie: I. Lesão corporal dolosa de natureza grave, em razão do perigo de vida, em detrimento de um policial civil no exercício das funções. II. Roubo circunstanciado pelo emprego de arma branca. III. Posse ilegal de arma de fogo de uso proibido. Assinale a opção que indica crimes hediondos.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-049-pcmg-q40" value="A"> A. I, apenas.</label>

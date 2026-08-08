@@ -9,7 +9,7 @@
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 34 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 34</p>
 <p><strong>1. O exame de DNA para definição de paternidade pode ser feito ainda durante a gestação. Para isso, o tecido fetal pode ser obtido da coleta de vilo corial ou do líquido amniótico, ambas estruturas que fazem parte das membranas fetais. Com relação às membranas fetais e à placenta, assinale V para a afirmativa verdadeira e F para a falsa. ( ) As membranas fetais humanas são em número de quatro: âmnio, vesícula vitelínica, alantoide e cório. ( ) A vesícula vitelínica (ou saco vitelínico) é uma membrana fina, impermeável que envolve todo o embrião. Essa vesícula contém um fluido que evita que o embrião sofra dessecamento e traumas mecânicos. ( ) A placenta é um órgão formado por um componente fetal (vilosidades coriônicas) e um componente materno (endométrio). Assim, a placenta é composta de células provenientes de dois indivíduos geneticamente distintos. As afirmativas são, respectivamente,</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-029-seadap-q34" value="A"> A. F, V e F.</label>

@@ -9,7 +9,7 @@
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 41 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 41</p>
 <p><strong>1. Uma esfera oscila horizontalmente em movimento harmônico simples presa à extremidade de uma mola. Seu deslocamento pode ser descrito pela equação X = 0,2.cos(3π.t + π), medida no sistema internacional de unidades. A velocidade da esfera quando t = 1 s é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-032-seadap-q41" value="A"> A. – 1,8 m/s.</label>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 49 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 49</p>
 <p><strong>2. A figura representa dois anteparos separados por uma distância D. Sobre o primeiro anteparo incide um feixe de raios luminosos horizontais, de luz monocromática. No anteparo existem duas fendas F1 e F2, separadas por uma distância d, muito menor que D, através das quais a luz se difrata e forma, sobre o segundo anteparo, uma figura de interferência. O ponto P é um dos pontos mais próximos do ponto central O, equidistante das fontes F1 e F2, onde se localiza uma franja escura. A diferença de percurso no ponto P entre as duas luzes provenientes das fendas F1 e F2 é 2,4×10⁻⁷m. A tabela mostra o comprimento de onda de diferentes cores (×10⁻⁷m): vermelha 6,5; amarela 5,7; verde 5,4; azul 4,8; violeta 4,5. Assim, a cor usada no experimento é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-032-seadap-q49" value="A"> A. vermelha.</label>

@@ -11,7 +11,7 @@
 - FGV, PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 11 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 11</p>
 <p><strong>1. Considere o texto a seguir, retirado de uma página Web da Microsoft: "Um banco de dados hierárquico central usado no Windows 98, Windows CE, Windows NT e Windows 2000 usado para armazenar informações necessárias para configurar o sistema para um ou mais usuários, aplicativos e dispositivos de hardware." Assinale o componente do Windows descrito no texto.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-014-seadap-q11" value="A"> A. Área de Trabalho.</label>
@@ -37,7 +37,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 13 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 13</p>
 <p><strong>2. Considere um documento MS Word cujo conteúdo é exibido a seguir: "abas abastecimento bas1 basculante bassab". Nesse contexto, considere ainda uma busca avançada com emprego de "caracteres curinga", na qual o texto "bas&gt;" tenha sido digitado na caixa Localizar. Assinale o número de trechos que seriam localizados.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-014-seadap-q13" value="A"> A. 1.</label>
@@ -63,7 +63,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 14 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 14</p>
 <p><strong>3. No âmbito de planilhas MS Excel e Libre Office Calc, assinale o número de células compreendidas na região X3:AC200.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-014-seadap-q14" value="A"> A. 990.</label>
@@ -89,7 +89,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 21 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 21</p>
 <p><strong>4. No sistema operacional Linux, a estrutura de diretórios segue o padrão do Filesystem Hierarchy Standard (FHS), que organiza os arquivos e diretórios de forma hierárquica. Assinale a opção que indica corretamente a finalidade do diretório /var.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-014-pcmg-q21" value="A"> A. Armazenar os arquivos de configuração estática do sistema e serviços, como o arquivo fstab.</label>
@@ -115,7 +115,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 25 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 25</p>
 <p><strong>5. As Diretrizes para Distribuições de Sistemas Livres (GNU FSDG) estabelecem requisitos para que uma distribuição de software seja considerada livre. Assinale a opção que descreve corretamente uma das obrigações fundamentais dessas diretrizes.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-014-pcmg-q25" value="A"> A. Incluir qualquer software proprietário que seja amplamente utilizado, desde que possua relevância prática para os usuários.</label>
@@ -141,7 +141,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 21 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 21</p>
 <p><strong>6. No notebook de Joana, que utiliza o Windows 10 com a configuração usual do mouse, o aplicativo Word 2010 está fixado na Barra de Tarefas. Nesse cenário, considere que tenha havido um clique com o botão direito no ícone do Word presente na referida barra, e analise as afirmativas a seguir. I. O aplicativo é aberto com um documento novo, em branco. II. Se o aplicativo estiver aberto, a janela correspondente é imediatamente minimizada. III. É aberto um menu no qual uma das opções é desafixar o aplicativo da Barra de Tarefas. IV. É aberto um menu no qual há uma lista de documentos recentemente abertos por meio do aplicativo. Está correto o que se afirma apenas em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-014-pcam-q21" value="A"> A. I.</label>
@@ -167,7 +167,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 23 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 23</p>
 <p><strong>7. Ao preparar uma prova de múltipla escolha, Joana percebeu que toda vez que digita "(C)" o MS Word substitui o trecho pelo símbolo "©" (copyright). Há muitas questões na prova, e Joana quer anular esse efeito. Para tanto, ela deve acessar</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-014-pcam-q23" value="A"> A. Adicionar Texto na guia Referências.</label>
@@ -193,7 +193,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 24 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 24</p>
 <p><strong>8. Considere as seguintes afirmativas sobre as peculiaridades do comando Imprimir, na guia Arquivo do MS Word. I. Permite imprimir duas páginas lado a lado. II. Não permite a impressão dos comentários presentes no documento. III. Quando usado o controle de alterações, imprime sempre a versão final do documento. Está correto somente o que é afirmado em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-014-pcam-q24" value="A"> A. I.</label>
@@ -219,7 +219,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 25 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 25</p>
 <p><strong>9. No Excel 2010, João digitou numa planilha nova: na célula A1, o valor 1; na célula B1, o valor 2; na célula A2, o valor 3; na célula B2, o valor 4; na célula C1 a fórmula "=A1+B1"; na célula C2, a fórmula "=A2+B2". Em seguida, João copiou a região C1:C2 com Ctrl-C e colou na região D1:F4 com Ctrl-V. Os valores exibidos nas células F1, F2 e F3, respectivamente, devem ser</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-014-pcam-q25" value="A"> A. 11; 18; 29.</label>

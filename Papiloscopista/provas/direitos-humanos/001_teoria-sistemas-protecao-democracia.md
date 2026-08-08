@@ -9,7 +9,7 @@
 - FGV, PCMG - Perito Criminal, Área I, Tipo Branca, 2024/2025 (cargo pericial correlato). Gabarito oficial definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 34 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 34</p>
 <p><strong>1. O Brasil iniciou, nos anos 1990, um movimento de ratificação de diversos tratados internacionais de direitos humanos, alinhado com o propósito de fortalecimento da democracia recém-conquistada. Nesse contexto, assinale a afirmativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-059-pcmg-q34" value="A"> A. As medidas de prevenção e combate à tortura são relativas, uma vez que a adoção do protocolo de Istambul é facultativa pelo Estado brasileiro.</label>

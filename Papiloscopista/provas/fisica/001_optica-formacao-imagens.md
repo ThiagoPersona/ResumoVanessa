@@ -9,7 +9,7 @@
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 45 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 45</p>
 <p><strong>1. Um raio de luz monocromática, vindo do ar, chega com ângulo de incidência î à superfície livre da água contida num recipiente. Sendo o índice de refração da água nA, ele emerge com ângulo de refração r1. Se para chegar à água esse raio luminoso tiver que atravessar uma tampa de vidro de índice de refração nV maior que nA, emergirá com ângulo de refração r2. Se, porém, para chegar à água tiver que atravessar uma tampa de plástico de índice de refração nP menor que nA, emergirá com ângulo de refração r3. Esses ângulos de refração são tais que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-031-seadap-q45" value="A"> A. r2 > r1 = r3.</label>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 47 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 47</p>
 <p><strong>2. Duas lentes esféricas e delgadas, uma convergente de 2 di e outra divergente, de mesmo eixo principal, estão separadas por uma distância de 25cm. Nessas condições, formam um sistema óptico afocal. A convergência da lente divergente é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-031-seadap-q47" value="A"> A. – 8 di.</label>

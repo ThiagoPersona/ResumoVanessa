@@ -9,7 +9,7 @@
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 42 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 42</p>
 <p><strong>1. A Antropologia Forense é a ciência que auxilia na identificação de cadáveres em estado avançado de decomposição. Acerca da obtenção do perfil biológico, assinale a afirmativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-020-pcmg-q42" value="A"> A. A extremidade esternal da quarta costela é útil na investigação do sexo do indivíduo.</label>

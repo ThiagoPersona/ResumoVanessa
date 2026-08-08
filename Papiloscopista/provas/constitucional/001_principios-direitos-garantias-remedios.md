@@ -10,7 +10,7 @@
 - FGV, PCAM - Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022 (cargo policial correlato). Gabarito oficial definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 32 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 32</p>
 <p><strong>1. Ana compareceu a determinada repartição pública estadual e requereu a expedição de certidão, visando à defesa de uma situação de interesse pessoal, o que foi devidamente esclarecido em seu requerimento. A autoridade competente determinou que Ana providenciasse a juntada do comprovante de recolhimento da taxa de expediente. Antes de recolher a taxa, Ana analisou a Constituição da República e concluiu, corretamente, que a referida exigência é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-053-pcmg-q32" value="A"> A. inconstitucional, pois o requerimento deve ser atendido de forma gratuita.</label>
@@ -36,7 +36,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 46 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 46</p>
 <p><strong>2. João, preocupado por não conseguir pagar uma série de dívidas, consultou um advogado, que o informou corretamente que a decretação da prisão civil por dívida</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-053-pcam-q46" value="A"> A. não é admitida, em nenhuma hipótese, pela ordem constitucional brasileira.</label>
@@ -62,7 +62,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 47 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 47</p>
 <p><strong>3. Maria e Joana travaram debate sobre igualdade. Maria defendia que a igualdade formal se identifica com a material, não sendo possível tratamento diferenciado. Joana defendia que as ações afirmativas rompem com a igualdade formal para construir a igualdade material. À luz da sistemática constitucional, é correto afirmar que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-053-pcam-q47" value="A"> A. Maria está totalmente certa, e Joana está totalmente errada.</label>
@@ -88,7 +88,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 48 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 48</p>
 <p><strong>4. João procurou orientação jurídica a respeito da forma de implementação dos direitos sociais previstos na Constituição, ocasião em que lhe foi informado, corretamente, que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-053-pcam-q48" value="A"> A. as normas que os contemplam, em regra, têm eficácia plena, indicativo de que podem ser imediatamente exigidos, mesmo sem integração pela legislação infraconstitucional.</label>
@@ -114,7 +114,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 49 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 49</p>
 <p><strong>5. Maria almejava exercer determinada prerrogativa inerente à nacionalidade brasileira, a qual deveria ser detalhada em lei editada pelo Congresso Nacional. Persistia a omissão do Poder Legislativo, o que impedia a fruição dessa prerrogativa. O advogado respondeu corretamente que essa ação é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-053-pcam-q49" value="A"> A. a arguição de descumprimento de preceito fundamental.</label>
@@ -140,7 +140,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 50 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 50</p>
 <p><strong>6. José foi condenado a pena privativa de liberdade em processo penal pela prática de crime contra o patrimônio. Enquanto cumpria a pena, já tendo recebido livramento condicional, consultou seu advogado sobre a possibilidade de concorrer a cargo eletivo nesse período, sendo respondido corretamente que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-053-pcam-q50" value="A"> A. embora estivesse no gozo dos direitos políticos, José está inelegível.</label>
@@ -166,7 +166,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 55 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 55</p>
 <p><strong>7. A Lei federal XX dispôs que os benefícios pagos no âmbito da assistência social poderiam ter seus valores alterados, de modo a ampliá-los ou a reduzi-los. Considerando os objetivos constitucionais da seguridade social, é correto afirmar que a Lei federal XX é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-053-pcam-q55" value="A"> A. inconstitucional, pois a irredutibilidade dos valores desses benefícios é um objetivo constitucional.</label>

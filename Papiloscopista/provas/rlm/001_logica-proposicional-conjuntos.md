@@ -10,7 +10,7 @@
 - FGV, PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 11 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 11</p>
 <p><strong>1. Uma lei penal fictícia estabelece o seguinte: "É crime praticar qualquer ato que gere dano a outra pessoa e ocorra de forma premeditada ou com intenção de lucro." Com base no que é estabelecido textualmente por esta lei e de acordo com os fundamentos da lógica proposicional, é correto concluir que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-007-pcmg-q11" value="A"> A. um indivíduo que aja premeditadamente e cause dano a outra sem intenção de lucro comete crime.</label>
@@ -36,7 +36,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 20 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 20</p>
 <p><strong>2. Um crime financeiro foi cometido em uma empresa, e o perito criminal precisa determinar se o gerente participou do desvio de verba. Os seguintes fatos foram apurados: Se o gerente tivesse aprovado a transação suspeita, então ela deveria ter sido registrada no sistema até o dia 15. A transação não foi registrada no sistema até o dia 15. Se a transação não foi registrada no sistema até o dia 15, então o gerente não a aprovou. Com base nessas informações, o perito pode concluir corretamente que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-007-pcmg-q20" value="A"> A. o gerente aprovou a transação suspeita, mas alguém falhou em registrá-la.</label>
@@ -62,7 +62,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 11 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 11</p>
 <p><strong>3. Considere a afirmação: "Se Jonas é um soldado então é forte". A negação dessa afirmação é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-007-pcam-q11" value="A"> A. Jonas é um soldado e não é forte.</label>

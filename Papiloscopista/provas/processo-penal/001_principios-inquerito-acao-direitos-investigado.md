@@ -10,7 +10,7 @@
 - FGV, PCAM - Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022 (cargo policial correlato). Gabarito oficial definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 20 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 20</p>
 <p><strong>1. Arnaldo, indiciado pelo crime de roubo em procedimento conduzido pela polícia judiciária, confessou o crime em sede policial. Em juízo, embora nenhuma prova para a condenação tenha sido produzida pelo Ministério Público, o juiz resolveu condenar Arnaldo, com base estritamente na confissão produzida no inquérito. Nesse caso, é correto afirmar que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-050-seadap-q20" value="A"> A. agiu corretamente o magistrado, diante da confissão prestada por Arnaldo.</label>
@@ -36,7 +36,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 21 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 21</p>
 <p><strong>2. Fábio, delegado de polícia, determinou, de ofício, a instauração de inquérito policial para apurar a suspeita de roubo à residência de uma celebridade. O dono da residência, pai da celebridade, resolveu requerer o arquivamento do inquérito para evitar escândalos. Nesse caso, é correto afirmar que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-050-seadap-q21" value="A"> A. o inquérito policial não pode ser instaurado de ofício pelo delegado de polícia.</label>
@@ -62,7 +62,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 23 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 23</p>
 <p><strong>3. Ao sair do trabalho e a caminho de casa, Paulo deparou-se com um cadáver, que parecia ter sido baleado. De pronto, entrou em contato com a autoridade policial e informou o ocorrido. Nesse caso, estamos diante de</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-050-seadap-q23" value="A"> A. Notitia criminis espontânea de cognição imediata.</label>
@@ -88,7 +88,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 66 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 66</p>
 <p><strong>4. A autoridade policial determinou a instauração de inquérito, após receber a notícia da suposta prática do crime de furto mediante fraude eletrônica, de ação penal pública incondicionada. Apesar de diversas diligências, não foi possível apurar a autoria delitiva, o que constou no relatório elaborado pelo delegado de polícia. É correto afirmar que, no caso,</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-050-pcam-q66" value="A"> A. o delegado deve arquivar diretamente o inquérito policial, não sendo possível, a partir do arquivamento, em nenhuma hipótese, a reabertura das investigações.</label>

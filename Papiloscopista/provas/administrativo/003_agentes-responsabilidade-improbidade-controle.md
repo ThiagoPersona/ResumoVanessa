@@ -9,7 +9,7 @@
 - FGV, PCAM - Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022 (cargo policial correlato). Gabarito oficial definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 72 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 72</p>
 <p><strong>1. Maria, ocupante do cargo efetivo de Investigador de Polícia Civil, acabou de completar três anos de efetivo exercício e adquiriu a estabilidade. De acordo com o texto constitucional, Maria, na qualidade de servidora pública estável, só perderá o cargo em algumas circunstâncias, como mediante</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-058-pcam-q72" value="A"> A. processo administrativo em que lhe seja assegurada ampla defesa.</label>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 75 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 75</p>
 <p><strong>2. A Constituição da República estabelece que o exercício do controle externo da atividade policial, na forma da lei, é função institucional do</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-058-pcam-q75" value="A"> A. Tribunal de Contas, a quem também cabe requisitar diligências investigatórias e a instauração de inquérito policial.</label>
@@ -61,7 +61,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 76 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 76</p>
 <p><strong>3. Pedro, Investigador de Polícia Civil, de forma dolosa, permitiu que a sociedade empresária Beta, do ramo de vigilância patrimonial, utilizasse armas e munições da delegacia, ao arrepio da lei, em troca de propina mensal de dez mil reais. Além da responsabilização de Pedro por ato de improbidade administrativa, a Lei nº 8.429/92 (com as alterações da Lei nº 14.230/21) dispõe que os sócios e diretores da pessoa jurídica de direito privado</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-058-pcam-q76" value="A"> A. não respondem pelo ato de improbidade imputado ao agente público, pois não se aplica a quaisquer particulares, seja pessoa física, seja pessoa jurídica, o regime jurídico previsto na lei de improbidade.</label>
@@ -87,7 +87,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 78 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 78</p>
 <p><strong>4. João cumpria pena privativa de liberdade em regime fechado. Foi encontrado morto, sendo comprovado, de forma inequívoca, que se tratou de suicídio e que não houve inobservância pelo Estado do dever específico de proteção previsto no Art. 5º, XLIX, da CF. Mesmo sendo incontroverso que houve causa impeditiva da atuação estatal protetiva, os filhos de João ajuizaram ação indenizatória. Segundo a jurisprudência dos Tribunais Superiores, a pretensão reparatória dos filhos</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-058-pcam-q78" value="A"> A. merece prosperar, com base na responsabilidade civil objetiva do Estado, sem necessidade de comprovação de dolo ou culpa.</label>

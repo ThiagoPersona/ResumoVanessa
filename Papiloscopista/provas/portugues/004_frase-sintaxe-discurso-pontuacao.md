@@ -11,7 +11,7 @@
 - FGV, PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 1 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 1</p>
 <p><strong>1. Assinale a frase abaixo em que a preposição DE é uma exigência de um termo anterior (valor gramatical).</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-004-seadap-q1" value="A"> A. Se eu vi além dos outros, é porque eu estava sobre o ombro de gigantes.</label>
@@ -37,7 +37,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 9 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 9</p>
 <p><strong>2. Assinale a frase abaixo que não exemplifica uma interrogação indireta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-004-seadap-q9" value="A"> A. Queria descobrir quem fez isso.</label>
@@ -63,7 +63,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 4 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 4</p>
 <p><strong>3. Um dos problemas mais graves da escrita é a presença de ambiguidades. Assinale a opção que mostra a frase que não apresenta esse tipo de problema.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-004-pcmg-q4" value="A"> A. A professora disse que expulsou o aluno errado.</label>
@@ -89,7 +89,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 5 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 5</p>
 <p><strong>4. As frases a seguir mostram a presença de vírgulas. Assinale aquela em que a justificativa para essa presença se mostra adequada.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-004-pcmg-q5" value="A"> A. Tiradentes, nosso herói, deu nome a uma cidade. / separar elemento anteposto.</label>
@@ -115,7 +115,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 10 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 10</p>
 <p><strong>5. Assinale a opção que apresenta a frase que mostra uma oração concessiva.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-004-pcmg-q10" value="A"> A. A fantasia não tem limites, ainda que a arte os tenha.</label>
@@ -141,7 +141,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 3 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 3</p>
 <p><strong>6. Em todas as frases abaixo, com exceção de uma, as ações não identificam seus agentes. Assinale a frase em que o agente da ação está identificado objetivamente.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-004-pcam-q3" value="A"> A. Procurou-se uma saída para o problema.</label>
@@ -167,7 +167,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 5 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 5</p>
 <p><strong>7. Confúcio disse certa vez: "Palavras rebuscadas e roupas insinuantes raramente são associadas à virtude de verdade". Assinale a opção em que a forma de reescrever essa frase modifica o seu sentido original.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-004-pcam-q5" value="A"> A. Palavras rebuscadas e roupas insinuantes são associadas raramente à virtude de verdade.</label>
@@ -193,7 +193,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 9 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 9</p>
 <p><strong>8. A seguinte frase apresenta uma estrutura paralelística:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-004-pcam-q9" value="A"> A. Mestre não é quem sempre ensina, mas quem de repente aprende.</label>
@@ -219,7 +219,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 10 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 10</p>
 <p><strong>9. Assinale a frase em que se comete um erro gramatical.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-004-pcam-q10" value="A"> A. É urgente a necessidade de a encomenda chegar.</label>

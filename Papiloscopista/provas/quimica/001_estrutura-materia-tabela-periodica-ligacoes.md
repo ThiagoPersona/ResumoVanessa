@@ -9,7 +9,7 @@
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 59 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 59</p>
 <p><strong>1. Tanto as equações químicas quanto as fórmulas dos diferentes compostos apresentam um significado quantitativo. A análise elementar de um composto químico de fórmula X₂O revelou que em 2,9 g dessa substância pura há 2,7 g do elemento X. O elemento X é o</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-035-seadap-q59" value="A"> A. Na.</label>

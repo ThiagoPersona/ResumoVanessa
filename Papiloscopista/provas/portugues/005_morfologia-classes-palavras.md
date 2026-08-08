@@ -10,7 +10,7 @@
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 10 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 10</p>
 <p><strong>1. Assinale a frase abaixo que se encontra na voz passiva sintética ou pronominal, com o pronome SE.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-005-seadap-q10" value="A"> A. O tempo perdido não se encontra nunca mais.</label>
@@ -36,7 +36,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 8 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 8</p>
 <p><strong>2. Os pronomes de tratamento mostram diferentes formas e direcionamentos. Assinale a opção em que o tratamento indicado mostra corretamente a quem ele se dirige.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-005-pcmg-q8" value="A"> A. Vossa Santidade / santos.</label>
@@ -62,7 +62,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 9 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 9</p>
 <p><strong>3. Na produção de textos, devemos ter cuidado com o emprego do gerúndio. Assinale a opção que indica a frase em que ele está bem empregado.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-005-pcmg-q9" value="A"> A. Fumando, entrou na sala.</label>

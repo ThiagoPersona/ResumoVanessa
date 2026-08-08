@@ -9,7 +9,7 @@
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 16 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 16</p>
 <p><strong>1. Após sacar dinheiro no Banco, retornando a pé para casa, Maria foi surpreendida por Túlio que, ostentando arma de fogo, exigiu que ela entregasse sua bolsa com seu aparelho celular. Amedrontada, Maria entregou seus pertences. De posse dos objetos, Túlio correu pela rua, mas logo foi abordado por policiais que iniciavam o patrulhamento no local. Túlio foi detido com os bens subtraídos e levado para a Delegacia, tendo a arma de fogo sido periciada e comprovada a sua potencialidade lesiva. Acerca da hipótese, é correto afirmar que Túlio praticou</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-047-seadap-q16" value="A"> A. tentativa de roubo, com aumento de pena pelo emprego de arma de fogo.</label>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 17 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 17</p>
 <p><strong>2. Victor, durante um festival de música, percebeu que Juliana, sua vizinha, estava distraída e subtraiu, sem violência ou grave ameaça, o smartphone dela. Juliana só percebeu a falta do aparelho no dia seguinte. Dois dias depois, Victor se arrependeu, foi até a casa de Juliana, pediu desculpas e devolveu o aparelho intacto. Apesar disso, dez dias depois, o Ministério Público denunciou Victor com base no Art. 155, caput, do CP. É correto afirmar que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-047-seadap-q17" value="A"> A. houve arrependimento eficaz, previsto no Art. 15, segunda parte, do CP.</label>
@@ -61,7 +61,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 19 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 19</p>
 <p><strong>3. Juliana, 29 anos, sorrateiramente subtraiu considerável quantia em dinheiro de seu pai, Afrânio, 62 anos, para adquirir um carro seminovo com o qual sonhava. Nesse caso, é correto afirmar que Juliana</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-047-seadap-q19" value="A"> A. praticou conduta atípica, pois é herdeira de seu pai.</label>

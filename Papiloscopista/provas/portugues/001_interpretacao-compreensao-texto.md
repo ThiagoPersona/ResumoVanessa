@@ -12,7 +12,7 @@
 As seis primeiras questões abaixo são reprodução fiel de caderno oficial FGV, com fonte, ano, número e gabarito conferidos. A última é autoral, no padrão observado da banca, usada como reforço enquanto o banco de questões reais deste item específico ainda está sendo ampliado (ver lacuna registrada no tema).
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 3 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 3</p>
 <p><strong>1. Assinale a frase abaixo que não mostra uma contradição lógica.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-001-seadap-q3" value="A"> A. Eu adoro surpresas, desde que eu esteja pronto para elas.</label>
@@ -38,7 +38,7 @@ As seis primeiras questões abaixo são reprodução fiel de caderno oficial FGV
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 8 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 8</p>
 <p><strong>2. Observe o seguinte texto: "A delicadeza do governo contribui maravilhosamente para a propagação da espécie. Todas as repúblicas são uma prova disso, e, mais que todas, a Suíça e a Holanda, que são os piores países da Europa, se levamos em conta a natureza do terreno, e que, entretanto, são os mais populosos." (Montesquieu) Sobre a estrutura argumentativa desse segmento, assinale a afirmativa inadequada.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-001-seadap-q8" value="A"> A. A tese do texto é a de que um governo cordial favorece a propagação da espécie.</label>
@@ -64,7 +64,7 @@ As seis primeiras questões abaixo são reprodução fiel de caderno oficial FGV
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 2 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 2</p>
 <p><strong>3. Observe o seguinte texto: "Existem hoje três teorias que tentam explicar a extinção dos dinossauros em nosso planeta. A primeira é a de uma possível catástrofe cósmica; a segunda, o choque de um meteorito gigante na superfície da Terra; a terceira é a de uma mudança climática progressiva." Essas três teorias foram criadas a partir de uma relação lógica entre elas e o desaparecimento dos dinossauros; tal relação lógica pode ser corretamente identificada do seguinte modo:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-001-pcam-q2" value="A"> A. um raciocínio de relação causa/efeito entre acontecimentos diversos.</label>
@@ -90,7 +90,7 @@ As seis primeiras questões abaixo são reprodução fiel de caderno oficial FGV
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 4 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 4</p>
 <p><strong>4. Assinale a frase a seguir que se apoia em um raciocínio indutivo.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-001-pcam-q4" value="A"> A. Os turistas amam curiosidades, daí que um bom guia tenha um bom estoque delas em seu repertório.</label>
@@ -116,7 +116,7 @@ As seis primeiras questões abaixo são reprodução fiel de caderno oficial FGV
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 6 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 6</p>
 <p><strong>5. Identifique o trecho a seguir que apresenta a estrutura de uma premissa levando a uma conclusão.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-001-pcam-q6" value="A"> A. Ouvi o barulho de um gambá na cozinha; a cozinheira deve ter deixado o pote de ração dos gatos no chão.</label>
@@ -142,7 +142,7 @@ As seis primeiras questões abaixo são reprodução fiel de caderno oficial FGV
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 7 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 7</p>
 <p><strong>6. Uma adolescente registrou em seu diário: "São duas e quinze. Estou com uma violenta dor de cabeça. O corpo frio, a testa quente. Cada vez que me levanto ou me inclino, parece que há um líquido que balança em meu cérebro." Pode-se dizer sobre esse tipo de texto que o autor:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-001-pcam-q7" value="A"> A. nos relata uma história linear.</label>

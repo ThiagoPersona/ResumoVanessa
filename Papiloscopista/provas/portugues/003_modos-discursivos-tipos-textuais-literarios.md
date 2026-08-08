@@ -11,7 +11,7 @@
 - FGV, PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 5 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 5</p>
 <p><strong>1. A narrativa traz uma sequência de ações ou acontecimentos; assinale a frase abaixo que mostra uma sequência de ações.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-003-seadap-q5" value="A"> A. Choveu muito e as estradas ficaram alagadas.</label>
@@ -37,7 +37,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 6 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 6</p>
 <p><strong>2. Observe o seguinte trecho narrativo: "No último verão, eu dormia com a janela aberta. Despertando, liguei o rádio da cabeceira para ouvir música nos primeiros minutos do dia. E a música cresce, viva, fresca, endiabrada. Em seguida minha atenção foi despertada por um barulho que surge no teto na direção de minha cabeça. Pássaros, de tamanho sem dúvida respeitável, brigam e se insultam com força. O barulho aumenta, e eu tento adivinhar as unhas das patas escorregando sobre o telhado. Finalmente, um conjunto de penas eriçadas bate sobre a beira de minha janela e cai dentro do quarto. Dois gaviões assustados se separam e num movimento comum retomam pela janela o caminho da liberdade. Nesse momento, os últimos acordes da música se extinguem e o locutor anuncia: 'Vocês acabam de ouvir a abertura de O pássaro ladrão, de Rossini'. Eu sorri sob os lençóis." As narrativas apresentam geralmente um esquema de cinco partes; tendo por base a narrativa acima, assinale a parte da narrativa que não exemplifica totalmente a parte indicada.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-003-seadap-q6" value="A"> A. Estado inicial da narrativa, com a definição do lugar, do tempo e dos personagens: "No último verão, eu dormia com a janela aberta".</label>
@@ -63,7 +63,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 2 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 2</p>
 <p><strong>3. Assinale a opção que apresenta a frase que se insere entre os textos de tipo argumentativo.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-003-pcmg-q2" value="A"> A. Após a vitória, afie sua faca!</label>
@@ -89,7 +89,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 8 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 8</p>
 <p><strong>4. Assinale a opção que apresenta frases que mostram simultaneidade de ações.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-003-pcam-q8" value="A"> A. João trancou a porta e dirigiu-se ao quarto.</label>

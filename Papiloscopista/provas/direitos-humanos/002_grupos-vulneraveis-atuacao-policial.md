@@ -10,7 +10,7 @@
 - FGV, PCAM - Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022 (cargo policial correlato). Gabarito oficial definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 35 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 35</p>
 <p><strong>1. A promoção e a garantia de direitos dos grupos vulneráveis tiveram avanços normativos no sistema jurídico brasileiro, além de importantes julgados do STF. Avalie: I. O STF reconheceu os crimes de homofobia e transfobia, os quais devem ser enquadrados como crimes de racismo. II. O crime de racismo, equiparado ao crime de injúria racial, são crimes inafiançáveis e imprescritíveis. III. O atendimento policial e pericial especializado à mulher em situação de violência doméstica serão realizados, exclusivamente, por servidor do sexo feminino. Está correto o que se afirma em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-060-pcmg-q35" value="A"> A. II, apenas.</label>
@@ -36,7 +36,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 79 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCAM Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022, questão 79</p>
 <p><strong>2. Médicos de um hospital particular atenderam, na emergência, João, pessoa com deficiência, e constataram que o paciente foi vítima de violência praticada em razão de sua deficiência mental. A violência consistiu em ação praticada em local privado, que causou danos e sofrimento físico e psicológico em João. Consoante dispõe o Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015), o caso em tela</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-060-pcam-q79" value="A"> A. não será objeto de notificação compulsória pelo hospital, porque se trata de unidade de saúde privada.</label>

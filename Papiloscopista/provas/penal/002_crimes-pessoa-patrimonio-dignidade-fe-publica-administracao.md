@@ -10,7 +10,7 @@
 - FGV, PCMG - Perito Criminal, Área I, Tipo Branca, 2024/2025 (cargo pericial correlato). Gabarito oficial definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 36 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 36</p>
 <p><strong>1. Matheus, perito criminal, compareceu ao local de determinada infração penal. Durante os trabalhos técnicos, João, particular, ofereceu R$ 5 mil para que Matheus descartasse vestígios que pudessem incriminar um conhecido. Matheus, imediatamente, recusou a proposta, prendendo João em flagrante. Considerando as disposições do Código Penal, João responderá por</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-048-pcmg-q36" value="A"> A. peculato consumado, na modalidade simples.</label>
@@ -36,7 +36,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 37 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 37</p>
 <p><strong>2. Bruno, proprietário de um pequeno estabelecimento especializado na compra e venda de bens móveis de natureza eletrônica, expôs à venda, em proveito próprio, no exercício de atividade comercial, um telefone celular que deveria saber ser produto de crime. Considerando as disposições do Código Penal, Bruno responderá pelo crime de</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-048-pcmg-q37" value="A"> A. apropriação indébita, na modalidade qualificada.</label>
@@ -62,7 +62,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 18 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 18</p>
 <p><strong>3. Sydney complementa sua renda familiar com a intermediação da venda de embarcações de médio porte. As embarcações, a despeito de serem bens móveis, necessitam de registro na Capitania dos Portos (Art. 3º da Lei 7.652/88), enquanto os bens imóveis necessitam de matrícula no Registro de Imóveis. Considerando que Sydney não possui registro no Conselho Regional de Corretores de Imóveis, pode-se afirmar que sua conduta, ao intermediar a venda de embarcações,</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-048-seadap-q18" value="A"> A. configura exercício funcional ilegalmente antecipado.</label>

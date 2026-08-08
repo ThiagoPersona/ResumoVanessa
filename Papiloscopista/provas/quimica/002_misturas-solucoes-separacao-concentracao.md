@@ -9,7 +9,7 @@
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 57 (gabarito oficial: E)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 57</p>
 <p><strong>1. A osmose reversa é um processo bastante utilizado para remoção de sal da água do mar. Em grandes instalações, uma alta pressão é aplicada à água salobra contendo 35.000 ppm de sal. Nesse processo, uma membrana semipermeável retém uma grande quantidade do sal, fazendo com que a concentração salina na água diminua para 400 ppm e seja classificada como potável, de acordo com a Organização Mundial de Saúde. No processo de osmose reversa de 500 kg dessa água salobra, a massa de sal, em kg, retida pela membrana é, aproximadamente, igual a</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-036-seadap-q57" value="A"> A. 3,0.</label>

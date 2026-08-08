@@ -10,7 +10,7 @@
 - FGV, PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1. Gabarito definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 16 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 16</p>
 <p><strong>1. Em uma operação policial, exatos quatro pacotes foram apreendidos por conterem substâncias ilegais. Esses pacotes e as suas respectivas massas são: Pacote A: 300 g; Pacote B: 450 g; Pacote C: 350 g; Pacote D: 480 g. Dois dos pacotes continham apenas a substância ilícita S1 e os demais, apenas a substância ilícita S2. Os pacotes que continham a substância S1, juntos, totalizaram 20 gramas a menos do que a massa total dos outros dois pacotes. Nos pacotes A e B, a quantidade de substância ilícita correspondeu a 60% das massas dos respectivos pacotes. Nos pacotes C e D, a quantidade de substância ilícita correspondeu a 40% das massas dos respectivos pacotes. Pode-se concluir corretamente que, nessa operação, a quantidade apreendida de substância S1, quando comparada à quantidade apreendida de substância S2, foi</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-008-pcmg-q16" value="A"> A. 38 gramas inferior.</label>
@@ -36,7 +36,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 17 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 17</p>
 <p><strong>2. Um perito criminal está analisando a dispersão de uma substância química em solução líquida após o vazamento em um tanque. Devido à variação de pressão no interior do tanque, a solução foi projetada a diferentes distâncias. Dessa forma, a quantidade de substância encontrada pelo perito no local do sinistro é inversamente proporcional à distância em relação ao ponto de origem do vazamento. A 50 cm do ponto de origem do vazamento, havia 180 g da substância química. A diferença entre as quantidades encontradas dessa substância a 1,5 m e a 2,0 m de distância da origem do vazamento é de</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-008-pcmg-q17" value="A"> A. 10 g.</label>
@@ -62,7 +62,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 12 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 12</p>
 <p><strong>3. Em certo município do sul do Estado do Amazonas o índice pluviométrico no ano 2010 foi 30% menor do que o do ano anterior e, em 2011, foi 40% maior do que o do ano anterior. Nesse município, o índice pluviométrico de 2011 foi, em relação ao índice de 2009,</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-008-pcam-q12" value="A"> A. maior em 10%.</label>
@@ -88,7 +88,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 13 (gabarito oficial: A)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 13</p>
 <p><strong>4. Um relógio que atrasa 2 minutos por dia, todos os dias, foi acertado à meia-noite de certo dia deste ano de 2022. Após exatamente 1 ano, à meia-noite, esse relógio marcará</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-008-pcam-q13" value="A"> A. 11h50min.</label>
@@ -114,7 +114,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 14 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1, questão 14</p>
 <p><strong>5. Madalena comprou, numa certa semana, 2 kg de carne (patinho) e 1 kg de frango (coxas), e pagou R$ 92,00. Na semana seguinte, os preços ainda eram os mesmos e ela comprou 1 kg da mesma carne e 3 kg do mesmo frango, pagando R$ 76,00. Se Madalena comprasse 1 kg de carne e 1 kg de frango pagaria</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-008-pcam-q14" value="A"> A. R$ 48,00.</label>

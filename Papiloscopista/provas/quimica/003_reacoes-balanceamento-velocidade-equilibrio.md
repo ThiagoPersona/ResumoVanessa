@@ -10,7 +10,7 @@
 - FGV, PCMG - Perito Criminal, Área I, Tipo Branca, 2024/2025 (cargo pericial correlato). Gabarito oficial definitivo publicado pela FGV.
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 52 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 52</p>
 <p><strong>1. Em uma célula eletrolítica, a corrente elétrica é fornecida por uma fonte externa e usada para promover uma reação química não espontânea. Atualmente essa é uma das possíveis formas de produção de hidrogênio gasoso a partir da eletrólise da água. Considere esse processo ocorrendo com corrente elétrica de 10 A, durante 30 min, sob pressão de 1,0 atm e temperatura de 273 K. Sabendo que, nessas condições, foram recolhidos 1,7 L de gás hidrogênio, é possível prever que o rendimento do processo foi, aproximadamente, de (Dado: Constante de Faraday = 96.500 s·A·mol⁻¹)</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-037-seadap-q52" value="A"> A. 40%.</label>
@@ -36,7 +36,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 53 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 53</p>
 <p><strong>2. A composição de uma reação química em equilíbrio tende a mudar quando as condições do sistema reacional são alteradas. Analise as afirmações: I. A adição do catalisador óxido de vanádio V (V₂O₅) ao sistema em equilíbrio 2SO₂(g)+O₂(g)⇌2SO₃(g) promoverá aumento do rendimento do processo. II. O aumento da pressão total sobre o sistema em equilíbrio Ni(s)+4CO(g)⇌Ni(CO)₄(g) fará com que a concentração de monóxido de carbono diminua. III. A diminuição da temperatura no sistema em equilíbrio CH₄(g)+H₂O(g)⇌CO(g)+3H₂(g) (ΔH⁰=+206 kJ) causará deslocamento da reação para o sentido direto. Está correto o que se afirma em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-037-seadap-q53" value="A"> A. I, apenas.</label>
@@ -62,7 +62,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 55 (gabarito oficial: C)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 55</p>
 <p><strong>3. O ácido nítrico (HNO₃) é matéria-prima importante na indústria química. Sua produção comercial ocorre pela conversão da amônia (NH₃) numa sequência de três etapas (Processo de Ostwald): 4NH₃(g)+5O₂(g)→4NO(g)+6H₂O(g); 2NO(g)+O₂→2NO₂(g); 3NO₂(g)+H₂O(l)→2HNO₃(aq)+NO(g). A quantidade máxima de ácido nítrico, em kg, que pode ser obtida a partir de 10.000 L de amônia é igual a (Dado: volume molar=25,0 L/mol)</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-037-seadap-q55" value="A"> A. 8,4.</label>
@@ -88,7 +88,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 56 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 56</p>
 <p><strong>4. Uma série de fatores alteram a velocidade de uma reação química. A tabela mostra as condições iniciais de três experimentos (I, II e III) envolvendo os reagentes A e B: I - A em pó fino, B a 1,0 mol/L, 50,0°C; II - A em grão, B a 0,5 mol/L, 30,0°C; III - A em grão, B a 0,5 mol/L, 50,0°C. Os experimentos I, II e III, em ordem crescente de velocidade reacional, serão descritos por</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-037-seadap-q56" value="A"> A. I < II < III.</label>
@@ -114,7 +114,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 58 (gabarito oficial: D)</p>
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 58</p>
 <p><strong>5. Um gráfico apresenta a variação de entalpia (ΔH) para reações de combustão: CH₄(g)+2O₂(g)→CO₂(g)+2H₂O(l), com ΔH₁=-890 kJ; e CH₄(g)+2O₂(g)→CO(g)+2H₂O(l)+1/2O₂(g), com ΔH₂=-607 kJ. A partir desses dados, analise: I. Os valores de ΔH₁ e ΔH₂ indicam processos exotérmicos. II. A energia envolvida na combustão parcial de 1 mol de metano é 890 kJ. III. A combustão de 5 mols de monóxido de carbono (CO) libera 1415 kJ. Está correto apenas o que se afirma em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-037-seadap-q58" value="A"> A. I.</label>
@@ -140,7 +140,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 71 (gabarito oficial: B)</p>
+<p class="quiz-source">FGV - PCMG Perito Criminal, Área I, Tipo Branca, 2024/2025, questão 71</p>
 <p><strong>6. Muitas minas de carvão liberam quantidades consideráveis de ácido sulfúrico e hidróxido de ferro nos rios locais. A liberação de piritas durante a drenagem ácida das minas, em contato com oxigênio e água, gera as seguintes reações: I. FeS₂+7/2 O₂+H₂O ↔ Fe²⁺+2HSO₄⁻; II. Fe²⁺+1/4 O₂+1/2 H₂O ↔ Fe³⁺+OH⁻; III. Fe³⁺+3H₂O ↔ Fe(OH)₃+3H⁺. Assinale a opção que indica quantos mols de ácido sulfúrico são liberados nos rios para um mol de pirita produzido.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-037-pcmg-q71" value="A"> A. 7.</label>
