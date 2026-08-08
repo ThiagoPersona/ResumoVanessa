@@ -102,10 +102,19 @@
     return lines.join("\n");
   }
 
+  function getRouteFromLink(href) {
+    return String(href || "")
+      .replace(/^#\/?/, "")
+      .replace(/^\.\//, "")
+      .split(/[?#]/)[0]
+      .replace(/\.md$/, "");
+  }
+
   const api = {
     buildWrongAnswersLog,
     calculateCompletedThemeAverage,
-    getQuizProgressStats
+    getQuizProgressStats,
+    getRouteFromLink
   };
 
   root.PapiloQuizTools = api;

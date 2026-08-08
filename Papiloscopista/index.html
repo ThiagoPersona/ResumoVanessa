@@ -731,8 +731,7 @@
     }
 
     function getRouteFromLink(link) {
-      const href = link.getAttribute("href") || "";
-      return href.replace(/^\.\//, "").replace(/\.md(#.*)?$/, "").replace(/#.*$/, "");
+      return window.PapiloQuizTools.getRouteFromLink(link.getAttribute("href") || "");
     }
 
     function hydrateProofProgressTable() {

@@ -4,7 +4,8 @@ const test = require("node:test");
 const {
   buildWrongAnswersLog,
   calculateCompletedThemeAverage,
-  getQuizProgressStats
+  getQuizProgressStats,
+  getRouteFromLink
 } = require("../provas-utils.js");
 
 test("calcula estatisticas de progresso de um tema", () => {
@@ -69,4 +70,24 @@ test("log informa quando nao ha erros gravados", () => {
   const log = buildWrongAnswersLog([], { generatedAt: new Date("2026-08-03T09:00:00-03:00") });
 
   assert.match(log, /Nenhuma questao errada registrada/);
+});
+
+test("extrai a rota de um link renderizado pelo docsify (hash router)", () => {
+  assert.equal(
+    getRouteFromLink("#/provas/portugues/001_interpretacao-compreensao-texto"),
+    "provas/portugues/001_interpretacao-compreensao-texto"
+  );
+});
+
+test("extrai a rota de um link relativo ainda nao processado pelo docsify", () => {
+  assert.equal(
+    getRouteFromLink("provas/rlm/002_numeros-porcentagem-juros-proporcionalidade-medidas.md"),
+    "provas/rlm/002_numeros-porcentagem-juros-proporcionalidade-medidas"
+  );
+});
+
+test("nao esvazia a rota por causa do prefixo de hash do router", () => {
+  const route = getRouteFromLink("#/provas/quimica/001_estrutura-materia-tabela-periodica-ligacoes");
+  assert.notEqual(route, "");
+  assert.equal(route.startsWith("provas/"), true);
 });
