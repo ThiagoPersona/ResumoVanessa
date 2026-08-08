@@ -11,6 +11,12 @@
 
 Este item cobre a perícia documental — reconhecer autenticidade, identificar falsificações e comparar autoria de escrita manual. É relevante para casos de fraude documental, falsificação de assinatura, adulteração de contratos e documentos públicos, área de atuação técnica próxima da papiloscopia (ambas comparam padrões individuais para concluir autoria).
 
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV PC-PI | 2026 | Q17: uso de microscopia eletrônica na análise de pigmentos em falsificação de obras de arte. |
+
+**Falsificação de obras de arte**: embora não seja "documento" em sentido estrito, a perícia de autenticidade de obras de arte usa lógica semelhante à documentoscopia — comparar materiais (pigmentos, suporte) com padrões conhecidos da época/técnica alegada. A **microscopia eletrônica** é eficaz nesse exame porque combina duas capacidades ao mesmo tempo: observar a **morfologia** das partículas em altíssima resolução e determinar sua **composição química**, permitindo identificar pigmentos anacrônicos ou incompatíveis com a autoria/época alegada (por exemplo, um pigmento sintético moderno num quadro atribuído a um período anterior à sua invenção).
+
 ## Conteúdo completo orientado ao edital
 
 ### Documentoscopia: exame técnico de documentos
@@ -70,12 +76,22 @@ A distinção entre falsidade material e ideológica também é central no Direi
 | Variação natural da assinatura | Sinal de falsificação por decalque | Ambas envolvem "diferença" entre assinaturas | Variação natural é esperada e não idêntica; decalque produz cópia quase idêntica traço a traço, o que é suspeito |
 | Luz UV (fibras/rasura) | Luz IV (diferença química de tinta) | Ambas são luz não visível usadas em exame documental | UV revela fibras de segurança e rasuras; IV distingue tintas quimicamente diferentes mas visualmente iguais |
 
+## Como caiu na prova: questão comentada
+
+**Fonte: FGV, PC-PI, 2026, questão 17 (gabarito oficial: A)**
+
+> Em um caso de falsificação de obras de arte, o perito usa microscopia eletrônica para analisar os pigmentos minerais presentes em um quadro. Essa técnica é eficaz porque...
+
+1. **A microscopia eletrônica combina imagem em alta resolução (morfologia) com detecção de composição química** — dupla capacidade que nenhuma das demais alternativas (datação, radioatividade, umidade, tipo de rocha) descreve corretamente.
+2. **A é o gabarito.**
+
 ## Pegadinhas da banca
 
 - Tratar pequena variação natural entre assinaturas genuínas como prova de falsificação.
 - Confundir falsidade material com ideológica, ou tratá-las como sinônimos.
 - Atribuir à luz UV uma função que é da luz IV, ou o contrário.
 - Achar que grafoscopia e documentoscopia são termos intercambiáveis (grafoscopia é um ramo específico).
+- Atribuir à microscopia eletrônica uma função de outra técnica analítica (datação, radiometria), ignorando sua dupla capacidade morfológica e química.
 
 ## Como resolver questões
 
@@ -86,7 +102,7 @@ A distinção entre falsidade material e ideológica também é central no Direi
 
 ## Lacunas honestas
 
-- Ainda não há questão real de banca FGV localizada especificamente para este tema neste levantamento. É prioridade de busca para sessão futura.
+- Ainda não há questão real localizada sobre grafoscopia especificamente (comparação de escrita manual/assinatura) neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
@@ -95,6 +111,7 @@ A distinção entre falsidade material e ideológica também é central no Direi
 - [ ] Sei por que variação natural entre assinaturas genuínas não é sinal de falsificação.
 - [ ] Sei os elementos gráficos analisados na comparação de escrita (calibre, inclinação, pressão, ritmo, espaçamento).
 - [ ] Sei associar cada técnica de exame (UV, IV, microscopia) ao tipo de alteração que revela.
+- [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
 - [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
@@ -105,8 +122,8 @@ A distinção entre falsidade material e ideológica também é central no Direi
 
 **Prova/FGV**
 
+- FGV. PC-PI, 2026. Questão 17 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
-- Nenhuma questão real de FGV localizada especificamente para este tema até o momento (lacuna registrada acima).
 
 **Material local**
 

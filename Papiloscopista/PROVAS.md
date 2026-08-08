@@ -26,10 +26,10 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Ciências Forenses | Antropologia, odontologia legal, DNA, reconhecimento facial e IA | 9 | [Abrir](provas/ciencias-forenses/002_antropologia-odontologia-dna-reconhecimento-facial-ia.md) |
 | Ciências Forenses | Sexologia, traumatologia, asfixiologia e balística | 11 | [Abrir](provas/ciencias-forenses/003_sexologia-traumatologia-asfixiologia-balistica.md) |
 | Ciências Forenses | Tanatologia, necropsia, toxicologia e psicopatologia | 11 | [Abrir](provas/ciencias-forenses/004_tanatologia-necropsia-toxicologia-psicopatologia.md) |
-| Ciências Forenses | Criminalística, local de crime e cadeia de custódia | 8 | [Abrir](provas/ciencias-forenses/005_criminalistica-local-crime-cadeia-custodia.md) |
-| Ciências Forenses | Documentoscopia, grafoscopia e falsificações | 1 | [Abrir](provas/ciencias-forenses/006_documentoscopia-grafoscopia-falsificacoes.md) |
+| Ciências Forenses | Criminalística, local de crime e cadeia de custódia | 13 | [Abrir](provas/ciencias-forenses/005_criminalistica-local-crime-cadeia-custodia.md) |
+| Ciências Forenses | Documentoscopia, grafoscopia e falsificações | 2 | [Abrir](provas/ciencias-forenses/006_documentoscopia-grafoscopia-falsificacoes.md) |
 | Ciências Forenses | Criminologia, vitimologia e controle social | 2 | [Abrir](provas/ciencias-forenses/007_criminologia-vitimologia-controle-social.md) |
-| Ciências Forenses | Criminologia digital e investigação tecnológica | 1 | [Abrir](provas/ciencias-forenses/008_criminologia-digital-investigacao-tecnologica.md) |
+| Ciências Forenses | Criminologia digital e investigação tecnológica | 3 | [Abrir](provas/ciencias-forenses/008_criminologia-digital-investigacao-tecnologica.md) |
 | Biologia | Citologia | 6 | [Abrir](provas/biologia/001_citologia.md) |
 | Biologia | Genética | 10 | [Abrir](provas/biologia/002_genetica.md) |
 | Biologia | Embriologia e cristas papilares | 3 | [Abrir](provas/biologia/003_embriologia-cristas-papilares.md) |

@@ -5,7 +5,7 @@
 O mapa abaixo separa duas coisas que não devem ser misturadas:
 
 - **Peso oficial do edital:** já está completo para Papiloscopista.
-- **Banco FGV-style:** neste momento há 310 questões comentadas, com pelo menos uma por tema do edital.
+- **Banco FGV-style:** neste momento há 318 questões comentadas, com pelo menos uma por tema do edital.
 - **Validação por provas semelhantes:** já tem página própria para confrontar FGV Papiloscopista, FGV Perito/Polícia Civil e bancas próximas com os 61 temas.
 
 Isso evita inventar estatística de prova. À medida que os PDFs locais e oficiais forem convertidos, os totais por tema e a distribuição de alternativas devem ser atualizados aqui.
@@ -22,7 +22,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | RLM | 5 | 4 | 17 | Conhecimentos Gerais, item 2 |
 | Realidade PR | 5 | 2 | 6 | Conhecimentos Gerais, item 3 |
 | Tecnologia | 15 | 6 | 29 | Conhecimentos Específicos, item 1 |
-| Ciências Forenses | 10 | 8 | 50 | Conhecimentos Específicos, item 2 |
+| Ciências Forenses | 10 | 8 | 58 | Conhecimentos Específicos, item 2 |
 | Biologia | 10 | 4 | 27 | Conhecimentos Específicos, item 3 |
 | Física | 5 | 4 | 10 | Conhecimentos Específicos, item 4 |
 | Química | 5 | 5 | 21 | Conhecimentos Específicos, item 5 |
@@ -77,10 +77,10 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | 020 | Ciências Forenses | Antropologia, odontologia legal, DNA, reconhecimento facial e IA | Ciências Forenses 2.1 | alta | 9 (8 oficiais FGV) |
 | 021 | Ciências Forenses | Sexologia, traumatologia, asfixiologia e balística | Ciências Forenses 2.1 | alta | 11 (10 oficiais FGV) |
 | 022 | Ciências Forenses | Tanatologia, necropsia, toxicologia e psicopatologia | Ciências Forenses 2.1 | alta | 11 (10 oficiais FGV) |
-| 023 | Ciências Forenses | Criminalística, local de crime e cadeia de custódia | Ciências Forenses 2.2 | altíssima | 8 (6 oficiais FGV) |
-| 024 | Ciências Forenses | Documentoscopia, grafoscopia e falsificações | Ciências Forenses 2.2 | alta | 1 (autoral) |
+| 023 | Ciências Forenses | Criminalística, local de crime e cadeia de custódia | Ciências Forenses 2.2 | altíssima | 13 (11 oficiais FGV) |
+| 024 | Ciências Forenses | Documentoscopia, grafoscopia e falsificações | Ciências Forenses 2.2 | alta | 2 (1 oficial FGV) |
 | 025 | Ciências Forenses | Criminologia, vitimologia e controle social | Ciências Forenses 2.3 | alta | 2 (autorais) |
-| 026 | Ciências Forenses | Criminologia digital e investigação tecnológica | Ciências Forenses 2.4 | alta | 1 (autoral) |
+| 026 | Ciências Forenses | Criminologia digital e investigação tecnológica | Ciências Forenses 2.4 | alta | 3 (2 oficiais FGV) |
 | 027 | Biologia | Citologia | Biologia 3.1 | alta | 6 (5 oficiais FGV) |
 | 028 | Biologia | Genética | Biologia 3.2 | altíssima | 10 (8 oficiais FGV) |
 | 029 | Biologia | Embriologia e cristas papilares | Biologia 3.3 | altíssima | 3 (2 oficiais FGV) |

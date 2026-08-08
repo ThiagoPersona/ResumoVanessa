@@ -32,7 +32,7 @@ Convenção de status:
 | toxico2.txt | usado (parcial) | ciencias-forenses/004 | aproveitadas: Q17, Q18. Restante (Q1,2,3,5,7,8,10,11,12,15,19,20) ainda não avaliado a fundo |
 | toxico3.txt | pendente | ciencias-forenses/004 | lido mas não usado (metais tóxicos, substância volátil, organofosforados) |
 | infortunistica.txt, infortunistica2.txt | pendente | ciencias-forenses/003 (traumatologia/infortunística) | infortunistica2 tem 1 candidata FGV (Q4, simulação/metassimulação) ainda não usada; poucas FGV no geral |
-| Questões_de_Provas_-_Questões_de_Concursos_*.pdf (3 arquivos genéricos) | pendente | vários | mistura de temas, precisa triagem por assunto |
+| Questões_de_Provas_-_Questões_de_Concursos_*.pdf (3 arquivos genéricos) | usado (parcial) | ciencias-forenses/005, 006, 008 | 8 questões aproveitadas (ISO 17025, geologia forense, microscopia em arte, ordem de volatilidade, tipos de vestígio digital). Restante (2 questões históricas de medicina legal — Nina Rodrigues, Traité des Relatoires) ainda não usado |
 
 ## Pasta: informatica/
 

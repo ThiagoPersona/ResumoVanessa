@@ -2,11 +2,12 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 8 questões (6 questões oficiais FGV com fonte e gabarito conferidos + 2 questões autorais no padrão FGV).
+**Itens neste banco:** 13 questões (11 questões oficiais FGV com fonte e gabarito conferidos + 2 questões autorais no padrão FGV).
 
 ## Fontes reais usadas neste banco
 
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
+- FGV, PC-PI, 2026. Questões localizadas em banco de questões (qconcursos), com gabarito oficial da banca.
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 41</p>
@@ -162,11 +163,128 @@
 </div>
 </div>
 
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - PC-PI, 2026</p>
+<p><strong>7. Durante a análise de vestígios de drogas apreendidas, o perito observa que o lacre do frasco original se encontra parcialmente violado. Apesar da irregularidade, decide utilizar o material para não comprometer o prazo judicial, realizando o ensaio sem registrar ocorrência, sem emitir ação corretiva e sem comunicação ao gestor da qualidade. De acordo com os princípios e requisitos da ABNT NBR ISO/IEC 17025:2017, a situação descrita evidencia não conformidade que compromete principalmente</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q6" value="A"> A. a imparcialidade, uma vez que a decisão de prosseguir sem registro ou comunicação formal representa influência indevida do analista sobre o processo decisório.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q6" value="B"> B. a rastreabilidade metrológica, pois a ausência de registro da violação impede reconstruir a sequência de eventos e compromete a vinculação entre a amostra, os dados obtidos e os resultados reportados.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q6" value="C"> C. o controle de itens de ensaio e amostras, já que a integridade física e documental do vestígio é requisito de rastreabilidade e exige abertura de ação corretiva quando há dúvida sobre a autenticidade ou condição da amostra.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q6" value="D"> D. a ação corretiva, visto que a decisão de não registrar a não conformidade e de não avaliar suas causas, demonstra falha no tratamento sistemático de desvios.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q6" value="E"> E. a garantia da validade dos resultados, pois o ensaio realizado com amostra violada não pode ser considerado válido, independentemente das demais condições.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, PC-PI, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Identifique o requisito específico da norma que trata diretamente da integridade física do item examinado (o "vestígio" em si), e não apenas de consequências indiretas dela (imparcialidade, rastreabilidade dos dados, ação corretiva isolada, validade do resultado).</p>
+<p><strong>Por que a C deve ser marcada:</strong> O núcleo do problema é a falha no controle da integridade física e documental do próprio item de ensaio (o vestígio com lacre violado), que é exatamente o requisito de "controle de itens de ensaio e amostras" da norma.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não há indício de influência externa/interesse pessoal — é uma falha de controle de amostra, não de imparcialidade.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Rastreabilidade metrológica trata de calibração/padrões de medição, não da integridade física da amostra.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> Nomeia corretamente o requisito central comprometido.</li>
+<li><strong>D e E.</strong> <strong>Não marque.</strong> São consequências do problema central (falta de controle do item), não o requisito principal violado.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir a causa raiz (falha no controle de integridade do item/amostra) com seus efeitos colaterais (falta de ação corretiva, dúvida sobre validade do resultado).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - PC-PI, 2026</p>
+<p><strong>8. Ao examinar um caso de ocultação de arma, o solo recém-removido mostrou alta compactação em umidade próxima ao ótimo. Essa informação indica</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q11" value="A"> A. deposição antiga e natural.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q11" value="B"> B. manipulação recente do solo.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q11" value="C"> C. compactação geológica original.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q11" value="D"> D. deslizamento natural de encosta.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q11" value="E"> E. formação de camada laterítica.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, PC-PI, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Solo em condições geológicas originais/naturais não costuma apresentar compactação artificial "no ponto ótimo" de umidade — esse padrão específico é típico de compactação mecânica intencional e recente (característica de escavação e reaterro, como ocultar um objeto).</p>
+<p><strong>Por que a B deve ser marcada:</strong> A compactação próxima ao ótimo de umidade é a assinatura técnica de manuseio humano recente do solo, não de processo geológico natural.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Descrevem processos naturais/geológicos, incompatíveis com o padrão técnico de compactação artificial observado.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> Indica manipulação humana recente, coerente com a ocultação investigada.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Atribuir a um processo natural/geológico um padrão que na verdade é assinatura técnica de intervenção humana recente.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">FGV - PC-PI, 2026</p>
+<p><strong>9. Ao realizar buscas por valas clandestinas em uma fazenda, o perito utiliza o método elétrico de resistividade. Essa técnica é ideal para</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q12" value="A"> A. avaliar a direção de fluxo subterrâneo.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q12" value="B"> B. determinar o tipo de rocha ígnea no subsolo.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q12" value="C"> C. medir a densidade mineral de camadas profundas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q12" value="D"> D. detectar cavidades, túneis e objetos enterrados.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q12" value="E"> E. estimar a idade geológica do terreno.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: FGV, PC-PI, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> O método de resistividade elétrica mede como o solo conduz corrente elétrica; solo revolvido, vazios ou objetos enterrados alteram essa condutividade em relação ao solo intacto ao redor, revelando anomalias no subsolo.</p>
+<p><strong>Por que a D deve ser marcada:</strong> É exatamente essa detecção de anomalias (cavidades, túneis, objetos) que o método de resistividade elétrica é usado para localizar em perícia forense.</p>
+<ul class="quiz-explain">
+<li><strong>A, B, C e E.</strong> <strong>Não marque.</strong> Descrevem outras aplicações de geofísica/geologia, não o uso forense típico da resistividade elétrica na busca de valas clandestinas.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> Aplicação forense clássica do método.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir a aplicação forense específica (detectar anomalias/vazios) com aplicações geológicas gerais (datação, tipo de rocha, densidade mineral).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">FGV - PC-PI, 2026</p>
+<p><strong>10. Em um caso de homicídio, partículas de solo são encontradas na roupa do suspeito. O principal cuidado durante a coleta dessas amostras é</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q13" value="A"> A. preservar a amostra original e comparar mineralogicamente com o solo da cena.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q13" value="B"> B. misturar com amostras de controle para padronizar.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q13" value="C"> C. aquecer o material antes de guardar.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q13" value="D"> D. utilizar frascos sem tampa para facilitar a secagem.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q13" value="E"> E. adicionar conservante químico para estabilização.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: FGV, PC-PI, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Como em qualquer vestígio, o cuidado central é preservar a amostra sem alterá-la, mantendo condições que permitam a comparação técnica válida com a referência (solo da cena).</p>
+<p><strong>Por que a A deve ser marcada:</strong> Preservar a amostra intacta e comparar mineralogicamente é o procedimento correto e diretamente ligado à finalidade da perícia (vincular suspeito à cena).</p>
+<ul class="quiz-explain">
+<li><strong>B, C, D e E.</strong> <strong>Não marque.</strong> Todas essas ações (misturar, aquecer, deixar secar sem proteção, adicionar conservante) alteram a composição original da amostra, comprometendo a comparação.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> Única opção que preserva a integridade da amostra para análise válida.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir procedimentos de "padronização" ou "conservação química" (que alteram a amostra) com o verdadeiro cuidado central: preservar a amostra tal como coletada.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">FGV - PC-PI, 2026</p>
+<p><strong>11. Em um caso de roubo com fuga em zona rural, o perito analisa a argila presa na sola do sapato do suspeito e compara com o solo da cena do crime. O método utilizado para estabelecer essa correlação é a</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q16" value="A"> A. análise mineralógica e geoquímica comparativa.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q16" value="B"> B. datação por radiocarbono.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q16" value="C"> C. espectrometria de fluorescência de raios X.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q16" value="D"> D. cromatografia gasosa.</label>
+<label class="quiz-option"><input type="radio" name="fgv-023-pcpi-q16" value="E"> E. análise térmica diferencial.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: FGV, PC-PI, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Comparar dois solos de origens diferentes exige olhar sua composição de minerais e elementos químicos característicos — é isso que a análise mineralógica e geoquímica comparativa faz.</p>
+<p><strong>Por que a A deve ser marcada:</strong> É o método padrão para comparação forense de solos, avaliando composição mineral e química de forma abrangente.</p>
+<ul class="quiz-explain">
+<li><strong>B, C, D e E.</strong> <strong>Não marque.</strong> São técnicas específicas (datação, técnica pontual de fluorescência, separação de compostos orgânicos voláteis, análise térmica) que não constituem, isoladamente, o método geral de comparação de solo empregado nesse tipo de perícia.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> Método correto e mais abrangente para essa comparação.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Trocar o método geral e correto (mineralógico/geoquímico comparativo) por uma técnica específica e mais restrita, que soa tecnicamente sofisticada mas não é a resposta padrão para esse tipo de comparação.</p>
+</div>
+</div>
+
 ## Questões autorais de reforço
 
 <div class="quiz-card" data-answer="C">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>7. No local de crime, a primeira preocupação técnica deve ser:</strong></p>
+<p><strong>12. No local de crime, a primeira preocupação técnica deve ser:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-023" value="A"> A. recolher todos os objetos rapidamente, antes de fotografar.</label>
 <label class="quiz-option"><input type="radio" name="fgv-023" value="B"> B. permitir circulação livre para identificar testemunhas.</label>
@@ -192,7 +310,7 @@
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>8. Vestígio, evidência e indício não devem ser tratados como sinônimos absolutos. A formulação mais adequada é:</strong></p>
+<p><strong>13. Vestígio, evidência e indício não devem ser tratados como sinônimos absolutos. A formulação mais adequada é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-023-b" value="A"> A. vestígio só existe depois da sentença penal.</label>
 <label class="quiz-option"><input type="radio" name="fgv-023-b" value="B"> B. vestígio é qualquer material encontrado; evidência é o vestígio analisado e relacionado ao fato; indício é circunstância que permite inferência.</label>

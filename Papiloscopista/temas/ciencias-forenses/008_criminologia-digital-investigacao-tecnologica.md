@@ -11,6 +11,34 @@
 
 Este item conecta a criminologia (tema 025) ao ambiente digital, e complementa o bloco de Tecnologia (crimes digitais, evidência eletrônica e OSINT, tema 017) com uma perspectiva mais investigativa e criminológica: como o crime se organiza e se investiga no espaço digital, para além do exame técnico da evidência isolada.
 
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV TCE-SC | 2026 | Q1: princípio da Ordem de Volatilidade na coleta de evidências digitais. |
+| FGV PC-PI | 2026 | Q19: classificação de tipos de vestígio digital (volátil, não volátil, físico, de rede). |
+
+### Ordem de Volatilidade na perícia forense digital
+
+Ao periciar um sistema comprometido, o perito deve coletar primeiro os dados que **desaparecem mais rápido** se a máquina for desligada ou o tempo passar — essa priorização é a **Ordem de Volatilidade**. Do mais volátil (coletar primeiro) ao menos volátil (pode esperar):
+
+| Ordem | Tipo de dado | Exemplo |
+|---|---|---|
+| Mais volátil | Registradores/cache da CPU, memória RAM, conexões e tabelas de roteamento ativas | Processos em execução, conteúdo da RAM, sessões de rede abertas |
+| Intermediário | Dados de disco em uso (arquivos temporários, swap) | Arquivos temporários, área de swap |
+| Menos volátil | Dados em disco persistente, backups, configurações de firmware | Logs em disco, backups em fita, configurações de BIOS/UEFI |
+
+Erro clássico de prova: priorizar a coleta de dados persistentes (parecem "mais importantes" por serem documentos/logs) em vez dos dados voláteis, que se perdem irrecuperavelmente assim que a máquina é desligada.
+
+### Classificação dos tipos de vestígio digital
+
+| Tipo | O que é | Exemplo |
+|---|---|---|
+| Volátil | Perde-se quando o dispositivo é desligado | Conteúdo da memória RAM |
+| Não volátil | Persiste mesmo sem energia | Arquivos em disco |
+| Físico | Componente ou mídia tangível | Pen drive/USB, HD |
+| De rede | Dado em trânsito na comunicação | Pacotes TCP capturados |
+
+Pegadinha clássica: confundir "físico" (o dispositivo/mídia em si, tangível) com "não volátil" (a propriedade de persistir sem energia) — categorias relacionadas, mas conceitualmente diferentes.
+
 ## Conteúdo completo orientado ao edital
 
 ### Como o ambiente digital transforma a dinâmica criminal
@@ -59,12 +87,30 @@ Assim como no controle social tradicional (tema 025), o ambiente digital tem mec
 | Investigação tecnológica com base legal | Acesso irrestrito a dados de conexão | Ambos envolvem "buscar informação digital" | Acesso a dados de conexão/aplicação exige, em regra, ordem judicial — não é irrestrito |
 | Controle social digital formal | Controle social digital informal | Ambos buscam conter comportamento desviante online | Formal usa legislação/atuação estatal; informal usa autorregulação de plataformas e educação digital |
 
+## Como caiu na prova: questões comentadas
+
+**Fonte: FGV, TCE-SC, 2026, questão 1 (gabarito oficial: B)**
+
+> Ordem de Volatilidade: o que capturar primeiro num servidor comprometido?
+
+1. **RAM e tabelas de roteamento são os dados mais voláteis da lista — somem ao desligar a máquina.**
+2. **B é o gabarito.**
+
+**Fonte: FGV, PC-PI, 2026, questão 19 (gabarito oficial: B)**
+
+> Classificação de tipos de vestígio digital: volátil, não volátil, físico, de rede.
+
+1. **RAM=volátil; arquivos em disco=não volátil; USB=físico; pacotes TCP=de rede.**
+2. **B é o gabarito**, única associação integralmente correta.
+
 ## Pegadinhas da banca
 
 - Tratar todo crime digital como "crime organizado", ignorando casos individuais/oportunistas.
 - Confundir metadados com o conteúdo da comunicação, tratando-os como a mesma coisa para fins de proteção legal.
 - Achar que a investigação tecnológica pode acessar dados de conexão/aplicação sem base legal ou ordem judicial.
 - Ignorar a dimensão de transnacionalidade e cooperação internacional na investigação de cibercrime organizado.
+- Priorizar a coleta de dados persistentes em vez dos voláteis na Ordem de Volatilidade.
+- Confundir "físico" (dispositivo tangível) com "não volátil" (propriedade de persistência sem energia).
 
 ## Como resolver questões
 
@@ -75,7 +121,7 @@ Assim como no controle social tradicional (tema 025), o ambiente digital tem mec
 
 ## Lacunas honestas
 
-- Ainda não há questão real de banca FGV localizada especificamente para este tema neste levantamento. É prioridade de busca para sessão futura, idealmente com provas de perícia em informática forense (como PCPI 2025, catalogada em FONTES_DE_QUESTOES.md).
+- Ainda não há questão real localizada sobre teoria criminológica aplicada ao digital (rotina/oportunidade) ou sobre transnacionalidade do cibercrime organizado neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
@@ -83,6 +129,9 @@ Assim como no controle social tradicional (tema 025), o ambiente digital tem mec
 - [ ] Sei as características centrais da criminalidade digital organizada (transnacionalidade, divisão de trabalho, baixo custo de entrada).
 - [ ] Sei diferenciar as ferramentas de investigação tecnológica (OSINT, metadados, geolocalização, cooperação com provedores).
 - [ ] Sei que acesso a dados de conexão/aplicação exige, em regra, base legal/ordem judicial.
+- [ ] Sei a Ordem de Volatilidade na coleta de evidências digitais.
+- [ ] Sei classificar vestígios digitais (volátil, não volátil, físico, de rede).
+- [ ] Resolvi as duas questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
@@ -93,8 +142,9 @@ Assim como no controle social tradicional (tema 025), o ambiente digital tem mec
 
 **Prova/FGV**
 
+- FGV. TCE-SC, 2026. Questão 1 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. PC-PI, 2026. Questão 19 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
-- Nenhuma questão real de FGV localizada especificamente para este tema até o momento (lacuna registrada acima).
 
 **Material local**
 

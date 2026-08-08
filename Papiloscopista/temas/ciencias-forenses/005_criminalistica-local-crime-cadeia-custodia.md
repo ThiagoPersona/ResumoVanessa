@@ -14,6 +14,7 @@ Este item é o coração metodológico da perícia criminal: como reconhecer, pr
 | Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
 |---|---:|---|
 | FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q41: etapas da cadeia de custódia (Art. 158-A CPP). Q46: definição de criminalística. Q47: hipótese em que o juiz nomeia perito e formula quesitos. Q48: exame de corpo de delito na falta de perito oficial. Q49: classificação de local de crime (interno/externo, idôneo/inidôneo). Q50: distinção entre indícios, vestígios e provas. |
+| FGV PC-PI | 2026 | Q6: falha de conformidade ISO/IEC 17025 por lacre violado sem registro. Q11, Q13, Q16: coleta e comparação forense de solo. Q12: método de resistividade elétrica na busca de valas clandestinas. |
 
 ## Conteúdo completo orientado ao edital
 
@@ -24,6 +25,19 @@ Criminalística é a ciência que tem por objeto o reconhecimento, a coleta e a 
 - **Direito Penal**: define crimes e penas (é norma, não ciência técnica).
 - **Criminologia**: estuda causas e dinâmica social do crime (é ciência social, não técnica-pericial).
 - **Processo Penal**: regula o procedimento judicial (é norma processual, não exame técnico).
+
+### Solo como vestígio forense (geologia forense)
+
+Partículas de solo (terra, argila) presas em roupas, calçados ou veículos podem vincular um suspeito a uma cena específica. Pontos técnicos cobrados em prova:
+
+- **Comparação**: feita por **análise mineralógica e geoquímica comparativa** entre a amostra do suspeito e o solo da cena — o método padrão e mais abrangente, não uma técnica pontual isolada (datação, fluorescência de raios X etc.).
+- **Cuidado central na coleta**: preservar a amostra **sem alterá-la** (não misturar, não aquecer, não secar sem proteção, não adicionar conservante) — qualquer intervenção compromete a comparação.
+- **Solo compactado próximo ao ótimo de umidade** em local de escavação é sinal técnico de **manipulação humana recente** (reaterro), não de processo geológico natural — relevante em casos de ocultação de objetos ou corpos.
+- **Método de resistividade elétrica**: técnica geofísica usada para detectar cavidades, túneis e objetos enterrados (por exemplo, na busca de valas clandestinas), medindo variações na condutividade elétrica do subsolo.
+
+### Integridade da amostra e ISO/IEC 17025: o requisito de "controle de itens de ensaio e amostras"
+
+A norma ABNT NBR ISO/IEC 17025:2017 (requisitos gerais para laboratórios de ensaio, aplicável a laboratórios periciais) prevê um requisito específico sobre a integridade física e documental do item examinado: quando há dúvida sobre a autenticidade ou condição de uma amostra (por exemplo, um lacre violado sem registro), o problema central está no **controle de itens de ensaio e amostras**, não em conceitos correlatos como imparcialidade, rastreabilidade metrológica (que trata de calibração/padrões de medição) ou validade dos resultados (que é uma consequência, não a causa).
 
 ### Cadeia de custódia: as dez etapas do Art. 158-B do CPP
 
@@ -164,6 +178,22 @@ O **corpo de delito** é o conjunto de vestígios materiais que comprovam a exis
 3. **"Objetos ou materiais brutos relacionados à infração"** = Vestígios (II) — é a definição de vestígio, o material ainda não interpretado.
 4. **Sequência: III-I-II = C**, o gabarito.
 
+**Fonte: FGV, PC-PI, 2026, questão 6 (gabarito oficial: C)**
+
+> Lacre parcialmente violado, usado sem registro/comunicação — que requisito da ISO/IEC 17025 é comprometido?
+
+1. **O núcleo do problema é a integridade física/documental do próprio item de ensaio.**
+2. **C (controle de itens de ensaio e amostras) é o gabarito.**
+
+**Fonte: FGV, PC-PI, 2026, questões 11, 12, 13 e 16 (gabarito oficial: B, D, A e A)**
+
+> Solo compactado recente (manipulação humana); método de resistividade elétrica (detecta cavidades/objetos); cuidado na coleta de solo (preservar e comparar); correlação argila-solo (análise mineralógica e geoquímica).
+
+1. **Compactação próxima ao ótimo em local de escavação = manipulação recente (B).**
+2. **Resistividade elétrica = detecta cavidades, túneis e objetos enterrados (D).**
+3. **Cuidado central na coleta = preservar a amostra original (A).**
+4. **Correlação de solos = análise mineralógica e geoquímica comparativa (A).**
+
 ## Pegadinhas da banca
 
 - Inverter a ordem de reconhecimento e isolamento na cadeia de custódia.
@@ -172,6 +202,9 @@ O **corpo de delito** é o conjunto de vestígios materiais que comprovam a exis
 - Achar que confissão do réu supre o exame de corpo de delito em infração que deixa vestígios.
 - Tratar prova indireta como "precisa" e prova direta como "indiciária/circunstancial" — é o oposto: prova direta demonstra diretamente; prova indireta exige inferência.
 - Confundir vestígio (material bruto) com indício (já interpretado) ou com prova (estágio processual).
+- Confundir controle de integridade de item/amostra (causa) com rastreabilidade metrológica, ação corretiva ou validade dos resultados (consequências).
+- Atribuir compactação de solo próxima ao ótimo a processo geológico natural, em vez de manipulação humana recente.
+- Trocar o método padrão de comparação de solo (mineralógico/geoquímico) por uma técnica pontual mais restrita.
 
 ## Como resolver questões
 
@@ -193,7 +226,9 @@ O **corpo de delito** é o conjunto de vestígios materiais que comprovam a exis
 - [ ] Sei a regra de substituição do perito oficial ausente no exame de corpo de delito.
 - [ ] Sei classificar local de crime pelos dois eixos independentes (interno/externo; idôneo/inidôneo).
 - [ ] Sei diferenciar vestígio, indício e prova pelo estágio de interpretação/processo.
-- [ ] Resolvi as seis questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Sei o método padrão de comparação forense de solo e o que indica compactação recente.
+- [ ] Sei o que é o requisito de "controle de itens de ensaio e amostras" da ISO/IEC 17025.
+- [ ] Resolvi as onze questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
@@ -205,6 +240,7 @@ O **corpo de delito** é o conjunto de vestígios materiais que comprovam a exis
 **Prova/FGV**
 
 - FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questões 41, 46, 47, 48, 49 e 50. Gabarito definitivo publicado pela FGV.
+- FGV. PC-PI, 2026. Questões 6, 11, 12, 13 e 16 localizadas em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**
