@@ -1,172 +1,102 @@
 # 048 - Crimes contra pessoa, patrimônio, dignidade sexual, fé pública e Administração
 
-> **Base do edital:** Conhecimentos Específicos; Penal 7.2.  
-> **Peso da disciplina:** 3 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- Corrupção ativa (Art. 333 CP) é crime formal: consuma-se com a mera oferta ou promessa de vantagem indevida a funcionário público, independentemente de aceitação — não exige que o agente público aceite a proposta.
+- Receptação qualificada (Art. 180, § 1º, CP) pune quem, no exercício de atividade comercial ou industrial, adquire, recebe ou expõe à venda produto de crime que sabe ou deveria saber ser de origem criminosa — a mera dúvida razoável já é suficiente (elemento subjetivo mais amplo que a receptação simples).
+- Nem toda conduta de exercer atividade sem registro em conselho profissional configura crime: é preciso verificar se a atividade específica está de fato sujeita a essa regulamentação (por exemplo, corretagem de bens móveis como embarcações não é regulada como corretagem imobiliária).
+- Este tema reúne os crimes em espécie mais cobrados do Código Penal: contra a pessoa (vida, integridade física), contra o patrimônio (furto, roubo, receptação, estelionato), contra a dignidade sexual, contra a fé pública (falsidade) e contra a Administração Pública (peculato, corrupção, prevaricação).
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Penal soma 3 questões; este capítulo concentra Penal 7.2.
-- **Como a FGV costuma cobrar:** Penal aplicado costuma cobrar conceito seco com caso curto: elemento subjetivo, tentativa, concurso, excludente, tipo penal e lei especial.
-- **O que mais confunde candidatos:** confundir dolo eventual com culpa consciente; tentativa com desistência voluntária; flagrante com crime consumado; ilicitude com culpabilidade.
-- **Particularidade para Papiloscopista:** Para Papiloscopista, a parte penal importa por orientar a atividade policial, o uso legítimo da força, a preservação de prova e os limites de atuação.
+Estes são os crimes em espécie mais frequentemente narrados em casos concretos nas provas policiais, exigindo do candidato a habilidade de qualificar juridicamente uma situação fática — competência central para qualquer policial civil, inclusive na atividade de apoio à investigação exercida pelo Papiloscopista.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q18: atipicidade da intermediação de venda de embarcações sem registro em CRECI (bem móvel, não sujeito à regulamentação de corretagem imobiliária). |
+| FGV PCMG - Perito Criminal, Área I | 2024 | Q36: corrupção ativa consumada (oferta de vantagem indevida a perito, mesmo recusada). Q37: receptação qualificada (exposição à venda de bem de origem criminosa, no exercício de atividade comercial). |
 
-- **Crimes contra a pessoa.** Pessoa, patrimônio, dignidade sexual, fé pública e Administração Pública; revise homicídio, lesões, furto, roubo, estelionato, falsidade documental, peculato, concussão, corrupção e prevaricação.
-- **Crimes contra o patrimônio.** Pessoa, patrimônio, dignidade sexual, fé pública e Administração Pública; revise homicídio, lesões, furto, roubo, estelionato, falsidade documental, peculato, concussão, corrupção e prevaricação.
-- **Crimes contra a dignidade sexual, contra a fé pública e contra a Administração Pública.** Pessoa, patrimônio, dignidade sexual, fé pública e Administração Pública; revise homicídio, lesões, furto, roubo, estelionato, falsidade documental, peculato, concussão, corrupção e prevaricação.
-- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
-- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
-- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Crimes contra a Administração Pública: corrupção ativa
 
-### Visão de estudo para este tema
+O Art. 333 CP tipifica: **"oferecer ou prometer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou retardar ato de ofício."**
 
-Direito Penal aplicado deve ser estudado por camadas: princípio, aplicação da lei penal, teoria do crime, consequência penal e crimes em espécie. A FGV pode criar caso curto e perguntar qual instituto incide.
+**Ponto técnico central**: a corrupção ativa é **crime formal** — consuma-se no exato momento em que a oferta ou promessa é feita, **independentemente** de o funcionário público aceitar ou não. Não é necessário que o agente público pratique o ato, nem que aceite a proposta, para que o crime já esteja consumado. Isso significa que, mesmo com recusa imediata e firme da proposta pelo agente público, quem ofereceu a vantagem já cometeu o crime consumado, e não apenas tentado.
 
-O erro comum é saltar direto para o tipo penal sem passar por fato típico, ilicitude e culpabilidade. Outro erro é confundir tentativa, desistência voluntária, arrependimento eficaz, crime impossível, dolo e culpa.
+### Crimes contra o patrimônio: receptação (simples e qualificada)
 
-A parte extravagante deve ser lida pelo que afeta a atividade policial: violência doméstica, drogas, armas, organização criminosa, abuso de autoridade, garantias do investigado e cadeia de custódia.
+| Modalidade | Art. | Elemento subjetivo | Contexto |
+|---|---|---|---|
+| Receptação simples | Art. 180, caput | Sabe ser produto de crime (dolo direto) | Qualquer pessoa, fora do exercício de atividade comercial/industrial |
+| Receptação qualificada | Art. 180, § 1º | Sabe **ou deveria saber** ser produto de crime | No exercício de atividade comercial ou industrial (dolo direto ou eventual/culpa imprópria, com padrão de conduta profissional mais rigoroso) |
 
-**Aplicação ao cargo:** O Papiloscopista não decide processo penal, mas atua em contexto de investigação e produção técnica de elementos ligados a infrações penais.
+**Ponto técnico central**: a receptação qualificada tem elemento subjetivo mais amplo — não exige certeza (sabe), bastando que o comerciante **devesse saber** (dúvida razoável que um profissional diligente teria notado) que o bem era produto de crime. Isso eleva o padrão de cuidado exigido de quem exerce atividade comercial habitual (como lojas de compra e venda de eletrônicos usados).
 
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
+### Crimes contra a Administração Pública: limites da tipificação
 
-### O que mais merece atenção
+Nem toda atuação profissional sem registro em conselho de classe configura crime. É preciso identificar se a atividade específica exercida está de fato sujeita àquela regulamentação legal. No caso de intermediação de venda de **bens móveis** (como embarcações, que apesar de exigirem registro na Capitania dos Portos continuam sendo bens móveis, não imóveis), a ausência de registro no CRECI (Conselho Regional de Corretores de **Imóveis**) não configura crime, pois essa regulamentação profissional é específica para corretagem **imobiliária** — a conduta é **atípica**.
 
-- teoria do crime, dolo, culpa, tentativa e consumação
-- excludentes de ilicitude e culpabilidade
-- concurso de pessoas e crimes
-- crimes contra pessoa, patrimônio, fé pública e Administração
-- leis penais especiais do edital
-- uso legítimo da força e garantias fundamentais
+Crimes relacionados a esse tipo de situação, para comparação (todos exigem que a atividade regulada seja exatamente a exercida sem habilitação):
 
-### Conteúdo completo orientado ao edital
-
-### 1. Crimes contra a pessoa.
-
-**O que significa:** Crimes em espécie devem ser estudados por bem jurídico, sujeito, núcleo do tipo, elemento subjetivo e qualificadoras/majorantes mais cobradas.
-
-**Como estudar para a prova:** Pessoa, patrimônio, dignidade sexual, fé pública e Administração Pública; revise homicídio, lesões, furto, roubo, estelionato, falsidade documental, peculato, concussão, corrupção e prevaricação.
-
-**Como a FGV pode cobrar:** A banca troca tipos parecidos, como furto/roubo, apropriação/peculato, corrupção/concussão e falsidade material/ideológica.
-
-**Cuidado de prova:** Servidor público para fins penais pode ter conceito mais amplo que o estatutário.
-
-### 2. Crimes contra o patrimônio.
-
-**O que significa:** Crimes em espécie devem ser estudados por bem jurídico, sujeito, núcleo do tipo, elemento subjetivo e qualificadoras/majorantes mais cobradas.
-
-**Como estudar para a prova:** Pessoa, patrimônio, dignidade sexual, fé pública e Administração Pública; revise homicídio, lesões, furto, roubo, estelionato, falsidade documental, peculato, concussão, corrupção e prevaricação.
-
-**Como a FGV pode cobrar:** A banca troca tipos parecidos, como furto/roubo, apropriação/peculato, corrupção/concussão e falsidade material/ideológica.
-
-**Cuidado de prova:** Servidor público para fins penais pode ter conceito mais amplo que o estatutário.
-
-### 3. Crimes contra a dignidade sexual, contra a fé pública e contra a Administração Pública.
-
-**O que significa:** Crimes em espécie devem ser estudados por bem jurídico, sujeito, núcleo do tipo, elemento subjetivo e qualificadoras/majorantes mais cobradas.
-
-**Como estudar para a prova:** Pessoa, patrimônio, dignidade sexual, fé pública e Administração Pública; revise homicídio, lesões, furto, roubo, estelionato, falsidade documental, peculato, concussão, corrupção e prevaricação.
-
-**Como a FGV pode cobrar:** A banca troca tipos parecidos, como furto/roubo, apropriação/peculato, corrupção/concussão e falsidade material/ideológica.
-
-**Cuidado de prova:** Servidor público para fins penais pode ter conceito mais amplo que o estatutário.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-
-### Diferenças que a banca costuma trocar
-
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Crime | Art. | Conduta |
 |---|---|---|
-| Crimes contra a pessoa. | Servidor público para fins penais pode ter conceito mais amplo que o estatutário. | A banca troca tipos parecidos, como furto/roubo, apropriação/peculato, corrupção/concussão e falsidade material/ideológica. |
-| Crimes contra o patrimônio. | Servidor público para fins penais pode ter conceito mais amplo que o estatutário. | A banca troca tipos parecidos, como furto/roubo, apropriação/peculato, corrupção/concussão e falsidade material/ideológica. |
-| Crimes contra a dignidade sexual, contra a fé pública e contra a Administração Pública. | Servidor público para fins penais pode ter conceito mais amplo que o estatutário. | A banca troca tipos parecidos, como furto/roubo, apropriação/peculato, corrupção/concussão e falsidade material/ideológica. |
+| Exercício ilegal da profissão | Art. 47, Lei de Contravenções Penais (ou tipo específico conforme a profissão) | Exercer profissão/atividade sem preencher condições legais exigidas especificamente para aquela atividade |
+| Usurpação de função pública | Art. 328 CP | Usurpar o exercício de função pública |
+| Advocacia administrativa | Art. 321 CP | Patrocinar, direta ou indiretamente, interesse privado perante a Administração, valendo-se da qualidade de funcionário |
 
-### Aplicação direta para Papiloscopista
+### Estrutura geral dos crimes contra a pessoa, patrimônio, dignidade sexual e fé pública
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+| Bem jurídico protegido | Exemplos de crimes centrais |
+|---|---|
+| Pessoa (vida, integridade física) | Homicídio, lesão corporal, ameaça |
+| Patrimônio | Furto, roubo, extorsão, estelionato, receptação, apropriação indébita |
+| Dignidade sexual | Estupro, importunação sexual, estupro de vulnerável |
+| Fé pública | Falsificação de documento público/particular, falsidade ideológica, moeda falsa |
+| Administração Pública | Peculato, corrupção passiva e ativa, prevaricação, concussão |
 
-### Roteiro de estudo de alta retenção
+## Prioridades FGV dentro deste tema
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
-
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Crimes contra a pessoa. | Pessoa, patrimônio, dignidade sexual, fé pública e Administração Pública; revise homicídio, lesões, furto, roubo, estelionato, falsidade documental, peculato, concussão, corrupção e prevaricação. | Servidor público para fins penais pode ter conceito mais amplo que o estatutário. |
-| Crimes contra o patrimônio. | Pessoa, patrimônio, dignidade sexual, fé pública e Administração Pública; revise homicídio, lesões, furto, roubo, estelionato, falsidade documental, peculato, concussão, corrupção e prevaricação. | Servidor público para fins penais pode ter conceito mais amplo que o estatutário. |
-| Crimes contra a dignidade sexual, contra a fé pública e contra a Administração Pública. | Pessoa, patrimônio, dignidade sexual, fé pública e Administração Pública; revise homicídio, lesões, furto, roubo, estelionato, falsidade documental, peculato, concussão, corrupção e prevaricação. | Servidor público para fins penais pode ter conceito mais amplo que o estatutário. |
+| Saber que a corrupção ativa consuma-se com a mera oferta, independentemente de aceitação | Evidenciado diretamente na questão real PCMG Q36 | Lembre: crime formal, não exige resultado (aceitação) para consumar |
+| Diferenciar receptação simples (sabe) de receptação qualificada (sabe ou deveria saber, no exercício de atividade comercial/industrial) | Evidenciado diretamente na questão real PCMG Q37 | Associe: contexto comercial/industrial habitual = receptação qualificada, com padrão de cuidado mais rigoroso |
+| Verificar se a atividade específica exercida está de fato sujeita à regulamentação de determinado conselho profissional, antes de presumir crime | Evidenciado diretamente na questão real SEAD/AP Q18 | Não presuma crime apenas por falta de registro em conselho — confirme se a atividade exercida corresponde exatamente à regulada por aquele conselho |
+| Reconhecer a estrutura geral dos crimes contra pessoa, patrimônio, dignidade sexual, fé pública e Administração | Base para qualquer questão de qualificação jurídica de caso concreto | Associe cada bem jurídico protegido a seus crimes centrais |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+## Diferenças que a banca costuma trocar
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Corrupção ativa consumada (mera oferta, independente de aceitação) | Corrupção ativa tentada (execução iniciada, mas sem completar a oferta) | Ambas envolvem "oferecer vantagem" | A corrupção ativa é crime formal: basta a oferta completa, mesmo recusada, para consumar — dificilmente há tentativa nesse tipo |
+| Receptação simples (sabe ser produto de crime) | Receptação qualificada (sabe ou deveria saber, em atividade comercial/industrial) | Ambas envolvem "adquirir bem de origem criminosa" | O contexto profissional/habitual e o padrão de cuidado exigido diferenciam as duas modalidades |
+| Conduta atípica (atividade não regulada pelo conselho de classe invocado) | Exercício ilegal de profissão (atividade efetivamente regulada, sem habilitação) | Ambas envolvem "atuação profissional sem registro" | Verifique sempre se a atividade exercida corresponde exatamente à regulada pelo conselho mencionado no enunciado |
 
 ## Pegadinhas da banca
 
-- Chamar todo arrependimento posterior de arrependimento eficaz.
-- Confundir excludente de ilicitude com excludente de culpabilidade.
-- Tratar crime contra a Administração como crime praticado apenas por servidor.
-- Esquecer que lei especial pode alterar pena, procedimento ou conceito.
-- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
-- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
-- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Achar que a corrupção ativa só se consuma se o funcionário público aceitar a vantagem oferecida.
+- Confundir receptação simples com qualificada, ignorando o contexto de atividade comercial/industrial habitual.
+- Presumir crime de exercício ilegal de profissão sem verificar se a atividade específica está mesmo sujeita àquela regulamentação profissional.
+- Confundir usurpação de função pública (exercer função pública sem competência) com advocacia administrativa (patrocinar interesse privado perante a Administração).
 
 ## Como resolver questões
 
-1. Separe tipicidade, ilicitude e culpabilidade antes de analisar exceções.
-2. Identifique se o problema é de parte geral, crime em espécie ou lei extravagante.
-3. Em tentativa e desistência, veja se a execução começou e se a não consumação decorreu da vontade do agente.
-4. Na atividade policial, cheque base legal, necessidade, proporcionalidade e garantia do investigado.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para corrupção ativa, lembre que basta a oferta ou promessa, independentemente de aceitação, para consumar o crime.
+2. Para receptação, identifique se há contexto de atividade comercial/industrial habitual — isso determina se é simples ou qualificada, com elemento subjetivo mais amplo.
+3. Para questões sobre exercício de atividade sem registro profissional, sempre confirme se a atividade descrita corresponde exatamente à regulada pelo conselho de classe mencionado.
+4. Para qualquer crime em espécie, identifique primeiro o bem jurídico protegido (pessoa, patrimônio, dignidade sexual, fé pública, Administração) antes de buscar o tipo penal específico.
+
+## Lacunas honestas
+
+- Nenhuma lacuna relevante identificada para este tema — foram localizadas três questões reais de duas fontes distintas, cobrindo crimes contra patrimônio, Administração Pública e os limites da tipificação penal em atividades profissionais.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Penal 7.2.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei que a corrupção ativa consuma-se com a mera oferta, independentemente de aceitação.
+- [ ] Sei diferenciar receptação simples de receptação qualificada.
+- [ ] Sei verificar se uma atividade profissional específica está de fato sujeita à regulamentação de um conselho de classe antes de presumir crime.
+- [ ] Sei a estrutura geral dos crimes contra pessoa, patrimônio, dignidade sexual, fé pública e Administração Pública.
+- [ ] Resolvi as três questões reais comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -174,13 +104,23 @@ A parte extravagante deve ser lida pelo que afeta a atividade policial: violênc
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
+
+- FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questão 18. Gabarito definitivo publicado pela FGV.
+- FGV. PCMG - Perito Criminal, Área I, Tipo Branca, 2024/2025. Caderno oficial, questões 36 e 37. Gabarito oficial definitivo publicado pela FGV (aplicada em 26/01/2025).
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+
+**Lei seca**
+
+- Código Penal - Decreto-Lei n.º 2.848/1940, arts. 180, 321, 328 e 333.
+
+**Material local**
+
+- `Curso Alfacon/Direito penal.pdf` (quando disponível)
+
+**Atualização/fonte externa**
+
 - [Código Penal - Planalto](https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm)
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Direito penal.pdf`
-- `Curso Alfacon/Direito Penal Parte Geral.pdf`
-- `Materiais QB/Penal/`
-
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos.

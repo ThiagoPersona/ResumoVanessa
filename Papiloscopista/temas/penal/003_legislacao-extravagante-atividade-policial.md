@@ -1,172 +1,115 @@
 # 049 - Legislação penal extravagante e atividade policial
 
-> **Base do edital:** Conhecimentos Específicos; Penal 7.3-7.4.  
-> **Peso da disciplina:** 3 questões na prova objetiva.  
-> **Prioridade:** altíssima.
+## Leitura rápida
+
+- A Lei de Drogas (Lei 11.343/2006) torna o tráfico de drogas **inafiançável** — a fiança não pode ser concedida pelo delegado nem pelo juiz, independentemente das circunstâncias pessoais do agente (réu primário, pequena quantidade), pois a vedação decorre diretamente da natureza do crime.
+- A Lei de Crimes Hediondos (Lei 8.072/1990) exige critérios técnicos precisos para classificar um crime como hediondo: por exemplo, só a lesão corporal **gravíssima** contra certas vítimas qualifica, não a lesão apenas **grave**; e só o roubo com emprego de arma de **fogo** qualifica, não com arma **branca**.
+- As excludentes de ilicitude (legítima defesa, estado de necessidade, estrito cumprimento do dever legal, exercício regular de direito) afastam a ilicitude da conduta típica, sendo centrais para avaliar o uso legítimo da força na atividade policial.
+- Abuso de Autoridade, Identificação Criminal e LGPD/LAI (aplicadas à atividade de investigação) já estão cobertas no [tema de Legislação 046](../legislacao/007_abuso-identificacao-lgpd-lai-sigilo.md), evitando duplicação de conteúdo.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Penal soma 3 questões; este capítulo concentra Penal 7.3-7.4.
-- **Como a FGV costuma cobrar:** Penal aplicado costuma cobrar conceito seco com caso curto: elemento subjetivo, tentativa, concurso, excludente, tipo penal e lei especial.
-- **O que mais confunde candidatos:** confundir dolo eventual com culpa consciente; tentativa com desistência voluntária; flagrante com crime consumado; ilicitude com culpabilidade.
-- **Particularidade para Papiloscopista:** Para Papiloscopista, a parte penal importa por orientar a atividade policial, o uso legítimo da força, a preservação de prova e os limites de atuação.
+Este tema reúne as leis extravagantes de aplicação mais direta e cotidiana na atividade policial (drogas, armas, crimes hediondos, violência doméstica, organizações criminosas) — todas exigindo domínio de critérios técnicos precisos para qualificar corretamente uma situação concreta apresentada em prova.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV PCMG - Perito Criminal, Área I | 2024 | Q38: impossibilidade de concessão de fiança em caso de flagrante por tráfico de drogas, independentemente das circunstâncias pessoais do agente. Q40: critérios técnicos para classificação de crime hediondo (Lei 8.072/1990) — lesão corporal gravíssima (não apenas grave) e roubo com arma de fogo (não arma branca) qualificam; posse de arma de fogo de uso proibido também qualifica. |
 
-- **Lei Maria da Penha, Lei de Drogas, Estatuto do Desarmamento, Lei das Organizações Criminosas e Lei de Abuso de Autoridade.** Maria da Penha, Drogas, Desarmamento, Organizações Criminosas, Abuso de Autoridade, prisão em flagrante, excludentes, uso legítimo da força, cadeia de custódia e OAB.
-- **Prisão em flagrante, excludentes de ilicitude, uso legítimo da força, cadeia de custódia e garantias fundamentais do investigado.** Maria da Penha, Drogas, Desarmamento, Organizações Criminosas, Abuso de Autoridade, prisão em flagrante, excludentes, uso legítimo da força, cadeia de custódia e OAB.
-- **Estatuto da Advocacia e OAB: aspectos penais.** Revise inviolabilidade profissional, limites de busca e apreensão em escritório, prerrogativas do advogado, comunicação com cliente e crimes/condutas ligados ao exercício profissional quando previstos em lei.
-- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
-- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
-- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Lei de Drogas (Lei 11.343/2006): tráfico inafiançável
 
-### Visão de estudo para este tema
+O Art. 44 da Lei 11.343/2006 estabelece que os crimes de tráfico de drogas (e alguns crimes correlatos) são **inafiançáveis** e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória com fiança. A vedação de fiança decorre diretamente da natureza do crime, **não** das circunstâncias pessoais do agente — mesmo réu primário, com bons antecedentes, e mesmo com pequena quantidade de droga apreendida, a fiança continua vedada. O delegado de polícia, ao lavrar o auto de prisão em flagrante por tráfico, **não pode conceder fiança**, independentemente de qualquer circunstância favorável ao preso.
 
-Direito Penal aplicado deve ser estudado por camadas: princípio, aplicação da lei penal, teoria do crime, consequência penal e crimes em espécie. A FGV pode criar caso curto e perguntar qual instituto incide.
+**Ponto de atenção**: apesar de o STF ter declarado inconstitucional a vedação absoluta de liberdade provisória (sem fiança) para o tráfico em certas hipóteses (permitindo ao juiz avaliar cautelares diversas da prisão), a vedação específica de **fiança** continua vigente e aplicável — são institutos distintos (fiança x liberdade provisória sem fiança).
 
-O erro comum é saltar direto para o tipo penal sem passar por fato típico, ilicitude e culpabilidade. Outro erro é confundir tentativa, desistência voluntária, arrependimento eficaz, crime impossível, dolo e culpa.
+### Lei de Crimes Hediondos (Lei 8.072/1990)
 
-A parte extravagante deve ser lida pelo que afeta a atividade policial: violência doméstica, drogas, armas, organização criminosa, abuso de autoridade, garantias do investigado e cadeia de custódia.
+A lei elenca taxativamente os crimes considerados hediondos, com consequências como regime inicial mais rigoroso, vedação de determinados benefícios e prazos diferenciados. Critérios técnicos frequentemente testados:
 
-**Aplicação ao cargo:** O Papiloscopista não decide processo penal, mas atua em contexto de investigação e produção técnica de elementos ligados a infrações penais.
-
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
-
-### O que mais merece atenção
-
-- teoria do crime, dolo, culpa, tentativa e consumação
-- excludentes de ilicitude e culpabilidade
-- concurso de pessoas e crimes
-- crimes contra pessoa, patrimônio, fé pública e Administração
-- leis penais especiais do edital
-- uso legítimo da força e garantias fundamentais
-
-### Conteúdo completo orientado ao edital
-
-### 1. Lei Maria da Penha, Lei de Drogas, Estatuto do Desarmamento, Lei das Organizações Criminosas e Lei de Abuso de Autoridade.
-
-**O que significa:** Legislação extravagante aplicada exige saber incidência, finalidade e pontos que impactam investigação, prisão, prova e atuação policial.
-
-**Como estudar para a prova:** Maria da Penha, Drogas, Desarmamento, Organizações Criminosas, Abuso de Autoridade, prisão em flagrante, excludentes, uso legítimo da força, cadeia de custódia e OAB.
-
-**Como a FGV pode cobrar:** A banca cobra diferença entre leis especiais e regra geral do Código Penal.
-
-**Cuidado de prova:** Não use apenas o nome da lei; veja conduta, sujeito, procedimento e consequência.
-
-### 2. Prisão em flagrante, excludentes de ilicitude, uso legítimo da força, cadeia de custódia e garantias fundamentais do investigado.
-
-**O que significa:** Legislação extravagante aplicada exige saber incidência, finalidade e pontos que impactam investigação, prisão, prova e atuação policial.
-
-**Como estudar para a prova:** Maria da Penha, Drogas, Desarmamento, Organizações Criminosas, Abuso de Autoridade, prisão em flagrante, excludentes, uso legítimo da força, cadeia de custódia e OAB.
-
-**Como a FGV pode cobrar:** A banca cobra diferença entre leis especiais e regra geral do Código Penal.
-
-**Cuidado de prova:** Não use apenas o nome da lei; veja conduta, sujeito, procedimento e consequência.
-
-### 3. Estatuto da Advocacia e OAB: aspectos penais.
-
-**O que significa:** Aspectos penais do Estatuto da Advocacia e da OAB protegem prerrogativas profissionais e delimitam condutas que podem ter relevância penal no contato entre atuação policial, investigação e defesa técnica.
-
-**Como estudar para a prova:** Revise inviolabilidade profissional, limites de busca e apreensão em escritório, prerrogativas do advogado, comunicação com cliente e crimes/condutas ligados ao exercício profissional quando previstos em lei.
-
-**Como a FGV pode cobrar:** A FGV pode cobrar caso em que atuação estatal interfere em prerrogativa da defesa ou confunde dever policial com violação de garantia profissional.
-
-**Cuidado de prova:** Prerrogativa profissional não é privilégio pessoal: é garantia da defesa e deve ser compatibilizada com ordem judicial e investigação regular.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-
-### Diferenças que a banca costuma trocar
-
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Situação | É hediondo? | Por quê |
 |---|---|---|
-| Lei Maria da Penha, Lei de Drogas, Estatuto do Desarmamento, Lei das Organizações Criminosas e Lei de Abuso de Autoridade. | Não use apenas o nome da lei; veja conduta, sujeito, procedimento e consequência. | A banca cobra diferença entre leis especiais e regra geral do Código Penal. |
-| Prisão em flagrante, excludentes de ilicitude, uso legítimo da força, cadeia de custódia e garantias fundamentais do investigado. | Não use apenas o nome da lei; veja conduta, sujeito, procedimento e consequência. | A banca cobra diferença entre leis especiais e regra geral do Código Penal. |
-| Estatuto da Advocacia e OAB: aspectos penais. | Prerrogativa profissional não é privilégio pessoal: é garantia da defesa e deve ser compatibilizada com ordem judicial e investigação regular. | A FGV pode cobrar caso em que atuação estatal interfere em prerrogativa da defesa ou confunde dever policial com violação de garantia profissional. |
+| Lesão corporal dolosa de natureza **gravíssima** contra certas vítimas protegidas (ex.: agente de segurança pública no exercício da função) | Sim | A lei exige expressamente a modalidade gravíssima (incapacidade permanente, deformidade permanente, etc. — Art. 129, § 2º, CP), não a modalidade apenas grave |
+| Lesão corporal dolosa de natureza **grave** (ex.: por perigo de vida, Art. 129, § 1º, CP), mesmo contra vítima protegida | Não | A lei exige gravíssima, não grave; perigo de vida é apenas uma das hipóteses de lesão grave (§ 1º), distinta de gravíssima (§ 2º) |
+| Roubo circunstanciado pelo emprego de **arma de fogo** | Sim | A majorante que torna o roubo hediondo é especificamente o emprego de arma de fogo |
+| Roubo circunstanciado pelo emprego de **arma branca** | Não | Arma branca não é a majorante que qualifica o roubo como hediondo nessa hipótese específica |
+| Posse ou porte ilegal de arma de fogo de uso **proibido** | Sim | Incluído no rol de crimes hediondos pela Lei 13.497/2017 |
 
-### Aplicação direta para Papiloscopista
+**Ponto técnico central**: a lei de crimes hediondos exige leitura literal e precisa — pequenas diferenças de gravidade (grave x gravíssima) ou de instrumento (arma de fogo x arma branca) mudam completamente a classificação.
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+### Estatuto do Desarmamento (Lei 10.826/2003)
 
-### Roteiro de estudo de alta retenção
+Regula posse e porte de arma de fogo, diferenciando: **posse** (manter a arma dentro de residência ou local de trabalho, com registro) e **porte** (portar a arma fora desses locais, exigindo autorização específica). Armas de uso **restrito** ou **proibido** exigem autorização de órgãos federais específicos (Exército, Polícia Federal), sendo a posse/porte irregular dessas categorias tratada com maior rigor penal.
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+### Lei Maria da Penha (Lei 11.340/2006)
 
-### Lacunas honestas
+Cria mecanismos de proteção à mulher em situação de violência doméstica e familiar, incluindo medidas protetivas de urgência (afastamento do agressor, proibição de aproximação). Não cria um novo tipo penal autônomo de "violência doméstica", mas qualifica/agrava crimes já existentes (como lesão corporal) quando praticados nesse contexto.
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
+### Lei das Organizações Criminosas (Lei 12.850/2013)
 
-## Tabelas e esquemas
+Define organização criminosa como associação de 4 ou mais pessoas, estruturalmente ordenada, com divisão de tarefas, para obter vantagem de qualquer natureza mediante prática de infrações penais com pena máxima superior a 4 anos, ou de caráter transnacional. Prevê meios de obtenção de prova específicos (colaboração premiada, ação controlada, infiltração de agentes, acesso a registros).
 
-| Ponto do edital | O que revisar | Pegadinha provável |
+### Excludentes de ilicitude e uso legítimo da força
+
+| Excludente | Art. CP | Requisito central |
 |---|---|---|
-| Lei Maria da Penha, Lei de Drogas, Estatuto do Desarmamento, Lei das Organizações Criminosas e Lei de Abuso de Autoridade. | Maria da Penha, Drogas, Desarmamento, Organizações Criminosas, Abuso de Autoridade, prisão em flagrante, excludentes, uso legítimo da força, cadeia de custódia e OAB. | Não use apenas o nome da lei; veja conduta, sujeito, procedimento e consequência. |
-| Prisão em flagrante, excludentes de ilicitude, uso legítimo da força, cadeia de custódia e garantias fundamentais do investigado. | Maria da Penha, Drogas, Desarmamento, Organizações Criminosas, Abuso de Autoridade, prisão em flagrante, excludentes, uso legítimo da força, cadeia de custódia e OAB. | Não use apenas o nome da lei; veja conduta, sujeito, procedimento e consequência. |
-| Estatuto da Advocacia e OAB: aspectos penais. | Revise inviolabilidade profissional, limites de busca e apreensão em escritório, prerrogativas do advogado, comunicação com cliente e crimes/condutas ligados ao exercício profissional quando previstos em lei. | Prerrogativa profissional não é privilégio pessoal: é garantia da defesa e deve ser compatibilizada com ordem judicial e investigação regular. |
+| Legítima defesa | Art. 25 | Repelir injusta agressão, atual ou iminente, a direito próprio ou alheio, usando moderadamente os meios necessários |
+| Estado de necessidade | Art. 24 | Sacrificar bem jurídico alheio para salvar de perigo atual bem próprio ou alheio, não causado voluntariamente e inevitável de outro modo |
+| Estrito cumprimento do dever legal | Art. 23, III | Agente cumpre dever imposto por lei, dentro dos limites da norma |
+| Exercício regular de direito | Art. 23, III | Agente exerce direito previsto no ordenamento, dentro dos limites legais |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+Na atividade policial, o **estrito cumprimento do dever legal** é a excludente mais diretamente aplicável ao uso da força em cumprimento de mandados, prisões e contenção de resistência — sempre dentro dos limites de proporcionalidade e necessidade, sob pena de excesso (que pode gerar responsabilização penal, inclusive por abuso de autoridade).
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+### Remissão: Abuso de Autoridade e Identificação Criminal
+
+O conteúdo específico da Lei de Abuso de Autoridade (Lei 13.869/2019) e da Lei de Identificação Criminal (Lei 12.037/2009), incluindo as condutas tipificadas mais relevantes para a atividade policial, já está integralmente coberto no [tema de Legislação 046](../legislacao/007_abuso-identificacao-lgpd-lai-sigilo.md), evitando duplicação de conteúdo.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
+|---|---|---|
+| Saber que o tráfico de drogas é inafiançável, independentemente das circunstâncias pessoais do agente | Evidenciado diretamente na questão real PCMG Q38 | Memorize: a vedação de fiança decorre da natureza do crime, não de réu primário/bons antecedentes/pequena quantidade |
+| Saber os critérios técnicos precisos de classificação de crime hediondo (gravíssima x grave; arma de fogo x arma branca) | Evidenciado diretamente na questão real PCMG Q40 | Leia sempre literalmente a hipótese, comparando com o texto exato da Lei 8.072/1990 |
+| Diferenciar posse (dentro de residência/trabalho) de porte (fora desses locais) de arma de fogo | Base teórica do Estatuto do Desarmamento | Associe: posse=local fixo com registro; porte=fora do local, com autorização específica |
+| Reconhecer o estrito cumprimento do dever legal como a excludente mais aplicável ao uso da força policial | Central para avaliar legitimidade de ações policiais | Lembre que a excludente exige limites de proporcionalidade e necessidade, sob pena de excesso |
+
+## Diferenças que a banca costuma trocar
+
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Lesão corporal gravíssima (qualifica crime hediondo) | Lesão corporal grave (não qualifica, isoladamente, crime hediondo) | Ambas parecem "lesão séria" | Verifique sempre se o enunciado especifica gravíssima (§2º) ou apenas grave (§1º, incluindo perigo de vida) |
+| Roubo com arma de fogo (qualifica crime hediondo) | Roubo com arma branca (não qualifica crime hediondo por essa via) | Ambos são "roubo com instrumento perigoso" | Apenas arma de fogo é a majorante que torna esse roubo hediondo |
+| Vedação de fiança no tráfico (absoluta, pela natureza do crime) | Liberdade provisória sem fiança (pode ser avaliada pelo juiz conforme cautelares diversas) | Ambos tratam de "soltura do preso por tráfico" | São institutos distintos: fiança continua vedada; liberdade provisória sem fiança pode ser analisada judicialmente |
+| Posse de arma de fogo (local fixo, residência/trabalho) | Porte de arma de fogo (fora desses locais) | Ambos envolvem "ter arma de fogo consigo" | O local em que a arma está determina se é posse ou porte, com regimes de autorização distintos |
 
 ## Pegadinhas da banca
 
-- Chamar todo arrependimento posterior de arrependimento eficaz.
-- Confundir excludente de ilicitude com excludente de culpabilidade.
-- Tratar crime contra a Administração como crime praticado apenas por servidor.
-- Esquecer que lei especial pode alterar pena, procedimento ou conceito.
-- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
-- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
-- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Achar que réu primário, bons antecedentes ou pequena quantidade de droga autorizam fiança em caso de tráfico — a vedação é absoluta e decorre da natureza do crime.
+- Confundir lesão corporal grave com gravíssima ao avaliar crime hediondo.
+- Confundir roubo com arma de fogo (qualifica hediondo) com roubo com arma branca (não qualifica por essa via).
+- Confundir vedação de fiança (absoluta no tráfico) com liberdade provisória sem fiança (pode ser avaliada judicialmente).
+- Confundir posse de arma de fogo com porte, ignorando o critério do local.
 
 ## Como resolver questões
 
-1. Separe tipicidade, ilicitude e culpabilidade antes de analisar exceções.
-2. Identifique se o problema é de parte geral, crime em espécie ou lei extravagante.
-3. Em tentativa e desistência, veja se a execução começou e se a não consumação decorreu da vontade do agente.
-4. Na atividade policial, cheque base legal, necessidade, proporcionalidade e garantia do investigado.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para questões sobre fiança em tráfico de drogas, lembre que a vedação é absoluta, independentemente de circunstâncias pessoais favoráveis ao agente.
+2. Para questões sobre crimes hediondos, leia literalmente a hipótese e compare com o texto exato da Lei 8.072/1990 (gravíssima x grave; arma de fogo x arma branca).
+3. Para questões sobre posse/porte de arma, identifique o local onde a arma foi encontrada.
+4. Para questões sobre uso da força policial, avalie se há excesso em relação aos limites de proporcionalidade e necessidade do estrito cumprimento do dever legal.
+
+## Lacunas honestas
+
+- Nenhuma questão real de FGV localizada especificamente sobre Lei Maria da Penha, Estatuto do Desarmamento ou Lei das Organizações Criminosas neste levantamento (apenas sobre Lei de Drogas e Lei de Crimes Hediondos). A teoria desses subtemas está coberta acima; falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Penal 7.3-7.4.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei que o tráfico de drogas é inafiançável, independentemente das circunstâncias pessoais do agente.
+- [ ] Sei os critérios técnicos de classificação de crime hediondo (lesão gravíssima; roubo com arma de fogo; posse de arma de uso proibido).
+- [ ] Sei diferenciar posse de porte de arma de fogo pelo critério do local.
+- [ ] Sei as quatro excludentes de ilicitude e qual é a mais aplicável à atividade policial (estrito cumprimento do dever legal).
+- [ ] Sei que o conteúdo de Abuso de Autoridade e Identificação Criminal está no tema de Legislação 046.
+- [ ] Resolvi as duas questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -174,15 +117,26 @@ A parte extravagante deve ser lida pelo que afeta a atividade policial: violênc
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
-- [Código Penal - Planalto](https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm)
-- [Lei Federal n.º 13.869/2019 - Abuso de Autoridade](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm)
-- [Lei Federal n.º 15.358/2026 - Marco Legal do Combate ao Crime Organizado](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15358.htm)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Direito penal.pdf`
-- `Curso Alfacon/Direito Penal Parte Geral.pdf`
-- `Materiais QB/Penal/`
+- FGV. PCMG - Perito Criminal, Área I, Tipo Branca, 2024/2025. Caderno oficial, questões 38 e 40. Gabarito oficial definitivo publicado pela FGV (aplicada em 26/01/2025).
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Lei seca**
+
+- Lei Federal n.º 11.343/2006 - Lei de Drogas, art. 44.
+- Lei Federal n.º 8.072/1990 - Lei de Crimes Hediondos.
+- Lei Federal n.º 10.826/2003 - Estatuto do Desarmamento.
+- Lei Federal n.º 11.340/2006 - Lei Maria da Penha.
+- Lei Federal n.º 12.850/2013 - Lei das Organizações Criminosas.
+- Código Penal - Decreto-Lei n.º 2.848/1940, arts. 23-25.
+
+**Material local**
+
+- `Curso Alfacon/Direito penal.pdf` (quando disponível)
+
+**Atualização/fonte externa**
+
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.

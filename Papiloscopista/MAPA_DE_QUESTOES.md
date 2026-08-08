@@ -27,7 +27,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | Física | 5 | 4 | 10 | Conhecimentos Específicos, item 4 |
 | Química | 5 | 5 | 21 | Conhecimentos Específicos, item 5 |
 | Legislação | 5 | 7 | 25 | Conhecimentos Específicos, item 6 |
-| Penal | 3 | 3 | 4 | Conhecimentos Específicos, item 7 |
+| Penal | 3 | 3 | 14 | Conhecimentos Específicos, item 7 |
 | Processo Penal | 3 | 3 | 5 | Conhecimentos Específicos, item 8 |
 | Constitucional | 3 | 3 | 3 | Conhecimentos Específicos, item 9 |
 | Administrativo | 3 | 3 | 3 | Conhecimentos Específicos, item 10 |
@@ -101,9 +101,9 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | 044 | Legislação | Lei 21.894/2024: Código Disciplinar da PCPR | Legislação 6.5 | alta | 4 (autorais) |
 | 045 | Legislação | Lei 6.174/1970: regime jurídico dos servidores do Paraná | Legislação 6.6 | alta | 4 (autorais) |
 | 046 | Legislação | Abuso de autoridade, identificação criminal, LGPD, LAI e sigilo | Legislação 6.7 | altíssima | 5 (autorais) |
-| 047 | Penal | Princípios, teoria do crime, penas e extinção da punibilidade | Penal 7.1 | alta | 2 |
-| 048 | Penal | Crimes contra pessoa, patrimônio, dignidade sexual, fé pública e Administração | Penal 7.2 | alta | 1 |
-| 049 | Penal | Legislação penal extravagante e atividade policial | Penal 7.3-7.4 | altíssima | 1 |
+| 047 | Penal | Princípios, teoria do crime, penas e extinção da punibilidade | Penal 7.1 | alta | 5 (3 oficiais FGV) |
+| 048 | Penal | Crimes contra pessoa, patrimônio, dignidade sexual, fé pública e Administração | Penal 7.2 | alta | 5 (3 oficiais FGV) |
+| 049 | Penal | Legislação penal extravagante e atividade policial | Penal 7.3-7.4 | altíssima | 4 (2 oficiais FGV) |
 | 050 | Processo Penal | Princípios, inquérito, ação penal e direitos do investigado | Processo Penal 8.1 | alta | 2 |
 | 051 | Processo Penal | Provas, cadeia de custódia, busca e reconhecimento | Processo Penal 8.2 | altíssima | 2 |
 | 052 | Processo Penal | Prisões, cautelares e leis processuais extravagantes | Processo Penal 8.3-8.4 | alta | 1 |
