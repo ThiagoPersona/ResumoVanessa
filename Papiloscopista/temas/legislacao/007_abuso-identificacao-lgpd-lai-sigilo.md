@@ -1,181 +1,125 @@
 # 046 - Abuso de autoridade, identificação criminal, LGPD, LAI e sigilo
 
-> **Base do edital:** Conhecimentos Específicos; Legislação 6.7.  
-> **Peso da disciplina:** 5 questões na prova objetiva.  
-> **Prioridade:** altíssima.
+## Leitura rápida
+
+- A Lei de Abuso de Autoridade (Lei 13.869/2019) só configura crime quando a conduta é praticada com finalidade específica de prejudicar outrem, beneficiar a si ou a terceiro, ou por mero capricho — mera divergência na interpretação de lei ou na avaliação de fatos e provas **não** configura abuso de autoridade.
+- A Lei de Identificação Criminal (Lei 12.037/2009) regula quando, mesmo com documento de identidade apresentado, ainda é possível (ou obrigatória, a partir de 2025) a identificação criminal — incluindo o processo datiloscópico (impressão digital) e fotográfico.
+- A LGPD (Lei 13.709/2018) já está integralmente coberta no [tema de Tecnologia 006](../tecnologia/006_legislacao-etica-digital.md); aqui o foco é a Lei de Acesso à Informação (LAI) e sua relação com o sigilo de investigações policiais.
+- A LAI (Lei 12.527/2011) garante o acesso à informação pública como regra, mas permite a classificação de sigilo (ultrassecreta, secreta ou reservada) quando a divulgação puder comprometer atividades de investigação em andamento.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Legislação soma 5 questões; este capítulo concentra Legislação 6.7.
-- **Como a FGV costuma cobrar:** Em legislação institucional, a FGV costuma cobrar literalidade, competência, finalidade, dever, vedação, estrutura e novidade legislativa.
-- **O que mais confunde candidatos:** usar lei antiga; misturar lei orgânica nacional com lei estadual; confundir carreira, regime jurídico e código disciplinar.
-- **Particularidade para Papiloscopista:** É bloco pequeno, mas muito perigoso: leis recentes e institucionais tendem a ser decisivas por literalidade e detalhe.
+Este tema reúne normas de aplicação diária na atividade policial: os limites entre atuação legítima e abuso de autoridade, as regras de identificação criminal (diretamente ligadas à atividade papiloscópica) e o equilíbrio entre transparência pública e sigilo de investigação.
 
-## Leitura rápida
+## Conteúdo completo orientado ao edital
 
-- **Lei de Abuso de Autoridade.** Finalidade específica no abuso de autoridade, hipóteses de identificação criminal, dados pessoais/sensíveis, acesso à informação, sigilo, transparência e proteção de informação institucional.
-- **Lei de Identificação Criminal.** Finalidade específica no abuso de autoridade, hipóteses de identificação criminal, dados pessoais/sensíveis, acesso à informação, sigilo, transparência e proteção de informação institucional.
-- **LGPD e Lei de Acesso à Informação.** Finalidade específica no abuso de autoridade, hipóteses de identificação criminal, dados pessoais/sensíveis, acesso à informação, sigilo, transparência e proteção de informação institucional.
-- **Sigilo funcional e proteção de informações institucionais.** Relacione dever funcional, proibição, responsabilidade civil/administrativa/penal, proteção de dado, acesso autorizado, publicidade administrativa e hipóteses de sigilo.
-- **Prioridade FGV:** Abuso exige finalidade específica.
-- **Prioridade FGV:** Identificação criminal tem hipóteses legais.
-- **Prioridade FGV:** LGPD, LAI e sigilo devem ser conciliados por finalidade e base legal.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+### Lei de Abuso de Autoridade (Lei 13.869/2019)
 
-## Conteúdo essencial
+**Elemento subjetivo essencial**: as condutas descritas na lei só constituem crime de abuso de autoridade quando praticadas "com a finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal" (art. 1º, § 1º). O § 2º do mesmo artigo esclarece que **"a divergência na interpretação de lei ou na avaliação de fatos e provas não configura abuso de autoridade"** — proteção importante para o agente que atua de boa-fé, mesmo que erre na interpretação.
 
-### Visão de estudo para este tema
+**Sujeito ativo** (art. 2º): qualquer agente público, servidor ou não, de qualquer dos Poderes e entes federativos — inclui servidores públicos e militares, membros do Legislativo, Executivo, Judiciário, Ministério Público e tribunais de contas.
 
-Legislação estadual e institucional deve ser lida como lei seca dirigida ao cargo. A FGV valoriza sujeito, verbo, competência, órgão, dever, vedação, responsabilidade, procedimento e sanção.
+**Condutas centrais relevantes para a atividade policial**:
 
-O maior risco é estudar por material desatualizado, principalmente porque o edital envolve normas recentes da Polícia Civil do Paraná. Sempre que o capítulo falar de lei estadual ou federal, a leitura final deve ser na fonte oficial.
-
-O candidato deve separar: Constituição do Paraná, estruturação de carreiras, Lei Orgânica Nacional, Lei Orgânica estadual, Código Disciplinar, regime jurídico geral e leis aplicadas à atividade policial.
-
-**Aplicação ao cargo:** O bloco define limites institucionais da atuação policial e ajuda a evitar confusão entre conduta funcional, infração disciplinar, ilícito penal e dever de sigilo.
-
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
-
-### O que mais merece atenção
-
-- estrutura, carreira e atribuições da PCPR
-- deveres, vedações e responsabilidades
-- código disciplinar e sanções
-- sigilo funcional, LGPD e LAI
-- identificação criminal e abuso de autoridade
-- diferença entre norma nacional, estadual e regime geral
-
-### Conteúdo completo orientado ao edital
-
-### 1. Lei de Abuso de Autoridade.
-
-**O que significa:** Este capítulo une leis aplicadas à atividade policial: abuso de autoridade, identificação criminal, LGPD, LAI e sigilo. O eixo comum é limite legal no uso do poder e da informação.
-
-**Como estudar para a prova:** Finalidade específica no abuso de autoridade, hipóteses de identificação criminal, dados pessoais/sensíveis, acesso à informação, sigilo, transparência e proteção de informação institucional.
-
-**Como a FGV pode cobrar:** A banca cria situação concreta e pergunta se há dever de sigilo, direito de acesso, abuso, tratamento indevido de dados ou identificação permitida.
-
-**Cuidado de prova:** Abuso de autoridade exige finalidade específica; LGPD não impede toda atividade policial, mas exige base, finalidade, segurança e controle.
-
-### 2. Lei de Identificação Criminal.
-
-**O que significa:** Este capítulo une leis aplicadas à atividade policial: abuso de autoridade, identificação criminal, LGPD, LAI e sigilo. O eixo comum é limite legal no uso do poder e da informação.
-
-**Como estudar para a prova:** Finalidade específica no abuso de autoridade, hipóteses de identificação criminal, dados pessoais/sensíveis, acesso à informação, sigilo, transparência e proteção de informação institucional.
-
-**Como a FGV pode cobrar:** A banca cria situação concreta e pergunta se há dever de sigilo, direito de acesso, abuso, tratamento indevido de dados ou identificação permitida.
-
-**Cuidado de prova:** Abuso de autoridade exige finalidade específica; LGPD não impede toda atividade policial, mas exige base, finalidade, segurança e controle.
-
-### 3. LGPD e Lei de Acesso à Informação.
-
-**O que significa:** Este capítulo une leis aplicadas à atividade policial: abuso de autoridade, identificação criminal, LGPD, LAI e sigilo. O eixo comum é limite legal no uso do poder e da informação.
-
-**Como estudar para a prova:** Finalidade específica no abuso de autoridade, hipóteses de identificação criminal, dados pessoais/sensíveis, acesso à informação, sigilo, transparência e proteção de informação institucional.
-
-**Como a FGV pode cobrar:** A banca cria situação concreta e pergunta se há dever de sigilo, direito de acesso, abuso, tratamento indevido de dados ou identificação permitida.
-
-**Cuidado de prova:** Abuso de autoridade exige finalidade específica; LGPD não impede toda atividade policial, mas exige base, finalidade, segurança e controle.
-
-### 4. Sigilo funcional e proteção de informações institucionais.
-
-**O que significa:** Ética no serviço público orienta conduta honesta, impessoal, leal e responsável. Sigilo funcional protege informações obtidas em razão do cargo, especialmente dados de investigação, identificação, sistemas policiais e documentos institucionais.
-
-**Como estudar para a prova:** Relacione dever funcional, proibição, responsabilidade civil/administrativa/penal, proteção de dado, acesso autorizado, publicidade administrativa e hipóteses de sigilo.
-
-**Como a FGV pode cobrar:** A FGV pode cobrar caso de compartilhamento indevido, consulta sem finalidade funcional, quebra de sigilo ou confusão entre transparência pública e exposição de informação protegida.
-
-**Cuidado de prova:** LAI e publicidade não autorizam divulgar dado pessoal sensível, informação policial restrita ou elemento de investigação sem base legal.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
-|---|---|
-| Abuso exige finalidade específica. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Identificação criminal tem hipóteses legais. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| LGPD, LAI e sigilo devem ser conciliados por finalidade e base legal. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-
-### Diferenças que a banca costuma trocar
-
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Conduta | Artigo | Pena |
 |---|---|---|
-| Lei de Abuso de Autoridade. | Abuso de autoridade exige finalidade específica; LGPD não impede toda atividade policial, mas exige base, finalidade, segurança e controle. | A banca cria situação concreta e pergunta se há dever de sigilo, direito de acesso, abuso, tratamento indevido de dados ou identificação permitida. |
-| Lei de Identificação Criminal. | Abuso de autoridade exige finalidade específica; LGPD não impede toda atividade policial, mas exige base, finalidade, segurança e controle. | A banca cria situação concreta e pergunta se há dever de sigilo, direito de acesso, abuso, tratamento indevido de dados ou identificação permitida. |
-| LGPD e Lei de Acesso à Informação. | Abuso de autoridade exige finalidade específica; LGPD não impede toda atividade policial, mas exige base, finalidade, segurança e controle. | A banca cria situação concreta e pergunta se há dever de sigilo, direito de acesso, abuso, tratamento indevido de dados ou identificação permitida. |
-| Sigilo funcional e proteção de informações institucionais. | LAI e publicidade não autorizam divulgar dado pessoal sensível, informação policial restrita ou elemento de investigação sem base legal. | A FGV pode cobrar caso de compartilhamento indevido, consulta sem finalidade funcional, quebra de sigilo ou confusão entre transparência pública e exposição de informação protegida. |
+| Decretar prisão em manifesta desconformidade com as hipóteses legais | Art. 9º | Detenção de 1 a 4 anos e multa |
+| Constranger o preso a exibir-se à curiosidade pública ou a submeter-se a situação vexatória | Art. 13 | Detenção de 1 a 4 anos e multa |
+| Deixar de identificar-se (ou identificar-se falsamente) ao preso no momento da captura ou detenção | Art. 16 | Detenção de 6 meses a 2 anos e multa |
+| Submeter o preso a interrogatório durante o repouso noturno (salvo flagrante ou consentimento) | Art. 18 | Detenção de 6 meses a 2 anos e multa |
+| Impedir a entrevista pessoal e reservada do preso com seu advogado | Art. 20 | Detenção de 6 meses a 2 anos e multa |
+| Manter presos de ambos os sexos na mesma cela | Art. 21 | Detenção de 1 a 4 anos e multa |
+| Invadir imóvel sem determinação judicial, ou cumprir mandado de busca e apreensão domiciliar fora do horário legal (após 21h ou antes das 5h) | Art. 22 | Detenção de 1 a 4 anos e multa |
 
-### Aplicação direta para Papiloscopista
+**Ponto de conexão com Processo Penal**: a regra do art. 22, § 1º, III (proibição de cumprir mandado de busca domiciliar após 21h ou antes das 5h) reforça, sob a ótica penal, a mesma lógica do art. 245 do CPP sobre execução de busca domiciliar durante o dia.
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+**Efeitos da condenação** (art. 4º): a inabilitação para cargo/função pública (1 a 5 anos) e a perda do cargo só ocorrem em caso de reincidência em abuso de autoridade, e não são automáticas — devem ser declaradas motivadamente na sentença.
 
-### Roteiro de estudo de alta retenção
+### Lei de Identificação Criminal (Lei 12.037/2009)
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+**Regra geral**: o civilmente identificado (por documento válido) não será submetido a identificação criminal, exceto nas hipóteses do art. 3º.
 
-### Lacunas honestas
+**Hipóteses em que a identificação criminal pode ocorrer mesmo com documento apresentado** (art. 3º):
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
+- Documento com rasura ou indício de falsificação.
+- Documento insuficiente para identificar completamente o indiciado.
+- Indiciado portando documentos distintos, com informações conflitantes.
+- Identificação criminal essencial às investigações, por decisão da autoridade judiciária.
+- Registros policiais apontando uso de outros nomes ou qualificações diferentes.
+- Estado de conservação, distância temporal ou da localidade de expedição do documento impossibilitando a identificação completa.
+- Recebimento de denúncia pelo juiz por crimes específicos de grave violência, crimes sexuais, crimes contra criança/adolescente ou organização criminosa armada (inciso VII, incluído em 2025).
 
-## Tabelas e esquemas
+**O que compõe a identificação criminal** (art. 5º): inclui o **processo datiloscópico** (coleta de impressões digitais) e o **processo fotográfico**, juntados aos autos da comunicação de prisão em flagrante ou do inquérito policial. Essa é a base legal mais direta para a atividade do Papiloscopista Policial dentro desta lei.
 
-| Ponto do edital | O que revisar | Pegadinha provável |
+**Coleta de material biológico e perfil genético** (art. 5º, § 1º, e art. 5º-A): nas hipóteses de identificação criminal essencial à investigação (por decisão judicial) ou de crimes graves específicos, a identificação criminal pode incluir a coleta de material biológico para obtenção do perfil genético, armazenado em banco de dados gerenciado por unidade oficial de perícia criminal. As informações genéticas têm caráter **sigiloso**, não podendo revelar traços somáticos ou comportamentais (exceto determinação genética de gênero), sob pena de responsabilização civil, penal e administrativa de quem permitir uso indevido.
+
+### Lei de Acesso à Informação (Lei 12.527/2011)
+
+**Regra geral**: é dever do Estado garantir o direito de acesso à informação, de forma transparente, clara e objetiva (art. 5º), com procedimentos que respeitem os princípios básicos da Administração Pública (art. 3º).
+
+**Restrição de acesso não pode ser oposta**: informações necessárias à tutela judicial ou administrativa de direitos fundamentais, nem informações sobre violação de direitos humanos por agentes públicos (art. 21).
+
+**Classificação de sigilo** (arts. 23-24): informações imprescindíveis à segurança da sociedade ou do Estado podem ser classificadas quando sua divulgação puder, entre outras hipóteses, **"comprometer atividades de inteligência, bem como de investigação ou fiscalização em andamento, relacionadas com a prevenção ou repressão de infrações"** (art. 23, VIII) — dispositivo diretamente aplicável ao sigilo de investigações policiais.
+
+| Grau de sigilo | Prazo máximo de restrição |
+|---|---|
+| Ultrassecreta | 25 anos |
+| Secreta | 15 anos |
+| Reservada | 5 anos |
+
+Transcorrido o prazo (ou consumado o evento definido como termo final), a informação torna-se automaticamente de acesso público (art. 24, § 4º). O tratamento de informações pessoais deve respeitar a intimidade, vida privada, honra e imagem das pessoas (art. 31).
+
+### LGPD: remissão
+
+A LGPD (Lei 13.709/2018), incluindo seus princípios, bases legais e a classificação de dado biométrico como dado pessoal sensível, já está integralmente coberta no [tema de Tecnologia 006 - Legislação e ética digital](../tecnologia/006_legislacao-etica-digital.md), evitando duplicação de conteúdo.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Lei de Abuso de Autoridade. | Finalidade específica no abuso de autoridade, hipóteses de identificação criminal, dados pessoais/sensíveis, acesso à informação, sigilo, transparência e proteção de informação institucional. | Abuso de autoridade exige finalidade específica; LGPD não impede toda atividade policial, mas exige base, finalidade, segurança e controle. |
-| Lei de Identificação Criminal. | Finalidade específica no abuso de autoridade, hipóteses de identificação criminal, dados pessoais/sensíveis, acesso à informação, sigilo, transparência e proteção de informação institucional. | Abuso de autoridade exige finalidade específica; LGPD não impede toda atividade policial, mas exige base, finalidade, segurança e controle. |
-| LGPD e Lei de Acesso à Informação. | Finalidade específica no abuso de autoridade, hipóteses de identificação criminal, dados pessoais/sensíveis, acesso à informação, sigilo, transparência e proteção de informação institucional. | Abuso de autoridade exige finalidade específica; LGPD não impede toda atividade policial, mas exige base, finalidade, segurança e controle. |
-| Sigilo funcional e proteção de informações institucionais. | Relacione dever funcional, proibição, responsabilidade civil/administrativa/penal, proteção de dado, acesso autorizado, publicidade administrativa e hipóteses de sigilo. | LAI e publicidade não autorizam divulgar dado pessoal sensível, informação policial restrita ou elemento de investigação sem base legal. |
+| Saber que abuso de autoridade exige finalidade específica (prejudicar, beneficiar, capricho) e que mera divergência de interpretação não configura o crime | Base de qualquer questão sobre limites da atuação policial | Memorize a distinção entre erro de boa-fé (não é crime) e finalidade específica de prejudicar/beneficiar (é crime) |
+| Saber as hipóteses em que a identificação criminal ocorre mesmo com documento apresentado (art. 3º da Lei 12.037/2009) | Base legal direta da atividade papiloscópica | Associe cada hipótese a um cenário prático (documento rasurado, informações conflitantes, decisão judicial) |
+| Saber que a identificação criminal inclui processo datiloscópico e fotográfico | Conexão mais direta com o cargo de Papiloscopista | Memorize o art. 5º literalmente |
+| Saber que investigação/fiscalização em andamento é hipótese de classificação de sigilo na LAI (art. 23, VIII) | Equilíbrio entre transparência e sigilo de investigação | Associe: informação pode ser sigilosa quando comprometer investigação em andamento |
+| Saber os prazos de sigilo da LAI (ultrassecreta 25 anos; secreta 15 anos; reservada 5 anos) | Detalhe técnico frequentemente cobrado | Decore a ordem decrescente: mais grave=prazo mais longo |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Abuso exige finalidade específica. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Identificação criminal tem hipóteses legais. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| LGPD, LAI e sigilo devem ser conciliados por finalidade e base legal. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+## Diferenças que a banca costuma trocar
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Divergência de interpretação de lei ou avaliação de provas (não configura abuso de autoridade) | Finalidade específica de prejudicar/beneficiar ou mero capricho (configura abuso de autoridade) | Ambas envolvem "erro ou decisão da autoridade" | O elemento subjetivo específico é o que diferencia erro de boa-fé de crime de abuso de autoridade |
+| Identificação criminal por decisão judicial (art. 3º, IV) | Identificação criminal por documento insuficiente/rasurado (art. 3º, I-II) | Ambas são "hipóteses do art. 3º" | A primeira depende de decisão da autoridade judiciária; as demais decorrem diretamente das condições do próprio documento apresentado |
+| Sigilo ultrassecreto (25 anos) | Sigilo secreto (15 anos) | Fácil confundir os prazos | Ultrassecreto é o grau mais alto e tem o prazo mais longo; secreto é intermediário |
+| LGPD (proteção de dados pessoais) | LAI (acesso à informação pública, com hipóteses de sigilo) | Ambas tratam de "informação e dados" | LGPD protege dados pessoais de indivíduos; LAI regula o acesso a informações em poder do Estado, com hipóteses específicas de sigilo |
 
 ## Pegadinhas da banca
 
-- Aplicar regra geral de servidor a servidor policial sem conferir norma específica.
-- Confundir atribuição da Polícia Civil com Polícia Científica ou Polícia Militar.
-- Responder por resumo desatualizado quando a lei foi alterada.
-- Misturar falta disciplinar, crime e improbidade.
-- Prioridade de atenção: Abuso exige finalidade específica.
-- Prioridade de atenção: Identificação criminal tem hipóteses legais.
-- Prioridade de atenção: LGPD, LAI e sigilo devem ser conciliados por finalidade e base legal.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Achar que qualquer erro de interpretação da autoridade já configura abuso de autoridade, ignorando a exigência de finalidade específica.
+- Confundir as diferentes hipóteses do art. 3º da Lei 12.037/2009 entre si (documento insuficiente x decisão judicial x registros conflitantes).
+- Inverter os prazos de sigilo da LAI (ultrassecreta x secreta x reservada).
+- Achar que a LAI nunca permite sigilo para investigação em andamento, quando na verdade essa é uma das hipóteses expressas de classificação.
+- Confundir LGPD com LAI, tratando-as como a mesma lei ou com o mesmo objeto.
 
 ## Como resolver questões
 
-1. Leia lei seca por blocos: finalidade, estrutura, atribuições, deveres, vedações, responsabilidade e procedimento.
-2. Marque o diploma correto antes de responder: Constituição do PR, LC 259, Lei 14.735, Lei 23.213, Código Disciplinar ou regime jurídico.
-3. Em norma recente, confira o texto oficial atualizado no Sistema Estadual de Legislação ou no Planalto.
-4. Em sigilo, LGPD e LAI, separe transparência ativa, acesso à informação, proteção de dados e informação sigilosa.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para questões sobre abuso de autoridade, sempre verifique se a conduta descrita tem finalidade específica de prejudicar/beneficiar, ou se é apenas divergência de interpretação (que não configura crime).
+2. Para questões sobre identificação criminal, identifique qual hipótese específica do art. 3º está sendo descrita no enunciado.
+3. Para questões sobre sigilo na LAI, associe o grau de sigilo ao prazo correspondente (quanto mais grave, mais longo o prazo).
+4. Para questões que possam confundir LGPD e LAI, lembre que a primeira protege dados pessoais e a segunda regula acesso a informações públicas.
+
+## Lacunas honestas
+
+- Nenhuma questão real de banca FGV localizada especificamente sobre Abuso de Autoridade, Identificação Criminal ou LAI aplicadas a este cargo neste levantamento. As questões deste tema são autorais, construídas diretamente a partir do texto legal verificado.
+- Conteúdo de LGPD deliberadamente não duplicado neste tema — ver [Tecnologia 006](../tecnologia/006_legislacao-etica-digital.md) para cobertura completa.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Legislação 6.7.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei que abuso de autoridade exige finalidade específica, e que divergência de interpretação não configura o crime.
+- [ ] Sei as principais condutas tipificadas relevantes à atividade policial (prisão ilegal, constrangimento do preso, invasão de domicílio fora do horário legal).
+- [ ] Sei as hipóteses em que a identificação criminal ocorre mesmo com documento apresentado.
+- [ ] Sei que a identificação criminal inclui processo datiloscópico e fotográfico.
+- [ ] Sei os prazos de sigilo da LAI (ultrassecreta, secreta, reservada) e a hipótese de sigilo por investigação em andamento.
+- [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
 
@@ -183,14 +127,21 @@ O candidato deve separar: Constituição do Paraná, estruturação de carreiras
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
-- [Lei Federal n.º 13.869/2019 - Abuso de Autoridade](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm)
-- [Lei Federal n.º 12.037/2009 - Identificação Criminal](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12037.htm)
-- [Lei Federal n.º 13.709/2018 - LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
-- [Lei Federal n.º 12.527/2011 - Lei de Acesso à Informação](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm)
+**Lei seca (texto oficial consultado)**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Legislacao Especial.pdf`
+- Lei Federal n.º 13.869/2019 - Abuso de Autoridade. Arts. 1º-4º, 9º, 13, 16, 18, 20-22.
+- Lei Federal n.º 12.037/2009 - Identificação Criminal. Arts. 1º-5º, 5º-A.
+- Lei Federal n.º 12.527/2011 - Lei de Acesso à Informação. Arts. 3º, 5º, 21, 23-24, 31.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Prova/FGV**
+
+- Nenhuma questão real de FGV localizada especificamente para este tema. Lacuna registrada acima.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+
+**Atualização/fonte externa**
+
+- [Lei Federal n.º 13.869/2019 - Planalto](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm)
+- [Lei Federal n.º 12.037/2009 - Planalto](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12037.htm)
+- [Lei Federal n.º 12.527/2011 - Planalto](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm)
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria, com base no texto oficial das leis citadas. As questões deste tema são autorais; as lacunas estão registradas explicitamente.

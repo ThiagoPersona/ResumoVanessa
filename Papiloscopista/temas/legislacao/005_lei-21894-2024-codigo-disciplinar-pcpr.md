@@ -1,155 +1,109 @@
 # 044 - Lei 21.894/2024: Código Disciplinar da PCPR
 
-> **Base do edital:** Conhecimentos Específicos; Legislação 6.5.  
-> **Peso da disciplina:** 5 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- A Lei Estadual n.º 21.894/2024 institui o Código Disciplinar da Polícia Civil do Paraná, definindo princípios, deveres, vedações, transgressões disciplinares, sanções e o processo administrativo disciplinar aplicável aos policiais civis.
+- A lei prevê cinco sanções disciplinares em ordem crescente de gravidade: repreensão, suspensão, demissão, cassação de disponibilidade e cassação de aposentadoria.
+- Diferente do modelo clássico de "transgressão leve/média/grave", o Código Disciplinar da PCPR descreve cada transgressão já vinculada à sua faixa de penalidade aplicável (de repreensão a suspensão de até 10 dias; de 10 a 90 dias de suspensão; de 30 a 90 dias de suspensão ou demissão; e demissão, para as mais graves).
+- Os prazos de prescrição disciplinar são de dois anos para infrações puníveis com repreensão ou suspensão, e de cinco anos para infrações puníveis com demissão.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Legislação soma 5 questões; este capítulo concentra Legislação 6.5.
-- **Como a FGV costuma cobrar:** Em legislação institucional, a FGV costuma cobrar literalidade, competência, finalidade, dever, vedação, estrutura e novidade legislativa.
-- **O que mais confunde candidatos:** usar lei antiga; misturar lei orgânica nacional com lei estadual; confundir carreira, regime jurídico e código disciplinar.
-- **Particularidade para Papiloscopista:** É bloco pequeno, mas muito perigoso: leis recentes e institucionais tendem a ser decisivas por literalidade e detalhe.
+O regime disciplinar é matéria de aplicação prática direta e cotidiana na carreira: entender os deveres, as vedações, as sanções cabíveis e o direito de defesa no processo disciplinar é essencial tanto para a prova quanto para a atuação profissional futura.
 
-## Leitura rápida
+## Conteúdo completo orientado ao edital
 
-- **Código Disciplinar da Polícia Civil do Paraná.** Deveres, proibições, transgressões, penalidades, sindicância, processo administrativo disciplinar, prazos recursais e efeitos.
-- **Deveres, vedações, transgressões, sanções, processos e recursos.** Deveres, proibições, transgressões, penalidades, sindicância, processo administrativo disciplinar, prazos recursais e efeitos.
-- **Prioridade FGV:** Separe dever, proibição, transgressão, sanção e recurso.
-- **Prioridade FGV:** Responsabilidade disciplinar não é automaticamente crime.
-- **Prioridade FGV:** Processo disciplinar exige contraditório e ampla defesa.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+### Objeto e princípios (arts. 1º, 3º)
 
-## Conteúdo essencial
+O Código Disciplinar da PCPR estabelece princípios e critérios, deveres, vedações, a descrição das transgressões disciplinares e respectivas sanções, além do processo administrativo disciplinar. Entre os catorze princípios fundamentais listados (art. 3º), destacam-se: **legalidade, impessoalidade, eficiência, proporcionalidade, boa-fé e segurança jurídica**. O art. 4º acrescenta dez critérios que orientam o processo disciplinar, com ênfase no interesse público objetivo e na proibição de sanções excessivas (desproporcionais à gravidade da conduta).
 
-### Visão de estudo para este tema
+### Deveres e vedações (arts. 5º e 6º)
 
-Legislação estadual e institucional deve ser lida como lei seca dirigida ao cargo. A FGV valoriza sujeito, verbo, competência, órgão, dever, vedação, responsabilidade, procedimento e sanção.
+**Principais deveres**: observar os direitos humanos, pontualidade, lealdade, cumprir as normas legais, atender requisições judiciais, zelar pelo patrimônio público, manter apresentação profissional adequada e comunicar irregularidades pelos canais próprios.
 
-O maior risco é estudar por material desatualizado, principalmente porque o edital envolve normas recentes da Polícia Civil do Paraná. Sempre que o capítulo falar de lei estadual ou federal, a leitura final deve ser na fonte oficial.
+**Principais vedações**: violar sigilo funcional, falsificar documentos, solicitar vantagem indevida, exercer supervisão direta sobre familiares na mesma linha de subordinação, e participar de atividades empresariais incompatíveis com o cargo.
 
-O candidato deve separar: Constituição do Paraná, estruturação de carreiras, Lei Orgânica Nacional, Lei Orgânica estadual, Código Disciplinar, regime jurídico geral e leis aplicadas à atividade policial.
+### Classificação das transgressões e faixas de penalidade (arts. 7º-8º)
 
-**Aplicação ao cargo:** O bloco define limites institucionais da atuação policial e ajuda a evitar confusão entre conduta funcional, infração disciplinar, ilícito penal e dever de sigilo.
+Diferentemente de códigos disciplinares que usam a classificação tradicional "leve/média/grave", o Código Disciplinar da PCPR descreve as condutas já vinculadas à faixa de penalidade cabível:
 
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
-
-### O que mais merece atenção
-
-- estrutura, carreira e atribuições da PCPR
-- deveres, vedações e responsabilidades
-- código disciplinar e sanções
-- sigilo funcional, LGPD e LAI
-- identificação criminal e abuso de autoridade
-- diferença entre norma nacional, estadual e regime geral
-
-### Conteúdo completo orientado ao edital
-
-### 1. Código Disciplinar da Polícia Civil do Paraná.
-
-**O que significa:** O Código Disciplinar da PCPR organiza deveres funcionais, transgressões, sanções, competência disciplinar, apuração, defesa e recursos. É diferente de crime e de improbidade.
-
-**Como estudar para a prova:** Deveres, proibições, transgressões, penalidades, sindicância, processo administrativo disciplinar, prazos recursais e efeitos.
-
-**Como a FGV pode cobrar:** A FGV pode perguntar qual conduta é disciplinar, qual autoridade atua ou qual sanção/procedimento corresponde ao caso.
-
-**Cuidado de prova:** Responsabilidade administrativa pode coexistir com civil e penal, mas cada esfera tem pressupostos próprios.
-
-### 2. Deveres, vedações, transgressões, sanções, processos e recursos.
-
-**O que significa:** O Código Disciplinar da PCPR organiza deveres funcionais, transgressões, sanções, competência disciplinar, apuração, defesa e recursos. É diferente de crime e de improbidade.
-
-**Como estudar para a prova:** Deveres, proibições, transgressões, penalidades, sindicância, processo administrativo disciplinar, prazos recursais e efeitos.
-
-**Como a FGV pode cobrar:** A FGV pode perguntar qual conduta é disciplinar, qual autoridade atua ou qual sanção/procedimento corresponde ao caso.
-
-**Cuidado de prova:** Responsabilidade administrativa pode coexistir com civil e penal, mas cada esfera tem pressupostos próprios.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Faixa de penalidade | Exemplos de conduta |
 |---|---|
-| Separe dever, proibição, transgressão, sanção e recurso. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Responsabilidade disciplinar não é automaticamente crime. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Processo disciplinar exige contraditório e ampla defesa. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Repreensão a suspensão de até 10 dias | Infrações leves: deixar de se identificar, apresentação inadequada, faltar a reuniões sem justificativa |
+| Suspensão de 10 a 90 dias | Infrações de nível intermediário: insubordinação, negligência, desrespeito a superior ou colega |
+| Suspensão de 30 a 90 dias ou demissão | Infrações graves: uso indevido da força, apropriação de bens, produção de documento falso |
+| Demissão | Infrações mais graves: abandono de cargo, facilitação de fuga de preso, assédio sexual, condenação criminal em hipóteses específicas |
 
-### Diferenças que a banca costuma trocar
+### As cinco sanções disciplinares (art. 15)
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Sanção | Efeito |
+|---|---|
+| Repreensão | Advertência formal, por escrito |
+| Suspensão | Afastamento temporário, com perda de metade da remuneração diária durante o período |
+| Demissão | Desligamento do cargo |
+| Cassação de disponibilidade | Extingue a situação de disponibilidade do servidor |
+| Cassação de aposentadoria | Extingue os efeitos da aposentadoria concedida |
+
+### Prescrição disciplinar (art. 62)
+
+- **Dois anos**: para infrações puníveis com repreensão ou suspensão.
+- **Cinco anos**: para infrações puníveis com demissão.
+
+### Direito de defesa (arts. 33-35, 38)
+
+O acusado tem direito a apresentar defesa escrita no prazo de 10 dias úteis, acesso integral aos autos, direito de arrolar testemunhas e, se necessário, indicação de defensor público. O art. 38 garante que a oitiva de testemunhas ocorra com a presença do acusado, salvo quando isso possa prejudicar a segurança da testemunha.
+
+### Órgãos julgadores (art. 25)
+
+| Órgão | Competência |
+|---|---|
+| Governador do Estado | Competência originária para demissão e cassação de aposentadoria |
+| Secretário de Segurança Pública | Competência recursal para repreensão e suspensão |
+| Conselho Superior de Polícia | Competência originária para repreensão e suspensão |
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Código Disciplinar da Polícia Civil do Paraná. | Responsabilidade administrativa pode coexistir com civil e penal, mas cada esfera tem pressupostos próprios. | A FGV pode perguntar qual conduta é disciplinar, qual autoridade atua ou qual sanção/procedimento corresponde ao caso. |
-| Deveres, vedações, transgressões, sanções, processos e recursos. | Responsabilidade administrativa pode coexistir com civil e penal, mas cada esfera tem pressupostos próprios. | A FGV pode perguntar qual conduta é disciplinar, qual autoridade atua ou qual sanção/procedimento corresponde ao caso. |
+| Saber as cinco sanções disciplinares em ordem de gravidade (repreensão, suspensão, demissão, cassação de disponibilidade, cassação de aposentadoria) | Base de qualquer questão sobre regime disciplinar | Memorize a ordem e associe cada sanção a uma situação funcional específica (ativo, disponibilidade, aposentado) |
+| Saber os prazos de prescrição disciplinar (dois anos para repreensão/suspensão; cinco anos para demissão) | Ponto técnico frequentemente cobrado isoladamente | Associe: penalidade mais grave (demissão) = prazo mais longo (cinco anos) |
+| Reconhecer que o Código não usa a classificação leve/média/grave, mas descreve condutas já vinculadas à faixa de penalidade | Diferença estrutural importante em relação a outros regimes disciplinares | Não tente aplicar a lógica "leve/média/grave" tradicional a este Código específico |
+| Saber a competência de cada órgão julgador (Governador para demissão/cassação; Conselho Superior para repreensão/suspensão originárias) | Frequentemente cobrado em conjunto com o direito de defesa | Associe: penalidade mais grave = julgamento por autoridade mais elevada |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
-
-### Roteiro de estudo de alta retenção
-
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
-
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Código Disciplinar da Polícia Civil do Paraná. | Deveres, proibições, transgressões, penalidades, sindicância, processo administrativo disciplinar, prazos recursais e efeitos. | Responsabilidade administrativa pode coexistir com civil e penal, mas cada esfera tem pressupostos próprios. |
-| Deveres, vedações, transgressões, sanções, processos e recursos. | Deveres, proibições, transgressões, penalidades, sindicância, processo administrativo disciplinar, prazos recursais e efeitos. | Responsabilidade administrativa pode coexistir com civil e penal, mas cada esfera tem pressupostos próprios. |
-
-| Ponto quente | Treino recomendado |
-|---|---|
-| Separe dever, proibição, transgressão, sanção e recurso. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Responsabilidade disciplinar não é automaticamente crime. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Processo disciplinar exige contraditório e ampla defesa. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Repreensão (advertência formal por escrito) | Suspensão (afastamento temporário, com perda de metade da remuneração diária) | Ambas são sanções "menos graves" | Repreensão não afasta o servidor do serviço; suspensão sim, com efeito remuneratório |
+| Cassação de disponibilidade | Cassação de aposentadoria | Ambas são sanções "de cassação" | A primeira atinge o servidor em disponibilidade; a segunda, o servidor já aposentado |
+| Prescrição de dois anos (repreensão/suspensão) | Prescrição de cinco anos (demissão) | Fácil inverter os prazos | Quanto mais grave a penalidade cabível, maior o prazo prescricional |
 
 ## Pegadinhas da banca
 
-- Aplicar regra geral de servidor a servidor policial sem conferir norma específica.
-- Confundir atribuição da Polícia Civil com Polícia Científica ou Polícia Militar.
-- Responder por resumo desatualizado quando a lei foi alterada.
-- Misturar falta disciplinar, crime e improbidade.
-- Prioridade de atenção: Separe dever, proibição, transgressão, sanção e recurso.
-- Prioridade de atenção: Responsabilidade disciplinar não é automaticamente crime.
-- Prioridade de atenção: Processo disciplinar exige contraditório e ampla defesa.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Inverter os prazos de prescrição disciplinar (dois anos x cinco anos).
+- Tentar classificar as transgressões pela lógica tradicional "leve/média/grave", quando o Código da PCPR já vincula a conduta diretamente à faixa de penalidade.
+- Confundir a competência do Governador (demissão/cassação) com a do Conselho Superior de Polícia (repreensão/suspensão).
+- Esquecer que a suspensão gera perda de metade da remuneração diária durante o período, enquanto a repreensão não tem efeito remuneratório direto.
 
 ## Como resolver questões
 
-1. Leia lei seca por blocos: finalidade, estrutura, atribuições, deveres, vedações, responsabilidade e procedimento.
-2. Marque o diploma correto antes de responder: Constituição do PR, LC 259, Lei 14.735, Lei 23.213, Código Disciplinar ou regime jurídico.
-3. Em norma recente, confira o texto oficial atualizado no Sistema Estadual de Legislação ou no Planalto.
-4. Em sigilo, LGPD e LAI, separe transparência ativa, acesso à informação, proteção de dados e informação sigilosa.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para questões sobre sanções, memorize a ordem crescente de gravidade e o efeito prático de cada uma.
+2. Para questões sobre prescrição, associe sempre o prazo à gravidade da penalidade cabível (mais grave = prazo mais longo).
+3. Para questões sobre classificação de transgressões, não presuma a lógica tradicional leve/média/grave sem confirmar no texto específico do Código da PCPR.
+4. Para questões sobre competência julgadora, associe a autoridade à gravidade da sanção envolvida.
+
+## Lacunas honestas
+
+- Nenhuma questão real de banca FGV localizada especificamente sobre o Código Disciplinar da PCPR (Lei 21.894/2024) neste levantamento. As questões deste tema são autorais, construídas diretamente a partir do texto legal verificado.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Legislação 6.5.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei as cinco sanções disciplinares em ordem de gravidade.
+- [ ] Sei os prazos de prescrição disciplinar (dois anos e cinco anos) e a qual penalidade cada um se associa.
+- [ ] Sei que o Código da PCPR vincula a conduta diretamente à faixa de penalidade, sem a classificação tradicional leve/média/grave.
+- [ ] Sei a competência de cada órgão julgador (Governador, Secretário, Conselho Superior).
+- [ ] Sei os direitos básicos de defesa no processo disciplinar (defesa escrita, acesso aos autos, testemunhas).
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -157,11 +111,17 @@ O candidato deve separar: Constituição do Paraná, estruturação de carreiras
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
-- [Lei Estadual n.º 21.894/2024 - Código Disciplinar da PCPR](https://www.legislacao.pr.gov.br/legislacao/exibirAto.do?action=iniciarProcesso&codAto=323068&codItemAto=2047552)
+**Lei seca (texto oficial consultado)**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Legislacao Especial.pdf`
+- Lei Estadual n.º 21.894, de 2024 - Paraná: institui o Código Disciplinar da Polícia Civil do Estado do Paraná. Arts. 1º, 3º-8º, 15, 25, 33-35, 38 e 62.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Prova/FGV**
+
+- Nenhuma questão real de FGV localizada especificamente para este tema. Lacuna registrada acima.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+
+**Atualização/fonte externa**
+
+- [Sistema Estadual de Legislação do Paraná - Casa Civil](https://www.legislacao.pr.gov.br/legislacao/exibirAto.do?action=iniciarProcesso&codAto=323068&codItemAto=2047552) - texto oficial da Lei 21.894/2024.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria, com base no texto oficial da Lei 21.894/2024. As questões deste tema são autorais; a lacuna está registrada explicitamente.

@@ -1,155 +1,105 @@
 # 042 - Lei 14.735/2023: Lei Orgânica Nacional das Polícias Civis
 
-> **Base do edital:** Conhecimentos Específicos; Legislação 6.3.  
-> **Peso da disciplina:** 5 questões na prova objetiva.  
-> **Prioridade:** altíssima.
+## Leitura rápida
+
+- A Lei Federal n.º 14.735/2023 institui a Lei Orgânica Nacional das Polícias Civis, estabelecendo normas gerais de funcionamento válidas para todas as polícias civis do país — cada Estado edita sua própria lei orgânica específica (no Paraná, a Lei 23.213/2026) respeitando essas normas gerais.
+- As polícias civis são dirigidas por delegado de polícia em atividade e de classe mais elevada, nomeado pelos governadores, sendo instituições permanentes com funções exclusivas e típicas de Estado, essenciais à justiça criminal.
+- A lei lista dezenove princípios institucionais básicos (art. 4º) e cinco competências centrais (art. 6º), entre elas organizar e executar os serviços de identificação civil e criminal — ponto de conexão direta com a atividade papiloscópica.
+- A estrutura organizacional básica inclui, entre suas unidades de execução, o **Departamento de Identificação Civil** — unidade prevista nacionalmente, refletida na estrutura de cada Polícia Civil estadual.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Legislação soma 5 questões; este capítulo concentra Legislação 6.3.
-- **Como a FGV costuma cobrar:** Em legislação institucional, a FGV costuma cobrar literalidade, competência, finalidade, dever, vedação, estrutura e novidade legislativa.
-- **O que mais confunde candidatos:** usar lei antiga; misturar lei orgânica nacional com lei estadual; confundir carreira, regime jurídico e código disciplinar.
-- **Particularidade para Papiloscopista:** É bloco pequeno, mas muito perigoso: leis recentes e institucionais tendem a ser decisivas por literalidade e detalhe.
+Esta é a norma federal que baliza toda legislação orgânica estadual da Polícia Civil (incluindo a Lei 23.213/2026, específica do Paraná) — entender seus princípios, competências e estrutura organizacional básica ajuda a interpretar corretamente a lei estadual que a implementa, além de ser diretamente cobrável de forma isolada no edital.
 
-## Leitura rápida
+## Conteúdo completo orientado ao edital
 
-- **Lei Orgânica Nacional das Polícias Civis.** Princípios institucionais, diretrizes, competências, organização, direitos, garantias, prerrogativas, deveres, vedações e relação com SUSP.
-- **Normas gerais de funcionamento das polícias civis.** Princípios institucionais, diretrizes, competências, organização, direitos, garantias, prerrogativas, deveres, vedações e relação com SUSP.
-- **Prioridade FGV:** Guarde princípios institucionais e competências da Polícia Civil.
-- **Prioridade FGV:** A lei nacional destaca investigação, sigilo, tecnicidade e cadeia de custódia.
-- **Prioridade FGV:** Não confunda competência geral com organização estadual.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+### Natureza e finalidade da lei
 
-## Conteúdo essencial
+O art. 1º define as polícias civis como instituições permanentes, dirigidas por delegado de polícia em atividade e de classe mais elevada, nomeado pelos governadores dos Estados e do Distrito Federal, com **"funções exclusivas e típicas de Estado, essenciais à justiça criminal e imprescindíveis à segurança pública e à garantia dos direitos fundamentais no âmbito da investigação criminal"**. O parágrafo único reconhece que a função policial civil se sujeita à prestação de serviços em condições adversas de segurança, com risco à vida, serviços noturnos e chamados a qualquer hora.
 
-### Visão de estudo para este tema
+As polícias civis são integrantes operacionais do **Sistema Único de Segurança Pública (Susp)** e compõem o sistema de governança da política de segurança pública dos Estados, do Distrito Federal e dos Territórios (art. 2º).
 
-Legislação estadual e institucional deve ser lida como lei seca dirigida ao cargo. A FGV valoriza sujeito, verbo, competência, órgão, dever, vedação, responsabilidade, procedimento e sanção.
+**Repartição de competência legislativa**: o art. 3º determina que cabe a cada Estado (por iniciativa do respectivo governador) editar sua própria lei orgânica, observando as normas gerais desta Lei Federal, sobre: estrutura e competências de unidades; requisitos para investidura em cada cargo; atribuições funcionais; direitos, prerrogativas, garantias, deveres e vedações; Código de Ética e Disciplina; e diretrizes orçamentárias.
 
-O maior risco é estudar por material desatualizado, principalmente porque o edital envolve normas recentes da Polícia Civil do Paraná. Sempre que o capítulo falar de lei estadual ou federal, a leitura final deve ser na fonte oficial.
+### Princípios institucionais básicos (art. 4º)
 
-O candidato deve separar: Constituição do Paraná, estruturação de carreiras, Lei Orgânica Nacional, Lei Orgânica estadual, Código Disciplinar, regime jurídico geral e leis aplicadas à atividade policial.
+Entre os dezenove princípios listados, destacam-se para fins de prova:
 
-**Aplicação ao cargo:** O bloco define limites institucionais da atuação policial e ajuda a evitar confusão entre conduta funcional, infração disciplinar, ilícito penal e dever de sigilo.
+- Proteção da dignidade humana e dos direitos fundamentais no âmbito da investigação criminal.
+- Discrição e preservação do sigilo necessário à efetividade da investigação e à salvaguarda da intimidade das pessoas.
+- Hierarquia e disciplina.
+- Livre convencimento técnico-jurídico do delegado de polícia.
+- Uso diferenciado da força para preservação da vida, redução do sofrimento e redução de danos.
+- Autonomia, imparcialidade, tecnicidade e cientificidade investigativa, indiciária, inquisitorial, notarial e pericial.
+- Natureza técnica e imparcial das funções de polícia judiciária civil e de apuração de infrações penais, sob a presidência e mediante análise técnico-jurídica do delegado de polícia.
+- Identidade de nomenclatura para unidades policiais, serviços e cargos de igual natureza (padronização nacional).
 
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
+### Competências centrais (art. 6º)
 
-### O que mais merece atenção
+Compete à polícia civil, ressalvada a competência da União e as infrações penais militares, executar privativamente as funções de polícia judiciária civil e de apuração de infrações penais. Entre as competências específicas listadas, destacam-se:
 
-- estrutura, carreira e atribuições da PCPR
-- deveres, vedações e responsabilidades
-- código disciplinar e sanções
-- sigilo funcional, LGPD e LAI
-- identificação criminal e abuso de autoridade
-- diferença entre norma nacional, estadual e regime geral
+- Cumprir mandados de prisão, busca e apreensão e demais medidas cautelares.
+- Garantir a preservação dos locais de ocorrência da infração penal.
+- **Organizar e executar os serviços de identificação civil e criminal** (inciso III) — competência central para a atividade papiloscópica.
+- Organizar e executar a atividade pericial oficial, quando o órgão central de perícia estiver integrado à sua estrutura.
+- Garantir a adequada coleta, preservação e integridade da cadeia de custódia de dados, informações e materiais que constituam insumos, indícios ou provas.
+- Produzir laudo de exame pericial, elaborado por perito oficial criminal, quando aplicável.
 
-### Conteúdo completo orientado ao edital
+### Estrutura organizacional básica
 
-### 1. Lei Orgânica Nacional das Polícias Civis.
+O art. 7º estabelece que a polícia civil tem estrutura organizacional composta pelos seguintes órgãos essenciais: Delegacia-Geral de Polícia Civil; Conselho Superior de Polícia Civil; Corregedoria-Geral de Polícia Civil; Escola Superior de Polícia Civil; unidades de execução; unidades de inteligência; unidades técnico-científicas; unidades de apoio administrativo e estratégico; unidades de saúde; e unidades de tecnologia.
 
-**O que significa:** A Lei 14.735/2023 fixa normas gerais das Polícias Civis. Ela trata a Polícia Civil como instituição permanente, típica de Estado e essencial à justiça criminal, com funções de polícia judiciária e apuração de infrações penais.
+**Chefia**: a polícia civil é chefiada pelo **Delegado-Geral de Polícia Civil**, nomeado pelo governador dentre os delegados de polícia em atividade da classe mais elevada (art. 8º). O Delegado-Geral deve apresentar, em até 30 dias após a nomeação, planejamento estratégico de gestão contendo metas de produtividade, medidas de eficiência, diagnóstico de recursos humanos, programas de capacitação e proposta de estrutura organizacional.
 
-**Como estudar para a prova:** Princípios institucionais, diretrizes, competências, organização, direitos, garantias, prerrogativas, deveres, vedações e relação com SUSP.
+**Conselho Superior de Polícia Civil** (art. 9º): presidido pelo Delegado-Geral, integrado por representantes de todos os cargos efetivos da corporação.
 
-**Como a FGV pode cobrar:** A banca cobra competências como preservar local, organizar identificação civil e criminal, garantir cadeia de custódia e atuar com tecnicidade.
+**Corregedoria-Geral de Polícia Civil** (art. 10): dotada de autonomia, responsável pelo controle interno, correição, orientação e zelo pela qualidade do serviço policial. O Corregedor-Geral é designado pelo Delegado-Geral dentre delegados da classe mais elevada. É garantido duplo grau de revisão do julgamento em processos disciplinares no caso de penalidade de demissão.
 
-**Cuidado de prova:** Norma nacional dá diretrizes gerais; lei estadual detalha organização local.
+**Unidades de execução** (art. 12): incluem unidades policiais circunscricionais, distritais ou regionais; unidades especializadas; Coordenadoria de Recursos e Operações Especiais; e o **Departamento de Identificação Civil** — unidade diretamente relacionada à atividade do Papiloscopista Policial.
 
-### 2. Normas gerais de funcionamento das polícias civis.
+## Prioridades FGV dentro deste tema
 
-**O que significa:** A Lei 14.735/2023 fixa normas gerais das Polícias Civis. Ela trata a Polícia Civil como instituição permanente, típica de Estado e essencial à justiça criminal, com funções de polícia judiciária e apuração de infrações penais.
-
-**Como estudar para a prova:** Princípios institucionais, diretrizes, competências, organização, direitos, garantias, prerrogativas, deveres, vedações e relação com SUSP.
-
-**Como a FGV pode cobrar:** A banca cobra competências como preservar local, organizar identificação civil e criminal, garantir cadeia de custódia e atuar com tecnicidade.
-
-**Cuidado de prova:** Norma nacional dá diretrizes gerais; lei estadual detalha organização local.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
-|---|---|
-| Guarde princípios institucionais e competências da Polícia Civil. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| A lei nacional destaca investigação, sigilo, tecnicidade e cadeia de custódia. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Não confunda competência geral com organização estadual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-
-### Diferenças que a banca costuma trocar
-
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Lei Orgânica Nacional das Polícias Civis. | Norma nacional dá diretrizes gerais; lei estadual detalha organização local. | A banca cobra competências como preservar local, organizar identificação civil e criminal, garantir cadeia de custódia e atuar com tecnicidade. |
-| Normas gerais de funcionamento das polícias civis. | Norma nacional dá diretrizes gerais; lei estadual detalha organização local. | A banca cobra competências como preservar local, organizar identificação civil e criminal, garantir cadeia de custódia e atuar com tecnicidade. |
+| Saber que a organização e execução dos serviços de identificação civil e criminal é competência expressamente prevista (art. 6º, III) | Conexão direta com a atividade papiloscópica | Memorize essa competência específica dentro do rol do art. 6º |
+| Saber que a estrutura organizacional inclui o Departamento de Identificação Civil como unidade de execução | Relevante para o contexto institucional do cargo | Associe: unidades de execução incluem o Departamento de Identificação Civil |
+| Reconhecer os princípios institucionais relacionados à natureza técnica e científica da atividade pericial/investigativa (autonomia, imparcialidade, tecnicidade, cientificidade) | Frequentemente cobrado de forma comparativa com outros princípios | Diferencie princípios de natureza técnica dos de natureza organizacional (hierarquia, disciplina) |
+| Saber que cada Estado deve editar sua própria lei orgânica respeitando as normas gerais desta lei federal | Base para entender a relação entre esta lei e a Lei 23.213/2026 do Paraná | Lembre: lei federal=normas gerais; lei estadual=implementação específica |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
-
-### Roteiro de estudo de alta retenção
-
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
-
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Lei Orgânica Nacional das Polícias Civis. | Princípios institucionais, diretrizes, competências, organização, direitos, garantias, prerrogativas, deveres, vedações e relação com SUSP. | Norma nacional dá diretrizes gerais; lei estadual detalha organização local. |
-| Normas gerais de funcionamento das polícias civis. | Princípios institucionais, diretrizes, competências, organização, direitos, garantias, prerrogativas, deveres, vedações e relação com SUSP. | Norma nacional dá diretrizes gerais; lei estadual detalha organização local. |
-
-| Ponto quente | Treino recomendado |
-|---|---|
-| Guarde princípios institucionais e competências da Polícia Civil. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| A lei nacional destaca investigação, sigilo, tecnicidade e cadeia de custódia. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Não confunda competência geral com organização estadual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Lei 14.735/2023 (norma geral federal, aplicável a todas as polícias civis do país) | Lei 23.213/2026 (lei orgânica específica da PCPR, aplicação exclusivamente estadual) | Ambas tratam de "organização da Polícia Civil" | A lei federal fixa normas gerais; a lei estadual implementa, respeitando essas normas gerais |
+| Delegacia-Geral de Polícia Civil (órgão de direção, chefiado pelo Delegado-Geral) | Corregedoria-Geral de Polícia Civil (órgão de controle interno e correição) | Ambos são "órgãos essenciais da estrutura" | Delegacia-Geral dirige a instituição; Corregedoria-Geral controla e corrige internamente |
+| Departamento de Identificação Civil (unidade de execução prevista na lei federal) | Instituto de Identificação (nome usado na estrutura da Lei 23.213/2026 do Paraná, no Nível de Execução) | Ambos tratam de identificação | A lei federal usa uma nomenclatura genérica; a lei estadual paranaense pode nomear a unidade de forma própria, respeitando a mesma função |
 
 ## Pegadinhas da banca
 
-- Aplicar regra geral de servidor a servidor policial sem conferir norma específica.
-- Confundir atribuição da Polícia Civil com Polícia Científica ou Polícia Militar.
-- Responder por resumo desatualizado quando a lei foi alterada.
-- Misturar falta disciplinar, crime e improbidade.
-- Prioridade de atenção: Guarde princípios institucionais e competências da Polícia Civil.
-- Prioridade de atenção: A lei nacional destaca investigação, sigilo, tecnicidade e cadeia de custódia.
-- Prioridade de atenção: Não confunda competência geral com organização estadual.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Confundir as competências do art. 6º com os princípios do art. 4º (são listas distintas, com finalidades diferentes).
+- Achar que a lei federal já detalha integralmente a carreira e a remuneração dos policiais civis, quando na verdade isso cabe à lei orgânica de cada Estado.
+- Confundir a Delegacia-Geral (chefia/direção) com a Corregedoria-Geral (controle interno).
+- Esquecer que o duplo grau de revisão em processo disciplinar é garantido especificamente na hipótese de penalidade de demissão.
 
 ## Como resolver questões
 
-1. Leia lei seca por blocos: finalidade, estrutura, atribuições, deveres, vedações, responsabilidade e procedimento.
-2. Marque o diploma correto antes de responder: Constituição do PR, LC 259, Lei 14.735, Lei 23.213, Código Disciplinar ou regime jurídico.
-3. Em norma recente, confira o texto oficial atualizado no Sistema Estadual de Legislação ou no Planalto.
-4. Em sigilo, LGPD e LAI, separe transparência ativa, acesso à informação, proteção de dados e informação sigilosa.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para questões sobre competências da polícia civil, verifique se a alternativa reproduz literalmente um dos incisos do art. 6º.
+2. Para questões sobre estrutura organizacional, associe cada órgão à sua função central (Delegacia-Geral=direção; Conselho Superior=representação colegiada; Corregedoria-Geral=controle interno; Escola Superior=formação).
+3. Para questões que comparam a lei federal com a lei orgânica do Paraná, lembre que a primeira é norma geral e a segunda é a implementação estadual específica.
+4. Para questões sobre identificação civil e criminal, associe sempre à competência do art. 6º, III e à unidade de execução correspondente.
+
+## Lacunas honestas
+
+- Nenhuma questão real de banca FGV localizada especificamente sobre a Lei 14.735/2023 neste levantamento. As questões deste tema são autorais, construídas diretamente a partir do texto legal verificado.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Legislação 6.3.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei que a Lei 14.735/2023 é a norma geral federal aplicável a todas as polícias civis do país.
+- [ ] Sei a competência de organizar e executar os serviços de identificação civil e criminal (art. 6º, III).
+- [ ] Sei os órgãos essenciais da estrutura organizacional básica (Delegacia-Geral, Conselho Superior, Corregedoria-Geral, Escola Superior, unidades de execução).
+- [ ] Sei que o Departamento de Identificação Civil é unidade de execução prevista na lei.
+- [ ] Sei a regra do duplo grau de revisão em processo disciplinar na hipótese de demissão.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -157,11 +107,17 @@ O candidato deve separar: Constituição do Paraná, estruturação de carreiras
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
-- [Lei Federal n.º 14.735/2023 - Lei Orgânica Nacional das Polícias Civis](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14735.htm)
+**Lei seca (texto oficial consultado)**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Legislacao Especial.pdf`
+- Lei Federal n.º 14.735, de 23/11/2023 - institui a Lei Orgânica Nacional das Polícias Civis. Arts. 1º-12.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Prova/FGV**
+
+- Nenhuma questão real de FGV localizada especificamente para este tema. Lacuna registrada acima.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+
+**Atualização/fonte externa**
+
+- [Lei Federal n.º 14.735/2023 - Planalto](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14735.htm) - texto oficial consultado.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria, com base no texto oficial da Lei 14.735/2023. As questões deste tema são autorais; a lacuna está registrada explicitamente.

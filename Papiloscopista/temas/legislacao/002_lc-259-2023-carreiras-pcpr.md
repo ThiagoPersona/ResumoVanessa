@@ -1,155 +1,102 @@
 # 041 - LC 259/2023: carreiras da PCPR
 
-> **Base do edital:** Conhecimentos Específicos; Legislação 6.2.  
-> **Peso da disciplina:** 5 questões na prova objetiva.  
-> **Prioridade:** altíssima.
+## Leitura rápida
+
+- A Lei Complementar Estadual n.º 259/2023 dispõe sobre a estruturação das carreiras da Polícia Civil do Estado do Paraná, definindo quatro carreiras: Delegado de Polícia, Agente de Polícia Judiciária, Papiloscopista Policial e Agente de Operações Policiais (esta última em extinção).
+- Delegado de Polícia exige bacharelado em Direito; Agente de Polícia Judiciária e Papiloscopista Policial exigem curso superior completo em qualquer área de graduação — ambos classificados como cargos técnico-científicos de nível superior, exclusivos de Estado.
+- O estágio probatório dos policiais civis dura três anos de efetivo exercício, com avaliação especial de desempenho obrigatória como condição para a aquisição da estabilidade.
+- A remuneração é organizada por subsídio (parcela única, vedado acréscimo de outras verbas, exceto as expressamente listadas em lei, como décimo terceiro, adicional de férias e diárias).
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Legislação soma 5 questões; este capítulo concentra Legislação 6.2.
-- **Como a FGV costuma cobrar:** Em legislação institucional, a FGV costuma cobrar literalidade, competência, finalidade, dever, vedação, estrutura e novidade legislativa.
-- **O que mais confunde candidatos:** usar lei antiga; misturar lei orgânica nacional com lei estadual; confundir carreira, regime jurídico e código disciplinar.
-- **Particularidade para Papiloscopista:** É bloco pequeno, mas muito perigoso: leis recentes e institucionais tendem a ser decisivas por literalidade e detalhe.
+Esta é a lei que estrutura diretamente a carreira que o candidato está disputando: entender os requisitos de ingresso, o regime de estágio probatório e o sistema de promoção do cargo de Papiloscopista Policial é conhecimento aplicado à própria trajetória profissional, além de altamente cobrável no edital.
 
-## Leitura rápida
+## Conteúdo completo orientado ao edital
 
-- **Estruturação das carreiras da Polícia Civil do Estado do Paraná.** Cargos da PCPR, Papiloscopista Policial, requisitos, níveis, capacitação, promoção, vedações à promoção, direitos e garantias funcionais.
-- **Lei Complementar Estadual n.º 259/2023 e alterações posteriores.** Cargos da PCPR, Papiloscopista Policial, requisitos, níveis, capacitação, promoção, vedações à promoção, direitos e garantias funcionais.
-- **Prioridade FGV:** Mapeie cargos, níveis, promoções e requisitos de capacitação.
-- **Prioridade FGV:** Papiloscopista aparece como carreira própria no QPPC.
-- **Prioridade FGV:** Alterações posteriores podem modificar prazos e direitos.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+### As quatro carreiras da Polícia Civil do Paraná
 
-## Conteúdo essencial
+A LC 259/2023 identifica as seguintes carreiras policiais civis (art. 3º):
 
-### Visão de estudo para este tema
+- **Delegado de Polícia**
+- **Agente de Polícia Judiciária**
+- **Papiloscopista Policial**
+- **Agente de Operações Policiais** (carreira em extinção)
 
-Legislação estadual e institucional deve ser lida como lei seca dirigida ao cargo. A FGV valoriza sujeito, verbo, competência, órgão, dever, vedação, responsabilidade, procedimento e sanção.
+### Requisitos de ingresso por carreira
 
-O maior risco é estudar por material desatualizado, principalmente porque o edital envolve normas recentes da Polícia Civil do Paraná. Sempre que o capítulo falar de lei estadual ou federal, a leitura final deve ser na fonte oficial.
-
-O candidato deve separar: Constituição do Paraná, estruturação de carreiras, Lei Orgânica Nacional, Lei Orgânica estadual, Código Disciplinar, regime jurídico geral e leis aplicadas à atividade policial.
-
-**Aplicação ao cargo:** O bloco define limites institucionais da atuação policial e ajuda a evitar confusão entre conduta funcional, infração disciplinar, ilícito penal e dever de sigilo.
-
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
-
-### O que mais merece atenção
-
-- estrutura, carreira e atribuições da PCPR
-- deveres, vedações e responsabilidades
-- código disciplinar e sanções
-- sigilo funcional, LGPD e LAI
-- identificação criminal e abuso de autoridade
-- diferença entre norma nacional, estadual e regime geral
-
-### Conteúdo completo orientado ao edital
-
-### 1. Estruturação das carreiras da Polícia Civil do Estado do Paraná.
-
-**O que significa:** A LC 259/2023 estrutura carreiras da Polícia Civil do Paraná. O estudo deve mapear cargos, ingresso, desenvolvimento funcional, progressão/promoção, direitos, garantias, deveres e regras específicas alteradas por normas posteriores.
-
-**Como estudar para a prova:** Cargos da PCPR, Papiloscopista Policial, requisitos, níveis, capacitação, promoção, vedações à promoção, direitos e garantias funcionais.
-
-**Como a FGV pode cobrar:** A FGV tende a cobrar cargo, requisito, consequência funcional ou redação literal de alteração recente.
-
-**Cuidado de prova:** Use a versão compilada oficial; alterações posteriores mudam detalhes de promoção, direitos e deveres.
-
-### 2. Lei Complementar Estadual n.º 259/2023 e alterações posteriores.
-
-**O que significa:** A LC 259/2023 estrutura carreiras da Polícia Civil do Paraná. O estudo deve mapear cargos, ingresso, desenvolvimento funcional, progressão/promoção, direitos, garantias, deveres e regras específicas alteradas por normas posteriores.
-
-**Como estudar para a prova:** Cargos da PCPR, Papiloscopista Policial, requisitos, níveis, capacitação, promoção, vedações à promoção, direitos e garantias funcionais.
-
-**Como a FGV pode cobrar:** A FGV tende a cobrar cargo, requisito, consequência funcional ou redação literal de alteração recente.
-
-**Cuidado de prova:** Use a versão compilada oficial; alterações posteriores mudam detalhes de promoção, direitos e deveres.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
-|---|---|
-| Mapeie cargos, níveis, promoções e requisitos de capacitação. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Papiloscopista aparece como carreira própria no QPPC. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Alterações posteriores podem modificar prazos e direitos. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-
-### Diferenças que a banca costuma trocar
-
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Carreira | Formação exigida | Natureza do cargo |
 |---|---|---|
-| Estruturação das carreiras da Polícia Civil do Estado do Paraná. | Use a versão compilada oficial; alterações posteriores mudam detalhes de promoção, direitos e deveres. | A FGV tende a cobrar cargo, requisito, consequência funcional ou redação literal de alteração recente. |
-| Lei Complementar Estadual n.º 259/2023 e alterações posteriores. | Use a versão compilada oficial; alterações posteriores mudam detalhes de promoção, direitos e deveres. | A FGV tende a cobrar cargo, requisito, consequência funcional ou redação literal de alteração recente. |
+| Delegado de Polícia | Bacharelado em Direito | Incumbe a exclusiva titularidade do inquérito policial, a chefia e gestão das unidades policiais; concurso de provas e títulos, com participação da OAB |
+| Agente de Polícia Judiciária e Papiloscopista Policial | Curso superior completo em qualquer área de graduação | Cargos técnico-científicos, de nível superior, exclusivos de Estado |
 
-### Aplicação direta para Papiloscopista
+**Requisitos gerais** (art. 11), aplicáveis a todas as carreiras: Carteira Nacional de Habilitação categoria "B", exame de saúde, aptidão física, avaliação psicológica, investigação social e boa conduta. Para Delegado, soma-se a comprovação de três anos de atividade jurídica ou policial.
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+**Atribuições do cargo**: o art. 7º remete a descrição detalhada das atribuições de cada cargo a anexo próprio da lei, prevendo ainda que o "perfil profissiográfico" de cada carreira seja publicado mediante ato conjunto entre a Secretaria de Estado da Segurança Pública (SESP) e a Secretaria de Estado da Administração e da Previdência (SEAP).
 
-### Roteiro de estudo de alta retenção
+### Estágio probatório
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+O art. 27 estabelece **três anos de efetivo exercício no cargo**, sendo obrigatória avaliação especial de desempenho como condição para aquisição da estabilidade. Esse período de três anos está alinhado com a regra atual da Constituição Federal (art. 41, com a redação dada pela Emenda Constitucional n.º 19/1998), sendo mais longo do que o previsto no antigo Estatuto dos Servidores do Paraná de 1970 (Lei 6.174/1970), que ainda traz a redação histórica de dois anos — ver [tema 045](006_lei-6174-1970-regime-juridico-pr.md) para essa comparação.
 
-### Lacunas honestas
+### Sistema de promoção na carreira
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
+A LC 259/2023 prevê três formas de desenvolvimento funcional (arts. 45 a 49):
 
-## Tabelas e esquemas
+| Tipo de promoção | Como funciona |
+|---|---|
+| Por aquisição da estabilidade | Promove o servidor ao nível II, ao término do estágio probatório com avaliação favorável |
+| Por capacitação | Promove o servidor pelos níveis III a XI, exigindo 120 horas de cursos correlatos |
+| Por titulação | Promove o servidor em níveis específicos (VI, VIII, X), exigindo cursos com aproveitamento não inferior à nota 7,0 |
 
-| Ponto do edital | O que revisar | Pegadinha provável |
+**Interstício**: dois anos de efetivo exercício no nível são exigidos entre cada promoção (art. 47). Uma regra especial (art. 47-A) permite a **redução** desse interstício para policiais lotados em unidades de difícil provimento — incentivo para atuação em regiões menos assistidas do Estado.
+
+### Regime remuneratório
+
+A remuneração é organizada por **subsídio**, fixado em parcela única (art. 38), sendo **vedado** o acréscimo de quaisquer outras verbas, exceto as expressamente listadas em lei (art. 39): décimo terceiro salário, adicional de férias, diárias, indenização por morte ou invalidez em serviço, retribuição por cargo em comissão, retribuição por atividade de ensino policial, ajuda de custo e auxílio-doença. O subsídio é objeto de revisão geral anual, nos mesmos moldes e índices aplicados aos demais servidores do Poder Executivo estadual (art. 43).
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Estruturação das carreiras da Polícia Civil do Estado do Paraná. | Cargos da PCPR, Papiloscopista Policial, requisitos, níveis, capacitação, promoção, vedações à promoção, direitos e garantias funcionais. | Use a versão compilada oficial; alterações posteriores mudam detalhes de promoção, direitos e deveres. |
-| Lei Complementar Estadual n.º 259/2023 e alterações posteriores. | Cargos da PCPR, Papiloscopista Policial, requisitos, níveis, capacitação, promoção, vedações à promoção, direitos e garantias funcionais. | Use a versão compilada oficial; alterações posteriores mudam detalhes de promoção, direitos e deveres. |
+| Saber as quatro carreiras da Polícia Civil do Paraná e os requisitos de formação de cada uma | Base de qualquer questão sobre estrutura de carreira | Associe: Delegado=Direito; Agente e Papiloscopista=qualquer curso superior; Agente de Operações=em extinção |
+| Saber a duração do estágio probatório (três anos) e a exigência de avaliação especial de desempenho | Diretamente aplicável à trajetória do próprio candidato aprovado | Memorize "três anos" e compare com a regra antiga (Lei 6.174/1970, dois anos) |
+| Diferenciar os três tipos de promoção (estabilidade, capacitação, titulação) e seus requisitos | Frequentemente cobrado em detalhe | Associe cada tipo ao seu requisito específico (120h de curso para capacitação; nota mínima 7,0 para titulação) |
+| Saber que a remuneração é por subsídio (parcela única), com rol taxativo de verbas adicionais permitidas | Ponto técnico central do regime remuneratório | Memorize que o "vedado" é regra geral, com exceções expressamente listadas |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Mapeie cargos, níveis, promoções e requisitos de capacitação. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Papiloscopista aparece como carreira própria no QPPC. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Alterações posteriores podem modificar prazos e direitos. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+## Diferenças que a banca costuma trocar
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Requisito de Delegado (bacharelado em Direito) | Requisito de Agente de Polícia Judiciária e Papiloscopista Policial (curso superior em qualquer área) | Ambos são "cargos de nível superior" | Só Delegado exige especificamente Direito; os outros dois cargos técnico-científicos aceitam qualquer graduação |
+| Promoção por capacitação (120h de cursos) | Promoção por titulação (cursos com nota mínima 7,0) | Ambas envolvem "cursos" como requisito | Capacitação mede carga horária; titulação mede aproveitamento/nota mínima |
+| Estágio probatório da LC 259/2023 (3 anos) | Estágio probatório do antigo Estatuto de 1970 (2 anos, Lei 6.174/1970) | Ambos tratam de "estágio probatório" no serviço público estadual | A lei mais recente e específica da carreira policial (3 anos) é a que prevalece para essas carreiras |
 
 ## Pegadinhas da banca
 
-- Aplicar regra geral de servidor a servidor policial sem conferir norma específica.
-- Confundir atribuição da Polícia Civil com Polícia Científica ou Polícia Militar.
-- Responder por resumo desatualizado quando a lei foi alterada.
-- Misturar falta disciplinar, crime e improbidade.
-- Prioridade de atenção: Mapeie cargos, níveis, promoções e requisitos de capacitação.
-- Prioridade de atenção: Papiloscopista aparece como carreira própria no QPPC.
-- Prioridade de atenção: Alterações posteriores podem modificar prazos e direitos.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Trocar o requisito de formação entre as carreiras (achar que Papiloscopista também exige bacharelado em Direito, por exemplo).
+- Confundir o tipo de promoção (capacitação x titulação) e seu respectivo requisito.
+- Esquecer que o regime remuneratório por subsídio veda acréscimos, exceto o rol taxativo de verbas listado em lei.
+- Confundir o prazo de três anos de estágio probatório da LC 259/2023 com prazos de outras leis (como os dois anos do antigo Estatuto de 1970).
 
 ## Como resolver questões
 
-1. Leia lei seca por blocos: finalidade, estrutura, atribuições, deveres, vedações, responsabilidade e procedimento.
-2. Marque o diploma correto antes de responder: Constituição do PR, LC 259, Lei 14.735, Lei 23.213, Código Disciplinar ou regime jurídico.
-3. Em norma recente, confira o texto oficial atualizado no Sistema Estadual de Legislação ou no Planalto.
-4. Em sigilo, LGPD e LAI, separe transparência ativa, acesso à informação, proteção de dados e informação sigilosa.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para questões sobre requisitos de ingresso, identifique a carreira específica mencionada antes de responder (Delegado tem regra distinta das demais).
+2. Para questões sobre promoção, identifique se a pergunta trata de capacitação (carga horária) ou titulação (nota/aproveitamento).
+3. Para questões sobre remuneração, lembre que o regime de subsídio é a regra geral, com exceções expressamente listadas em lei.
+4. Para questões comparativas com outras leis do Estado, confira sempre qual lei é mais específica e recente para a carreira policial civil.
+
+## Lacunas honestas
+
+- Nenhuma questão real de banca FGV localizada especificamente sobre a LC 259/2023 neste levantamento (legislação de aplicação exclusivamente estadual). As questões deste tema são autorais, construídas diretamente a partir do texto legal verificado.
+- O Anexo V da lei, que detalha as atribuições específicas de cada cargo, não foi integralmente localizado no levantamento realizado; a lacuna está registrada para complementação futura.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Legislação 6.2.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei as quatro carreiras da Polícia Civil do Paraná previstas na LC 259/2023.
+- [ ] Sei o requisito de formação específico de cada carreira.
+- [ ] Sei a duração do estágio probatório (três anos) e a exigência de avaliação especial de desempenho.
+- [ ] Sei diferenciar os três tipos de promoção (estabilidade, capacitação, titulação) e seus requisitos.
+- [ ] Sei que a remuneração é por subsídio, com rol taxativo de verbas adicionais permitidas.
+- [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
 
@@ -157,12 +104,17 @@ O candidato deve separar: Constituição do Paraná, estruturação de carreiras
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
-- [Lei Complementar Estadual n.º 259/2023 - carreiras da PCPR](https://www.legislacao.pr.gov.br/legislacao/exibirAto.do?action=iniciarProcesso&codAto=300584&codItemAto=2334573)
-- [Sistema Estadual de Legislação do Paraná - Casa Civil](https://www.casacivil.pr.gov.br/servicos/Servicos/Transparencia/Consultar-a-legislacao-do-Parana-4EoVbeon)
+**Lei seca (texto oficial consultado)**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Legislacao Especial.pdf`
+- Lei Complementar Estadual n.º 259, de 21/07/2023 - Paraná: dispõe sobre a estruturação das carreiras da Polícia Civil do Estado do Paraná. Arts. 3º, 5º-6º, 7º, 11, 27, 38-39, 43 e 45-49.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Prova/FGV**
+
+- Nenhuma questão real de FGV localizada especificamente para este tema. Lacuna registrada acima.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+
+**Atualização/fonte externa**
+
+- [Sistema Estadual de Legislação do Paraná - Casa Civil](https://www.legislacao.pr.gov.br/legislacao/exibirAto.do?action=iniciarProcesso&codAto=300584&codItemAto=2334573) - texto oficial da LC 259/2023.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria, com base no texto oficial da LC 259/2023. As questões deste tema são autorais; as lacunas estão registradas explicitamente.

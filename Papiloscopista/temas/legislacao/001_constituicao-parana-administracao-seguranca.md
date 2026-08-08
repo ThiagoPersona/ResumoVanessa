@@ -1,146 +1,102 @@
 # 040 - Constituição do Paraná: administração, servidores, segurança e Polícia Civil
 
-> **Base do edital:** Conhecimentos Específicos; Legislação 6.1.  
-> **Peso da disciplina:** 5 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- A Constituição do Estado do Paraná (promulgada em 05/10/1989) organiza a Administração Pública estadual, os servidores públicos e a Segurança Pública, sempre em harmonia com a Constituição Federal, sem poder contrariá-la.
+- O art. 27 da Constituição do Paraná reproduz os princípios da Administração Pública (legalidade, impessoalidade, moralidade, publicidade) e acrescenta regras próprias sobre concurso público, cargos em comissão e regime remuneratório dos servidores estaduais.
+- O Capítulo IV do Título II da Constituição estadual trata da Segurança Pública, listando como órgãos a Polícia Civil e a Polícia Militar (com o Corpo de Bombeiros integrado a esta última).
+- A Polícia Civil é dirigida por delegado de polícia, preferencialmente da classe mais elevada da carreira, com incumbência exclusiva de exercer as funções de polícia judiciária e apurar infrações penais (exceto as militares).
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Legislação soma 5 questões; este capítulo concentra Legislação 6.1.
-- **Como a FGV costuma cobrar:** Em legislação institucional, a FGV costuma cobrar literalidade, competência, finalidade, dever, vedação, estrutura e novidade legislativa.
-- **O que mais confunde candidatos:** usar lei antiga; misturar lei orgânica nacional com lei estadual; confundir carreira, regime jurídico e código disciplinar.
-- **Particularidade para Papiloscopista:** É bloco pequeno, mas muito perigoso: leis recentes e institucionais tendem a ser decisivas por literalidade e detalhe.
+Como norma fundamental do Estado do Paraná, a Constituição estadual é a base hierárquica de toda a legislação específica da PCPR cobrada no edital (LC 259/2023, Lei 23.213/2026, Código Disciplinar): entender o que a Constituição já define sobre Segurança Pública e Polícia Civil ajuda a interpretar corretamente as leis infraconstitucionais que aprofundam esses temas.
 
-## Leitura rápida
+## Conteúdo completo orientado ao edital
 
-- **Constituição do Estado do Paraná: Administração Pública, servidores públicos, segurança pública e Polícia Civil.** Administração Pública, concurso, cargos, responsabilidades, segurança pública, Polícia Civil, órgãos estaduais e relação com Constituição Federal.
-- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
-- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
-- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+### Princípios da Administração Pública estadual (art. 27)
 
-## Conteúdo essencial
+A Constituição do Paraná determina que a administração pública direta, indireta ou fundacional, de qualquer dos Poderes do Estado e dos Municípios, obedece aos princípios da **legalidade, impessoalidade, moralidade e publicidade**, além de regras específicas, entre elas:
 
-### Visão de estudo para este tema
+- Investidura em cargo público depende de aprovação prévia em concurso público de provas ou de provas e títulos, respeitada a ordem de classificação (exceto cargos em comissão de livre nomeação e exoneração).
+- O prazo de validade do concurso público é de até dois anos, prorrogável uma vez por igual período.
+- Durante o prazo de validade, os aprovados em concurso têm prioridade de convocação sobre novos concursados, para a mesma carreira.
+- É garantido ao servidor civil, estadual e municipal, o direito à livre associação sindical.
+- A revisão geral e a reposição da remuneração dos servidores públicos, sem distinção entre civis e militares, ocorre sempre na mesma data.
 
-Legislação estadual e institucional deve ser lida como lei seca dirigida ao cargo. A FGV valoriza sujeito, verbo, competência, órgão, dever, vedação, responsabilidade, procedimento e sanção.
+**Ponto de atenção**: diferente da redação atual da Constituição Federal (art. 37, caput, que inclui expressamente "eficiência" entre os princípios desde a Emenda Constitucional 19/1998), o texto do art. 27 da Constituição paranaense, na parte que enumera os princípios expressamente, menciona legalidade, impessoalidade, moralidade e publicidade — a leitura literal do dispositivo estadual não repete "eficiência" no mesmo trecho, embora o princípio se aplique de qualquer forma por força da própria Constituição Federal, hierarquicamente superior.
 
-O maior risco é estudar por material desatualizado, principalmente porque o edital envolve normas recentes da Polícia Civil do Paraná. Sempre que o capítulo falar de lei estadual ou federal, a leitura final deve ser na fonte oficial.
+### Competência legislativa sobre a Polícia Civil
 
-O candidato deve separar: Constituição do Paraná, estruturação de carreiras, Lei Orgânica Nacional, Lei Orgânica estadual, Código Disciplinar, regime jurídico geral e leis aplicadas à atividade policial.
+O art. 16 da Constituição do Paraná, ao tratar da competência legislativa concorrente do Estado, inclui expressamente, entre as matérias sobre as quais o Estado pode legislar suplementarmente, a **"organização, garantias, direitos e deveres da Polícia Civil"** (inciso XVI) — é essa previsão constitucional que fundamenta a existência da LC 259/2023 (carreiras) e da Lei 23.213/2026 (Lei Orgânica da PCPR).
 
-**Aplicação ao cargo:** O bloco define limites institucionais da atuação policial e ajuda a evitar confusão entre conduta funcional, infração disciplinar, ilícito penal e dever de sigilo.
+### Capítulo da Segurança Pública
 
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
+A Constituição do Paraná dedica um capítulo próprio (Capítulo IV do Título II) à Segurança Pública, com a seguinte estrutura central:
 
-### O que mais merece atenção
+> "A Segurança Pública, dever do Estado, direito e responsabilidade de todos, é exercida, para a preservação da ordem pública e incolumidade das pessoas e do patrimônio, pelos seguintes órgãos: I - Polícia Civil; II - Polícia Militar. Parágrafo único. O Corpo de Bombeiros é integrante da Polícia Militar."
 
-- estrutura, carreira e atribuições da PCPR
-- deveres, vedações e responsabilidades
-- código disciplinar e sanções
-- sigilo funcional, LGPD e LAI
-- identificação criminal e abuso de autoridade
-- diferença entre norma nacional, estadual e regime geral
+**Ponto de atenção**: no Paraná, diferentemente da redação da Constituição Federal (que lista Polícia Federal, Polícia Rodoviária Federal, Polícia Ferroviária Federal, Polícias Civis, Polícias Militares e Corpos de Bombeiros Militares, entre outros, como órgãos distintos), o Corpo de Bombeiros paranaense é **integrante da Polícia Militar**, não um órgão de Segurança Pública autônomo listado separadamente na Constituição estadual.
 
-### Conteúdo completo orientado ao edital
+### A Polícia Civil na Constituição do Paraná
 
-### 1. Constituição do Estado do Paraná: Administração Pública, servidores públicos, segurança pública e Polícia Civil.
+O texto constitucional detalha:
 
-**O que significa:** A Constituição do Paraná organiza a Administração estadual, servidores e segurança pública no plano estadual. Para prova, importa saber competências, princípios, regime de servidores e lugar da Polícia Civil no sistema estadual.
+> "A Polícia Civil, dirigida por delegado de polícia, preferencialmente da classe mais elevada da carreira, é instituição permanente e essencial à função da Segurança Pública, com incumbência de exercer as funções de polícia judiciária e as apurações das infrações penais, exceto as militares."
 
-**Como estudar para a prova:** Administração Pública, concurso, cargos, responsabilidades, segurança pública, Polícia Civil, órgãos estaduais e relação com Constituição Federal.
+Pontos centrais desse dispositivo:
 
-**Como a FGV pode cobrar:** A banca cobra literalidade estadual em contraste com regra federal geral.
+- **Chefia**: delegado de polícia, preferencialmente da classe mais elevada da carreira (mesma lógica depois detalhada na LC 259/2023 e na Lei 23.213/2026).
+- **Fundamento organizacional**: "a função policial civil fundamenta-se na hierarquia e disciplina" (§ 1º).
+- **Conselho da Polícia Civil**: órgão consultivo, normativo e deliberativo, para fins de controle do ingresso, ascensão funcional, hierarquia e regime disciplinar das carreiras policiais civis (§ 2º).
+- **Ingresso**: cargos policiais civis providos mediante concurso público de provas e títulos (§ 3º).
+- **Subordinação**: a Polícia Civil (assim como a Polícia Militar) subordina-se ao Governador do Estado, sendo regida por legislação especial que define suas estruturas, competências, direitos, garantias, deveres e prerrogativas de seus integrantes.
 
-**Cuidado de prova:** Não responda apenas pelo texto da Constituição Federal quando o comando mencionar Constituição do Estado do Paraná.
+### Polícia científica
 
-### Prioridades FGV dentro deste tema
+A Constituição paranaense também prevê, em dispositivo próprio, que **"a polícia científica, com estrutura própria, incumbida das perícias de criminalística e médico-legais, e de outras atividades técnicas congêneres, será dirigida por peritos de carreira da classe mais elevada, na forma da lei"** — previsão relevante para entender a relação institucional entre a atividade papiloscópica/pericial e a estrutura da Polícia Civil.
 
-| Prioridade | Como transformar em treino |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+## Prioridades FGV dentro deste tema
 
-### Diferenças que a banca costuma trocar
-
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Constituição do Estado do Paraná: Administração Pública, servidores públicos, segurança pública e Polícia Civil. | Não responda apenas pelo texto da Constituição Federal quando o comando mencionar Constituição do Estado do Paraná. | A banca cobra literalidade estadual em contraste com regra federal geral. |
+| Saber que a Polícia Civil paranaense é dirigida por delegado de polícia, preferencialmente da classe mais elevada da carreira | Base de qualquer questão sobre chefia institucional | Memorize a redação constitucional literal, incluindo o termo "preferencialmente" |
+| Reconhecer os dois órgãos de Segurança Pública previstos na Constituição do Paraná (Polícia Civil e Polícia Militar) e que o Corpo de Bombeiros é integrante da Polícia Militar | Ponto de detalhe frequentemente testado por comparação com a CF | Lembre: no Paraná, apenas dois órgãos são listados no caput, com Bombeiros como parágrafo único vinculado à PM |
+| Saber que a função policial civil se fundamenta em hierarquia e disciplina, com Conselho da Polícia Civil como órgão de controle de ingresso/regime disciplinar | Frequentemente cobrado em conjunto com o Código Disciplinar (Lei 21.894/2024) | Associe cada atribuição do Conselho (ingresso, ascensão, hierarquia, regime disciplinar) |
+| Reconhecer a previsão constitucional da polícia científica dirigida por peritos de carreira da classe mais elevada | Relevante para o contexto institucional do cargo de Papiloscopista | Diferencie a chefia da Polícia Civil (delegado) da chefia da polícia científica (perito) |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
-
-### Roteiro de estudo de alta retenção
-
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
-
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Constituição do Estado do Paraná: Administração Pública, servidores públicos, segurança pública e Polícia Civil. | Administração Pública, concurso, cargos, responsabilidades, segurança pública, Polícia Civil, órgãos estaduais e relação com Constituição Federal. | Não responda apenas pelo texto da Constituição Federal quando o comando mencionar Constituição do Estado do Paraná. |
-
-| Ponto quente | Treino recomendado |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Constituição do Paraná (dois órgãos de Segurança Pública: Polícia Civil e Polícia Militar, com Bombeiros integrado à PM) | Constituição Federal (rol mais amplo, incluindo Polícia Federal, PRF, PF Ferroviária e outros órgãos, com Corpos de Bombeiros Militares tratados de forma mais autônoma) | Fácil confundir o rol estadual com o federal | No Paraná, memorize especificamente os dois órgãos do caput e o parágrafo único sobre o Corpo de Bombeiros |
+| Chefia da Polícia Civil (delegado de polícia, classe mais elevada da carreira) | Chefia da polícia científica (perito de carreira, classe mais elevada) | Ambas são "chefias de carreiras técnicas do Estado" | São estruturas distintas: Polícia Civil é chefiada por delegado; a polícia científica (perícia), por perito |
+| Princípios expressamente listados no art. 27 da Constituição do PR (legalidade, impessoalidade, moralidade, publicidade) | Princípios do art. 37 da Constituição Federal (que inclui expressamente "eficiência") | Pode parecer que o rol é idêntico | A leitura literal do art. 27 estadual, no trecho que enumera os princípios, não repete "eficiência" — mas o princípio segue aplicável por força da hierarquia constitucional |
 
 ## Pegadinhas da banca
 
-- Aplicar regra geral de servidor a servidor policial sem conferir norma específica.
-- Confundir atribuição da Polícia Civil com Polícia Científica ou Polícia Militar.
-- Responder por resumo desatualizado quando a lei foi alterada.
-- Misturar falta disciplinar, crime e improbidade.
-- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
-- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
-- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Confundir o rol de órgãos de Segurança Pública da Constituição do Paraná com o rol mais extenso da Constituição Federal.
+- Achar que o Corpo de Bombeiros paranaense é um órgão de Segurança Pública autônomo, quando na verdade é integrante da Polícia Militar.
+- Confundir a chefia da Polícia Civil (delegado) com a chefia da polícia científica (perito de carreira).
+- Esquecer que a palavra "preferencialmente" (não "obrigatoriamente") qualifica a exigência de que o delegado-chefe seja da classe mais elevada.
 
 ## Como resolver questões
 
-1. Leia lei seca por blocos: finalidade, estrutura, atribuições, deveres, vedações, responsabilidade e procedimento.
-2. Marque o diploma correto antes de responder: Constituição do PR, LC 259, Lei 14.735, Lei 23.213, Código Disciplinar ou regime jurídico.
-3. Em norma recente, confira o texto oficial atualizado no Sistema Estadual de Legislação ou no Planalto.
-4. Em sigilo, LGPD e LAI, separe transparência ativa, acesso à informação, proteção de dados e informação sigilosa.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para questões sobre Segurança Pública no Paraná, sempre confira se a pergunta é sobre o texto estadual (dois órgãos) ou federal (rol mais amplo).
+2. Para questões sobre chefia institucional, identifique se a pergunta trata da Polícia Civil (delegado) ou da polícia científica/perícia (perito).
+3. Para questões sobre princípios de Administração Pública, lembre que a Constituição do Paraná deve sempre ser lida em conjunto com a Constituição Federal, que prevalece em caso de conflito.
+
+## Lacunas honestas
+
+- Nenhuma questão real de banca FGV localizada especificamente sobre a Constituição do Paraná neste levantamento (natural, já que é legislação de aplicação exclusivamente estadual, raramente presente em cadernos de outros Estados). As questões deste tema são autorais, construídas diretamente a partir do texto constitucional verificado (fonte abaixo), não de memória ou suposição.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Legislação 6.1.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei os princípios da Administração Pública previstos no art. 27 da Constituição do Paraná.
+- [ ] Sei os dois órgãos de Segurança Pública previstos na Constituição estadual e que o Corpo de Bombeiros é integrante da Polícia Militar.
+- [ ] Sei que a Polícia Civil é dirigida por delegado de polícia, preferencialmente da classe mais elevada da carreira.
+- [ ] Sei as quatro atribuições do Conselho da Polícia Civil (ingresso, ascensão funcional, hierarquia, regime disciplinar).
+- [ ] Sei que a polícia científica é dirigida por peritos de carreira da classe mais elevada.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -148,11 +104,18 @@ O candidato deve separar: Constituição do Paraná, estruturação de carreiras
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
-- [Sistema Estadual de Legislação do Paraná - Casa Civil](https://www.casacivil.pr.gov.br/servicos/Servicos/Transparencia/Consultar-a-legislacao-do-Parana-4EoVbeon)
+**Lei seca (texto oficial consultado)**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Legislacao Especial.pdf`
+- Constituição do Estado do Paraná, de 05/10/1989, texto atualizado até a Emenda Constitucional n.º 54/2024 - especialmente arts. 16 (competência legislativa), 27 (princípios da Administração Pública) e o Capítulo IV do Título II (Segurança Pública).
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Prova/FGV**
+
+- Nenhuma questão real de FGV localizada especificamente para este tema (legislação de aplicação exclusiva estadual). Lacuna registrada acima.
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+
+**Atualização/fonte externa**
+
+- [Sistema Estadual de Legislação do Paraná - Casa Civil](https://www.casacivil.pr.gov.br/servicos/Servicos/Transparencia/Consultar-a-legislacao-do-Parana-4EoVbeon) - fonte oficial para consulta e atualização da legislação estadual.
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos de outras provas citadas no material.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria, com base no texto oficial da Constituição do Estado do Paraná. As questões deste tema são autorais (não há questão real de banca FGV localizada sobre este tema específico); a lacuna está registrada explicitamente.
