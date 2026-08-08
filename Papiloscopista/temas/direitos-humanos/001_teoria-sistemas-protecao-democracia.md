@@ -1,172 +1,105 @@
 # 059 - Teoria, sistemas de proteção e democracia
 
-> **Base do edital:** Conhecimentos Específicos; Direitos Humanos 10.1-10.3.  
-> **Peso da disciplina:** 3 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- Direitos humanos são universais, indivisíveis, interdependentes e inter-relacionados — nenhuma categoria de direitos (civis, políticos, econômicos, sociais, culturais) tem primazia abstrata sobre as demais.
+- Tratados e convenções internacionais sobre direitos humanos podem adquirir equivalência a emenda constitucional, desde que aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros (CF, art. 5º, § 3º, incluído pela EC 45/2004).
+- Sem esse rito especial de aprovação, os tratados de direitos humanos ainda assim têm status **supralegal** (abaixo da Constituição, acima da legislação ordinária), conforme entendimento consolidado do STF.
+- O sistema global de proteção (ONU) e o sistema interamericano (OEA, com a Convenção Americana de Direitos Humanos — Pacto de San José da Costa Rica) coexistem e se complementam, sem hierarquia entre si, aplicando-se a norma mais favorável à pessoa em caso de conflito.
+- Democracia, no texto constitucional brasileiro, não se limita ao voto: envolve também participação popular direta (plebiscito, referendo, iniciativa popular) e o exercício pleno da cidadania.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Direitos Humanos soma 3 questões; este capítulo concentra Direitos Humanos 10.1-10.3.
-- **Como a FGV costuma cobrar:** Direitos Humanos aparece com conceito, sistema de proteção, grupos vulneráveis e atuação policial proporcional.
-- **O que mais confunde candidatos:** tratar direitos humanos como opinião; confundir sistema global com interamericano; esquecer grupos vulneráveis e pessoa presa.
-- **Particularidade para Papiloscopista:** Na atuação policial, o tema orienta abordagem, uso da força, custódia, não discriminação, dignidade e prevenção da tortura.
+Compreender a estrutura teórica dos direitos humanos e os mecanismos institucionais (nacionais e internacionais) que os protegem é pré-requisito para entender a atuação prática desses direitos no cotidiano policial — especialmente porque o Brasil, desde os anos 1990, ratificou diversos tratados internacionais de direitos humanos que hoje vinculam sua atuação estatal.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV PCMG - Perito Criminal, Área I | 2024 | Q34: possibilidade de tratados e convenções internacionais de direitos humanos adquirirem equivalência a emenda constitucional, mediante aprovação por quórum qualificado (Art. 5º, § 3º, CF). |
 
-- **Teoria geral: conceito, características, princípios e evolução histórica.** Universalidade, historicidade, indivisibilidade, interdependência, vedação ao retrocesso em noção geral, ONU, sistema interamericano, tratados e Constituição de 1988.
-- **Sistema global e sistema interamericano de proteção; tratados internacionais; Constituição de 1988.** Universalidade, historicidade, indivisibilidade, interdependência, vedação ao retrocesso em noção geral, ONU, sistema interamericano, tratados e Constituição de 1988.
-- **Democracia, cidadania e Direitos Humanos.** Universalidade, historicidade, indivisibilidade, interdependência, vedação ao retrocesso em noção geral, ONU, sistema interamericano, tratados e Constituição de 1988.
-- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
-- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
-- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Características dos direitos humanos
 
-### Visão de estudo para este tema
-
-Direitos Humanos devem ser estudados como parâmetro jurídico e operacional da segurança pública. Não é opinião: envolve Constituição, tratados, sistemas de proteção, grupos vulneráveis e padrões de atuação estatal.
-
-A FGV costuma cobrar conceitos, características, sistema global e interamericano, dignidade, cidadania, grupos vulneráveis, prevenção da tortura, direitos da pessoa presa e uso proporcional da força.
-
-O estudo deve sempre unir proteção e atuação policial: legalidade, necessidade, proporcionalidade, não discriminação, prestação de contas e respeito à dignidade humana.
-
-**Aplicação ao cargo:** Na prática policial, direitos humanos orientam abordagem, custódia, preservação da integridade, tratamento de vítimas e investigados e proteção de dados sensíveis.
-
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
-
-### O que mais merece atenção
-
-- universalidade, indivisibilidade e historicidade
-- sistema global e sistema interamericano
-- Constituição de 1988 e tratados
-- grupos vulneráveis
-- uso proporcional da força e pessoa presa
-- PNDH, educação em direitos humanos e ODS
-
-### Conteúdo completo orientado ao edital
-
-### 1. Teoria geral: conceito, características, princípios e evolução histórica.
-
-**O que significa:** Direitos Humanos são direitos inerentes à dignidade da pessoa, construídos historicamente e protegidos por sistemas nacionais e internacionais. Democracia e cidadania são condições de efetividade desses direitos.
-
-**Como estudar para a prova:** Universalidade, historicidade, indivisibilidade, interdependência, vedação ao retrocesso em noção geral, ONU, sistema interamericano, tratados e Constituição de 1988.
-
-**Como a FGV pode cobrar:** A FGV cobra características, gerações/dimensões, sistema global versus interamericano e relação com cidadania.
-
-**Cuidado de prova:** Universalidade não significa ausência de proteção específica a grupos vulneráveis.
-
-### 2. Sistema global e sistema interamericano de proteção; tratados internacionais; Constituição de 1988.
-
-**O que significa:** Direitos Humanos são direitos inerentes à dignidade da pessoa, construídos historicamente e protegidos por sistemas nacionais e internacionais. Democracia e cidadania são condições de efetividade desses direitos.
-
-**Como estudar para a prova:** Universalidade, historicidade, indivisibilidade, interdependência, vedação ao retrocesso em noção geral, ONU, sistema interamericano, tratados e Constituição de 1988.
-
-**Como a FGV pode cobrar:** A FGV cobra características, gerações/dimensões, sistema global versus interamericano e relação com cidadania.
-
-**Cuidado de prova:** Universalidade não significa ausência de proteção específica a grupos vulneráveis.
-
-### 3. Democracia, cidadania e Direitos Humanos.
-
-**O que significa:** Direitos Humanos são direitos inerentes à dignidade da pessoa, construídos historicamente e protegidos por sistemas nacionais e internacionais. Democracia e cidadania são condições de efetividade desses direitos.
-
-**Como estudar para a prova:** Universalidade, historicidade, indivisibilidade, interdependência, vedação ao retrocesso em noção geral, ONU, sistema interamericano, tratados e Constituição de 1988.
-
-**Como a FGV pode cobrar:** A FGV cobra características, gerações/dimensões, sistema global versus interamericano e relação com cidadania.
-
-**Cuidado de prova:** Universalidade não significa ausência de proteção específica a grupos vulneráveis.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Característica | Significado |
 |---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Universalidade | Aplicam-se a todos os seres humanos, sem distinção |
+| Indivisibilidade | Não podem ser fracionados — direitos civis/políticos e econômicos/sociais/culturais formam um conjunto único |
+| Interdependência e inter-relação | A realização de um direito frequentemente depende, ou influencia, a realização de outros |
+| Historicidade | São fruto de conquistas históricas, em constante processo de ampliação (não são estáticos) |
 
-### Diferenças que a banca costuma trocar
+### Hierarquia dos tratados internacionais de direitos humanos no ordenamento brasileiro
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Situação | Status normativo |
+|---|---|
+| Tratado de direitos humanos aprovado pelo rito comum (maioria simples, um turno) | Status supralegal — abaixo da Constituição, acima das leis ordinárias (entendimento do STF, RE 466.343) |
+| Tratado de direitos humanos aprovado pelo rito especial do Art. 5º, § 3º, CF (cada Casa, dois turnos, três quintos dos votos) | Equivalência a emenda constitucional |
+
+**Ponto de prova recorrente**: o rito especial do Art. 5º, § 3º, CF (incluído pela Emenda Constitucional n.º 45/2004) é **facultativo** — não é toda ratificação de tratado de direitos humanos que passa por ele. Quando o Congresso opta por esse rito qualificado, o tratado ganha **equivalência a emenda constitucional**; quando aprovado pelo rito comum, mantém apenas o status supralegal.
+
+### Sistemas de proteção internacional dos direitos humanos
+
+| Sistema | Órgão/base | Características |
 |---|---|---|
-| Teoria geral: conceito, características, princípios e evolução histórica. | Universalidade não significa ausência de proteção específica a grupos vulneráveis. | A FGV cobra características, gerações/dimensões, sistema global versus interamericano e relação com cidadania. |
-| Sistema global e sistema interamericano de proteção; tratados internacionais; Constituição de 1988. | Universalidade não significa ausência de proteção específica a grupos vulneráveis. | A FGV cobra características, gerações/dimensões, sistema global versus interamericano e relação com cidadania. |
-| Democracia, cidadania e Direitos Humanos. | Universalidade não significa ausência de proteção específica a grupos vulneráveis. | A FGV cobra características, gerações/dimensões, sistema global versus interamericano e relação com cidadania. |
+| Sistema global | Organização das Nações Unidas (ONU) | Declaração Universal dos Direitos Humanos (1948) e pactos/convenções temáticas subsequentes |
+| Sistema interamericano | Organização dos Estados Americanos (OEA) | Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica, 1969), com a Comissão Interamericana e a Corte Interamericana de Direitos Humanos |
 
-### Aplicação direta para Papiloscopista
+Os dois sistemas (global e regional) **coexistem sem hierarquia entre si** — em caso de conflito ou de dúvida sobre qual norma aplicar, prevalece o princípio da **norma mais favorável** à pessoa protegida (princípio pro homine).
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
+**Brasil e os tratados internacionais de direitos humanos**: a partir dos anos 1990, o Brasil intensificou a ratificação de tratados internacionais de direitos humanos, como parte do processo de fortalecimento da democracia após a redemocratização — incluindo o Pacto de San José da Costa Rica (ratificado em 1992) e o reconhecimento da jurisdição contenciosa da Corte Interamericana de Direitos Humanos (1998).
 
-### Roteiro de estudo de alta retenção
+### Democracia e cidadania na Constituição de 1988
 
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
+A Constituição de 1988 consagra o **Estado Democrático de Direito**, com soberania popular exercida por meio de representantes eleitos (democracia representativa) e também diretamente, mediante:
 
-### Lacunas honestas
+- **Plebiscito**: consulta prévia à população sobre matéria de acentuada relevância, antes de uma decisão política/legislativa.
+- **Referendo**: consulta posterior à população, para ratificar ou rejeitar ato legislativo ou administrativo já praticado.
+- **Iniciativa popular**: apresentação de projeto de lei subscrito por parcela mínima do eleitorado.
 
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
+Cidadania, nesse contexto, é o status jurídico-político que habilita a pessoa a participar da vida política do Estado (votar, ser votada, propor ações constitucionais como a ação popular), sendo um dos fundamentos da República Federativa do Brasil (Art. 1º, II, CF).
 
-## Tabelas e esquemas
+## Prioridades FGV dentro deste tema
 
-| Ponto do edital | O que revisar | Pegadinha provável |
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Teoria geral: conceito, características, princípios e evolução histórica. | Universalidade, historicidade, indivisibilidade, interdependência, vedação ao retrocesso em noção geral, ONU, sistema interamericano, tratados e Constituição de 1988. | Universalidade não significa ausência de proteção específica a grupos vulneráveis. |
-| Sistema global e sistema interamericano de proteção; tratados internacionais; Constituição de 1988. | Universalidade, historicidade, indivisibilidade, interdependência, vedação ao retrocesso em noção geral, ONU, sistema interamericano, tratados e Constituição de 1988. | Universalidade não significa ausência de proteção específica a grupos vulneráveis. |
-| Democracia, cidadania e Direitos Humanos. | Universalidade, historicidade, indivisibilidade, interdependência, vedação ao retrocesso em noção geral, ONU, sistema interamericano, tratados e Constituição de 1988. | Universalidade não significa ausência de proteção específica a grupos vulneráveis. |
+| Saber que tratados de direitos humanos podem ter equivalência a emenda constitucional, mediante rito qualificado facultativo | Evidenciado diretamente na questão real PCMG Q34 | Memorize o rito exato: cada Casa, dois turnos, três quintos dos votos (Art. 5º, § 3º, CF) |
+| Saber que, sem o rito qualificado, o tratado de direitos humanos ainda tem status supralegal | Complementa a questão real, evita confusão sobre "status zero" para tratados comuns | Associe: supralegal é o piso; equivalência a emenda é o teto (mediante rito especial) |
+| Saber que sistema global e interamericano coexistem, sem hierarquia, aplicando-se a norma mais favorável | Base teórica recorrente | Lembre do princípio pro homine (norma mais favorável à pessoa) |
+| Reconhecer os mecanismos de democracia direta (plebiscito, referendo, iniciativa popular) | Frequentemente cobrado de forma comparativa | Associe: plebiscito=antes da decisão; referendo=depois da decisão |
 
-| Ponto quente | Treino recomendado |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
+## Diferenças que a banca costuma trocar
 
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Tratado de direitos humanos com equivalência a emenda constitucional (rito qualificado do Art. 5º, § 3º, CF) | Tratado de direitos humanos com status supralegal (rito comum) | Ambos são "tratados de direitos humanos ratificados pelo Brasil" | O rito de aprovação (qualificado x comum) determina o status normativo alcançado |
+| Plebiscito (consulta prévia, antes da decisão) | Referendo (consulta posterior, depois da decisão já tomada) | Ambos são "consultas populares diretas" | O critério é o momento da consulta em relação à decisão política/legislativa |
+| Sistema global (ONU) | Sistema interamericano (OEA) | Ambos são "sistemas de proteção internacional de direitos humanos" | Não há hierarquia entre eles; aplica-se a norma mais favorável à pessoa em caso de conflito |
 
 ## Pegadinhas da banca
 
-- Afirmar que direitos humanos protegem apenas vítimas ou apenas acusados.
-- Confundir tratado internacional com lei ordinária interna sem verificar incorporação.
-- Reduzir uso da força à intenção do agente, ignorando necessidade e proporcionalidade.
-- Esquecer prevenção da tortura e direitos da pessoa presa.
-- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
-- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
-- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Achar que todo tratado de direitos humanos ratificado pelo Brasil automaticamente tem equivalência a emenda constitucional, sem passar pelo rito qualificado específico.
+- Achar que, sem o rito qualificado, o tratado de direitos humanos fica no mesmo nível de uma lei ordinária comum (na verdade, tem status supralegal, superior à lei ordinária).
+- Confundir plebiscito com referendo quanto ao momento da consulta popular.
+- Achar que existe hierarquia entre o sistema global e o sistema interamericano de proteção.
 
 ## Como resolver questões
 
-1. Identifique se a pergunta é conceitual, histórica, de sistema de proteção, grupo vulnerável ou atuação policial.
-2. Associe dignidade humana, legalidade, proporcionalidade, necessidade e prestação de contas.
-3. Em grupos vulneráveis, veja proteção específica sem perder universalidade dos direitos.
-4. Em Agenda 2030, relacione ODS a igualdade, justiça, instituições eficazes e inclusão.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para tratados de direitos humanos, sempre identifique se o enunciado menciona o rito qualificado (dois turnos, três quintos) — só nesse caso há equivalência a emenda constitucional.
+2. Para consultas populares diretas, identifique se a consulta ocorre antes (plebiscito) ou depois (referendo) da decisão política/legislativa.
+3. Para sistemas de proteção internacional, lembre que não há hierarquia entre eles, prevalecendo a norma mais favorável à pessoa.
+
+## Lacunas honestas
+
+- Nenhuma questão real de FGV localizada especificamente sobre as características dos direitos humanos (universalidade, indivisibilidade) ou sobre mecanismos de democracia direta (plebiscito, referendo, iniciativa popular) neste levantamento. A teoria está coberta acima; falta a camada de prática com questão real conferida para esses subtemas específicos.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Direitos Humanos 10.1-10.3.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei as características centrais dos direitos humanos (universalidade, indivisibilidade, interdependência, historicidade).
+- [ ] Sei o rito qualificado para tratados de direitos humanos alcançarem equivalência a emenda constitucional (Art. 5º, § 3º, CF).
+- [ ] Sei que, sem esse rito, o tratado ainda tem status supralegal.
+- [ ] Sei diferenciar sistema global (ONU) de sistema interamericano (OEA), e que não há hierarquia entre eles.
+- [ ] Sei diferenciar plebiscito de referendo.
+- [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -174,13 +107,24 @@ O estudo deve sempre unir proteção e atuação policial: legalidade, necessida
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
-- [Constituição Federal de 1988 - Planalto](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
-- [Decreto n.º 678/1992 - Convenção Americana sobre Direitos Humanos](https://www.planalto.gov.br/ccivil_03/decreto/d0678.htm)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Direitos Humanos - cópia.pdf`
-- `Materiais QB/Direitos Humanos/`
+- FGV. PCMG - Perito Criminal, Área I, Tipo Branca, 2024/2025. Caderno oficial, questão 34. Gabarito oficial definitivo publicado pela FGV (aplicada em 26/01/2025).
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Lei seca**
+
+- Constituição Federal de 1988, arts. 1º, 5º (especialmente §§ 2º e 3º) e 14.
+- Decreto n.º 678/1992 - Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica).
+
+**Material local**
+
+- `Curso Alfacon/Direitos Humanos - cópia.pdf` (quando disponível)
+
+**Atualização/fonte externa**
+
+- [Constituição Federal - Planalto](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
+- [Decreto n.º 678/1992 - Planalto](https://www.planalto.gov.br/ccivil_03/decreto/d0678.htm)
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. A questão citada é real, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.

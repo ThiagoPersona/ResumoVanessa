@@ -1,159 +1,92 @@
 # 060 - Grupos vulneráveis, segurança pública e atuação policial
 
-> **Base do edital:** Conhecimentos Específicos; Direitos Humanos 10.4-10.5.  
-> **Peso da disciplina:** 3 questões na prova objetiva.  
-> **Prioridade:** altíssima.
+## Leitura rápida
+
+- O STF reconheceu os crimes de homofobia e transfobia como enquadráveis na Lei do Racismo (Lei 7.716/1989), até que sobreviesse legislação específica (ADO 26).
+- Desde a Lei 14.532/2023, a injúria racial foi equiparada ao crime de racismo, tornando-se também inafiançável e imprescritível — antes dessa mudança, a injúria racial era crime distinto, com prescrição.
+- O atendimento policial e pericial especializado à mulher em situação de violência doméstica deve ser realizado, **sempre que possível**, por servidoras do sexo feminino — não é uma exigência absoluta e exclusiva em toda e qualquer hipótese.
+- O Estatuto da Pessoa com Deficiência (Lei 13.146/2015) determina que casos de violência praticada contra pessoa com deficiência sejam objeto de **notificação compulsória** pelo serviço de saúde (público ou privado) à autoridade policial, ao Ministério Público e aos Conselhos dos Direitos da Pessoa com Deficiência.
+- A atuação policial deve observar o uso proporcional da força, a prevenção da tortura e o respeito à dignidade da pessoa presa, com atenção redobrada a grupos vulneráveis (mulheres, idosos, crianças e adolescentes, povos indígenas, pessoas com deficiência, população LGBTQIA+ e refugiados).
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Direitos Humanos soma 3 questões; este capítulo concentra Direitos Humanos 10.4-10.5.
-- **Como a FGV costuma cobrar:** Direitos Humanos aparece com conceito, sistema de proteção, grupos vulneráveis e atuação policial proporcional.
-- **O que mais confunde candidatos:** tratar direitos humanos como opinião; confundir sistema global com interamericano; esquecer grupos vulneráveis e pessoa presa.
-- **Particularidade para Papiloscopista:** Na atuação policial, o tema orienta abordagem, uso da força, custódia, não discriminação, dignidade e prevenção da tortura.
+Este tema traduz a teoria de direitos humanos em protocolos concretos de atuação policial voltados a grupos vulneráveis — matéria de aplicação prática direta e frequentemente cobrada com casos concretos que testam o conhecimento de protocolos e legislação específica.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV PCMG - Perito Criminal, Área I | 2024 | Q35: reconhecimento de crimes de homofobia/transfobia como racismo pelo STF; equiparação da injúria racial ao racismo (inafiançável e imprescritível); regra de "sempre que possível" (não exclusividade absoluta) para atendimento especializado à mulher em violência doméstica. |
+| FGV PCAM - Investigador de Polícia, 4ª Classe | 2021/2022 | Q79: notificação compulsória, pelo hospital, à autoridade policial, ao Ministério Público e aos Conselhos dos Direitos da Pessoa com Deficiência, em caso de violência contra pessoa com deficiência mental, mesmo ocorrida em local privado. |
 
-- **Mulheres, idosos, crianças e adolescentes, povos indígenas e comunidades tradicionais, pessoas com deficiência, população LGBTQIA+ e refugiados.** Mulheres, idosos, crianças/adolescentes, povos indígenas, comunidades tradicionais, pessoas com deficiência, população LGBTQIA+, refugiados, dignidade, necessidade, proporcionalidade e direitos da pessoa presa.
-- **Dignidade humana, uso proporcional da força, prevenção da tortura, direitos da pessoa presa e atuação policial.** Mulheres, idosos, crianças/adolescentes, povos indígenas, comunidades tradicionais, pessoas com deficiência, população LGBTQIA+, refugiados, dignidade, necessidade, proporcionalidade e direitos da pessoa presa.
-- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
-- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
-- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Homofobia, transfobia e racismo: a decisão do STF (ADO 26)
 
-### Visão de estudo para este tema
+O STF, no julgamento da ADO 26, reconheceu que a **omissão legislativa** em criminalizar especificamente a homofobia e a transfobia era inconstitucional, determinando que essas condutas fossem **enquadradas na Lei do Racismo (Lei 7.716/1989)**, até que o Congresso Nacional edite legislação específica sobre o tema. Trata-se de uma decisão de mandamento até que sobrevenha lei própria — não criou um novo tipo penal autônomo diretamente, mas estendeu a aplicação da lei já existente.
 
-Direitos Humanos devem ser estudados como parâmetro jurídico e operacional da segurança pública. Não é opinião: envolve Constituição, tratados, sistemas de proteção, grupos vulneráveis e padrões de atuação estatal.
+### Injúria racial equiparada a racismo (Lei 14.532/2023)
 
-A FGV costuma cobrar conceitos, características, sistema global e interamericano, dignidade, cidadania, grupos vulneráveis, prevenção da tortura, direitos da pessoa presa e uso proporcional da força.
+Antes de 2023, a **injúria racial** (ofender a honra de alguém com elementos referentes a raça, cor, etnia, religião ou origem) era tratada como crime distinto do racismo (previsto no Código Penal, art. 140, § 3º), com regime de prescrição próprio. A **Lei 14.532/2023** alterou esse cenário, **equiparando a injúria racial ao crime de racismo** para todos os efeitos, incluindo a Lei 7.716/1989 — consequência direta: a injúria racial passou a ser, assim como o racismo, **inafiançável e imprescritível** (CF, Art. 5º, XLII).
 
-O estudo deve sempre unir proteção e atuação policial: legalidade, necessidade, proporcionalidade, não discriminação, prestação de contas e respeito à dignidade humana.
+### Atendimento especializado à mulher em violência doméstica: "sempre que possível"
 
-**Aplicação ao cargo:** Na prática policial, direitos humanos orientam abordagem, custódia, preservação da integridade, tratamento de vítimas e investigados e proteção de dados sensíveis.
+A regra sobre o atendimento policial e pericial especializado à mulher em situação de violência doméstica e familiar prevê que ele seja realizado, **preferencialmente**, por servidoras do sexo feminino — mas a formulação legal é "**sempre que possível**", não uma exigência absoluta e exclusiva em toda e qualquer hipótese. Isso significa que, na ausência de servidora disponível, o atendimento por servidor do sexo masculino não torna, por si só, o atendimento irregular ou nulo.
 
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
+### Notificação compulsória de violência contra pessoa com deficiência (Lei 13.146/2015)
 
-### O que mais merece atenção
+O Estatuto da Pessoa com Deficiência determina que os casos de suspeita ou confirmação de violência praticada contra pessoa com deficiência sejam objeto de **notificação compulsória** pelos serviços de saúde (**públicos e privados**) às seguintes autoridades: **autoridade policial**, **Ministério Público**, e **Conselhos dos Direitos da Pessoa com Deficiência**.
 
-- universalidade, indivisibilidade e historicidade
-- sistema global e sistema interamericano
-- Constituição de 1988 e tratados
-- grupos vulneráveis
-- uso proporcional da força e pessoa presa
-- PNDH, educação em direitos humanos e ODS
+**Pontos de prova recorrentes**:
 
-### Conteúdo completo orientado ao edital
+- A obrigação de notificação compulsória se aplica tanto a estabelecimentos de saúde **públicos** quanto **privados** — não há exceção para hospitais particulares.
+- A obrigação persiste mesmo quando a violência ocorreu em **local privado** (residência, por exemplo) — o local da ocorrência não afasta o dever de notificação.
+- A notificação deve ser dirigida a **múltiplas** autoridades (não apenas à polícia) — autoridade policial, Ministério Público e Conselhos dos Direitos da Pessoa com Deficiência.
 
-### 1. Mulheres, idosos, crianças e adolescentes, povos indígenas e comunidades tradicionais, pessoas com deficiência, população LGBTQIA+ e refugiados.
+### Uso proporcional da força e prevenção da tortura
 
-**O que significa:** Grupos vulneráveis demandam proteção específica para reduzir desigualdades reais. Na segurança pública, direitos humanos orientam uso da força, custódia, prevenção da tortura e tratamento digno.
+A atuação policial, especialmente em relação a grupos vulneráveis, deve observar o princípio da **proporcionalidade** no uso da força, a **prevenção da tortura** e de tratamento cruel, desumano ou degradante, e o respeito à **dignidade da pessoa presa** — princípios que conectam diretamente a teoria de direitos humanos aos limites da atuação policial legítima (ver também [Penal 049](../penal/003_legislacao-extravagante-atividade-policial.md) sobre excludentes de ilicitude e uso da força).
 
-**Como estudar para a prova:** Mulheres, idosos, crianças/adolescentes, povos indígenas, comunidades tradicionais, pessoas com deficiência, população LGBTQIA+, refugiados, dignidade, necessidade, proporcionalidade e direitos da pessoa presa.
+## Prioridades FGV dentro deste tema
 
-**Como a FGV pode cobrar:** A banca cria caso de atuação policial e cobra conduta compatível com dignidade, legalidade e não discriminação.
-
-**Cuidado de prova:** Uso da força não se mede pela intenção subjetiva do agente, mas por legalidade, necessidade, proporcionalidade e prestação de contas.
-
-### 2. Dignidade humana, uso proporcional da força, prevenção da tortura, direitos da pessoa presa e atuação policial.
-
-**O que significa:** Grupos vulneráveis demandam proteção específica para reduzir desigualdades reais. Na segurança pública, direitos humanos orientam uso da força, custódia, prevenção da tortura e tratamento digno.
-
-**Como estudar para a prova:** Mulheres, idosos, crianças/adolescentes, povos indígenas, comunidades tradicionais, pessoas com deficiência, população LGBTQIA+, refugiados, dignidade, necessidade, proporcionalidade e direitos da pessoa presa.
-
-**Como a FGV pode cobrar:** A banca cria caso de atuação policial e cobra conduta compatível com dignidade, legalidade e não discriminação.
-
-**Cuidado de prova:** Uso da força não se mede pela intenção subjetiva do agente, mas por legalidade, necessidade, proporcionalidade e prestação de contas.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-
-### Diferenças que a banca costuma trocar
-
-| Ponto | Cuidado principal | Forma provável de cobrança |
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Mulheres, idosos, crianças e adolescentes, povos indígenas e comunidades tradicionais, pessoas com deficiência, população LGBTQIA+ e refugiados. | Uso da força não se mede pela intenção subjetiva do agente, mas por legalidade, necessidade, proporcionalidade e prestação de contas. | A banca cria caso de atuação policial e cobra conduta compatível com dignidade, legalidade e não discriminação. |
-| Dignidade humana, uso proporcional da força, prevenção da tortura, direitos da pessoa presa e atuação policial. | Uso da força não se mede pela intenção subjetiva do agente, mas por legalidade, necessidade, proporcionalidade e prestação de contas. | A banca cria caso de atuação policial e cobra conduta compatível com dignidade, legalidade e não discriminação. |
+| Saber que o STF enquadrou homofobia/transfobia na Lei do Racismo (ADO 26) | Evidenciado diretamente na questão real PCMG Q35 | Memorize: decisão do STF, aplicação da Lei 7.716/1989, até legislação específica |
+| Saber que a injúria racial foi equiparada ao racismo (inafiançável e imprescritível) pela Lei 14.532/2023 | Evidenciado diretamente na questão real PCMG Q35 | Associe: injúria racial hoje = mesmo regime do racismo |
+| Saber que o atendimento especializado à mulher é "sempre que possível" por servidora, não exclusividade absoluta | Evidenciado diretamente na questão real PCMG Q35 | Memorize a expressão exata "sempre que possível", não "exclusivamente" |
+| Saber a notificação compulsória de violência contra pessoa com deficiência (autoridade policial, MP, Conselhos), mesmo em local privado, por hospital público ou privado | Evidenciado diretamente na questão real PCAM Q79 | Memorize as três autoridades destinatárias e a irrelevância do local/natureza do estabelecimento |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
-
-### Roteiro de estudo de alta retenção
-
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
-
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Mulheres, idosos, crianças e adolescentes, povos indígenas e comunidades tradicionais, pessoas com deficiência, população LGBTQIA+ e refugiados. | Mulheres, idosos, crianças/adolescentes, povos indígenas, comunidades tradicionais, pessoas com deficiência, população LGBTQIA+, refugiados, dignidade, necessidade, proporcionalidade e direitos da pessoa presa. | Uso da força não se mede pela intenção subjetiva do agente, mas por legalidade, necessidade, proporcionalidade e prestação de contas. |
-| Dignidade humana, uso proporcional da força, prevenção da tortura, direitos da pessoa presa e atuação policial. | Mulheres, idosos, crianças/adolescentes, povos indígenas, comunidades tradicionais, pessoas com deficiência, população LGBTQIA+, refugiados, dignidade, necessidade, proporcionalidade e direitos da pessoa presa. | Uso da força não se mede pela intenção subjetiva do agente, mas por legalidade, necessidade, proporcionalidade e prestação de contas. |
-
-| Ponto quente | Treino recomendado |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| "Sempre que possível" (atendimento por servidora, regra flexível) | "Exclusivamente" (regra absoluta, incorreta) | A banca troca a flexibilidade por uma exigência absoluta | Memorize a expressão exata da lei: "sempre que possível", não "exclusivamente" |
+| Injúria racial ANTES de 2023 (crime distinto, prescritível) | Injúria racial DEPOIS de 2023 (equiparada a racismo, imprescritível) | Fácil aplicar a regra antiga desatualizada | A Lei 14.532/2023 mudou esse regime — atenção à data da prova/edital |
+| Notificação compulsória de violência contra pessoa com deficiência (obrigatória, mesmo em local privado, hospital público ou privado) | Ausência de obrigação em local privado ou hospital particular (incorreto) | A banca cria falsas exceções territoriais/institucionais | A obrigação de notificação não depende do local da violência nem da natureza pública/privada do estabelecimento de saúde |
 
 ## Pegadinhas da banca
 
-- Afirmar que direitos humanos protegem apenas vítimas ou apenas acusados.
-- Confundir tratado internacional com lei ordinária interna sem verificar incorporação.
-- Reduzir uso da força à intenção do agente, ignorando necessidade e proporcionalidade.
-- Esquecer prevenção da tortura e direitos da pessoa presa.
-- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
-- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
-- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Achar que o atendimento à mulher em violência doméstica só pode ser feito por servidora mulher, em qualquer hipótese, sem a flexibilização "sempre que possível".
+- Aplicar o regime antigo (pré-2023) de injúria racial como crime prescritível, ignorando a equiparação ao racismo pela Lei 14.532/2023.
+- Achar que hospitais particulares estão dispensados da notificação compulsória de violência contra pessoa com deficiência.
+- Achar que a violência ocorrida em local privado (residência) dispensa a notificação compulsória.
 
 ## Como resolver questões
 
-1. Identifique se a pergunta é conceitual, histórica, de sistema de proteção, grupo vulnerável ou atuação policial.
-2. Associe dignidade humana, legalidade, proporcionalidade, necessidade e prestação de contas.
-3. Em grupos vulneráveis, veja proteção específica sem perder universalidade dos direitos.
-4. Em Agenda 2030, relacione ODS a igualdade, justiça, instituições eficazes e inclusão.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para atendimento especializado à mulher, sempre verifique se o enunciado usa "sempre que possível" (correto) ou "exclusivamente"/"sempre" (armadilha).
+2. Para crimes de ódio (racismo, homofobia, transfobia, injúria racial), atualize-se sobre a equiparação promovida pela Lei 14.532/2023 e a decisão do STF na ADO 26.
+3. Para notificação compulsória de violência contra grupos vulneráveis, lembre que a obrigação vale para estabelecimentos públicos e privados, independentemente do local da violência.
+
+## Lacunas honestas
+
+- Nenhuma questão real de FGV localizada especificamente sobre povos indígenas, população LGBTQIA+ (além do contexto de racismo/homofobia já coberto) ou refugiados neste levantamento. A teoria geral sobre grupos vulneráveis está coberta; falta a camada de prática com questão real conferida para esses subtemas específicos.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Direitos Humanos 10.4-10.5.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei que o STF enquadrou homofobia/transfobia na Lei do Racismo (ADO 26), até legislação específica.
+- [ ] Sei que a injúria racial foi equiparada ao racismo (inafiançável e imprescritível) pela Lei 14.532/2023.
+- [ ] Sei que o atendimento especializado à mulher em violência doméstica é "sempre que possível" por servidora, não exclusividade absoluta.
+- [ ] Sei a regra de notificação compulsória de violência contra pessoa com deficiência (autoridade policial, MP, Conselhos), mesmo em local privado, por hospital público ou privado.
+- [ ] Resolvi as duas questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -161,13 +94,26 @@ O estudo deve sempre unir proteção e atuação policial: legalidade, necessida
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
-- [Constituição Federal de 1988 - Planalto](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)
-- [Decreto n.º 678/1992 - Convenção Americana sobre Direitos Humanos](https://www.planalto.gov.br/ccivil_03/decreto/d0678.htm)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Direitos Humanos - cópia.pdf`
-- `Materiais QB/Direitos Humanos/`
+- FGV. PCMG - Perito Criminal, Área I, Tipo Branca, 2024/2025. Caderno oficial, questão 35. Gabarito oficial definitivo publicado pela FGV (aplicada em 26/01/2025).
+- FGV. PCAM - Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022. Caderno oficial, questão 79. Gabarito oficial definitivo publicado pela FGV (aplicada em 03/04/2022).
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Lei seca**
+
+- Lei Federal n.º 7.716/1989 - Lei do Racismo, com as alterações da Lei n.º 14.532/2023.
+- Lei Federal n.º 11.340/2006 - Lei Maria da Penha.
+- Lei Federal n.º 13.146/2015 - Estatuto da Pessoa com Deficiência.
+- STF, ADO 26 - criminalização da homofobia e transfobia.
+
+**Material local**
+
+- `Curso Alfacon/Direitos Humanos - cópia.pdf` (quando disponível)
+
+**Atualização/fonte externa**
+
+- [Lei Federal n.º 13.146/2015 - Planalto](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm)
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.

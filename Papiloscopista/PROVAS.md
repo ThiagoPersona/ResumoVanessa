@@ -62,9 +62,9 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Administrativo | Conceito, fontes, princípios e Administração Pública | Administrativo 9.1-9.2 | 4 | 1 questão oficial FGV (fonte e gabarito conferidos) + 3 questões autorais | [Abrir](provas/administrativo/001_conceito-fontes-principios-administracao.md) |
 | Administrativo | Atos, poderes, serviços, licitações e contratos | Administrativo 9.3-9.6 | 4 | 3 questões oficiais FGV (fonte e gabarito conferidos) + 1 questão autoral | [Abrir](provas/administrativo/002_atos-poderes-servicos-licitacoes-contratos.md) |
 | Administrativo | Agentes, responsabilidade, improbidade e controle | Administrativo 9.7-9.10 | 5 | 4 questões oficiais FGV (fonte e gabarito conferidos) + 1 questão autoral | [Abrir](provas/administrativo/003_agentes-responsabilidade-improbidade-controle.md) |
-| Direitos Humanos | Teoria, sistemas de proteção e democracia | Direitos Humanos 10.1-10.3 | 1 | 1 questão FGV-style comentada | [Abrir](provas/direitos-humanos/001_teoria-sistemas-protecao-democracia.md) |
-| Direitos Humanos | Grupos vulneráveis, segurança pública e atuação policial | Direitos Humanos 10.4-10.5 | 1 | 1 questão FGV-style comentada | [Abrir](provas/direitos-humanos/002_grupos-vulneraveis-atuacao-policial.md) |
-| Direitos Humanos | PNDH, educação em direitos humanos e Agenda 2030 | Direitos Humanos 10.6-10.7 | 1 | 1 questão FGV-style comentada | [Abrir](provas/direitos-humanos/003_pndh-educacao-agenda-2030.md) |
+| Direitos Humanos | Teoria, sistemas de proteção e democracia | Direitos Humanos 10.1-10.3 | 4 | 1 questão oficial FGV (fonte e gabarito conferidos) + 3 questões autorais | [Abrir](provas/direitos-humanos/001_teoria-sistemas-protecao-democracia.md) |
+| Direitos Humanos | Grupos vulneráveis, segurança pública e atuação policial | Direitos Humanos 10.4-10.5 | 4 | 2 questões oficiais FGV (fonte e gabarito conferidos) + 2 questões autorais | [Abrir](provas/direitos-humanos/002_grupos-vulneraveis-atuacao-policial.md) |
+| Direitos Humanos | PNDH, educação em direitos humanos e Agenda 2030 | Direitos Humanos 10.6-10.7 | 4 | 4 questões autorais (sem prova FGV real localizada) | [Abrir](provas/direitos-humanos/003_pndh-educacao-agenda-2030.md) |
 
 ## Critério de conversão
 
