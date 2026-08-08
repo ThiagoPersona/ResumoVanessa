@@ -2,11 +2,12 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 5 questões (3 questões oficiais FGV com fonte e gabarito conferidos + 2 questões autorais no padrão FGV).
+**Itens neste banco:** 8 questões (6 questões oficiais FGV com fonte e gabarito conferidos + 2 questões autorais no padrão FGV).
 
 ## Fontes reais usadas neste banco
 
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
+- FGV, PC-AM 2022 - Perito Criminal (cargo pericial correlato). Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 31</p>
@@ -84,11 +85,87 @@
 </div>
 </div>
 
+<div class="quiz-card" data-answer="E">
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 45</p>
+<p><strong>4. O "teste de diatomáceas" consiste na análise quantitativa e qualitativa de algas diatomáceas encontradas nos tecidos internos das vítimas de afogamento. A recuperação post-mortem destas algas é possível porque elas são constituídas por uma parede extracelular, conhecida como frústula, que é resistente a vários ácidos utilizados no processo de degradação de tecidos orgânicos em laboratório. A frústula das diatomáceas é composta tipicamente por</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-030-seadap-q45b" value="A"> A. cálcio.</label>
+<label class="quiz-option"><input type="radio" name="fgv-030-seadap-q45b" value="B"> B. ferro.</label>
+<label class="quiz-option"><input type="radio" name="fgv-030-seadap-q45b" value="C"> C. cobre.</label>
+<label class="quiz-option"><input type="radio" name="fgv-030-seadap-q45b" value="D"> D. zinco.</label>
+<label class="quiz-option"><input type="radio" name="fgv-030-seadap-q45b" value="E"> E. sílicio.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: E.</strong> Fonte: FGV, SEAD/AP Papiloscopista, 2022. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Lembre que a resistência da frústula aos ácidos usados na digestão de tecido orgânico só se explica por um material mineral inerte, não orgânico nem metálico reativo.</p>
+<p><strong>Por que a E deve ser marcada:</strong> A frústula das diatomáceas é composta essencialmente de sílica (dióxido de silício), material biogênico extremamente resistente a ácidos, o que permite recuperar as algas mesmo após a digestão química dos tecidos da vítima.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Estruturas de cálcio (como carapaças calcárias) seriam dissolvidas pelos ácidos usados na digestão de tecido.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Ferro não é o material estrutural da frústula.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Cobre não é o material estrutural da frústula.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Zinco não é o material estrutural da frústula.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> Sílica é o material que confere à frústula sua resistência química característica.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Associar a resistência da frústula a um material mineral mais "familiar" no contexto forense (como cálcio ósseo), sem lembrar que se trata especificamente de sílica, típica do envoltório das diatomáceas.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 48</p>
+<p><strong>5. A maioria dos kits comerciais usados para a identificação genética humana contém o marcador do gene amelogenina como identificador de gênero. O gene amelogenina (AMELX), presente no cromossomo X, codifica a proteína amelogenina, que participa do desenvolvimento do esmalte dentário; a amplificação do AMELX origina um produto de 106 pb. Outra versão desse gene, o AMELY, é encontrada no cromossomo Y e sua amplificação origina um produto de 112 pb. O esquema mostra o resultado parcial do sequenciamento de duas amostras de DNA (I e II): a amostra I apresenta dois picos de leitura (106 pb e 112 pb); a amostra II apresenta apenas um pico (106 pb). Considerando a inexistência de alterações cromossomiais, a análise do eletroferograma permite concluir que</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-030-seadap-q48" value="A"> A. a amostra II pertence a uma mulher, pois o pico único corresponde ao gene AMELX, localizado na região do cromossomo X que não é homóloga ao cromossomo Y, sendo esse gene restrito ao sexo feminino.</label>
+<label class="quiz-option"><input type="radio" name="fgv-030-seadap-q48" value="B"> B. a amostra II pertence a um homem, pois o pico único corresponde ao gene AMELY localizado na região não homóloga do cromossomo Y, que é restrita ao sexo masculino.</label>
+<label class="quiz-option"><input type="radio" name="fgv-030-seadap-q48" value="C"> C. a amostra I pertence a uma mulher, pois mostra dois picos de leitura, correspondentes a cada um dos genes homólogos AMELX presentes em cada cromossomo X.</label>
+<label class="quiz-option"><input type="radio" name="fgv-030-seadap-q48" value="D"> D. a amostra I pertence a um homem, pois mostra dois picos de leitura, um correspondente ao gene AMELX presente no cromossomo X e outro correspondente ao gene homólogo AMELY presente no cromossomo Y.</label>
+<label class="quiz-option"><input type="radio" name="fgv-030-seadap-q48" value="E"> E. a amostra I pertence a uma mulher, pois mostra dois picos de leitura, correspondentes aos dois alelos AMELX presentes nos cromossomos X, já que a mulher será sempre homozigota dominante.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: FGV, SEAD/AP Papiloscopista, 2022. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Associe cada pico ao cromossomo de origem: 106 pb=AMELX (presente em X); 112 pb=AMELY (presente apenas em Y). Uma mulher (XX) só pode gerar o pico de 106 pb (não tem Y); um homem (XY) gera os dois picos.</p>
+<p><strong>Por que a D deve ser marcada:</strong> A amostra I, com dois picos (106 pb e 112 pb), indica a presença simultânea de X e Y — logo, pertence a um homem.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> A amostra II (pico único) de fato indica mulher, mas a justificativa está mal formulada: o pico único é de AMELX, presente em ambos os sexos, apenas ausente o pico adicional de AMELY (que só existe no homem) — o gene AMELX não é "restrito ao sexo feminino".</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Inverte a conclusão: pico único (só 106 pb) indica ausência de Y, ou seja, mulher, não homem.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> A amostra I tem dois picos DIFERENTES (106 e 112 pb, de genes diferentes AMELX e AMELY), não dois picos iguais de alelos homólogos de AMELX.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> Reflete corretamente a presença de X e Y na amostra I, indicando homem.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Mesmo erro de C: os dois picos da amostra I são de genes diferentes (X e Y), não dois alelos do mesmo gene X.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir "dois picos" com "dois alelos do mesmo gene" — na verdade, os dois picos da amostra I vêm de dois genes diferentes (AMELX e AMELY), presentes porque o indivíduo tem um cromossomo X e um Y.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">FGV - PC-AM, Perito Criminal, 2022</p>
+<p><strong>6. Embora a maior parte do genoma humano seja idêntica entre os indivíduos, em meio aos 3,2 bilhões de bases que o compõe, existem regiões únicas, que conferem a cada pessoa um perfil genético próprio. Como exemplo de tais loci de DNA, figuram os microssatélites ou short tandem repeats (STRs). Com relação aos STRs, assinale V para a afirmativa verdadeira e F para a falsa. ( ) STRs são conhecidos como polimorfismos de comprimento, formados por sequências de 10 a 100 nucleotídeos que se repetem em regiões específicas do genoma. ( ) Os múltiplos alelos que compõem um STR diferem entre si pelo número de repetições da sequência de bases, o que permite diferenciar indivíduos de uma determinada população. ( ) A herança dos STRs obedece às Leis da Hereditariedade estabelecidas por Mendel, incluindo a herança biparental dos Y-STRs. As afirmativas são, respectivamente,</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-030-pcam-q16" value="A"> A. F, V e F.</label>
+<label class="quiz-option"><input type="radio" name="fgv-030-pcam-q16" value="B"> B. F, V e V.</label>
+<label class="quiz-option"><input type="radio" name="fgv-030-pcam-q16" value="C"> C. V, F e F.</label>
+<label class="quiz-option"><input type="radio" name="fgv-030-pcam-q16" value="D"> D. V, V e F.</label>
+<label class="quiz-option"><input type="radio" name="fgv-030-pcam-q16" value="E"> E. F, F e V.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: FGV, PC-AM, Perito Criminal, 2022. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Avalie cada afirmativa com precisão técnica: o tamanho do próprio repeat unit dos STRs, o mecanismo de variação alélica, e o padrão real de herança dos Y-STRs.</p>
+<p><strong>Por que F-V-F está correto:</strong> A 1ª afirmativa erra o tamanho da unidade de repetição (STRs têm unidades curtas, de 2 a 6 pares de bases, não de 10 a 100 nucleotídeos). A 2ª está correta (o número de repetições gera os múltiplos alelos usados para diferenciar indivíduos). A 3ª erra ao dizer que os Y-STRs têm herança biparental — na verdade, são herdados exclusivamente por via paterna (do pai para os filhos homens), já que estão no cromossomo Y.</p>
+<ul class="quiz-explain">
+<li><strong>1ª afirmativa (F).</strong> STRs (microssatélites) são formados por unidades curtas de repetição (2 a 6 pares de bases), não de 10 a 100 nucleotídeos.</li>
+<li><strong>2ª afirmativa (V).</strong> Correta: o número de repetições da sequência é o que diferencia os alelos e, consequentemente, os indivíduos.</li>
+<li><strong>3ª afirmativa (F).</strong> Os Y-STRs, por estarem no cromossomo Y, têm herança exclusivamente paterna (uniparental), não biparental.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Não perceber que a herança dos Y-STRs é uma exceção ao padrão mendeliano de herança biparental — por estarem confinados ao cromossomo Y, são transmitidos apenas de pai para filho, formando "linhagens paternas" úteis para identificar parentesco por via masculina.</p>
+</div>
+</div>
+
 ## Questões autorais de reforço
 
 <div class="quiz-card" data-answer="E">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>4. Em biometria, uma busca 1:N difere de uma verificação 1:1 porque a busca 1:N:</strong></p>
+<p><strong>7. Em biometria, uma busca 1:N difere de uma verificação 1:1 porque a busca 1:N:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-030" value="A"> A. compara uma amostra com uma identidade previamente alegada.</label>
 <label class="quiz-option"><input type="radio" name="fgv-030" value="B"> B. dispensa falso positivo.</label>
@@ -114,7 +191,7 @@
 
 <div class="quiz-card" data-answer="E">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>5. Em sistema biométrico, falso positivo ocorre quando:</strong></p>
+<p><strong>8. Em sistema biométrico, falso positivo ocorre quando:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-030-b" value="A"> A. o sistema rejeita corretamente um impostor.</label>
 <label class="quiz-option"><input type="radio" name="fgv-030-b" value="B"> B. a câmera melhora a nitidez da imagem.</label>

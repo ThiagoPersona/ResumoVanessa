@@ -14,6 +14,10 @@ Genética é aplicação direta em perícia: exame de DNA (paternidade, identifi
 | Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
 |---|---:|---|
 | FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q32: síndrome cromossômica numérica (cariótipo XXY, Klinefelter). Q33: estrutura química do DNA, regra de Chargaff e replicação semiconservativa. Q39: limites da tipagem sanguínea ABO/Rh e do exame de DNA na investigação de paternidade. Q40: padrão de herança da hemofilia (ligada ao sexo, recessiva). |
+| FGV PC-RJ, Perito | 2011 | Cálculo de probabilidade de fenótipo ABO na descendência a partir de um cruzamento parcialmente conhecido. |
+| FGV PC-MG, Perito Criminal | 2025 | Investigação de paternidade combinando sistema ABO e fator Rh, deduzindo o genótipo do suposto pai a partir do genótipo de seus próprios pais. |
+| FGV EBSERH | 2024 | Codominância no sistema ABO (fenótipo AB). |
+| FGV SEDUC-TO | 2023 | Combinação de tipagem sanguínea ABO e herança da hemofilia (ligada ao X) para identificar a paternidade de cada filho em uma família com dois casamentos. |
 
 ## Conteúdo completo orientado ao edital
 
@@ -56,6 +60,21 @@ Por isso, a hemofilia é classificada como herança **ligada ao sexo e recessiva
 
 **Cuidado técnico**: a tipagem sanguínea e o exame de DNA não analisam as mesmas estruturas do sangue — hemácias maduras (eritrócitos) de mamíferos **não têm núcleo nem DNA**; o material genético para exame de DNA vem de células nucleadas do sangue, como leucócitos, ou de outros tecidos biológicos.
 
+### Codominância: o sistema ABO como exemplo clássico
+
+O sistema ABO ilustra bem a diferença entre **codominância** e **dominância incompleta**, dois padrões de herança frequentemente confundidos:
+
+| Padrão | O que ocorre no heterozigoto | Exemplo |
+|---|---|---|
+| Codominância | Os dois alelos se expressam **plenamente e lado a lado**, sem mistura | IAIB → fenótipo AB (ambos os antígenos A e B presentes na hemácia, sem diluição) |
+| Dominância incompleta | O heterozigoto tem fenótipo **intermediário** (misturado) entre os dois homozigotos | Flor vermelha (VV) × flor branca (vv) → descendente rosa (Vv), nem vermelho nem branco puro |
+
+No sistema ABO, os alelos IA e IB são **codominantes entre si** (ambos se expressam completamente no heterozigoto IAIB, gerando o tipo AB) e **dominantes** sobre o alelo i (que só se manifesta em homozigose, gerando o tipo O).
+
+### Cálculo de probabilidade em cruzamentos parcialmente conhecidos
+
+Quando o enunciado revela o fenótipo de um filho, isso muitas vezes permite deduzir o **genótipo exato** dos pais, mesmo que eles só tenham sido descritos pelo fenótipo. Por exemplo: se dois pais de tipos A e B têm um filho tipo O (genótipo ii), cada um deles obrigatoriamente carrega um alelo i (mesmo exibindo fenótipo A ou B) — ou seja, ambos são heterozigotos (IAi e IBi). A partir do genótipo real dos pais (não apenas do fenótipo), aplica-se o quadro de cruzamento (Punnett) para calcular a probabilidade de cada fenótipo na prole seguinte.
+
 ## Prioridades FGV dentro deste tema
 
 | Prioridade | Por que é prioridade | Como treinar |
@@ -65,6 +84,9 @@ Por isso, a hemofilia é classificada como herança **ligada ao sexo e recessiva
 | Associar cariótipos com cromossomos sexuais alterados às síndromes corretas | Evidenciado na questão real SEAD/AP Q32 | Lembre: presença de Y = sexo masculino, independente do número de X |
 | Diferenciar o poder de exclusão (tipagem ABO/Rh) do poder de confirmação (DNA) na investigação de paternidade | Evidenciado na questão real SEAD/AP Q39 | Associe: ABO/Rh só exclui; DNA exclui E confirma |
 | Reconhecer o padrão de herança ligada ao sexo e recessiva em heredograma | Evidenciado na questão real SEAD/AP Q40 | Lembre: mais frequente em homens, transmitida por mães portadoras |
+| Deduzir o genótipo real dos pais a partir do fenótipo dos filhos, antes de calcular probabilidades | Evidenciado nas questões reais PC-RJ e PC-MG | Sempre use a informação do(s) filho(s) para "travar" o genótipo dos pais antes de aplicar o quadro de cruzamento |
+| Diferenciar codominância (dois fenótipos plenos e lado a lado) de dominância incompleta (fenótipo intermediário) | Evidenciado na questão real EBSERH | Associe: ABO=codominância (AB não é "mistura"); flor rosa=dominância incompleta (mistura real) |
+| Combinar dois sistemas de herança independentes (ex.: ABO + hemofilia) para resolver paternidade múltipla | Evidenciado na questão real SEDUC-TO | Resolva cada sistema separadamente (tipagem sanguínea de um lado, ligação ao X do outro) e só depois cruze as conclusões |
 
 ## Diferenças que a banca costuma trocar
 
@@ -138,7 +160,7 @@ Por isso, a hemofilia é classificada como herança **ligada ao sexo e recessiva
 
 ## Lacunas honestas
 
-- Ainda não há questão real localizada especificamente sobre leis de Mendel (1ª e 2ª lei), grupos sanguíneos como exemplo de codominância/alelos múltiplos isoladamente, ou mutação gênica neste levantamento — a teoria central de DNA, cromossomos e herança ligada ao sexo está coberta e evidenciada por questão real; esses pontos complementares ainda precisam de prática com questão real conferida.
+- Ainda não há questão real localizada especificamente sobre as leis de Mendel (1ª e 2ª lei) enunciadas de forma isolada, ou sobre mutação gênica, neste levantamento — a teoria central está coberta; esses pontos complementares ainda precisam de prática com questão real conferida.
 
 ## Checklist de revisão
 
@@ -148,8 +170,11 @@ Por isso, a hemofilia é classificada como herança **ligada ao sexo e recessiva
 - [ ] Sei diferenciar o poder de exclusão da tipagem ABO/Rh do poder de confirmação do exame de DNA.
 - [ ] Sei que hemácias maduras não têm núcleo nem DNA.
 - [ ] Sei reconhecer o padrão de herança ligada ao sexo e recessiva (hemofilia).
-- [ ] Resolvi as quatro questões reais comentadas deste tema sem olhar o gabarito antes.
-- [ ] Marquei as lacunas de fonte registradas acima.
+- [ ] Sei deduzir o genótipo dos pais a partir do fenótipo de um filho, antes de calcular probabilidades.
+- [ ] Sei diferenciar codominância de dominância incompleta.
+- [ ] Sei combinar dois sistemas de herança independentes (ABO + hemofilia, por exemplo) para resolver um caso de paternidade múltipla.
+- [ ] Resolvi as oito questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -160,6 +185,10 @@ Por isso, a hemofilia é classificada como herança **ligada ao sexo e recessiva
 **Prova/FGV**
 
 - FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questões 32, 33, 39 e 40. Gabarito definitivo publicado pela FGV.
+- FGV. PC-RJ, Perito, 2011. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. PC-MG, Perito Criminal, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. EBSERH, 2024. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. SEDUC-TO, 2023. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**

@@ -14,6 +14,7 @@ Este item conecta biologia do desenvolvimento (embriologia) ao núcleo técnico 
 | Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
 |---|---:|---|
 | FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q34: membranas fetais e composição genética da placenta. |
+| FGV SEDUC-MT | 2025 | Determinação sexual (níveis cromossômico, gonadal, ductal, genital, somático) e o papel do gene SRY na diferenciação testicular durante o desenvolvimento embrionário. |
 
 ## Conteúdo completo orientado ao edital
 
@@ -64,6 +65,20 @@ A formação das cristas papilares durante a vida intrauterina (a partir da prol
 - **Perenidade**: o desenho se forma cedo na gestação e acompanha o indivíduo dali em diante, sem se refazer.
 - **Diferenciabilidade mesmo entre gêmeos univitelinos**: apesar do mesmo DNA, o desenho exato das cristas depende também de fatores locais durante a formação (pressão, posição, fluxo de líquido amniótico dentro do útero), que variam mesmo entre gêmeos idênticos — por isso o desenho papilar não é puramente determinado pela genética.
 
+### Determinação sexual: dos cromossomos aos órgãos genitais
+
+A determinação do sexo humano não é um evento único, mas uma **sequência em cascata** de eventos, tradicionalmente dividida em cinco níveis:
+
+| Nível | O que define | Quando/como |
+|---|---|---|
+| Sexo cromossômico | XX ou XY | Na fecundação, conforme o espermatozoide (X ou Y) que fecunda o óvulo |
+| Sexo gonadal | Gônada se diferencia em testículo ou ovário | O gene **SRY** (Sex-determining Region Y), presente no cromossomo Y, é o interruptor molecular que desencadeia a diferenciação da gônada indiferenciada em testículo; sem SRY, a gônada tende a se diferenciar em ovário |
+| Sexo ductal (ductos internos) | Ductos de Wolff (masculinos) ou de Müller (femininos) se desenvolvem/regridem | No feto masculino, a testosterona produzida pelo testículo fetal mantém e diferencia os ductos de Wolff; sem testosterona, esses ductos regridem e os ductos de Müller se desenvolvem |
+| Sexo genital (externo) | Formação da genitália externa | Depende da ação hormonal (testosterona e sua forma mais ativa, a di-hidrotestosterona), não apenas do cariótipo |
+| Sexo somático | Características sexuais secundárias | Manifestam-se principalmente na puberdade, sob ação hormonal |
+
+**Ponto de prova recorrente**: cada nível depende de eventos genéticos e hormonais específicos do nível anterior — o cariótipo, isoladamente, não determina automaticamente todos os demais níveis. A ausência do gene SRY, de testosterona, ou de outros fatores em qualquer etapa pode gerar dissociações entre os níveis (como em algumas condições de diferenciação sexual).
+
 ## Prioridades FGV dentro deste tema
 
 | Prioridade | Por que é prioridade | Como treinar |
@@ -72,6 +87,7 @@ A formação das cristas papilares durante a vida intrauterina (a partir da prol
 | Reconhecer que a placenta tem componente fetal e materno geneticamente distintos | Evidenciado na mesma questão | Lembre: vilosidades coriônicas (fetal) + tecido uterino modificado/decídua (materno) |
 | Associar cada camada germinativa às estruturas que ela origina | Base de qualquer questão de gastrulação | Monte a tabela ectoderma/mesoderma/endoderma → estruturas |
 | Explicar a formação embriológica das cristas papilares como fundamento da papiloscopia | Conecta biologia a identificação humana (tema 019) | Lembre: formação na camada basal da epiderme, entre o 3º e 5º mês de gestação |
+| Saber o papel do gene SRY na diferenciação testicular e os cinco níveis da determinação sexual | Evidenciado na questão real SEDUC-MT | Memorize a sequência: cromossômico → gonadal (SRY) → ductal (testosterona) → genital → somático |
 
 ## Diferenças que a banca costuma trocar
 
@@ -120,7 +136,8 @@ A formação das cristas papilares durante a vida intrauterina (a partir da prol
 - [ ] Sei a função específica de cada uma das quatro membranas fetais.
 - [ ] Sei que a placenta tem componente fetal (vilosidades coriônicas) e materno (tecido uterino modificado), geneticamente distintos.
 - [ ] Sei explicar a base embriológica da formação das cristas papilares.
-- [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
+- [ ] Sei os cinco níveis da determinação sexual e o papel do gene SRY na diferenciação testicular.
+- [ ] Resolvi as duas questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
@@ -132,6 +149,7 @@ A formação das cristas papilares durante a vida intrauterina (a partir da prol
 **Prova/FGV**
 
 - FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questão 34. Gabarito definitivo publicado pela FGV.
+- FGV. SEDUC-MT, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**

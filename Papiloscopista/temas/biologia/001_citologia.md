@@ -14,6 +14,8 @@ Citologia é a base biológica sobre a qual se apoiam genética (tema 028), embr
 | Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
 |---|---:|---|
 | FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q37: identificação da citoqueratina como proteína formadora de filamentos intermediários do citoesqueleto, usada como marcador celular em perícia forense. |
+| FGV PC-RJ, Perito | 2011 | Diferenças morfológicas entre célula animal e vegetal; propriedade anfipática dos fosfolipídios na formação da bicamada de membrana; quantidade de DNA ao longo do ciclo celular (G1 até a metáfase da meiose I). |
+| FGV PC-AM, Perito Criminal | 2022 | Classificação de uma célula procarionte (bactéria Gram-positiva) a partir de suas características estruturais (ribossomo 70S, parede rica em peptideoglicano, ausência de organelas membranosas). |
 
 ## Conteúdo completo orientado ao edital
 
@@ -58,6 +60,19 @@ O núcleo é delimitado pelo envelope nuclear (contínuo com o retículo endopla
 ### Ciclo celular: visão geral
 
 O ciclo celular se divide em **interfase** (fase de crescimento e duplicação do DNA, subdividida em G1, S e G2) e **divisão celular** propriamente dita — **mitose** (gera duas células-filhas geneticamente idênticas, usada em crescimento e reparo de tecido) ou **meiose** (gera células com metade do número de cromossomos, usada na formação de gametas, ver tema de genética).
+
+**Quantidade de DNA ao longo do ciclo**: numa célula diploide, a quantidade de DNA em G1 é a referência (x). Durante a fase **S**, todo o DNA é replicado, dobrando a quantidade para **2x** — esse valor (2x) permanece constante durante G2 e toda a prófase/metáfase da primeira divisão da meiose (meiose I), porque a separação física dos cromossomos homólogos (que reduz a quantidade de DNA pela metade) só ocorre na **anáfase I**. Ou seja: entrar em meiose não reduz a quantidade de DNA imediatamente — a redução é um evento tardio da divisão, não do início do processo.
+
+### Célula procariótica: Gram-positiva x Gram-negativa
+
+Bactérias (procariontes) têm ribossomos **70S** (menores que os 80S dos eucariontes) e não possuem organelas membranosas (retículo, Golgi, núcleo organizado). A parede celular bacteriana, composta principalmente por **peptideoglicano**, permite diferenciar dois grandes grupos:
+
+| Tipo | Parede celular | Composição de peptideoglicano |
+|---|---|---|
+| Gram-positiva | Parede espessa, uma única camada | Cerca de 70-75% da parede |
+| Gram-negativa | Parede fina, com membrana externa adicional | Cerca de 10% da parede |
+
+Essa diferença de composição é a base da **coloração de Gram**, técnica clássica de identificação bacteriana usada tanto em microbiologia geral quanto em contextos periciais.
 
 ## Prioridades FGV dentro deste tema
 
@@ -109,7 +124,7 @@ O ciclo celular se divide em **interfase** (fase de crescimento e duplicação d
 
 ## Lacunas honestas
 
-- Ainda não há questão real localizada sobre ciclo celular, mitose/meiose (aspectos citológicos gerais, não genéticos) ou membrana plasmática/transporte neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
+- Ainda não há questão real localizada especificamente sobre mecanismos de transporte de membrana (osmose, difusão facilitada, transporte ativo) neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
@@ -118,7 +133,11 @@ O ciclo celular se divide em **interfase** (fase de crescimento e duplicação d
 - [ ] Sei a função de cada organela membranosa principal (retículo, Golgi, mitocôndria, lisossomo, peroxissomo, núcleo).
 - [ ] Sei os três tipos de filamento do citoesqueleto, a proteína de cada um e sua função.
 - [ ] Sei por que a citoqueratina serve como marcador forense de células epiteliais.
-- [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
+- [ ] Sei as estruturas exclusivas da célula vegetal (parede, cloroplasto, vacúolo central) e as exclusivas da célula animal (lisossomo, centríolo).
+- [ ] Sei explicar a propriedade anfipática dos fosfolipídios e como ela gera a bicamada de membrana.
+- [ ] Sei como a quantidade de DNA varia ao longo do ciclo celular (G1=x; após fase S=2x, mantida até a anáfase I da meiose).
+- [ ] Sei diferenciar bactéria Gram-positiva de Gram-negativa pela composição da parede celular.
+- [ ] Resolvi as cinco questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
@@ -130,6 +149,8 @@ O ciclo celular se divide em **interfase** (fase de crescimento e duplicação d
 **Prova/FGV**
 
 - FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questão 37. Gabarito definitivo publicado pela FGV.
+- FGV. PC-RJ, Perito, 2011. Questões localizadas em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. PC-AM, Perito Criminal, 2022. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**

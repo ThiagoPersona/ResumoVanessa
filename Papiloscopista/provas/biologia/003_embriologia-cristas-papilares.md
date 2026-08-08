@@ -2,11 +2,12 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 2 questões (1 questão oficial FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
+**Itens neste banco:** 3 questões (2 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
 
 ## Fontes reais usadas neste banco
 
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
+- FGV, SEDUC-MT 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 
 <div class="quiz-card" data-answer="C">
 <p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 34</p>
@@ -32,11 +33,37 @@
 </div>
 </div>
 
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - SEDUC-MT, 2025</p>
+<p><strong>2. O processo de determinação sexual em seres humanos envolve uma sequência coordenada de eventos genéticos, gonadais, hormonais e morfológicos. Para fins didáticos, costuma-se dividir esse processo em cinco níveis: sexo cromossômico, sexo gonadal, sexo dos ductos internos (ductal), sexo genital (externo) e sexo somático (características sexuais secundárias). Com base nesses conceitos, assinale a alternativa correta.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-029-seducmt-q20" value="A"> A. A formação dos ovários depende exclusivamente da presença de dois cromossomos X funcionais, sendo inviável o desenvolvimento de gônadas femininas em indivíduos com apenas um cromossomo X.</label>
+<label class="quiz-option"><input type="radio" name="fgv-029-seducmt-q20" value="B"> B. O gene SRY, localizado no cromossomo Y, atua como fator determinante para a diferenciação das gônadas em testículos durante o desenvolvimento embrionário.</label>
+<label class="quiz-option"><input type="radio" name="fgv-029-seducmt-q20" value="C"> C. O sexo cromossômico é definido no segundo trimestre da gestação, após o início da produção hormonal pelas gônadas fetais.</label>
+<label class="quiz-option"><input type="radio" name="fgv-029-seducmt-q20" value="D"> D. A ausência de testosterona no feto masculino não interfere no desenvolvimento dos ductos mesonéfricos (de Wolff), que se formam espontaneamente.</label>
+<label class="quiz-option"><input type="radio" name="fgv-029-seducmt-q20" value="E"> E. A genitália externa do embrião é determinada exclusivamente pelo cariótipo, sendo irrelevante a ação de hormônios sexuais durante o desenvolvimento fetal.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, SEDUC-MT, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Lembre que o sexo cromossômico (definido na fecundação) é apenas o primeiro nível; os níveis seguintes (gonadal, ductal, genital, somático) dependem de eventos moleculares e hormonais específicos, com o gene SRY como interruptor central da diferenciação testicular.</p>
+<p><strong>Por que a B deve ser marcada:</strong> O gene SRY (Sex-determining Region Y), presente no cromossomo Y, é o principal fator que desencadeia a diferenciação da gônada indiferenciada em testículo durante o desenvolvimento embrionário — sem ele, a gônada tende a se diferenciar em ovário, independentemente de detalhes adicionais do cariótipo.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Um único X (como na síndrome de Turner) permite a formação inicial de estruturas ovarianas, ainda que geralmente não funcionais a longo prazo — a alternativa é categórica demais.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> Descreve corretamente o papel central do gene SRY na determinação do sexo gonadal.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> O sexo cromossômico é definido já na fecundação (primeiro nível), não no segundo trimestre.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> A ausência de testosterona, na verdade, permite a regressão dos ductos de Wolff (masculinos) e favorece o desenvolvimento dos ductos de Müller (femininos) — a testosterona é necessária para manter e diferenciar os ductos mesonéfricos no feto masculino.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> A genitália externa depende diretamente da ação hormonal (testosterona/di-hidrotestosterona), não apenas do cariótipo.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Achar que o cariótipo, isoladamente, já determina todos os demais níveis do sexo (gonadal, ductal, genital) sem a mediação de genes e hormônios específicos — a diferenciação sexual é um processo em cascata, não uma decorrência automática do cariótipo.</p>
+</div>
+</div>
+
 ## Questão autoral de reforço
 
 <div class="quiz-card" data-answer="D">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>2. A permanência dos desenhos papilares relaciona-se ao fato de que as cristas papilares:</strong></p>
+<p><strong>3. A permanência dos desenhos papilares relaciona-se ao fato de que as cristas papilares:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-029" value="A"> A. surgem apenas após a vida adulta.</label>
 <label class="quiz-option"><input type="radio" name="fgv-029" value="B"> B. mudam mensalmente por renovação da pele.</label>

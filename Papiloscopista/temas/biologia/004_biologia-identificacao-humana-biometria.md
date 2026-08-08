@@ -13,7 +13,8 @@ Este item é a aplicação mais direta da biologia à identificação humana e �
 
 | Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
 |---|---:|---|
-| FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q31: componente do sangue que reage com o luminol (grupo heme dos eritrócitos). Q35: grupo funcional detectado pela ninidrina em impressões digitais latentes (aminoácidos). Q36: técnica de tipagem sanguínea (prova direta e indireta) e interpretação de resultado. |
+| FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q31: componente do sangue que reage com o luminol (grupo heme dos eritrócitos). Q35: grupo funcional detectado pela ninidrina em impressões digitais latentes (aminoácidos). Q36: técnica de tipagem sanguínea (prova direta e indireta) e interpretação de resultado. Q45: composição química da frústula de diatomáceas, usada no teste de diatomáceas em afogamentos. Q48: interpretação de eletroferograma do gene amelogenina (AMELX/AMELY) para determinação de sexo em identificação genética. |
+| FGV PC-AM, Perito Criminal | 2022 | Características e herança dos STRs (short tandem repeats), incluindo a herança exclusivamente paterna dos Y-STRs. |
 
 ## Conteúdo completo orientado ao edital
 
@@ -42,6 +43,25 @@ O sistema ABO classifica o sangue pela presença de antígenos (aglutinogênios)
 
 **Doador e receptor universal**: o tipo **O** é considerado **doador universal** (hemácias O não têm antígenos A nem B, então não provocam reação em receptores de outros tipos); o tipo **AB** é considerado **receptor universal** (o plasma AB não tem anticorpos anti-A nem anti-B, então pode receber qualquer tipo). É um erro clássico inverter esses papéis, ou atribuir "receptor universal" ao tipo O.
 
+### Teste de diatomáceas: identificação de afogamento
+
+O **teste de diatomáceas** é usado na investigação de mortes por afogamento: diatomáceas são algas microscópicas presentes na água, com uma parede celular externa chamada **frústula**, composta essencialmente de **sílica** (dióxido de silício). Por ser um material mineral inerte, a frústula resiste aos ácidos fortes usados em laboratório para digerir quimicamente os tecidos orgânicos da vítima — isso permite recuperar e identificar as diatomáceas mesmo depois da digestão do tecido, e sua presença em órgãos internos profundos (como medula óssea) é um forte indício de que a vítima ainda respirava ao entrar na água (afogamento real, não post-mortem).
+
+### Gene amelogenina: determinação de sexo por eletroferograma
+
+O gene da **amelogenina** é um marcador clássico usado em kits comerciais de identificação genética humana para determinar o sexo biológico de uma amostra:
+
+- **AMELX**: presente no cromossomo X, amplifica um produto de 106 pares de base (pb).
+- **AMELY**: presente no cromossomo Y, amplifica um produto de 112 pb.
+
+No eletroferograma (gráfico de picos gerado pelo sequenciamento), uma amostra com **apenas um pico** (106 pb) indica ausência de cromossomo Y — perfil **feminino** (XX). Uma amostra com **dois picos** (106 pb e 112 pb) indica presença de X e Y — perfil **masculino** (XY). Essa é uma das análises mais rápidas e diretas para triagem de sexo em identificação genética forense.
+
+### STRs (Short Tandem Repeats): a base da identificação genética individual
+
+**STRs** (também chamados de microssatélites) são pequenas sequências de DNA, com unidade de repetição curta (tipicamente de **2 a 6 pares de bases**), que se repetem em sequência num determinado local (locus) do genoma. O número de vezes que a sequência se repete **varia entre indivíduos** — é justamente essa variação no número de repetições que gera os múltiplos alelos possíveis num mesmo locus, permitindo diferenciar pessoas com base em seu perfil de STRs (o fundamento técnico dos exames de DNA usados em identificação criminal e teste de paternidade).
+
+**Y-STRs**: STRs localizados especificamente no cromossomo Y. Por estarem no Y, têm herança **exclusivamente paterna** (uniparental) — passam de pai para filho homem, sem se misturar com o material genético da mãe. Isso torna os Y-STRs uma ferramenta útil para rastrear linhagens paternas (por exemplo, para relacionar um suspeito a parentes homens da mesma linhagem), mas é importante não confundir esse padrão com a herança biparental típica das leis de Mendel para a maioria dos genes autossômicos.
+
 ## Prioridades FGV dentro deste tema
 
 | Prioridade | Por que é prioridade | Como treinar |
@@ -50,6 +70,9 @@ O sistema ABO classifica o sangue pela presença de antígenos (aglutinogênios)
 | Explicar que a ninidrina detecta aminoácidos (grupo amina) do suor | Evidenciado na questão real SEAD/AP Q35 | Associe: ninidrina + aminoácido = cor púrpura em superfície porosa |
 | Diferenciar prova direta (antígenos nas hemácias) de prova indireta (anticorpos no soro) | Evidenciado na questão real SEAD/AP Q36 | Lembre: direta = hemácias + soro conhecido; indireta = soro + hemácias conhecidas |
 | Não confundir doador universal (O) com receptor universal (AB) | Erro clássico evidenciado na mesma questão | Associe: O sem antígenos = doa para todos; AB sem anticorpos = recebe de todos |
+| Saber que a frústula das diatomáceas é composta de sílica, resistente a ácidos | Evidenciado na questão real SEAD/AP Q45 | Associe: sílica = material mineral inerte = resiste à digestão ácida do tecido |
+| Interpretar eletroferograma do gene amelogenina para determinar sexo (1 pico=mulher; 2 picos=homem) | Evidenciado na questão real SEAD/AP Q48 | Memorize: AMELX=106pb (presente em todos); AMELY=112pb (só no homem) |
+| Saber que Y-STRs têm herança exclusivamente paterna, ao contrário do padrão biparental mendeliano | Evidenciado na questão real PC-AM | Associe: Y-STR = cromossomo Y = só pai para filho homem |
 
 ## Diferenças que a banca costuma trocar
 
@@ -121,7 +144,10 @@ O sistema ABO classifica o sangue pela presença de antígenos (aglutinogênios)
 - [ ] Sei diferenciar prova direta (antígenos nas hemácias) de prova indireta (anticorpos no soro) na tipagem sanguínea.
 - [ ] Sei por que não há prova reversa de rotina para o sistema Rh.
 - [ ] Sei diferenciar doador universal (O) de receptor universal (AB).
-- [ ] Resolvi as três questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Sei que a frústula das diatomáceas é composta de sílica, usada no teste de diatomáceas em afogamentos.
+- [ ] Sei interpretar um eletroferograma do gene amelogenina para determinar o sexo de uma amostra.
+- [ ] Sei o que são STRs e por que os Y-STRs têm herança exclusivamente paterna.
+- [ ] Resolvi as seis questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
@@ -132,7 +158,8 @@ O sistema ABO classifica o sangue pela presença de antígenos (aglutinogênios)
 
 **Prova/FGV**
 
-- FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questões 31, 35 e 36. Gabarito definitivo publicado pela FGV.
+- FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questões 31, 35, 36, 45 e 48. Gabarito definitivo publicado pela FGV.
+- FGV. PC-AM, Perito Criminal, 2022. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**
