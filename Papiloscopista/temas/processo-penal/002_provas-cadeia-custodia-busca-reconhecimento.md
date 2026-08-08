@@ -1,159 +1,111 @@
 # 051 - Provas, cadeia de custódia, busca e reconhecimento
 
-> **Base do edital:** Conhecimentos Específicos; Processo Penal 8.2.  
-> **Peso da disciplina:** 3 questões na prova objetiva.  
-> **Prioridade:** altíssima.
+## Leitura rápida
+
+- O juiz forma sua convicção pela livre apreciação da prova produzida em contraditório judicial, não podendo fundamentar a decisão exclusivamente em elementos colhidos na investigação (ressalvadas as provas cautelares, não repetíveis e antecipadas).
+- Indício (Art. 239 CPP) é a circunstância conhecida e provada que, tendo relação com o fato, autorize, por indução, concluir a existência de outra ou outras circunstâncias — não se confunde com vestígio (o material bruto recolhido no local).
+- A busca domiciliar deve ser executada de dia, salvo consentimento do morador para a noite; havendo resistência, é permitido o emprego de força contra coisas; ao final, lavra-se auto circunstanciado assinado por **duas** testemunhas presentes, não apenas uma.
+- Provas obtidas fora dos limites autorizados por um mandado judicial (endereço diferente, prazo de medida cautelar expirado) são ilícitas; se outras provas derivam diretamente delas, também são contaminadas pela "teoria dos frutos da árvore envenenada".
+- Em caso de dúvida sobre a identidade de um cadáver, procede-se ao reconhecimento pelo Instituto de Identificação ou repartição congênere, ou por inquirição de testemunhas — ponto de conexão direta com a atividade papiloscópica.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Processo Penal soma 3 questões; este capítulo concentra Processo Penal 8.2.
-- **Como a FGV costuma cobrar:** Processo Penal aplicado aparece em atos de investigação: inquérito, provas, cadeia de custódia, reconhecimento, busca e medidas cautelares.
-- **O que mais confunde candidatos:** misturar prova com elemento informativo; achar que cadeia de custódia começa só no laboratório; confundir prisão preventiva, flagrante e temporária.
-- **Particularidade para Papiloscopista:** É essencial para preservar validade e rastreabilidade do trabalho técnico: local de crime, coleta, documentação e encaminhamento de vestígios.
+Este é o núcleo processual mais diretamente ligado à rotina pericial e investigativa: as regras sobre prova, cadeia de custódia, exame de corpo de delito, busca domiciliar e reconhecimento de pessoas/cadáveres orientam exatamente o trabalho que a Polícia Civil (e o Papiloscopista, em especial) realiza no dia a dia.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q22: nulidade dos elementos colhidos em busca e apreensão executada em endereço diferente do autorizado pelo mandado judicial. Q25: definição legal de indício (Art. 239 CPP). Q26: regra de livre apreciação da prova em contraditório judicial e vedação de fundamentar decisão exclusivamente em elementos da investigação. Q27: prioridade na realização do exame de corpo de delito em crimes de violência doméstica e contra grupos vulneráveis. Q29: reconhecimento de cadáver pelo Instituto de Identificação em caso de dúvida sobre identidade, e ausência de restrição de dia útil/horário para realização de perícia. |
+| FGV PCMG - Perito Criminal, Área I | 2024 | Q39: regras da busca domiciliar (execução de dia, salvo consentimento; emprego de força contra coisas em caso de resistência; auto circunstanciado assinado por duas testemunhas, não uma). |
+| FGV PCAM - Investigador de Polícia, 4ª Classe | 2021/2022 | Q70: nulidade de prova obtida após o término do prazo de interceptação telefônica autorizada judicialmente, e contaminação de provas derivadas pela teoria dos frutos da árvore envenenada. |
 
-- **Provas, cadeia de custódia e preservação de local de crime.** Prova lícita/ilícita, fonte independente, encontro fortuito, busca pessoal/domiciliar, mandado, reconhecimento de pessoas/coisas e etapas da cadeia de custódia.
-- **Busca e apreensão; reconhecimento de pessoas e coisas.** Prova lícita/ilícita, fonte independente, encontro fortuito, busca pessoal/domiciliar, mandado, reconhecimento de pessoas/coisas e etapas da cadeia de custódia.
-- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
-- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
-- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Sistema de valoração da prova: livre convencimento motivado
 
-### Visão de estudo para este tema
+O juiz forma sua convicção pela **livre apreciação da prova produzida em contraditório judicial** (Art. 155 CPP), não podendo fundamentar sua decisão **exclusivamente** nos elementos informativos colhidos na investigação (inquérito), ressalvadas as **provas cautelares, não repetíveis e antecipadas** (que, por sua natureza, não podem ser refeitas em juízo, como perícias sobre vestígios que se deterioram).
 
-Processo Penal aplicado deve ser lido como roteiro da investigação: notícia do crime, inquérito, diligências, provas, cadeia de custódia, busca, reconhecimento, prisões e cautelares.
+### Indício: definição legal
 
-A FGV pode cobrar diferença entre elemento informativo e prova, formalidade de reconhecimento, preservação de local, requisitos de prisão e limites de medidas invasivas.
+O Art. 239 CPP define: **"Considera-se indício a circunstância conhecida e provada, que, tendo relação com o fato, autorize, por indução, concluir-se a existência de outra ou outras circunstâncias."** O indício é diferente do vestígio (objeto ou material bruto, visível ou latente, constatado ou recolhido, relacionado à infração) — o indício já é uma conclusão lógica extraída de uma circunstância provada; o vestígio é a matéria-prima física da perícia.
 
-Cadeia de custódia é o eixo técnico do cargo: sem rastreabilidade e integridade, o valor do vestígio fica vulnerável.
+### Exame de corpo de delito: regras centrais
 
-**Aplicação ao cargo:** O trabalho técnico do Papiloscopista precisa ser compatível com preservação, documentação, garantias e validade do procedimento investigativo.
+- Quando a infração deixar vestígios, é **indispensável** o exame de corpo de delito (direto ou indireto), **não podendo a confissão do acusado supri-lo**.
+- Dá-se **prioridade** à realização do exame de corpo de delito em crimes que envolvam **violência doméstica e familiar contra mulher**, e em crimes envolvendo violência contra **criança, adolescente, idoso ou pessoa com deficiência**.
+- A perícia **não tem restrição** de dia útil ou horário comercial — pode (e muitas vezes deve, por urgência) ser realizada a qualquer tempo, inclusive à noite ou em dias sem expediente regular.
 
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
+### Reconhecimento de cadáver: o papel do Instituto de Identificação
 
-### O que mais merece atenção
+Havendo **dúvida sobre a identidade** de um cadáver (inclusive exumado), procede-se ao **reconhecimento pelo Instituto de Identificação e Estatística ou repartição congênere**, ou pela inquirição de testemunhas, lavrando-se auto de reconhecimento e de identidade, no qual se descreve o cadáver com todos os sinais e indicações (CPP, art. 172). Esse é o dispositivo que conecta diretamente a atividade de identificação (papiloscópica, entre outras) ao procedimento processual de reconhecimento de corpos.
 
-- inquérito policial, notitia criminis e indiciamento
-- direitos do investigado
-- provas e cadeia de custódia
-- busca e apreensão
-- reconhecimento de pessoas e coisas
-- prisões e medidas cautelares
+### Busca domiciliar: regras de execução (Art. 245 CPP)
 
-### Conteúdo completo orientado ao edital
-
-### 1. Provas, cadeia de custódia e preservação de local de crime.
-
-**O que significa:** Prova busca formar convencimento em juízo; elementos informativos orientam investigação. Cadeia de custódia documenta caminho do vestígio. Busca e reconhecimento têm formalidades próprias.
-
-**Como estudar para a prova:** Prova lícita/ilícita, fonte independente, encontro fortuito, busca pessoal/domiciliar, mandado, reconhecimento de pessoas/coisas e etapas da cadeia de custódia.
-
-**Como a FGV pode cobrar:** A FGV cobra sequência, formalidade e consequência de violação de garantias.
-
-**Cuidado de prova:** Preservar local e cadeia de custódia não é formalismo vazio; é condição de confiabilidade.
-
-### 2. Busca e apreensão; reconhecimento de pessoas e coisas.
-
-**O que significa:** Prova busca formar convencimento em juízo; elementos informativos orientam investigação. Cadeia de custódia documenta caminho do vestígio. Busca e reconhecimento têm formalidades próprias.
-
-**Como estudar para a prova:** Prova lícita/ilícita, fonte independente, encontro fortuito, busca pessoal/domiciliar, mandado, reconhecimento de pessoas/coisas e etapas da cadeia de custódia.
-
-**Como a FGV pode cobrar:** A FGV cobra sequência, formalidade e consequência de violação de garantias.
-
-**Cuidado de prova:** Preservar local e cadeia de custódia não é formalismo vazio; é condição de confiabilidade.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Regra | Conteúdo |
 |---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Horário | Execução de **dia**, salvo se o morador consentir que se realize à noite |
+| Procedimento de entrada | Antes de penetrar na casa, os executores mostram e leem o mandado ao morador (ou quem o represente), intimando-o a abrir a porta |
+| Resistência | Havendo recalcitrância do morador, é permitido o emprego de **força contra coisas** existentes no interior da casa, para o descobrimento do que se procura |
+| Encerramento | Lavra-se **auto circunstanciado**, assinado pelos executores e por **duas testemunhas** presentes à diligência (não apenas uma) |
 
-### Diferenças que a banca costuma trocar
+**Ponto de atenção recorrente**: a exigência é de **duas** testemunhas presenciais no auto circunstanciado da busca domiciliar — um detalhe numérico que a banca costuma alterar para testar atenção à leitura literal da lei.
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+### Limites da autorização judicial e ilicitude da prova
+
+Uma busca e apreensão realizada em **local diferente** do especificamente autorizado pelo mandado judicial (mesmo por engano, sem má-fé) produz elementos de informação que **não podem** integrar o material probatório valorado pelo juiz — a autorização judicial é específica para o endereço determinado, e sua extrapolação torna a diligência irregular quanto ao excesso.
+
+**Teoria dos frutos da árvore envenenada**: quando uma prova é obtida por meio ilícito (por exemplo, uma interceptação telefônica que continuou sendo executada após o término do prazo autorizado judicialmente, sem nova decisão de prorrogação), as provas **derivadas** diretamente dela também são contaminadas e devem ser excluídas do processo — mesmo que a diligência derivada (como uma busca e apreensão) tenha sido, em si, formalmente regular.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Provas, cadeia de custódia e preservação de local de crime. | Preservar local e cadeia de custódia não é formalismo vazio; é condição de confiabilidade. | A FGV cobra sequência, formalidade e consequência de violação de garantias. |
-| Busca e apreensão; reconhecimento de pessoas e coisas. | Preservar local e cadeia de custódia não é formalismo vazio; é condição de confiabilidade. | A FGV cobra sequência, formalidade e consequência de violação de garantias. |
+| Saber que elementos colhidos fora do endereço autorizado pelo mandado são inadmissíveis como prova | Evidenciado diretamente na questão real SEAD/AP Q22 | Lembre: a autorização judicial é específica para o local determinado, sem margem de extrapolação |
+| Saber a definição legal exata de indício (Art. 239 CPP) | Evidenciado diretamente na questão real SEAD/AP Q25 | Decore a redação: circunstância conhecida e provada, com relação ao fato, que autorize concluir por indução outra circunstância |
+| Saber que o juiz não pode fundamentar a decisão exclusivamente em elementos da investigação, ressalvadas as provas cautelares/não repetíveis/antecipadas | Evidenciado diretamente na questão real SEAD/AP Q26 | Memorize a exceção: provas cautelares, não repetíveis e antecipadas podem, sim, embasar a decisão mesmo vindas da investigação |
+| Saber a prioridade de exame de corpo de delito em violência doméstica e grupos vulneráveis | Evidenciado diretamente na questão real SEAD/AP Q27 | Associe: mulher em violência doméstica + criança/adolescente/idoso/pessoa com deficiência = prioridade |
+| Saber que a busca domiciliar exige auto circunstanciado assinado por duas testemunhas, não uma | Evidenciado diretamente na questão real PCMG Q39 | Memorize o número exato: duas testemunhas, não uma |
+| Saber que prova obtida após o término do prazo de medida cautelar (sem renovação) contamina provas derivadas | Evidenciado diretamente na questão real PCAM Q70 | Associe: prazo expirado sem nova decisão = prova ilícita, contamina a cadeia probatória |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
-
-### Roteiro de estudo de alta retenção
-
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
-
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Provas, cadeia de custódia e preservação de local de crime. | Prova lícita/ilícita, fonte independente, encontro fortuito, busca pessoal/domiciliar, mandado, reconhecimento de pessoas/coisas e etapas da cadeia de custódia. | Preservar local e cadeia de custódia não é formalismo vazio; é condição de confiabilidade. |
-| Busca e apreensão; reconhecimento de pessoas e coisas. | Prova lícita/ilícita, fonte independente, encontro fortuito, busca pessoal/domiciliar, mandado, reconhecimento de pessoas/coisas e etapas da cadeia de custódia. | Preservar local e cadeia de custódia não é formalismo vazio; é condição de confiabilidade. |
-
-| Ponto quente | Treino recomendado |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Indício (conclusão lógica extraída de circunstância provada) | Vestígio (objeto ou material bruto recolhido no local) | Ambos são "elementos ligados à investigação" | Indício é uma inferência lógica; vestígio é a matéria física bruta antes de qualquer inferência |
+| Busca domiciliar com auto assinado por duas testemunhas (regra correta) | Auto assinado por apenas uma testemunha (erro comum) | Diferença sutil de número | Memorize: são sempre duas testemunhas presenciais no auto circunstanciado |
+| Prova cautelar/não repetível/antecipada (pode fundamentar decisão mesmo vinda da investigação) | Elemento informativo comum da investigação (não pode fundamentar sozinho) | Ambas "vêm da fase de investigação" | A exceção do Art. 155 CPP é específica para provas cautelares, não repetíveis e antecipadas |
+| Extrapolação do endereço do mandado (prova ilícita) | Cumprimento regular do mandado no endereço correto (prova lícita) | Ambos envolvem "busca com mandado judicial" | O que importa é se a diligência respeitou exatamente o local autorizado |
 
 ## Pegadinhas da banca
 
-- Confundir preservação de local com perícia concluída.
-- Achar que todo vício gera automaticamente nulidade absoluta.
-- Misturar sigilo de dados com interceptação telefônica.
-- Transformar garantia do investigado em impedimento absoluto à investigação.
-- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
-- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
-- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Achar que elementos colhidos em endereço diferente do autorizado ainda podem ser aproveitados como prova.
+- Confundir indício com vestígio.
+- Esquecer a exceção das provas cautelares/não repetíveis/antecipadas à vedação de fundamentar decisão exclusivamente na investigação.
+- Errar o número de testemunhas exigidas no auto circunstanciado da busca domiciliar (duas, não uma).
+- Achar que a perícia só pode ser realizada em dia útil e horário comercial.
+- Não reconhecer a contaminação de provas derivadas quando a prova-fonte é ilícita (teoria dos frutos da árvore envenenada).
 
 ## Como resolver questões
 
-1. Identifique a fase: notícia do crime, investigação, coleta de prova, cautelar, prisão ou ação penal.
-2. Em cadeia de custódia, siga a sequência lógica: reconhecer, isolar, fixar, coletar, acondicionar, transportar, receber, processar, armazenar e descartar.
-3. Em busca e reconhecimento, procure formalidade e garantia.
-4. Em cautelares, pense em pressupostos, finalidade e decisão competente.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para questões sobre validade de busca e apreensão, sempre confira se o local da diligência corresponde exatamente ao autorizado no mandado.
+2. Para questões sobre prova, identifique se o elemento é "comum" da investigação (não sustenta condenação sozinho) ou cautelar/não repetível/antecipado (pode sustentar).
+3. Para questões sobre busca domiciliar, memorize os detalhes procedimentais exatos: execução de dia, força contra coisas em caso de resistência, duas testemunhas no auto final.
+4. Para questões sobre prova derivada de prova ilícita, aplique a teoria dos frutos da árvore envenenada.
+5. Para questões sobre reconhecimento de cadáver, lembre do papel do Instituto de Identificação em caso de dúvida sobre identidade.
+
+## Lacunas honestas
+
+- Nenhuma lacuna relevante identificada para este tema — foram localizadas sete questões reais de três fontes distintas, cobrindo prova, cadeia de custódia, exame de corpo de delito, busca domiciliar e reconhecimento.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Processo Penal 8.2.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei a definição legal de indício (Art. 239 CPP) e sua diferença em relação a vestígio.
+- [ ] Sei a regra de livre apreciação da prova em contraditório judicial e a exceção das provas cautelares/não repetíveis/antecipadas.
+- [ ] Sei a prioridade de exame de corpo de delito em violência doméstica e grupos vulneráveis.
+- [ ] Sei as regras de execução da busca domiciliar (horário, força contra coisas, duas testemunhas no auto).
+- [ ] Sei que provas colhidas fora do endereço autorizado pelo mandado são inadmissíveis.
+- [ ] Sei aplicar a teoria dos frutos da árvore envenenada a provas derivadas de prova ilícita.
+- [ ] Sei o papel do Instituto de Identificação no reconhecimento de cadáver com identidade duvidosa.
+- [ ] Resolvi as sete questões reais comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -161,12 +113,24 @@ Cadeia de custódia é o eixo técnico do cargo: sem rastreabilidade e integrida
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
+
+- FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questões 22, 25, 26, 27 e 29. Gabarito definitivo publicado pela FGV.
+- FGV. PCMG - Perito Criminal, Área I, Tipo Branca, 2024/2025. Caderno oficial, questão 39. Gabarito oficial definitivo publicado pela FGV (aplicada em 26/01/2025).
+- FGV. PCAM - Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022. Caderno oficial, questão 70. Gabarito oficial definitivo publicado pela FGV (aplicada em 03/04/2022).
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+
+**Lei seca**
+
+- Código de Processo Penal - Decreto-Lei n.º 3.689/1941, arts. 155, 158, 172, 239 e 245.
+
+**Material local**
+
+- `Curso Alfacon/Processo Penal.pdf` (quando disponível)
+
+**Atualização/fonte externa**
+
 - [Código de Processo Penal - Planalto](https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm)
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Processo Penal.pdf`
-- `Materiais QB/Processual Penal/`
-
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos.

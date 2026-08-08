@@ -28,7 +28,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | Química | 5 | 5 | 21 | Conhecimentos Específicos, item 5 |
 | Legislação | 5 | 7 | 25 | Conhecimentos Específicos, item 6 |
 | Penal | 3 | 3 | 14 | Conhecimentos Específicos, item 7 |
-| Processo Penal | 3 | 3 | 5 | Conhecimentos Específicos, item 8 |
+| Processo Penal | 3 | 3 | 17 | Conhecimentos Específicos, item 8 |
 | Constitucional | 3 | 3 | 3 | Conhecimentos Específicos, item 9 |
 | Administrativo | 3 | 3 | 3 | Conhecimentos Específicos, item 10 |
 | Direitos Humanos | 3 | 3 | 3 | Conhecimentos Específicos, item 11 |
@@ -104,9 +104,9 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | 047 | Penal | Princípios, teoria do crime, penas e extinção da punibilidade | Penal 7.1 | alta | 5 (3 oficiais FGV) |
 | 048 | Penal | Crimes contra pessoa, patrimônio, dignidade sexual, fé pública e Administração | Penal 7.2 | alta | 5 (3 oficiais FGV) |
 | 049 | Penal | Legislação penal extravagante e atividade policial | Penal 7.3-7.4 | altíssima | 4 (2 oficiais FGV) |
-| 050 | Processo Penal | Princípios, inquérito, ação penal e direitos do investigado | Processo Penal 8.1 | alta | 2 |
-| 051 | Processo Penal | Provas, cadeia de custódia, busca e reconhecimento | Processo Penal 8.2 | altíssima | 2 |
-| 052 | Processo Penal | Prisões, cautelares e leis processuais extravagantes | Processo Penal 8.3-8.4 | alta | 1 |
+| 050 | Processo Penal | Princípios, inquérito, ação penal e direitos do investigado | Processo Penal 8.1 | alta | 5 (4 oficiais FGV) |
+| 051 | Processo Penal | Provas, cadeia de custódia, busca e reconhecimento | Processo Penal 8.2 | altíssima | 8 (7 oficiais FGV) |
+| 052 | Processo Penal | Prisões, cautelares e leis processuais extravagantes | Processo Penal 8.3-8.4 | alta | 4 (3 oficiais FGV) |
 | 053 | Constitucional | Princípios, direitos, garantias e remédios constitucionais | Constitucional 8.1-8.3 | altíssima | 1 |
 | 054 | Constitucional | Organização do Estado, Poderes e segurança pública | Constitucional 8.4-8.6 | altíssima | 1 |
 | 055 | Constitucional | Controle de constitucionalidade e Constituição do Paraná | Constitucional 8.7-8.8 | alta | 1 |

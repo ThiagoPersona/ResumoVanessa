@@ -1,172 +1,101 @@
 # 052 - Prisões, cautelares e leis processuais extravagantes
 
-> **Base do edital:** Conhecimentos Específicos; Processo Penal 8.3-8.4.  
-> **Peso da disciplina:** 3 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- Desde o "Pacote Anticrime" (Lei 13.964/2019), a prisão preventiva **nunca** pode ser decretada de ofício pelo juiz — exige sempre requerimento do Ministério Público, do querelante/assistente, ou representação da autoridade policial, em qualquer fase (investigação ou processo).
+- O inquérito com indiciado preso deve ser concluído no prazo de **10 dias**, contados da execução da ordem de prisão, como regra geral do CPP (prazos diferentes se aplicam a leis extravagantes específicas, como a Lei de Drogas).
+- Flagrante diferido (ou retardado) é a técnica pela qual a autoridade policial, com autorização judicial, retarda a intervenção policial num flagrante para colher mais informações sobre uma organização criminosa — instrumento típico da Lei das Organizações Criminosas.
+- A prisão em flagrante por tráfico de drogas é inafiançável, independentemente das circunstâncias pessoais do agente — conteúdo já coberto no [tema de Penal 049](../penal/003_legislacao-extravagante-atividade-policial.md).
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Processo Penal soma 3 questões; este capítulo concentra Processo Penal 8.3-8.4.
-- **Como a FGV costuma cobrar:** Processo Penal aplicado aparece em atos de investigação: inquérito, provas, cadeia de custódia, reconhecimento, busca e medidas cautelares.
-- **O que mais confunde candidatos:** misturar prova com elemento informativo; achar que cadeia de custódia começa só no laboratório; confundir prisão preventiva, flagrante e temporária.
-- **Particularidade para Papiloscopista:** É essencial para preservar validade e rastreabilidade do trabalho técnico: local de crime, coleta, documentação e encaminhamento de vestígios.
+Este tema trata das ferramentas processuais de restrição de liberdade mais sensíveis da atividade policial — prisões cautelares, seus prazos e o instrumental das leis extravagantes — exigindo domínio preciso dos limites legais para evitar tanto a ineficácia investigativa quanto a ilegalidade da prisão.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV PCAM - Investigador de Polícia, 4ª Classe | 2021/2022 | Q67: prazo de conclusão do inquérito com indiciado preso preventivamente (10 dias, regra geral do CPP). Q68: classificação do flagrante diferido/retardado (ação controlada) em investigação de organização criminosa. Q69: vedação absoluta à decretação de ofício da prisão preventiva pelo juiz, mesmo após o recebimento da denúncia. |
 
-- **Prisão em flagrante, prisão preventiva, liberdade provisória e medidas cautelares diversas da prisão.** Flagrante, preventiva, temporária quando pertinente, liberdade provisória, fiança, cautelares diversas, interceptação telefônica, sigilo de dados, Maria da Penha, Drogas e Organizações Criminosas.
-- **Lei Maria da Penha, Lei de Drogas, Lei das Organizações Criminosas, Lei de Interceptação Telefônica e Lei de Abuso de Autoridade.** Flagrante, preventiva, temporária quando pertinente, liberdade provisória, fiança, cautelares diversas, interceptação telefônica, sigilo de dados, Maria da Penha, Drogas e Organizações Criminosas.
-- **Estatuto da Advocacia e OAB: aspectos processuais penais.** Acesso aos autos documentados, sigilo investigativo, comunicação com cliente preso, busca em escritório, presença da OAB quando exigida e compatibilização com decisão judicial.
-- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
-- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
-- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Prazo de conclusão do inquérito
 
-### Visão de estudo para este tema
-
-Processo Penal aplicado deve ser lido como roteiro da investigação: notícia do crime, inquérito, diligências, provas, cadeia de custódia, busca, reconhecimento, prisões e cautelares.
-
-A FGV pode cobrar diferença entre elemento informativo e prova, formalidade de reconhecimento, preservação de local, requisitos de prisão e limites de medidas invasivas.
-
-Cadeia de custódia é o eixo técnico do cargo: sem rastreabilidade e integridade, o valor do vestígio fica vulnerável.
-
-**Aplicação ao cargo:** O trabalho técnico do Papiloscopista precisa ser compatível com preservação, documentação, garantias e validade do procedimento investigativo.
-
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
-
-### O que mais merece atenção
-
-- inquérito policial, notitia criminis e indiciamento
-- direitos do investigado
-- provas e cadeia de custódia
-- busca e apreensão
-- reconhecimento de pessoas e coisas
-- prisões e medidas cautelares
-
-### Conteúdo completo orientado ao edital
-
-### 1. Prisão em flagrante, prisão preventiva, liberdade provisória e medidas cautelares diversas da prisão.
-
-**O que significa:** Prisões e cautelares restringem liberdade ou direitos para proteger investigação, processo ou ordem pública dentro das hipóteses legais.
-
-**Como estudar para a prova:** Flagrante, preventiva, temporária quando pertinente, liberdade provisória, fiança, cautelares diversas, interceptação telefônica, sigilo de dados, Maria da Penha, Drogas e Organizações Criminosas.
-
-**Como a FGV pode cobrar:** A banca troca fundamentos e espécies de prisão, ou mistura interceptação de comunicação com acesso a dados.
-
-**Cuidado de prova:** Medida invasiva exige base legal e, em regra, controle judicial; urgência não elimina motivação.
-
-### 2. Lei Maria da Penha, Lei de Drogas, Lei das Organizações Criminosas, Lei de Interceptação Telefônica e Lei de Abuso de Autoridade.
-
-**O que significa:** Prisões e cautelares restringem liberdade ou direitos para proteger investigação, processo ou ordem pública dentro das hipóteses legais.
-
-**Como estudar para a prova:** Flagrante, preventiva, temporária quando pertinente, liberdade provisória, fiança, cautelares diversas, interceptação telefônica, sigilo de dados, Maria da Penha, Drogas e Organizações Criminosas.
-
-**Como a FGV pode cobrar:** A banca troca fundamentos e espécies de prisão, ou mistura interceptação de comunicação com acesso a dados.
-
-**Cuidado de prova:** Medida invasiva exige base legal e, em regra, controle judicial; urgência não elimina motivação.
-
-### 3. Estatuto da Advocacia e OAB: aspectos processuais penais.
-
-**O que significa:** Aspectos processuais penais do Estatuto da Advocacia e da OAB protegem o exercício da defesa durante investigação e processo, especialmente comunicação, acesso a elementos documentados e limites de medidas contra advogado.
-
-**Como estudar para a prova:** Acesso aos autos documentados, sigilo investigativo, comunicação com cliente preso, busca em escritório, presença da OAB quando exigida e compatibilização com decisão judicial.
-
-**Como a FGV pode cobrar:** A banca pode apresentar diligência policial e perguntar se a prerrogativa profissional foi respeitada.
-
-**Cuidado de prova:** Sigilo do inquérito não autoriza negar todo acesso à defesa quando a lei ou a súmula assegura consulta a elementos já documentados.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Situação do indiciado | Prazo geral do CPP (Art. 10) |
 |---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Preso em flagrante ou preventivamente | 10 dias, contados da execução da ordem de prisão |
+| Solto | 30 dias |
 
-### Diferenças que a banca costuma trocar
+**Ponto de atenção**: esse prazo de 10 dias é a regra geral do CPP para crimes comuns. Leis extravagantes específicas podem prever prazos diferentes (por exemplo, a Lei de Drogas prevê prazo próprio, mais longo, para os crimes nela tipificados) — é preciso sempre identificar se o enunciado trata de um crime comum (regra geral do CPP) ou de um crime regido por lei especial com prazo próprio.
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+### Prisão preventiva: requisitos e vedação à decretação de ofício
+
+A prisão preventiva é medida cautelar que exige, além do fumus comissi delicti (indícios de autoria e materialidade) e do periculum libertatis (necessidade para garantia da ordem pública, da ordem econômica, conveniência da instrução criminal ou aplicação da lei penal), a observância estrita da forma de decretação.
+
+**Regra central pós-Pacote Anticrime** (CPP, art. 311, com redação da Lei 13.964/2019): a prisão preventiva **somente pode ser decretada mediante requerimento do Ministério Público, do querelante ou do assistente, ou por representação da autoridade policial** — o juiz **não pode mais decretá-la de ofício**, seja durante a investigação, seja já na fase processual (após o recebimento da denúncia). Antes da reforma, era possível a decretação de ofício na fase processual; a reforma eliminou completamente essa possibilidade, exigindo sempre provocação.
+
+### Flagrante diferido (ação controlada)
+
+Nas investigações envolvendo **organizações criminosas** (Lei 12.850/2013), é possível **retardar a intervenção policial** num flagrante, desde que a ação policial esteja sob observação e acompanhamento, com o objetivo de obter maiores informações sobre a organização (identificação de outros membros, rotas, conexões). Essa técnica é chamada de **flagrante diferido** (ou retardado), formalizada como **ação controlada**, exigindo prévia comunicação ao juízo competente sobre o retardamento planejado.
+
+| Termo | Significado |
+|---|---|
+| Flagrante diferido/retardado (ação controlada) | Adiamento planejado e comunicado da intervenção policial, para obter mais informações sobre a organização criminosa |
+| Flagrante preparado | Situação provocada por agente provocador, que induz o autor à prática do crime, tornando o flagrante ilegal (crime impossível, Súmula 145 STF) |
+| Flagrante esperado | Vigilância prévia sobre local onde se aguarda a prática do crime, sem induzir o agente — flagrante válido |
+| Flagrante forjado | Simulação de situação de flagrante inexistente, para incriminar alguém — ilegal |
+
+**Diferença central**: no flagrante diferido/ação controlada, a autoridade **sabe** do crime em curso e **decide adiar** a intervenção para colher mais informações (com comunicação ao juízo); no flagrante preparado, a autoridade **induz** a prática do crime, o que é ilegal.
+
+### Prisão temporária e outras medidas cautelares diversas da prisão
+
+O CPP prevê, além da prisão preventiva, medidas cautelares diversas da prisão (Art. 319), como comparecimento periódico em juízo, proibição de acesso a determinados lugares, proibição de contato com pessoa determinada, monitoração eletrônica, entre outras — aplicáveis quando suficientes e adequadas para os fins do processo, em observância à proporcionalidade e à excepcionalidade da prisão.
+
+### Remissão: tráfico de drogas e fiança
+
+O conteúdo sobre a inafiançabilidade do tráfico de drogas (Lei 11.343/2006, art. 44) e os critérios de classificação de crime hediondo já estão cobertos em detalhe no [tema de Penal 049](../penal/003_legislacao-extravagante-atividade-policial.md), evitando duplicação de conteúdo.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Prisão em flagrante, prisão preventiva, liberdade provisória e medidas cautelares diversas da prisão. | Medida invasiva exige base legal e, em regra, controle judicial; urgência não elimina motivação. | A banca troca fundamentos e espécies de prisão, ou mistura interceptação de comunicação com acesso a dados. |
-| Lei Maria da Penha, Lei de Drogas, Lei das Organizações Criminosas, Lei de Interceptação Telefônica e Lei de Abuso de Autoridade. | Medida invasiva exige base legal e, em regra, controle judicial; urgência não elimina motivação. | A banca troca fundamentos e espécies de prisão, ou mistura interceptação de comunicação com acesso a dados. |
-| Estatuto da Advocacia e OAB: aspectos processuais penais. | Sigilo do inquérito não autoriza negar todo acesso à defesa quando a lei ou a súmula assegura consulta a elementos já documentados. | A banca pode apresentar diligência policial e perguntar se a prerrogativa profissional foi respeitada. |
+| Saber o prazo de conclusão do inquérito com indiciado preso (10 dias, regra geral do CPP) | Evidenciado diretamente na questão real PCAM Q67 | Memorize a regra geral e sempre verifique se há lei extravagante específica alterando o prazo |
+| Reconhecer o flagrante diferido/ação controlada e diferenciá-lo do flagrante preparado | Evidenciado diretamente na questão real PCAM Q68 | Associe: diferido/retardado = autoridade sabe e adia, com comunicação ao juízo; preparado = autoridade induz o crime (ilegal) |
+| Saber que a prisão preventiva nunca pode ser decretada de ofício pelo juiz, em nenhuma fase | Evidenciado diretamente na questão real PCAM Q69 | Memorize: sempre exige requerimento do MP/querelante/assistente ou representação da autoridade policial |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
-
-### Roteiro de estudo de alta retenção
-
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
-
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Prisão em flagrante, prisão preventiva, liberdade provisória e medidas cautelares diversas da prisão. | Flagrante, preventiva, temporária quando pertinente, liberdade provisória, fiança, cautelares diversas, interceptação telefônica, sigilo de dados, Maria da Penha, Drogas e Organizações Criminosas. | Medida invasiva exige base legal e, em regra, controle judicial; urgência não elimina motivação. |
-| Lei Maria da Penha, Lei de Drogas, Lei das Organizações Criminosas, Lei de Interceptação Telefônica e Lei de Abuso de Autoridade. | Flagrante, preventiva, temporária quando pertinente, liberdade provisória, fiança, cautelares diversas, interceptação telefônica, sigilo de dados, Maria da Penha, Drogas e Organizações Criminosas. | Medida invasiva exige base legal e, em regra, controle judicial; urgência não elimina motivação. |
-| Estatuto da Advocacia e OAB: aspectos processuais penais. | Acesso aos autos documentados, sigilo investigativo, comunicação com cliente preso, busca em escritório, presença da OAB quando exigida e compatibilização com decisão judicial. | Sigilo do inquérito não autoriza negar todo acesso à defesa quando a lei ou a súmula assegura consulta a elementos já documentados. |
-
-| Ponto quente | Treino recomendado |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Flagrante diferido/ação controlada (autoridade sabe e adia, com comunicação ao juízo) | Flagrante preparado (autoridade induz o crime, tornando-o ilegal) | Ambos envolvem "atraso ou provocação na prisão" | Diferido é lícito e planejado; preparado é ilegal, pois induz o agente a praticar o crime |
+| Decretação de prisão preventiva mediante requerimento/representação (regra atual) | Decretação de ofício pelo juiz (regra abolida pelo Pacote Anticrime) | Fácil achar que ainda é possível de ofício na fase processual | A vedação é absoluta, em qualquer fase, desde a reforma de 2019 |
+| Prazo de inquérito com preso (10 dias, regra geral) | Prazo de inquérito com preso em leis extravagantes específicas (prazos próprios, geralmente mais longos) | Ambos tratam de "prazo de inquérito com preso" | Identifique sempre se o crime é comum (regra geral do CPP) ou regido por lei especial com prazo diferenciado |
 
 ## Pegadinhas da banca
 
-- Confundir preservação de local com perícia concluída.
-- Achar que todo vício gera automaticamente nulidade absoluta.
-- Misturar sigilo de dados com interceptação telefônica.
-- Transformar garantia do investigado em impedimento absoluto à investigação.
-- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
-- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
-- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Achar que o juiz ainda pode decretar prisão preventiva de ofício após o recebimento da denúncia (regra anterior, já superada).
+- Confundir flagrante diferido (lícito) com flagrante preparado (ilegal).
+- Aplicar o prazo geral de 10 dias a situações regidas por lei extravagante com prazo próprio diferente.
+- Esquecer que medidas cautelares diversas da prisão devem ser preferidas quando suficientes e adequadas, por força da proporcionalidade.
 
 ## Como resolver questões
 
-1. Identifique a fase: notícia do crime, investigação, coleta de prova, cautelar, prisão ou ação penal.
-2. Em cadeia de custódia, siga a sequência lógica: reconhecer, isolar, fixar, coletar, acondicionar, transportar, receber, processar, armazenar e descartar.
-3. Em busca e reconhecimento, procure formalidade e garantia.
-4. Em cautelares, pense em pressupostos, finalidade e decisão competente.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para prazo de inquérito, identifique se o indiciado está preso ou solto, e se há lei extravagante específica alterando o prazo geral.
+2. Para prisão preventiva, sempre verifique se houve requerimento/representação — decretação de ofício é sempre ilegal, em qualquer fase.
+3. Para classificar tipos de flagrante, identifique se a autoridade induziu o crime (preparado, ilegal) ou apenas adiou a intervenção sabendo do crime em curso (diferido, lícito).
+4. Para medidas cautelares, lembre da preferência por medidas diversas da prisão quando suficientes, em respeito à proporcionalidade.
+
+## Lacunas honestas
+
+- Nenhuma questão real de FGV localizada especificamente sobre medidas cautelares diversas da prisão (Art. 319 CPP) ou sobre prisão temporária neste levantamento. A teoria está coberta acima; falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Processo Penal 8.3-8.4.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei o prazo geral de conclusão do inquérito com indiciado preso (10 dias).
+- [ ] Sei que a prisão preventiva nunca pode ser decretada de ofício pelo juiz, em nenhuma fase.
+- [ ] Sei diferenciar flagrante diferido/ação controlada (lícito) de flagrante preparado (ilegal).
+- [ ] Sei que medidas cautelares diversas da prisão devem ser preferidas quando suficientes e adequadas.
+- [ ] Sei que o conteúdo sobre fiança no tráfico de drogas está no tema de Penal 049.
+- [ ] Resolvi as três questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
 
@@ -174,14 +103,23 @@ Cadeia de custódia é o eixo técnico do cargo: sem rastreabilidade e integrida
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
+**Prova/FGV**
+
+- FGV. PCAM - Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022. Caderno oficial, questões 67, 68 e 69. Gabarito oficial definitivo publicado pela FGV (aplicada em 03/04/2022).
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
+
+**Lei seca**
+
+- Código de Processo Penal - Decreto-Lei n.º 3.689/1941, arts. 10, 311 e 319.
+- Lei Federal n.º 12.850/2013 - Lei das Organizações Criminosas, art. 8º (ação controlada).
+
+**Material local**
+
+- `Curso Alfacon/Processo Penal.pdf` (quando disponível)
+
+**Atualização/fonte externa**
+
 - [Código de Processo Penal - Planalto](https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm)
-- [Lei Federal n.º 13.869/2019 - Abuso de Autoridade](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm)
-- [Lei Federal n.º 15.358/2026 - Marco Legal do Combate ao Crime Organizado](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15358.htm)
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Processo Penal.pdf`
-- `Materiais QB/Processual Penal/`
-
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos; onde não há questão real disponível, a lacuna está registrada explicitamente.
