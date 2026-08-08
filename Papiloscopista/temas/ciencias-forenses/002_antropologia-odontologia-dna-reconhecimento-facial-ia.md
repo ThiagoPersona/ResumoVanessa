@@ -14,6 +14,10 @@ Este item cobre os métodos de identificação usados quando a papiloscopia trad
 | Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
 |---|---:|---|
 | FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q42: métodos de obtenção do perfil biológico em antropologia forense (sexo, idade a partir de ossos e dentes). |
+| FGV PC-MG | 2025 | Q7 e Q9: associar estrutura óssea/dentária à finalidade (comparativa, estatura, toxicologia, idade, sexo). |
+| FGV EBSERH | 2024 | Q11: marcador de idade óssea em ossada infantil (placa epifisária). |
+| FGV SEAD-AP | 2022 | Q13: pilares da estimativa de ancestralidade/afinidade populacional. Q15: dimorfismo sexual craniano. Q16: limitações da análise de marca de mordida. |
+| FGV PC-AM | 2022 | Q17: estrutura óssea com maior poder combinado de informação sobre sexo e idade. |
 
 ## Conteúdo completo orientado ao edital
 
@@ -35,9 +39,51 @@ Quando um corpo está esqueletizado, carbonizado ou muito decomposto, a antropol
 
 O ponto de atenção: nenhum método isolado é definitivo — a antropologia forense combina vários indicadores (ósseos e dentários) para reduzir a margem de erro na estimativa do perfil biológico.
 
+**Estimativa de idade em ossada infantil/subadulta**: em indivíduos ainda em crescimento, o marcador clássico não é o desgaste (que só existe em adultos), mas a **presença e o grau de fusão da placa epifisária** (cartilagem de crescimento nas extremidades dos ossos longos) — presente e aberta em crianças, fundindo-se gradualmente até a maturidade esquelética.
+
+**Estrutura óssea com maior poder combinado de informação**: entre todas as estruturas do esqueleto, o **osso da bacia (pelve)** é o que reúne mais informação ao mesmo tempo — é a melhor referência para sexo e também abriga a sínfise púbica, marcador clássico de idade em adultos. Por isso, quando a questão pede "a estrutura com mais informação sobre sexo E idade" (não um método isolado), a resposta tende a ser a pelve, não o crânio isoladamente.
+
+**Correlação estrutura → finalidade** (padrão de tabela que a FGV gosta de cobrar por associação):
+
+| Estrutura | Finalidade principal |
+|---|---|
+| Arcada dentária / dentes | Identificação comparativa (confronto com prontuário odontológico) |
+| Ossos longos (fêmur, ossos do pé, metatarsiano) | Estimativa de estatura |
+| Unhas e cabelos | Estudo toxicológico (retêm substâncias por período prolongado) |
+| Quarto arco costal | Estimativa de idade (padrão de desgaste da extremidade esternal) |
+| Sínfise púbica | Estimativa de idade em adultos |
+| Clavícula | Fim do fechamento das fises (último osso do esqueleto a fundir completamente, por volta dos 25 anos) |
+| Processo mastoide do crânio / eminência mentual | Determinação do sexo (estruturas cranianas sexualmente dimórficas) |
+
+### Antropometria x Antroposcopia: as duas metodologias da Antropologia Forense
+
+A estimativa de ancestralidade/afinidade populacional se apoia em duas grandes metodologias, que a doutrina recomenda cruzar (usar as duas juntas) para reduzir erro:
+
+- **Antropometria** (métrica): mais objetiva, baseada em medidas, ângulos e projeções mensuráveis das partes do corpo (ex.: ângulo facial, índices cranianos).
+- **Antroposcopia** (morfológica): estuda caracteres subjetivos, não mensuráveis diretamente (aparência geral de traços, formas).
+
+O crânio (especialmente a face) é o melhor marcador biológico isolado para essa análise, mas marcadores do esqueleto pós-craniano também são usados como reforço.
+
+### Dimorfismo sexual craniano: traços robustos x traços graciles
+
+Além da pelve, o crânio também informa sobre o sexo, através de um conjunto de traços que a prova cobra em combinação (nunca isoladamente):
+
+| Traço | Masculino (robusto) | Feminino (gracil) |
+|---|---|---|
+| Glabela e arcos superciliares | Salientes, marcados | Suaves, pouco marcados |
+| Fronte | Inclinada/fugida | Vertical |
+| Articulação frontonasal | Angulosa | Curva |
+| Mandíbula | Mais robusta, ângulo mais marcado | Mais achatada, suave |
+| Apófises mastoide/estiloide | Maiores | Menores |
+| Peso geral do crânio | Mais pesado | Mais leve |
+
+Pegadinha clássica: a banca monta uma alternativa "masculina" misturando um traço realmente robusto (crânio pesado) com um traço gracil (apófises menores) na mesma frase, criando uma combinação internamente contraditória que soa plausível numa leitura rápida.
+
 ### Odontologia legal
 
 A arcada dentária é um identificador robusto porque o **esmalte dentário é o tecido mais resistente do corpo humano**, sobrevivendo a situações que destroem outros tecidos (carbonização, imersão prolongada, decomposição avançada). A odontologia legal compara o padrão dentário (posição, restaurações, próteses, anomalias) de um corpo não identificado com registros odontológicos prévios (prontuário odontológico, radiografias) — método frequentemente decisivo em identificação de vítimas de incêndios, acidentes aéreos e desastres em massa.
+
+**Limitações da análise de marca de mordida (bitemark analysis)**: diferente do confronto de arcada dentária com prontuário odontológico (método consolidado), a análise do **padrão/formato** de uma marca de mordida deixada na pele de uma vítima é hoje questionada cientificamente (casos revistos pelo Innocence Project nos EUA; relatório do NIST de 2022 aponta suporte científico insuficiente). Razões centrais: a mordida envolve dois "instrumentos móveis" (arcada dentária e pele), gerando padrões inconsistentes; a pele não é um bom suporte para preservar/coletar o padrão; e a lesão se altera com o tempo. Atenção: isso não invalida a coleta de **DNA/saliva** eventualmente presente na marca — a fragilidade científica é especificamente da análise do formato/padrão da mordida, não da genética que possa ser recuperada dali.
 
 ### DNA na identificação forense
 
@@ -89,6 +135,55 @@ Sistemas de reconhecimento facial usam algoritmos para mapear pontos geométrico
 5. **Descarte E**: transparência radicular é método de estimativa de idade adulta, não aplicável a "qualquer fase da vida" (crianças não têm raiz dentária completamente formada para esse tipo de análise).
 6. **D é o gabarito.**
 
+**Fonte: FGV, PC-MG, 2025, questão 7 (gabarito oficial: D)**
+
+> Relacione: 1. Quarto arco costal; 2. Processo mastoide do crânio; 3. Arcada dentária; 4. Fêmur e ossos do pé; 5. Unhas e cabelos ( ) Identificação comparativa ( ) Estimativa de estatura ( ) Estudo toxicológico ( ) Estimativa de idade ( ) Determinação do sexo.
+
+1. **Associe cada estrutura à sua finalidade central**: arcada dentária compara com prontuário (comparativa=3); ossos longos medem estatura (4); unhas/cabelos guardam substâncias (toxicologia=5); arco costal tem padrão de desgaste ligado à idade (1); processo mastoide é sexualmente dimórfico (2).
+2. **Sequência: 3-4-5-1-2 → D é o gabarito.**
+
+**Fonte: FGV, PC-MG, 2025, questão 9 (gabarito oficial: C)**
+
+> Correlacione: 1. Sínfise púbica; 2. Segundo metatarsiano; 3. Clavícula; 4. Eminência mentual; 5. Dentes ( ) identificação comparativa ( ) estatura ( ) fim do fechamento das fises ( ) idade ( ) sexo.
+
+1. **Dentes comparam com prontuário (comparativa=5); metatarsiano é osso longo (estatura=2); clavícula funde por último (fim das fises=3); sínfise púbica marca idade adulta (1); eminência mentual é sexualmente dimórfica (4).**
+2. **Sequência: 5-2-3-1-4 → C é o gabarito.**
+
+**Fonte: FGV, EBSERH, 2024, questão 11 (gabarito oficial: E)**
+
+> Um perito criminal ao analisar a ossada de uma criança pode inferir sua idade óssea, devido à(ao)... (E) presença de placa epifisária da ulna.
+
+1. **Em indivíduos ainda em crescimento, o marcador de idade óssea é a presença e o grau de fusão da placa epifisária**, não o desgaste (que só existe em adultos).
+2. **E é o gabarito.**
+
+**Fonte: FGV, SEAD-AP, 2022, questão 13 (gabarito oficial: E)**
+
+> Sobre os pilares da Antropologia Forense na estimativa de afinidade populacional, analise I (crânio como melhor marcador, mas não único), II (Antropometria + Antroposcopia, cruzar as duas é melhor) e III (Antroposcopia=subjetiva, Antropometria=objetiva/mensurável).
+
+1. **Confirme cada afirmativa contra a doutrina**: todas as três descrevem corretamente os conceitos.
+2. **E (I, II e III) é o gabarito.**
+
+**Fonte: FGV, SEAD-AP, 2022, questão 15 (gabarito oficial: D)**
+
+> Sobre a estimativa do sexo pelo crânio, assinale a correta: (D) Fronte vertical, articulação frontonasal curva e mandíbula mais achatada são características femininas.
+
+1. **Recorra à tabela de dimorfismo sexual craniano**: traços graciles (suaves) = feminino; traços robustos = masculino.
+2. **D reúne três traços graciles coerentes → gabarito.** As demais alternativas invertem traços ou misturam robusto com gracil na mesma frase.
+
+**Fonte: FGV, SEAD-AP, 2022, questão 16 (gabarito oficial: E)**
+
+> Hipóteses que explicam a fragilidade científica da análise de marca de mordida, à exceção de uma.
+
+1. **Filtre a alternativa que fala de outra técnica (DNA/saliva), não do formato da mordida**.
+2. **E é o gabarito**: recuperar DNA da saliva é vantagem de técnica diferente, não explicação da fragilidade da análise do padrão da mordida.
+
+**Fonte: FGV, PC-AM, 2022, questão 17 (gabarito oficial: D)**
+
+> Assinale a parte do esqueleto que fornece mais informações sobre sexo e idade.
+
+1. **A pelve reúne dois papéis**: melhor estrutura para sexo, e sede da sínfise púbica (marcador de idade em adultos).
+2. **D (osso da bacia) é o gabarito**, único com esse poder combinado.
+
 ## Pegadinhas da banca
 
 - Trocar a estrutura óssea de referência para sexo (pelve) pela de idade (suturas, sínfise púbica, dentes).
@@ -96,6 +191,10 @@ Sistemas de reconhecimento facial usam algoritmos para mapear pontos geométrico
 - Generalizar um método de estimativa de idade adulta (transparência radicular, sínfise púbica) como aplicável "em qualquer fase da vida".
 - Confundir DNA (confirma identidade/paternidade) com métodos apenas exclusivos, como tipagem sanguínea.
 - Superestimar a confiabilidade do reconhecimento facial, tratando-o como prova definitiva de identidade isolada.
+- Confundir "estudo toxicológico" (unhas/cabelos) com "estimativa de idade" (arco costal) numa tabela de correlação.
+- Achar que "fim do fechamento das fises" é sinônimo genérico de idade, quando a questão pede especificamente a clavícula (última a fundir).
+- Misturar traço robusto (masculino) e traço gracil (feminino) na mesma alternativa de dimorfismo craniano.
+- Confundir a fragilidade científica da análise de PADRÃO de marca de mordida com a validade da coleta de DNA/saliva eventualmente presente nela — são coisas diferentes.
 
 ## Como resolver questões
 
@@ -106,16 +205,20 @@ Sistemas de reconhecimento facial usam algoritmos para mapear pontos geométrico
 
 ## Lacunas honestas
 
-- Ainda não há questão real localizada sobre odontologia legal isoladamente, sobre DNA mitocondrial, ou sobre reconhecimento facial/IA aplicada à perícia neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
+- Ainda não há questão real localizada sobre DNA mitocondrial isoladamente, nem sobre reconhecimento facial/IA aplicada à perícia neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
 - [ ] Sei qual estrutura óssea é a referência mais confiável para estimar sexo (pelve).
-- [ ] Sei os principais métodos de estimativa de idade e a faixa etária em que cada um é mais útil.
+- [ ] Sei os principais métodos de estimativa de idade e a faixa etária em que cada um é mais útil, incluindo a placa epifisária em ossada infantil.
 - [ ] Sei por que o esmalte dentário torna a odontologia legal um método robusto em corpos muito degradados.
 - [ ] Sei diferenciar o poder de confirmação do DNA do poder apenas exclusivo da tipagem sanguínea.
 - [ ] Sei listar as principais limitações técnicas do reconhecimento facial como método de identificação.
-- [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
+- [ ] Sei a tabela de correlação estrutura → finalidade (comparativa, estatura, toxicologia, idade, sexo).
+- [ ] Sei diferenciar Antropometria (métrica) de Antroposcopia (morfológica).
+- [ ] Sei os traços robustos x graciles do dimorfismo sexual craniano.
+- [ ] Sei por que a análise de padrão de marca de mordida é cientificamente questionada, sem confundir com a coleta de DNA/saliva.
+- [ ] Resolvi as oito questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
@@ -127,6 +230,10 @@ Sistemas de reconhecimento facial usam algoritmos para mapear pontos geométrico
 **Prova/FGV**
 
 - FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questão 42. Gabarito definitivo publicado pela FGV.
+- FGV. PC-MG, 2025. Questões 7 e 9 localizadas em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. EBSERH, 2024. Questão 11 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. SEAD-AP, 2022. Questões 13, 15 e 16 localizadas em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. PC-AM, 2022. Questão 17 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**

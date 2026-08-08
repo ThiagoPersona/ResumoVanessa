@@ -22,8 +22,8 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Tecnologia | Segurança da informação, malware, phishing e backup | 2 | [Abrir](provas/tecnologia/004_seguranca-informacao-malware-phishing-backup.md) |
 | Tecnologia | Crimes digitais, evidências eletrônicas e OSINT | 2 | [Abrir](provas/tecnologia/005_crimes-digitais-evidencias-osint.md) |
 | Tecnologia | Legislação e ética digital | 2 | [Abrir](provas/tecnologia/006_legislacao-etica-digital.md) |
-| Ciências Forenses | Medicina legal, identificação humana e papiloscopia | 2 | [Abrir](provas/ciencias-forenses/001_medicina-legal-identificacao-papiloscopia.md) |
-| Ciências Forenses | Antropologia, odontologia legal, DNA, reconhecimento facial e IA | 2 | [Abrir](provas/ciencias-forenses/002_antropologia-odontologia-dna-reconhecimento-facial-ia.md) |
+| Ciências Forenses | Medicina legal, identificação humana e papiloscopia | 7 | [Abrir](provas/ciencias-forenses/001_medicina-legal-identificacao-papiloscopia.md) |
+| Ciências Forenses | Antropologia, odontologia legal, DNA, reconhecimento facial e IA | 9 | [Abrir](provas/ciencias-forenses/002_antropologia-odontologia-dna-reconhecimento-facial-ia.md) |
 | Ciências Forenses | Sexologia, traumatologia, asfixiologia e balística | 3 | [Abrir](provas/ciencias-forenses/003_sexologia-traumatologia-asfixiologia-balistica.md) |
 | Ciências Forenses | Tanatologia, necropsia, toxicologia e psicopatologia | 2 | [Abrir](provas/ciencias-forenses/004_tanatologia-necropsia-toxicologia-psicopatologia.md) |
 | Ciências Forenses | Criminalística, local de crime e cadeia de custódia | 8 | [Abrir](provas/ciencias-forenses/005_criminalistica-local-crime-cadeia-custodia.md) |
