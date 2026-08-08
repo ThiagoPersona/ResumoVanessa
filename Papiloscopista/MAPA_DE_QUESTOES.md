@@ -30,7 +30,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | Penal | 3 | 3 | 14 | Conhecimentos Específicos, item 7 |
 | Processo Penal | 3 | 3 | 17 | Conhecimentos Específicos, item 8 |
 | Constitucional | 3 | 3 | 19 | Conhecimentos Específicos, item 9 |
-| Administrativo | 3 | 3 | 3 | Conhecimentos Específicos, item 10 |
+| Administrativo | 3 | 3 | 13 | Conhecimentos Específicos, item 10 |
 | Direitos Humanos | 3 | 3 | 3 | Conhecimentos Específicos, item 11 |
 
 ## Distribuição de letras já convertidas
@@ -110,9 +110,9 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | 053 | Constitucional | Princípios, direitos, garantias e remédios constitucionais | Constitucional 8.1-8.3 | altíssima | 8 (7 oficiais FGV) |
 | 054 | Constitucional | Organização do Estado, Poderes e segurança pública | Constitucional 8.4-8.6 | altíssima | 7 (6 oficiais FGV) |
 | 055 | Constitucional | Controle de constitucionalidade e Constituição do Paraná | Constitucional 8.7-8.8 | alta | 4 (autorais) |
-| 056 | Administrativo | Conceito, fontes, princípios e Administração Pública | Administrativo 9.1-9.2 | alta | 1 |
-| 057 | Administrativo | Atos, poderes, serviços, licitações e contratos | Administrativo 9.3-9.6 | altíssima | 1 |
-| 058 | Administrativo | Agentes, responsabilidade, improbidade e controle | Administrativo 9.7-9.10 | alta | 1 |
+| 056 | Administrativo | Conceito, fontes, princípios e Administração Pública | Administrativo 9.1-9.2 | alta | 4 (1 oficial FGV) |
+| 057 | Administrativo | Atos, poderes, serviços, licitações e contratos | Administrativo 9.3-9.6 | altíssima | 4 (3 oficiais FGV) |
+| 058 | Administrativo | Agentes, responsabilidade, improbidade e controle | Administrativo 9.7-9.10 | alta | 5 (4 oficiais FGV) |
 | 059 | Direitos Humanos | Teoria, sistemas de proteção e democracia | Direitos Humanos 10.1-10.3 | alta | 1 |
 | 060 | Direitos Humanos | Grupos vulneráveis, segurança pública e atuação policial | Direitos Humanos 10.4-10.5 | altíssima | 1 |
 | 061 | Direitos Humanos | PNDH, educação em direitos humanos e Agenda 2030 | Direitos Humanos 10.6-10.7 | média | 1 |

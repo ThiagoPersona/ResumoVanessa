@@ -1,172 +1,95 @@
 # 058 - Agentes, responsabilidade, improbidade e controle
 
-> **Base do edital:** Conhecimentos Específicos; Administrativo 9.7-9.10.  
-> **Peso da disciplina:** 3 questões na prova objetiva.  
-> **Prioridade:** alta.
+## Leitura rápida
+
+- Servidor público estável só perde o cargo mediante sentença judicial transitada em julgado, processo administrativo com ampla defesa, ou procedimento de avaliação periódica de desempenho (também com ampla defesa) — nunca de forma sumária ou automática.
+- O controle externo da atividade policial é função institucional do Ministério Público, a quem também cabe requisitar diligências investigatórias e a instauração de inquérito policial.
+- Após a reforma da Lei de Improbidade Administrativa (Lei 14.230/2021), terceiros (pessoas físicas ou jurídicas privadas) só respondem por ato de improbidade imputado a agente público se comprovadamente houver participação e benefícios diretos, respondendo nos limites de sua participação — não há mais responsabilização automática e ilimitada.
+- A responsabilidade civil do Estado por omissão exige, em regra, a demonstração do nexo de causalidade entre a conduta omissiva e o dano; comprovada causa impeditiva da atuação estatal (rompendo esse nexo), a pretensão indenizatória não prospera.
 
 ## Por que cai
 
-- **Frequência no edital:** a disciplina Administrativo soma 3 questões; este capítulo concentra Administrativo 9.7-9.10.
-- **Como a FGV costuma cobrar:** Administrativo vem por classificação e consequência: princípio, ato, poder, agente, responsabilidade, improbidade, licitação e controle.
-- **O que mais confunde candidatos:** confundir revogação com anulação; poder disciplinar com hierárquico; responsabilidade objetiva do Estado com culpa pessoal do agente.
-- **Particularidade para Papiloscopista:** O bloco ajuda a responder sobre conduta funcional, atos da Administração, deveres do servidor e controle da atividade policial.
+Este tema trata da relação jurídica entre o servidor e o Estado, dos mecanismos de controle da atividade administrativa (incluindo o controle externo da própria atividade policial) e da responsabilização por atos de improbidade e danos causados pela Administração — conhecimento de aplicação direta à carreira do candidato.
 
-## Leitura rápida
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV PCAM - Investigador de Polícia, 4ª Classe | 2021/2022 | Q72: hipóteses constitucionais de perda do cargo por servidor estável (processo administrativo com ampla defesa). Q75: controle externo da atividade policial como função institucional do Ministério Público. Q76: responsabilização de sócios/diretores de pessoa jurídica privada por ato de improbidade, após a reforma da Lei 14.230/2021. Q78: responsabilidade civil do Estado por omissão, rompimento do nexo de causalidade quando comprovada causa impeditiva da atuação protetiva. |
 
-- **Agentes públicos, cargos, empregos e funções públicas.** Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo.
-- **Investidura, direitos, deveres, responsabilidades e processo administrativo disciplinar.** Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo.
-- **Responsabilidade civil do Estado, improbidade administrativa e controle da Administração.** Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo.
-- **Prioridade FGV:** Domine a definição e a finalidade antes de decorar detalhes.
-- **Prioridade FGV:** Compare com temas vizinhos para evitar troca conceitual.
-- **Prioridade FGV:** Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- **Prioridade FGV:** Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Antes de resolver questão, identifique se o comando pede conceito, exceção, comparação, consequência ou aplicação prática.
+## Conteúdo completo orientado ao edital
 
-## Conteúdo essencial
+### Estabilidade do servidor público e hipóteses de perda do cargo (CF, art. 41)
 
-### Visão de estudo para este tema
+Após três anos de efetivo exercício e avaliação especial de desempenho favorável, o servidor público adquire **estabilidade**. A partir daí, só perde o cargo em três hipóteses:
 
-Direito Administrativo explica a máquina pública em funcionamento: princípios, órgãos, entidades, atos, poderes, serviços, licitações, agentes, responsabilidade, improbidade e controle.
-
-A FGV costuma cobrar classificação com consequência. Se o ato é ilegal, a resposta pode envolver anulação; se é inconveniente, revogação; se há dano causado por agente público nessa qualidade, responsabilidade civil do Estado; se há dolo e tipo legal, improbidade.
-
-O candidato deve diferenciar Administração direta e indireta, descentralização e desconcentração, poder hierárquico e disciplinar, polícia administrativa e polícia judiciária.
-
-**Aplicação ao cargo:** O bloco ajuda a compreender dever funcional, limites do agente público, controle de atos e responsabilidade na atuação institucional.
-
-**Aviso de fonte:** Como este tema usa fonte jurídica, normativa ou dado público atualizável, revise a fonte oficial indicada nas referências antes de fixar prazos, redações ou números.
-
-### O que mais merece atenção
-
-- princípios administrativos
-- administração direta e indireta
-- atos administrativos
-- poderes administrativos e abuso de poder
-- licitações e contratos
-- agentes, responsabilidade, improbidade e controle
-
-### Conteúdo completo orientado ao edital
-
-### 1. Agentes públicos, cargos, empregos e funções públicas.
-
-**O que significa:** Agentes públicos exercem função pública. O Estado responde objetivamente por danos de seus agentes nessa qualidade, com direito de regresso em caso de dolo ou culpa. Improbidade exige conduta dolosa tipificada.
-
-**Como estudar para a prova:** Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo.
-
-**Como a FGV pode cobrar:** A banca cobra consequência jurídica: responsabilidade civil, disciplinar, improbidade ou controle.
-
-**Cuidado de prova:** Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo.
-
-### 2. Investidura, direitos, deveres, responsabilidades e processo administrativo disciplinar.
-
-**O que significa:** Agentes públicos exercem função pública. O Estado responde objetivamente por danos de seus agentes nessa qualidade, com direito de regresso em caso de dolo ou culpa. Improbidade exige conduta dolosa tipificada.
-
-**Como estudar para a prova:** Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo.
-
-**Como a FGV pode cobrar:** A banca cobra consequência jurídica: responsabilidade civil, disciplinar, improbidade ou controle.
-
-**Cuidado de prova:** Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo.
-
-### 3. Responsabilidade civil do Estado, improbidade administrativa e controle da Administração.
-
-**O que significa:** Agentes públicos exercem função pública. O Estado responde objetivamente por danos de seus agentes nessa qualidade, com direito de regresso em caso de dolo ou culpa. Improbidade exige conduta dolosa tipificada.
-
-**Como estudar para a prova:** Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo.
-
-**Como a FGV pode cobrar:** A banca cobra consequência jurídica: responsabilidade civil, disciplinar, improbidade ou controle.
-
-**Cuidado de prova:** Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo.
-
-### Prioridades FGV dentro deste tema
-
-| Prioridade | Como transformar em treino |
+| Hipótese | Requisito |
 |---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Compare com temas vizinhos para evitar troca conceitual. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Transforme em pergunta de prova e tente justificar uma alternativa correta e uma incorreta. |
+| Sentença judicial transitada em julgado | Trânsito em julgado exigido — não basta decisão de primeira ou segunda instância ainda recorrível |
+| Processo administrativo disciplinar | Assegurada ampla defesa |
+| Procedimento de avaliação periódica de desempenho | Na forma de lei complementar, assegurada ampla defesa |
 
-### Diferenças que a banca costuma trocar
+**Ponto de prova recorrente**: em nenhuma das três hipóteses a perda do cargo é automática ou sumária — todas exigem processo formal, e duas delas exigem expressamente ampla defesa (a hipótese de sentença judicial exige trânsito em julgado, o que já pressupõe o devido processo legal anterior).
 
-| Ponto | Cuidado principal | Forma provável de cobrança |
+### Controle externo da atividade policial
+
+CF, Art. 129, VII: entre as funções institucionais do **Ministério Público**, está **"exercer o controle externo da atividade policial, na forma da lei complementar"** — a quem também cabe requisitar diligências investigatórias e a instauração de inquérito policial, indicados os fundamentos jurídicos de suas manifestações processuais.
+
+### Responsabilidade de terceiros por ato de improbidade (Lei 8.429/1992, com a reforma da Lei 14.230/2021)
+
+A Lei de Improbidade Administrativa, após a reforma de 2021, alterou substancialmente o regime de responsabilização de terceiros (pessoas físicas ou jurídicas privadas que não são agentes públicos):
+
+- Antes da reforma: havia responsabilização mais ampla e automática de terceiros que se beneficiassem do ato de improbidade.
+- **Depois da reforma**: terceiros só respondem pelo ato de improbidade imputado ao agente público **se comprovadamente houver participação e benefícios diretos**, respondendo **nos limites de sua participação** — não há mais responsabilização automática, ilimitada ou objetiva de sócios/diretores de empresas envolvidas.
+
+**Ponto de prova recorrente**: a exigência de comprovação de participação e benefício direto, com responsabilização limitada à extensão dessa participação, é o núcleo da mudança trazida pela Lei 14.230/2021 — reflete uma tendência de maior rigor probatório e menor automatismo na responsabilização de terceiros.
+
+### Responsabilidade civil do Estado
+
+A responsabilidade civil do Estado por **conduta comissiva** de seus agentes é, em regra, **objetiva** (Art. 37, § 6º, CF), dispensando prova de dolo ou culpa, bastando o nexo de causalidade entre a conduta e o dano. Já a responsabilidade por **omissão** é tema mais controvertido na doutrina/jurisprudência, mas o ponto central testável é:
+
+**Rompimento do nexo de causalidade**: mesmo diante de um dano ocorrido sob custódia do Estado (como o suicídio de um preso em estabelecimento prisional), se restar **comprovado que não houve inobservância do dever específico de proteção** pelo Estado (ou seja, há causa impeditiva da atuação protetiva, plenamente demonstrada), o nexo de causalidade entre a suposta omissão e o dano se rompe, e a pretensão indenizatória **não prospera** — não existe responsabilidade objetiva automática e ilimitada do Estado por qualquer dano ocorrido sob sua custódia, independentemente das circunstâncias.
+
+## Prioridades FGV dentro deste tema
+
+| Prioridade | Por que é prioridade | Como treinar |
 |---|---|---|
-| Agentes públicos, cargos, empregos e funções públicas. | Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo. | A banca cobra consequência jurídica: responsabilidade civil, disciplinar, improbidade ou controle. |
-| Investidura, direitos, deveres, responsabilidades e processo administrativo disciplinar. | Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo. | A banca cobra consequência jurídica: responsabilidade civil, disciplinar, improbidade ou controle. |
-| Responsabilidade civil do Estado, improbidade administrativa e controle da Administração. | Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo. | A banca cobra consequência jurídica: responsabilidade civil, disciplinar, improbidade ou controle. |
+| Saber as três hipóteses de perda do cargo por servidor estável (sentença transitada em julgado; PAD com ampla defesa; avaliação periódica com ampla defesa) | Evidenciado diretamente na questão real PCAM Q72 | Memorize as três hipóteses do Art. 41, § 1º, CF |
+| Saber que o controle externo da atividade policial é função institucional do Ministério Público | Evidenciado diretamente na questão real PCAM Q75 | Associe: MP = controle externo da atividade policial (Art. 129, VII, CF) |
+| Saber que terceiros só respondem por improbidade com prova de participação e benefício direto, nos limites de sua participação | Evidenciado diretamente na questão real PCAM Q76 | Memorize a mudança trazida pela Lei 14.230/2021: fim da responsabilização automática de terceiros |
+| Saber que a prova de causa impeditiva da atuação protetiva rompe o nexo de causalidade, afastando a responsabilidade estatal | Evidenciado diretamente na questão real PCAM Q78 | Associe: sem nexo de causalidade comprovado = sem responsabilidade civil do Estado |
 
-### Aplicação direta para Papiloscopista
+## Diferenças que a banca costuma trocar
 
-- Relacione o tema à produção de informação confiável: leitura precisa, registro correto, preservação de vestígio, proteção de dado, atuação dentro da lei ou raciocínio lógico sobre evidências.
-- Quando o assunto envolver identificação humana, pense em individualização, qualidade da coleta, comparação técnica, rastreabilidade e limite do método.
-- Quando envolver norma jurídica, pense em sujeito competente, finalidade, dever, vedação, responsabilidade e consequência.
-- Quando envolver ciência natural ou tecnologia, pense em fenômeno, instrumento, procedimento, erro de medição, preservação e validação.
-- Use este capítulo como revisão ativa: transforme cada subtópico em pergunta e escreva uma resposta curta antes de olhar questões.
-
-### Roteiro de estudo de alta retenção
-
-1. Leia os microtópicos do edital e destaque verbos, nomes técnicos, prazos, classificações e exceções.
-2. Faça uma tabela de comparação entre conceitos parecidos do tema.
-3. Resolva questões ou exemplos sem consultar o gabarito.
-4. Explique em voz alta por que a alternativa errada parece tentadora.
-5. Volte ao edital e marque se algum item ainda não foi coberto por questão.
-
-### Lacunas honestas
-
-- Este capítulo já cobre o conteúdo programático em linguagem própria, mas a incidência estatística por prova anterior só deve ser ampliada quando as questões locais forem extraídas com fonte e gabarito conferidos.
-- Se uma lei, dado do Paraná ou norma institucional tiver alteração após a data de geração do material, a fonte oficial indicada deve prevalecer sobre este resumo.
-
-## Tabelas e esquemas
-
-| Ponto do edital | O que revisar | Pegadinha provável |
-|---|---|---|
-| Agentes públicos, cargos, empregos e funções públicas. | Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo. | Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo. |
-| Investidura, direitos, deveres, responsabilidades e processo administrativo disciplinar. | Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo. | Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo. |
-| Responsabilidade civil do Estado, improbidade administrativa e controle da Administração. | Cargo, emprego, função, investidura, deveres, PAD, risco administrativo, excludentes, atos de improbidade, sanções, autotutela, controle administrativo, judicial e legislativo. | Após a reforma da improbidade, culpa simples não basta para ato de improbidade; atenção ao dolo. |
-
-| Ponto quente | Treino recomendado |
-|---|---|
-| Domine a definição e a finalidade antes de decorar detalhes. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Compare com temas vizinhos para evitar troca conceitual. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Treine por alternativa: uma palavra absoluta pode mudar todo o item. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-| Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial. | Monte uma alternativa correta, uma quase correta e uma errada por troca conceitual. |
-
-| Filtro de prova | Pergunta mental |
-|---|---|
-| Conceito | Sei definir com minhas palavras, sem depender de frase decorada? |
-| Finalidade | Sei explicar para que serve e em qual situação aparece? |
-| Diferença | Sei separar de institutos parecidos? |
-| Exceção | Há prazo, requisito, competência, limite ou hipótese especial? |
-| Aplicação | Consigo reconhecer o tema em caso curto da FGV? |
+| Conceito A | Conceito B | Como a banca troca | Como não cair |
+|---|---|---|---|
+| Estabilidade (após 3 anos e avaliação favorável) | Efetividade (mera aprovação em concurso, antes da estabilidade) | Ambos parecem "cargo garantido" | Estabilidade exige o cumprimento do estágio probatório com avaliação favorável; efetividade é anterior a isso |
+| Controle externo da atividade policial (Ministério Público) | Controle interno da atividade policial (Corregedoria da própria instituição) | Ambos são "controle sobre a polícia" | O controle externo é exercido por órgão fora da própria instituição policial (MP); o interno, por órgão da própria corporação |
+| Responsabilidade objetiva do Estado (conduta comissiva, dispensa dolo/culpa) | Responsabilidade por omissão (exige nexo causal comprovado, pode ser afastada por causa impeditiva) | Ambas são "responsabilidade civil do Estado" | A responsabilidade por omissão depende de análise mais cuidadosa do nexo causal, podendo ser afastada quando comprovada causa impeditiva |
 
 ## Pegadinhas da banca
 
-- Dizer que conveniência e oportunidade permitem anular ato ilegal.
-- Confundir descentralização com desconcentração.
-- Aplicar culpa civil comum à responsabilidade objetiva do Estado.
-- Tratar controle judicial como substituição plena do mérito administrativo.
-- Prioridade de atenção: Domine a definição e a finalidade antes de decorar detalhes.
-- Prioridade de atenção: Compare com temas vizinhos para evitar troca conceitual.
-- Prioridade de atenção: Treine por alternativa: uma palavra absoluta pode mudar todo o item.
-- Prioridade de atenção: Conecte o ponto ao cargo de Papiloscopista sempre que houver identificação, prova, sigilo ou atuação policial.
-- Alternativa que usa termo técnico correto em contexto errado.
-- Afirmação absoluta onde o edital exige análise de caso, fonte ou finalidade.
+- Achar que servidor estável pode perder o cargo de forma sumária, sem qualquer das três hipóteses constitucionais.
+- Confundir controle externo (Ministério Público) com controle interno (Corregedoria) da atividade policial.
+- Aplicar a regra antiga (pré-reforma de 2021) de responsabilização automática de terceiros por improbidade, ignorando a exigência atual de prova de participação/benefício direto.
+- Achar que a responsabilidade do Estado é sempre objetiva e automática, mesmo diante de causa impeditiva comprovada que rompe o nexo de causalidade.
 
 ## Como resolver questões
 
-1. Classifique primeiro: princípio, organização administrativa, ato, poder, serviço, licitação, agente, responsabilidade ou controle.
-2. Em ato administrativo, identifique competência, finalidade, forma, motivo e objeto.
-3. Em responsabilidade civil, separe dano, nexo, agente público e excludentes.
-4. Em improbidade, procure dolo, tipo de ato e sanção.
-5. Se a questão parecer fora do material, marque como lacuna para revisão posterior e confira a fonte oficial ou o PDF local antes de alterar gabarito.
+1. Para perda do cargo de servidor estável, verifique se a hipótese descrita corresponde a uma das três previstas constitucionalmente (sentença transitada em julgado, PAD, avaliação periódica).
+2. Para controle da atividade policial, identifique se a questão trata de controle externo (Ministério Público) ou interno (Corregedoria).
+3. Para responsabilização de terceiros por improbidade, sempre verifique se há prova de participação e benefício direto (regra pós-reforma de 2021).
+4. Para responsabilidade civil do Estado, avalie sempre a existência (ou rompimento) do nexo de causalidade entre a conduta/omissão e o dano.
+
+## Lacunas honestas
+
+- Nenhuma lacuna relevante identificada para este tema — foram localizadas quatro questões reais cobrindo estabilidade, controle da atividade policial, improbidade administrativa e responsabilidade civil do Estado.
 
 ## Checklist de revisão
 
-- [ ] Li o item do edital correspondente: Administrativo 9.7-9.10.
-- [ ] Consigo explicar os microtópicos sem copiar definição pronta.
-- [ ] Sei diferenciar este tema dos capítulos vizinhos da mesma disciplina.
-- [ ] Tenho atenção às expressões absolutas e às exceções.
-- [ ] Revisei pelo menos uma questão ou exemplo de aplicação.
-- [ ] Registrei lacuna quando faltou prova anterior, gabarito oficial ou fonte atualizada.
+- [ ] Sei as três hipóteses constitucionais de perda do cargo por servidor estável.
+- [ ] Sei que o controle externo da atividade policial é função institucional do Ministério Público.
+- [ ] Sei que terceiros só respondem por improbidade com prova de participação e benefício direto, nos limites de sua participação (regra pós-2021).
+- [ ] Sei que a prova de causa impeditiva da atuação protetiva rompe o nexo de causalidade, afastando a responsabilidade civil do Estado.
+- [ ] Resolvi as quatro questões reais comentadas deste tema sem olhar o gabarito antes.
 
 ## Questões relacionadas
 
@@ -174,13 +97,23 @@ O candidato deve diferenciar Administração direta e indireta, descentralizaç�
 
 ## Referências
 
-### Fontes oficiais
-- [Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV](https://conhecimento.fgv.br/sites/default/files/concursos/copia-1-de-edital-01-2026-pcpr-publicacao.docx.pdf)
-- [Lei Federal n.º 8.429/1992 - Improbidade Administrativa](https://www.planalto.gov.br/ccivil_03/leis/l8429.htm)
-- [Lei Estadual n.º 6.174/1970 - regime jurídico dos servidores do PR](https://www.legislacao.pr.gov.br/legislacao/exibirAto.do?action=localizarAto&codTipoAto=1&dataAto=16%2F11%2F1970&dataPublicacao=20%2F11%2F1970&nroAto=6174&tipoVisualizacao=original)
+**Prova/FGV**
 
-### Materiais locais usados como apoio
-- `Curso Alfacon/Direito Administrativo - cópia.pdf`
-- `Materiais QB/Administrativo/`
+- FGV. PCAM - Investigador de Polícia, 4ª Classe, Tipo Branca, 2021/2022. Caderno oficial, questões 72, 75, 76 e 78. Gabarito oficial definitivo publicado pela FGV (aplicada em 03/04/2022).
+- Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
-> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. Não substitui a leitura da lei seca, do edital e das questões originais quando disponíveis.
+**Lei seca**
+
+- Constituição Federal de 1988, arts. 37, § 6º, 41 e 129, VII.
+- Lei Federal n.º 8.429/1992 - Lei de Improbidade Administrativa, com as alterações da Lei n.º 14.230/2021.
+
+**Material local**
+
+- `Curso Alfacon/Direito Administrativo - cópia.pdf` (quando disponível)
+
+**Atualização/fonte externa**
+
+- [Lei Federal n.º 8.429/1992 (com alterações) - Planalto](https://www.planalto.gov.br/ccivil_03/leis/l8429.htm)
+- [Portal FGV Conhecimento - concursos aplicados](https://conhecimento.fgv.br/concursos) - usado para localizar cadernos oficiais e gabaritos definitivos das provas citadas acima.
+
+> Regra de uso: este capítulo reescreve e organiza o conteúdo em linguagem própria. As questões citadas são reais, com fonte, ano e gabarito oficial conferidos.
