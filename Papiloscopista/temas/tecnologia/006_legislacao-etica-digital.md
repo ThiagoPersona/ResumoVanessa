@@ -14,6 +14,10 @@ Este item fecha o bloco de Tecnologia com o arcabouço legal que regula o uso da
 | Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
 |---|---:|---|
 | FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q24: princípio fundamental da neutralidade de rede segundo o Marco Civil da Internet. |
+| FGV MPE-ES | 2026 | Q1: dever de sigilo e responsabilidade técnica do profissional de TI, independente de intenção de vantagem. |
+| FGV AL-GO | 2026 | Q18: distinguir fundamentos da LGPD (Art. 2º) de hipóteses de exclusão de aplicação (Art. 4º). |
+| FGV DPE-RO | 2025 | Q9: identificar quais itens são realmente fundamentos da LGPD. |
+| FGV CNU | 2025 | Q10: governança da Política Nacional de Cibersegurança (PNCiber), centralizada no GSI. |
 
 ## Conteúdo completo orientado ao edital
 
@@ -43,6 +47,28 @@ Regula o tratamento de dados pessoais por pessoas físicas e jurídicas, públic
 **Bases legais** (hipóteses que autorizam o tratamento de dados pessoais, sem exigir sempre o consentimento do titular): consentimento, cumprimento de obrigação legal, execução de política pública, estudo por órgão de pesquisa, execução de contrato, exercício regular de direitos em processo, proteção da vida, tutela da saúde, interesse legítimo do controlador, proteção de crédito — e, especificamente relevante para a atividade policial, o **tratamento para fins de investigação e repressão de infrações penais, realizado por órgão de segurança pública**, que segue regramento próprio dentro da lei.
 
 **Dado pessoal sensível**: categoria com proteção reforçada — dados sobre origem racial/étnica, convicção religiosa, opinião política, saúde, vida sexual, dado genético ou biométrico quando vinculado a pessoa natural. Dados biométricos, centrais na atividade papiloscópica, entram nessa categoria — o que reforça a exigência de finalidade específica e segurança redobrada no seu tratamento.
+
+**Fundamentos (Art. 2º) x hipóteses de exclusão de aplicação (Art. 4º)**: a FGV cobra insistentemente a troca entre esses dois artigos, que tratam de coisas diferentes:
+
+| Art. 2º — Fundamentos (o que justifica a lei) | Art. 4º — Hipóteses de exclusão (quando a LGPD NÃO se aplica) |
+|---|---|
+| Respeito à privacidade | Tratamento para fins exclusivamente particulares |
+| Autodeterminação informativa | Tratamento para fins jornalísticos, artísticos ou acadêmicos |
+| Liberdade de expressão, informação, comunicação e opinião | Tratamento para fins de segurança pública, defesa nacional, segurança do Estado |
+| Inviolabilidade da intimidade, honra e imagem | Tratamento para investigação e repressão de infrações penais |
+| Desenvolvimento econômico, tecnológico e inovação | — |
+| Livre iniciativa, livre concorrência e defesa do consumidor | — |
+| Direitos humanos, livre desenvolvimento da personalidade, dignidade e cidadania | — |
+
+Erro clássico: apresentar um item do Art. 4º (fins particulares, jornalísticos, segurança nacional, investigação penal) como se fosse um "fundamento" — são situações em que a lei simplesmente não incide, não valores que a justificam. Também é comum a banca inventar um "fundamento" que soa plausível mas não está na lista literal (como "direito ao anonimato de expressão", que inclusive contraria a vedação constitucional ao anonimato).
+
+### Política Nacional de Cibersegurança (PNCiber)
+
+Marco regulatório brasileiro que estrutura a proteção de ativos digitais e a resposta a incidentes cibernéticos em nível nacional. Centraliza a **governança no Gabinete de Segurança Institucional (GSI)** — órgão que já concentra funções de segurança da informação do governo federal — priorizando a proteção de **infraestruturas críticas** (energia, saúde, transporte, abastecimento de água, entre outras) e estabelecendo mecanismos de **coordenação público-privada** para prevenção, detecção e resposta a incidentes. Não subordina a política a comando militar exclusivo, não condiciona cada ação operacional à aprovação prévia do Legislativo, e não se limita à regulação de provedores de internet.
+
+### Dever de sigilo e responsabilidade técnica do profissional de TI
+
+A ética profissional em TI impõe deveres que **independem da intenção do agente**: copiar documentos estratégicos para dispositivo pessoal durante uma manutenção, mesmo sem intenção de obter vantagem, já configura violação do sigilo profissional e da responsabilidade técnica — a conduta em si é a violação, não é preciso comprovar dolo de proveito. Do mesmo modo, o dever de sigilo, em regra, **persiste após o desligamento** do profissional (não depende de cláusula contratual específica para existir), e a responsabilidade técnica é mais ampla do que garantir apenas a disponibilidade dos sistemas — abrange também falhas de configuração que resultem em acessos indevidos.
 
 ### Crimes informáticos: onde estão tipificados
 
@@ -89,6 +115,34 @@ Além da tipificação penal, a atuação com tecnologia envolve princípios ét
 2. **Descarte A, C, D e E**: todas descrevem alguma forma de tratamento diferenciado ou discriminação de tráfego (priorizar por demanda, bloquear sem ordem judicial, priorizar por tipo de serviço, ajustar por plano contratado) — o oposto do que a neutralidade exige.
 3. **B é o gabarito**: descreve exatamente o núcleo do princípio — tratamento igualitário de todos os pacotes, sem discriminação por conteúdo, origem ou destino.
 
+**Fonte: FGV, MPE-ES, 2026, questão 1 (gabarito oficial: A)**
+
+> Sobre legislação e ética profissional em TI.
+
+1. **A violação do sigilo/responsabilidade técnica não depende de intenção de vantagem — a conduta em si já configura a falha.**
+2. **A é o gabarito.**
+
+**Fonte: FGV, AL-GO, 2026, questão 18 (gabarito oficial: E)**
+
+> Fundamento da disciplina de proteção de dados pessoais (LGPD).
+
+1. **"Respeito à privacidade" é fundamento do Art. 2º; as demais opções são hipóteses de exclusão do Art. 4º.**
+2. **E é o gabarito.**
+
+**Fonte: FGV, DPE-RO, 2025, questão 9 (gabarito oficial: C)**
+
+> Quais itens são realmente fundamentos da LGPD (autodeterminação informativa, privacidade, anonimato de expressão)?
+
+1. **Os dois primeiros são fundamentos reais; "anonimato de expressão" não consta da lista e contraria a vedação constitucional ao anonimato.**
+2. **C (I e II) é o gabarito.**
+
+**Fonte: FGV, CNU, 2025, questão 10 (gabarito oficial: D)**
+
+> Governança da PNCiber.
+
+1. **Centraliza no GSI, foco em infraestruturas críticas e coordenação público-privada.**
+2. **D é o gabarito.**
+
 ## Pegadinhas da banca
 
 - Descrever alguma forma de priorização ou discriminação de tráfego como se fosse compatível com a neutralidade de rede.
@@ -96,6 +150,10 @@ Além da tipificação penal, a atuação com tecnologia envolve princípios ét
 - Trocar a lei que criou o tipo de invasão de dispositivo (12.737/2012) pela lei que tratou fraude eletrônica e agravantes (14.155/2021), ou vice-versa.
 - Tratar dado biométrico como dado pessoal comum, ignorando sua classificação como dado sensível na LGPD.
 - Achar que a LGPD proíbe totalmente o uso de dados pessoais por órgão de segurança pública, quando na verdade há base legal específica para investigação e repressão de infrações penais.
+- Confundir fundamentos da LGPD (Art. 2º) com hipóteses de exclusão de aplicação (Art. 4º) — são artigos diferentes, com listas diferentes.
+- Aceitar um "fundamento" que soa plausível mas não está na lista literal do Art. 2º (como "anonimato de expressão").
+- Atribuir a governança da PNCiber a um órgão técnico (CGI.br) ou militar, quando o modelo brasileiro centraliza no GSI.
+- Achar que a violação do dever de sigilo profissional exige comprovação de intenção de vantagem — a conduta em si já é a violação.
 
 ## Como resolver questões
 
@@ -106,7 +164,7 @@ Além da tipificação penal, a atuação com tecnologia envolve princípios ét
 
 ## Lacunas honestas
 
-- Ainda não há questão real localizada especificamente sobre LGPD, sobre a tipificação penal dos crimes informáticos (Lei 12.737/2012, Lei 14.155/2021) ou sobre a Lei de Acesso à Informação neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
+- Ainda não há questão real localizada sobre a tipificação penal dos crimes informáticos (Lei 12.737/2012, Lei 14.155/2021) ou sobre a Lei de Acesso à Informação neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
@@ -115,7 +173,10 @@ Além da tipificação penal, a atuação com tecnologia envolve princípios ét
 - [ ] Sei diferenciar dado pessoal comum de dado pessoal sensível, e por que biometria entra nessa segunda categoria.
 - [ ] Sei em qual lei está tipificada a invasão de dispositivo informático, e qual lei tratou fraude eletrônica e agravantes.
 - [ ] Sei a base legal da LGPD que autoriza tratamento de dados por órgão de segurança pública para investigação criminal.
-- [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
+- [ ] Sei diferenciar os fundamentos da LGPD (Art. 2º) das hipóteses de exclusão de aplicação (Art. 4º).
+- [ ] Sei que a governança da PNCiber é centralizada no GSI, com foco em infraestruturas críticas.
+- [ ] Sei que o dever de sigilo profissional em TI independe de intenção de vantagem.
+- [ ] Resolvi as cinco questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
@@ -127,6 +188,10 @@ Além da tipificação penal, a atuação com tecnologia envolve princípios ét
 **Prova/FGV**
 
 - FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questão 24. Gabarito definitivo publicado pela FGV.
+- FGV. MPE-ES, 2026. Questão 1 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. AL-GO, 2026. Questão 18 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. DPE-RO, 2025. Questão 9 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. CNU, 2025. Questão 10 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**

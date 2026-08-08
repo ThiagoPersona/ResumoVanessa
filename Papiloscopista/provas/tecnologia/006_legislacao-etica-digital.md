@@ -2,11 +2,15 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 2 questões (1 questão oficial FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
+**Itens neste banco:** 6 questões (5 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
 
 ## Fontes reais usadas neste banco
 
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
+- FGV, MPE-ES, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, AL-GO, 2026. Questões localizadas em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, DPE-RO, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, CNU, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">FGV - PCMG Perito Criminal Área I, Tipo 1, 2024, questão 24</p>
@@ -34,11 +38,108 @@
 </div>
 </div>
 
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">FGV - MPE-ES, 2026</p>
+<p><strong>2. Em relação à Legislação e aos aspectos éticos na área de Tecnologia da Informação, assinale a afirmativa correta.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-018-mpees-q1" value="A"> A. Um analista de TI que, durante atividade de manutenção, copia documentos estratégicos da organização para dispositivo pessoal, ainda que sem intenção de obter vantagem, incorre em violação do sigilo profissional e da responsabilidade técnica.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-mpees-q1" value="B"> B. A Responsabilidade Técnica limita-se à garantia de que os sistemas estejam disponíveis, não abrangendo as falhas de configuração que resultem em acessos indevidos.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-mpees-q1" value="C"> C. O profissional de TI pode compartilhar dados internos da organização, desde que não haja identificação direta dos titulares das informações.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-mpees-q1" value="D"> D. O dever de sigilo profissional cessa após o desligamento do colaborador, exceto se houver cláusula contratual específica de não divulgação.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-mpees-q1" value="E"> E. A Ética Profissional em TI foca na eficiência técnica dos algoritmos, sendo as questões de privacidade de responsabilidade do setor jurídico.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: FGV, MPE-ES, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> O dever de sigilo e a responsabilidade técnica de um profissional de TI não dependem de "intenção de obter vantagem" — a mera conduta de retirar dado estratégico da organização para dispositivo pessoal, mesmo sem dolo de proveito próprio, já configura violação.</p>
+<p><strong>Por que a A deve ser marcada:</strong> Descreve corretamente que a violação ocorre independentemente da intenção de vantagem.</p>
+<ul class="quiz-explain">
+<li><strong>B.</strong> <strong>Não marque.</strong> Responsabilidade técnica é mais ampla que disponibilidade; abrange falhas de configuração que geram acesso indevido.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Compartilhar dados internos sem autorização é violação, independentemente de identificação direta dos titulares.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> O dever de sigilo profissional, em regra, persiste após o desligamento, não depende de cláusula contratual específica para existir.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Ética profissional em TI abrange privacidade e proteção de dados, não se limita à eficiência técnica.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Achar que a ausência de "intenção de vantagem" (dolo específico de proveito) descaracteriza a violação do dever de sigilo — a conduta em si já é a violação.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="E">
+<p class="quiz-source">FGV - AL-GO, 2026</p>
+<p><strong>3. Assinale a alternativa que apresenta um dos fundamentos da disciplina de proteção de dados pessoais, conforme a Lei nº 13.709/2018 (LGPD).</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-018-algo-q18" value="A"> A. fins particulares.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-algo-q18" value="B"> B. fins jornalísticos.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-algo-q18" value="C"> C. investigação penal.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-algo-q18" value="D"> D. segurança nacional.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-algo-q18" value="E"> E. respeito à privacidade.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: E.</strong> Fonte: FGV, AL-GO, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Separe "fundamentos" da LGPD (Art. 2º — valores que justificam a lei) de "hipóteses de exclusão de aplicação" (Art. 4º — situações em que a LGPD não incide, como fins exclusivamente particulares, jornalísticos, artísticos, acadêmicos, segurança pública, defesa nacional, segurança do Estado, investigação e repressão de infrações penais).</p>
+<p><strong>Por que a E deve ser marcada:</strong> "Respeito à privacidade" é um dos fundamentos expressos no Art. 2º da LGPD.</p>
+<ul class="quiz-explain">
+<li><strong>A, B, C e D.</strong> <strong>Não marque.</strong> São hipóteses em que a LGPD não se aplica (Art. 4º), não fundamentos da disciplina (Art. 2º) — é uma troca clássica da banca entre os dois artigos.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> Fundamento expresso da LGPD.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir os fundamentos da LGPD (Art. 2º: privacidade, autodeterminação informativa, liberdade de expressão/informação, inviolabilidade de intimidade/honra/imagem, desenvolvimento econômico/tecnológico/inovação, livre iniciativa/concorrência/defesa do consumidor, direitos humanos/livre desenvolvimento da personalidade/dignidade/cidadania) com as hipóteses de exclusão de aplicação (Art. 4º: fins particulares, jornalísticos/artísticos/acadêmicos, segurança pública/nacional, investigação penal).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - DPE-RO, 2025</p>
+<p><strong>4. Com base nos princípios e fundamentos da LGPD, avalie se representam fundamentos da LGPD: I. Autodeterminação informativa; II. Respeito à privacidade; III. Direito ao anonimato de expressão. Está correto o que se afirma em</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-018-dperro-q9" value="A"> A. I, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-dperro-q9" value="B"> B. II, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-dperro-q9" value="C"> C. I e II, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-dperro-q9" value="D"> D. II e III, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-dperro-q9" value="E"> E. I, II e III.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, DPE-RO, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Confira cada item contra a lista literal do Art. 2º da LGPD, sem aceitar formulações parecidas mas distorcidas.</p>
+<p><strong>Por que a C deve ser marcada:</strong> Autodeterminação informativa e respeito à privacidade são fundamentos expressos; "direito ao anonimato de expressão" não consta da lista — aliás, a própria Constituição veda o anonimato na manifestação do pensamento (Art. 5º, IV).</p>
+<ul class="quiz-explain">
+<li><strong>I.</strong> Verdadeira. Fundamento expresso da LGPD.</li>
+<li><strong>II.</strong> Verdadeira. Fundamento expresso da LGPD.</li>
+<li><strong>III.</strong> Falsa. Não é fundamento da LGPD; contraria inclusive a vedação constitucional ao anonimato.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Aceitar uma formulação que "soa" como direito digital legítimo (anonimato de expressão) sem checar se ela realmente consta da lista literal de fundamentos da lei.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">FGV - CNU, 2025</p>
+<p><strong>5. Considerando o arcabouço normativo brasileiro, é correto afirmar que a Política Nacional de Cibersegurança (PNCiber) caracteriza-se por:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-018-cnu-q10" value="A"> A. delegar a execução operacional ao Comitê Gestor da Internet no Brasil, focando em regulação de provedores de acesso e neutralidade da rede, em detrimento de padrões técnicos para segurança de infraestruturas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cnu-q10" value="B"> B. subordinar-se ao Comando de Defesa Cibernética militar, extinguindo políticas civis prévias e transferindo para as Forças Armadas o controle exclusivo de redes corporativas, dados sensíveis e sistemas financeiros.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cnu-q10" value="C"> C. ter sua implementação vinculada à aprovação prévia de leis setoriais, como a LGPD e o Marco Civil da Internet, condicionando ações de defesa cibernética à autorização do Poder Legislativo para cada iniciativa operacional.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cnu-q10" value="D"> D. centralizar a governança no Gabinete de Segurança Institucional (GSI), priorizando a proteção de infraestruturas críticas e estabelecendo mecanismos de coordenação público-privada para prevenção, detecção e resposta a incidentes.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cnu-q10" value="E"> E. estar limitado, em seu escopo, à regulação de provedores de internet, excluindo deliberadamente os setores de energia, saúde, transporte e abastecimento de água, bem como as iniciativas de cooperação internacional de seu planejamento estratégico.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: FGV, CNU, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> A PNCiber brasileira centraliza a governança de cibersegurança no GSI (que já concentra funções de segurança da informação do governo federal), com foco em infraestruturas críticas e cooperação entre setor público e privado — um modelo civil de coordenação, não militar nem dependente de aprovação legislativa caso a caso.</p>
+<p><strong>Por que a D deve ser marcada:</strong> Descreve corretamente o modelo de governança centralizada no GSI, com foco em infraestruturas críticas e coordenação público-privada.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> A execução não é delegada ao CGI.br nem se limita a regulação de provedores/neutralidade de rede.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não subordina a política a comando militar exclusivo, nem extingue políticas civis.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não condiciona cada ação operacional a autorização legislativa específica.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não exclui setores críticos (energia, saúde, transporte, água) nem a cooperação internacional — pelo contrário, são elementos centrais da política.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Atribuir a governança da cibersegurança nacional a um órgão técnico específico (CGI.br) ou militar (Forças Armadas), quando na verdade o modelo brasileiro centraliza a coordenação civil no GSI.</p>
+</div>
+</div>
+
 ## Questão autoral de reforço
 
 <div class="quiz-card" data-answer="C">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>2. No tratamento de dados biométricos por órgão público, a LGPD exige atenção especial porque dado biométrico é:</strong></p>
+<p><strong>6. No tratamento de dados biométricos por órgão público, a LGPD exige atenção especial porque dado biométrico é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-018" value="A"> A. sempre dado anonimizado, sem risco ao titular.</label>
 <label class="quiz-option"><input type="radio" name="fgv-018" value="B"> B. informação pública irrestrita por envolver segurança.</label>

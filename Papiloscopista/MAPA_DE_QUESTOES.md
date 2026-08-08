@@ -5,7 +5,7 @@
 O mapa abaixo separa duas coisas que não devem ser misturadas:
 
 - **Peso oficial do edital:** já está completo para Papiloscopista.
-- **Banco FGV-style:** neste momento há 318 questões comentadas, com pelo menos uma por tema do edital.
+- **Banco FGV-style:** neste momento há 331 questões comentadas, com pelo menos uma por tema do edital.
 - **Validação por provas semelhantes:** já tem página própria para confrontar FGV Papiloscopista, FGV Perito/Polícia Civil e bancas próximas com os 61 temas.
 
 Isso evita inventar estatística de prova. À medida que os PDFs locais e oficiais forem convertidos, os totais por tema e a distribuição de alternativas devem ser atualizados aqui.
@@ -21,7 +21,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | Português | 25 | 6 | 50 | Conhecimentos Gerais, item 1 |
 | RLM | 5 | 4 | 17 | Conhecimentos Gerais, item 2 |
 | Realidade PR | 5 | 2 | 6 | Conhecimentos Gerais, item 3 |
-| Tecnologia | 15 | 6 | 29 | Conhecimentos Específicos, item 1 |
+| Tecnologia | 15 | 6 | 42 | Conhecimentos Específicos, item 1 |
 | Ciências Forenses | 10 | 8 | 58 | Conhecimentos Específicos, item 2 |
 | Biologia | 10 | 4 | 27 | Conhecimentos Específicos, item 3 |
 | Física | 5 | 4 | 10 | Conhecimentos Específicos, item 4 |
@@ -70,9 +70,9 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | 013 | Tecnologia | Hardware, software, periféricos e armazenamento | Tecnologia 1.1 | altíssima | 7 (autorais) |
 | 014 | Tecnologia | Sistemas operacionais, aplicativos e dispositivos móveis | Tecnologia 1.2 | alta | 11 (9 oficiais FGV) |
 | 015 | Tecnologia | Internet, redes, nuvem, web, bancos e APIs | Tecnologia 1.3 | altíssima | 5 (3 oficiais FGV) |
-| 016 | Tecnologia | Segurança da informação, malware, phishing e backup | Tecnologia 1.4 | altíssima | 2 (autorais) |
-| 017 | Tecnologia | Crimes digitais, evidências eletrônicas e OSINT | Tecnologia 1.5 | alta | 2 (autorais) |
-| 018 | Tecnologia | Legislação e ética digital | Tecnologia 1.6 | alta | 2 (1 oficial FGV) |
+| 016 | Tecnologia | Segurança da informação, malware, phishing e backup | Tecnologia 1.4 | altíssima | 10 (8 oficiais FGV) |
+| 017 | Tecnologia | Crimes digitais, evidências eletrônicas e OSINT | Tecnologia 1.5 | alta | 3 (1 oficial FGV) |
+| 018 | Tecnologia | Legislação e ética digital | Tecnologia 1.6 | alta | 6 (5 oficiais FGV) |
 | 019 | Ciências Forenses | Medicina legal, identificação humana e papiloscopia | Ciências Forenses 2.1 | altíssima | 7 (5 oficiais FGV) |
 | 020 | Ciências Forenses | Antropologia, odontologia legal, DNA, reconhecimento facial e IA | Ciências Forenses 2.1 | alta | 9 (8 oficiais FGV) |
 | 021 | Ciências Forenses | Sexologia, traumatologia, asfixiologia e balística | Ciências Forenses 2.1 | alta | 11 (10 oficiais FGV) |

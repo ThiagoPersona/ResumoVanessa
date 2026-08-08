@@ -38,17 +38,24 @@ Convenção de status:
 
 | Arquivo | Status | Destino | Observação |
 |---|---|---|---|
-| info1.pdf–info28.pdf, infoo.pdf, infoo2.pdf | pendente | tecnologia/001-006 | |
-| Questões_de_Provas_*.pdf (2 arquivos genéricos) | pendente | tecnologia/001-006 | |
+| info1.pdf–info28.pdf, infoo.pdf, infoo2.pdf | pendente | tecnologia/001-003 | ainda não lidos — ~392 questões FGV candidatas já extraídas em all_questions_dedup.json (subject=informatica), prontas para triagem |
+| Questões_de_Provas_*.pdf (2 arquivos genéricos) | pendente | tecnologia/001-003 | |
 
 ## Pasta: informatica2/
 
 | Arquivo | Status | Destino | Observação |
 |---|---|---|---|
-| crimes.pdf, crimes2.pdf–crimes11.pdf | pendente | tecnologia/005 (crimes digitais) | |
-| seguranca.pdf, seguranca3.pdf, segurancsa.pdf, seg5.pdf, seg6.pdf | pendente | tecnologia/004 (segurança) | |
+| crimes.pdf | usado (parcial) | tecnologia/005 | aproveitada: Q7 (Lei Carolina Dieckmann). Restante (Q1, Q18 blockchain/penhora) não usado |
+| crimes2.pdf | usado (parcial) | tecnologia/006 | aproveitadas: Q18 (LGPD fundamento privacidade), Q19 não usada (fundamentos LGPD, redundante com Q9 crimes8) |
+| crimes3.pdf | usado | tecnologia/005 | Q7 aproveitada |
+| crimes5.pdf | pendente | | ICP-Brasil, não usado |
+| crimes6.pdf | usado (parcial) | tecnologia/006 | aproveitada: Q10 (PNCiber/GSI). Restante (Q12 IA generativa em tribunal, Q19 cloud/edge computing) não usado |
+| crimes7.pdf, crimes8.pdf | usado (parcial) | tecnologia/006 | aproveitada: Q9 crimes8 (fundamentos LGPD). Restante (smart contracts, blockchain, jurimetria) fora do escopo do edital, não usado |
+| crimes9.pdf, crimes10.pdf, crimes11.pdf | pendente | | não lidos |
+| seguranca.pdf, seguranca3.pdf, segurancsa.pdf | pendente | tecnologia/004 | não lidos (seg5/seg6 já cobrem boa parte do tema) |
+| seg5.pdf, seg6.pdf | usado (parcial) | tecnologia/004 | 8 questões aproveitadas (phishing, IDS/IPS, XSS, CSRF, vírus x worm, footprinting, engenharia social, malware). Restante (Q1, Q2, Q7-11, Q15, Q19 de seg5; Q6, Q8+ de seg6 — OWASP, STRIDE, spoofing, BAS, DDoS) ainda não usado, boas candidatas para próxima rodada |
 | plataformas.pdf | pendente | tecnologia/002 ou 003 | |
-| 2.pdf–8.pdf, Questões_de_Provas_*.pdf | pendente | tecnologia/001-006 | |
+| 2.pdf–8.pdf, Questões_de_Provas_*.pdf | pendente | tecnologia/001-003 | |
 
 ## Pasta: Alfacon/
 

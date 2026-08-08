@@ -11,6 +11,18 @@
 
 Este item cobre a intersecção entre tecnologia e investigação criminal: como identificar, preservar e usar evidências digitais dentro da lei, os tipos de crime que ocorrem no ambiente digital, e a metodologia de investigação em fontes abertas (OSINT). É diretamente aplicável à rotina de um papiloscopista e de qualquer policial que lide com evidência eletrônica em investigação.
 
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV PC-PI | 2026 | Q7: identificar a Lei Carolina Dieckmann como a norma que tipifica a invasão de dispositivo informático. |
+
+### Lei Carolina Dieckmann (Lei nº 12.737/2012)
+
+Promulgada após o vazamento de fotos íntimas da atriz Carolina Dieckmann, essa lei inseriu o **Art. 154-A no Código Penal**, tipificando o crime de **invasão de dispositivo informático** (acessar dispositivo alheio, conectado ou não à rede, mediante violação indevida de mecanismo de segurança, para obter, adulterar ou destruir dados/informações, ou instalar vulnerabilidades). Não deve ser confundida com:
+
+- **Lei nº 12.735/2012** (mesmo pacote legislativo, mesma data): trata da estruturação de órgãos policiais especializados no combate a crimes cibernéticos, **não** tipifica condutas.
+- **Marco Civil da Internet** (Lei nº 12.965/2014): estabelece princípios, direitos e deveres para uso da internet, sem tipificar crimes.
+- **LGPD** (Lei nº 13.709/2018): trata de proteção de dados pessoais, sem natureza penal.
+
 ## Conteúdo completo orientado ao edital
 
 ### Evidência digital: características que a diferenciam da evidência física
@@ -70,8 +82,19 @@ A investigação de um dispositivo digital costuma seguir etapas análogas à pe
 | OSINT (fonte aberta, lícita) | Invasão/acesso não autorizado | Ambos podem envolver "coletar informação sobre alguém" | OSINT usa apenas o que já é publicamente acessível, sem burlar proteção nenhuma |
 | Evidência (original preservado) | Cópia forense (usada para análise) | Ambos são "o dado" em algum momento da perícia | Análise deve recair sobre a cópia forense; o original fica preservado e intocado |
 
+## Como caiu na prova: questão comentada
+
+**Fonte: FGV, PC-PI, 2026, questão 7 (gabarito oficial: A)**
+
+> Assinale a lei que tipifica crimes informáticos, ao incluir no ordenamento penal brasileiro o delito de invasão de dispositivo informático.
+
+1. **A Lei Carolina Dieckmann (12.737/2012) inseriu o Art. 154-A no CP, tipificando a invasão de dispositivo informático.**
+2. **As demais alternativas descrevem leis de outra natureza** (interceptação, estrutura policial, proteção de dados, princípios de uso da internet), nenhuma delas tipifica esse crime.
+3. **A é o gabarito.**
+
 ## Pegadinhas da banca
 
+- Confundir a Lei 12.737/2012 (Carolina Dieckmann, tipifica a invasão) com a Lei 12.735/2012 (mesmo pacote, mas trata de estrutura policial).
 - Tratar qualquer crime cometido "com auxílio de computador" como se fosse tecnicamente idêntico a uma invasão de sistema.
 - Confundir hash com criptografia, tratando os dois como se resolvessem o mesmo problema.
 - Achar que OSINT permite qualquer uso da informação coletada, sem limite legal, só porque a fonte é pública.
@@ -87,7 +110,7 @@ A investigação de um dispositivo digital costuma seguir etapas análogas à pe
 
 ## Lacunas honestas
 
-- Ainda não há questão real de banca FGV localizada especificamente para este tema neste levantamento — as questões reais de Tecnologia localizadas até agora tratam de sistemas operacionais, aplicativos, redes e segurança básica (temas 014, 015 e 016), não de crimes digitais/evidência/OSINT isoladamente. É prioridade de busca para sessão futura, idealmente com provas de perícia em informática forense (como PCPI 2025, catalogada em FONTES_DE_QUESTOES.md).
+- Ainda não há questão real localizada sobre OSINT, hash forense ou cadeia de custódia digital especificamente neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
@@ -95,6 +118,8 @@ A investigação de um dispositivo digital costuma seguir etapas análogas à pe
 - [ ] Sei a função do hash na cadeia de custódia digital.
 - [ ] Sei diferenciar crime digital próprio (sistema é alvo) de impróprio (sistema é meio).
 - [ ] Sei o que caracteriza OSINT como técnica de fonte aberta e lícita.
+- [ ] Sei identificar a Lei Carolina Dieckmann e não confundo com a Lei 12.735/2012.
+- [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
 - [ ] Sei as etapas do processo de perícia forense digital (preservação, coleta, exame, análise, apresentação).
 - [ ] Marquei a lacuna de fonte registrada acima.
 
@@ -106,8 +131,8 @@ A investigação de um dispositivo digital costuma seguir etapas análogas à pe
 
 **Prova/FGV**
 
+- FGV. PC-PI, 2026. Questão 7 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
-- Nenhuma questão real de FGV localizada especificamente para este tema até o momento (lacuna registrada acima).
 
 **Material local**
 
