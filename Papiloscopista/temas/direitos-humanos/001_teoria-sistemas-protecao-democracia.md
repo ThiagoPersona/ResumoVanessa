@@ -16,6 +16,8 @@ Compreender a estrutura teórica dos direitos humanos e os mecanismos institucio
 |---|---:|---|
 | FGV PCMG - Perito Criminal, Área I | 2024 | Q34: possibilidade de tratados e convenções internacionais de direitos humanos adquirirem equivalência a emenda constitucional, mediante aprovação por quórum qualificado (Art. 5º, § 3º, CF). |
 
+**Complementos (questões autorais fundamentadas em doutrina/tratados/jurisprudência)**: características dos direitos humanos (irrenunciabilidade, não "disponibilidade"); distinção direitos humanos x direitos fundamentais (plano internacional x constitucional interno); Convenção Americana sobre Direitos Humanos = Pacto de San José da Costa Rica (1969); tríade de cidadania de T. H. Marshall (civil, política, social); caso Gomes Lund vs. Brasil (Corte IDH — incompatibilidade da Lei de Anistia com apuração de desaparecimentos forçados da ditadura); conselhos de direitos como expressão da democracia participativa.
+
 ## Conteúdo completo orientado ao edital
 
 ### Características dos direitos humanos
@@ -98,6 +100,9 @@ Cidadania, nesse contexto, é o status jurídico-político que habilita a pessoa
 - [ ] Sei que, sem esse rito, o tratado ainda tem status supralegal.
 - [ ] Sei diferenciar sistema global (ONU) de sistema interamericano (OEA), e que não há hierarquia entre eles.
 - [ ] Sei diferenciar plebiscito de referendo.
+- [ ] Sei diferenciar direitos humanos de direitos fundamentais pelo plano normativo.
+- [ ] Sei identificar a Convenção Americana (Pacto de San José) e a tríade de cidadania de Marshall.
+- [ ] Sei o objeto do caso Gomes Lund vs. Brasil na Corte IDH.
 - [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
 - [ ] Marquei a lacuna de fonte registrada acima.
 

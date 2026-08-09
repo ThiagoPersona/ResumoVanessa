@@ -2,7 +2,7 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 4 questões (1 questão oficial FGV com fonte e gabarito conferidos + 3 questões autorais no padrão FGV).
+**Itens neste banco:** 10 questões (1 questão oficial FGV com fonte e gabarito conferidos + 9 questões autorais no padrão FGV, 6 delas fundamentadas em Constituição/tratados/jurisprudência).
 
 ## Fontes reais usadas neste banco
 
@@ -114,7 +114,143 @@
 </div>
 </div>
 
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada em doutrina de direitos humanos</p>
+<p><strong>5. São características classicamente atribuídas aos direitos humanos, exceto:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q2" value="A"> A. Universalidade — são titularizados por todo ser humano, independentemente de qualquer distinção.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q2" value="B"> B. Indivisibilidade e interdependência — os direitos civis, políticos, econômicos, sociais e culturais formam um conjunto único e inter-relacionado.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q2" value="C"> C. Imprescritibilidade — não se perdem pelo decurso do tempo.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q2" value="D"> D. Disponibilidade — podem ser livremente renunciados pelo titular, a qualquer tempo, sem qualquer restrição.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q2" value="E"> E. Historicidade — resultam de processo histórico de afirmação e conquista, em constante evolução.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Questão autoral, fundamentada na doutrina consolidada de direitos humanos.</p>
+<p><strong>Como pensar:</strong> O comando pede a característica que NÃO é atribuída aos direitos humanos — teste cada alternativa contra a doutrina clássica (universalidade, indivisibilidade/interdependência, imprescritibilidade, irrenunciabilidade, historicidade).</p>
+<p><strong>Por que a D deve ser marcada (é a exceção):</strong> A característica real é a **irrenunciabilidade** (não podem ser livremente renunciados), o oposto do que a alternativa D afirma.</p>
+<ul class="quiz-explain">
+<li><strong>A, B, C e E.</strong> <strong>Não marque.</strong> Descrevem corretamente características reais dos direitos humanos.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> Inverte a característica real (irrenunciabilidade) para o oposto (disponibilidade).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> A alternativa "errada" está disfarçada de característica técnica plausível ("disponibilidade") — é preciso saber que a característica real e oposta é a irrenunciabilidade.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada em doutrina de direitos humanos</p>
+<p><strong>6. Quanto à distinção entre "direitos humanos" e "direitos fundamentais", a doutrina majoritária ensina que:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q8" value="A"> A. São expressões absolutamente sinônimas, sem qualquer distinção técnica.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q8" value="B"> B. "Direitos humanos" designa, em regra, os direitos reconhecidos e positivados no plano do direito internacional (tratados e declarações), ao passo que "direitos fundamentais" designa os mesmos direitos quando positivados no plano do direito constitucional interno de determinado Estado.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q8" value="C"> C. "Direitos fundamentais" é expressão exclusiva do direito internacional; "direitos humanos", do direito interno.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q8" value="D"> D. "Direitos humanos" aplicam-se apenas a nacionais; "direitos fundamentais", apenas a estrangeiros.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q8" value="E"> E. A distinção foi abolida pela Constituição Federal de 1988, que unificou as duas expressões em um único conceito legal.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada na doutrina majoritária de direito constitucional.</p>
+<p><strong>Como pensar:</strong> O critério distintivo central é o plano normativo: internacional (humanos) x constitucional interno (fundamentais) — o mesmo direito pode ter as duas roupagens.</p>
+<p><strong>Por que a B deve ser marcada:</strong> Descreve corretamente esse critério.</p>
+<ul class="quiz-explain">
+<li><strong>A e E.</strong> <strong>Não marque.</strong> Ignoram a distinção técnica reconhecida pela doutrina.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Inverte os planos normativos.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> A distinção não é sobre nacionalidade do titular, mas sobre o plano normativo de positivação.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Inverter qual expressão pertence a qual plano normativo (internacional x constitucional interno).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada na Convenção Americana sobre Direitos Humanos</p>
+<p><strong>7. O principal tratado do sistema interamericano de proteção dos direitos humanos, adotado em 1969 e também conhecido como Pacto de San José da Costa Rica, denomina-se:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q11" value="A"> A. Carta da Organização dos Estados Americanos.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q11" value="B"> B. Convenção Americana sobre Direitos Humanos.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q11" value="C"> C. Declaração Americana dos Direitos e Deveres do Homem.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q11" value="D"> D. Protocolo de San Salvador.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q11" value="E"> E. Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada no tratado de 1969 do sistema interamericano.</p>
+<p><strong>Como pensar:</strong> "Pacto de San José da Costa Rica" é o apelido consagrado da Convenção Americana sobre Direitos Humanos, em razão da cidade onde foi assinada.</p>
+<p><strong>Por que a B deve ser marcada:</strong> É o nome técnico correto do tratado.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> A Carta da OEA é o tratado constitutivo da organização, não o tratado de direitos humanos.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> A Declaração Americana é de 1948, anterior e distinta da Convenção de 1969.</li>
+<li><strong>D e E.</strong> <strong>Não marque.</strong> São protocolos/convenções complementares específicos, não o tratado principal.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir a Convenção Americana (1969, "Pacto de San José") com a Declaração Americana dos Direitos e Deveres do Homem (1948, documento distinto e anterior).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada em sociologia clássica (T. H. Marshall)</p>
+<p><strong>8. O conceito de cidadania, na formulação clássica do sociólogo T. H. Marshall, é composto por três dimensões, a saber:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q19" value="A"> A. Cidadania civil, cidadania política e cidadania social.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q19" value="B"> B. Cidadania nacional, cidadania estadual e cidadania municipal.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q19" value="C"> C. Cidadania ativa, cidadania passiva e cidadania mista.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q19" value="D"> D. Cidadania originária, cidadania derivada e cidadania adquirida.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q19" value="E"> E. Cidadania plena, cidadania restrita e cidadania condicional.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Questão autoral, fundamentada na obra clássica de T. H. Marshall sobre cidadania.</p>
+<p><strong>Como pensar:</strong> Marshall associou cada dimensão a um conjunto de direitos historicamente construído: civil (liberdades individuais), política (participação no poder) e social (bem-estar/seguridade).</p>
+<p><strong>Por que a A deve ser marcada:</strong> É a tríade clássica da formulação de Marshall.</p>
+<ul class="quiz-explain">
+<li><strong>B, C, D e E.</strong> <strong>Não marque.</strong> Não correspondem à classificação de Marshall.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir a tríade de Marshall (civil/política/social) com a classificação de "gerações/dimensões" de direitos humanos (liberdade/igualdade/fraternidade) — são classificações diferentes, de autores diferentes, ainda que próximas na lógica.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada em jurisprudência da Corte Interamericana</p>
+<p><strong>9. No caso Gomes Lund e outros ("Guerrilha do Araguaia") vs. Brasil, a Corte Interamericana de Direitos Humanos condenou o Estado brasileiro, entre outros pontos, por:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q14" value="A"> A. Violação de direitos trabalhistas de servidores públicos militares.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q14" value="B"> B. Considerar incompatível com a Convenção Americana a interpretação da Lei de Anistia brasileira (Lei nº 6.683/1979) que impede a investigação e a responsabilização de graves violações de direitos humanos ocorridas durante a ditadura militar, tais como desaparecimentos forçados.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q14" value="C"> C. Violação do direito ao meio ambiente equilibrado na região amazônica.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q14" value="D"> D. Discriminação religiosa praticada por órgãos públicos federais.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q14" value="E"> E. Violação de direitos autorais de obras literárias censuradas.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada no caso Gomes Lund vs. Brasil (Corte IDH, 2010).</p>
+<p><strong>Como pensar:</strong> O caso tratou especificamente da interpretação da Lei de Anistia como obstáculo à apuração de desaparecimentos forçados na Guerrilha do Araguaia — a Corte considerou essa leitura incompatível com a Convenção Americana.</p>
+<p><strong>Por que a B deve ser marcada:</strong> É exatamente o objeto central da condenação.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Não correspondem ao objeto real do caso.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir o caso Gomes Lund (Lei de Anistia/desaparecimentos forçados da ditadura) com outros casos brasileiros na Corte IDH (que tratam de temas distintos, como condições prisionais ou violência policial).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada em doutrina de ciência política</p>
+<p><strong>10. O controle social sobre políticas públicas de direitos humanos, exercido por meio de conselhos de direitos (ex.: conselhos de direitos da criança e do adolescente, do idoso, da pessoa com deficiência) em nível municipal, estadual e federal, representa uma expressão da:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q21" value="A"> A. Democracia exclusivamente representativa, sem qualquer elemento de participação direta.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q21" value="B"> B. Democracia participativa, que amplia os canais de diálogo entre sociedade civil e Estado na formulação, no acompanhamento e na fiscalização de políticas públicas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q21" value="C"> C. Centralização decisória exclusiva do Poder Executivo, sem qualquer participação social.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q21" value="D"> D. Delegação legislativa, nos termos do art. 68 da CF/88.</label>
+<label class="quiz-option"><input type="radio" name="fgv-059-cc-q21" value="E"> E. Judicialização compulsória de toda política pública de direitos humanos.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada em doutrina de ciência política/direito constitucional.</p>
+<p><strong>Como pensar:</strong> Conselhos de direitos são canais institucionais permanentes de diálogo sociedade-Estado, característica central da democracia participativa (complementar à representativa, não excludente dela).</p>
+<p><strong>Por que a B deve ser marcada:</strong> Descreve corretamente essa função.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Descrevem cenários incompatíveis com a existência de conselhos de participação social.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Achar que democracia participativa substitui/exclui a democracia representativa — na verdade, são complementares.</p>
+</div>
+</div>
+
 ## Próxima ampliação
 
-- Buscar questão real adicional sobre características dos direitos humanos e mecanismos de democracia direta.
 - Adicionar questões reais de PCRJ, PCRN e PCPI assim que os cadernos forem localizados e o gabarito conferido.

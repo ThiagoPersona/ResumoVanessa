@@ -5,7 +5,7 @@
 O mapa abaixo separa duas coisas que não devem ser misturadas:
 
 - **Peso oficial do edital:** já está completo para Papiloscopista.
-- **Banco FGV-style:** neste momento há 352 questões comentadas, com pelo menos uma por tema do edital.
+- **Banco FGV-style:** neste momento há 367 questões comentadas, com pelo menos uma por tema do edital.
 - **Validação por provas semelhantes:** já tem página própria para confrontar FGV Papiloscopista, FGV Perito/Polícia Civil e bancas próximas com os 61 temas.
 
 Isso evita inventar estatística de prova. À medida que os PDFs locais e oficiais forem convertidos, os totais por tema e a distribuição de alternativas devem ser atualizados aqui.
@@ -31,7 +31,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | Processo Penal | 3 | 3 | 17 | Conhecimentos Específicos, item 8 |
 | Constitucional | 3 | 3 | 19 | Conhecimentos Específicos, item 9 |
 | Administrativo | 3 | 3 | 13 | Conhecimentos Específicos, item 10 |
-| Direitos Humanos | 3 | 3 | 12 | Conhecimentos Específicos, item 11 |
+| Direitos Humanos | 3 | 3 | 27 | Conhecimentos Específicos, item 11 |
 
 ## Distribuição de letras já convertidas
 
@@ -113,9 +113,9 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | 056 | Administrativo | Conceito, fontes, princípios e Administração Pública | Administrativo 9.1-9.2 | alta | 4 (1 oficial FGV) |
 | 057 | Administrativo | Atos, poderes, serviços, licitações e contratos | Administrativo 9.3-9.6 | altíssima | 4 (3 oficiais FGV) |
 | 058 | Administrativo | Agentes, responsabilidade, improbidade e controle | Administrativo 9.7-9.10 | alta | 5 (4 oficiais FGV) |
-| 059 | Direitos Humanos | Teoria, sistemas de proteção e democracia | Direitos Humanos 10.1-10.3 | alta | 4 (1 oficial FGV) |
-| 060 | Direitos Humanos | Grupos vulneráveis, segurança pública e atuação policial | Direitos Humanos 10.4-10.5 | altíssima | 4 (2 oficiais FGV) |
-| 061 | Direitos Humanos | PNDH, educação em direitos humanos e Agenda 2030 | Direitos Humanos 10.6-10.7 | média | 4 (autorais) |
+| 059 | Direitos Humanos | Teoria, sistemas de proteção e democracia | Direitos Humanos 10.1-10.3 | alta | 10 (1 oficial FGV) |
+| 060 | Direitos Humanos | Grupos vulneráveis, segurança pública e atuação policial | Direitos Humanos 10.4-10.5 | altíssima | 10 (2 oficiais FGV) |
+| 061 | Direitos Humanos | PNDH, educação em direitos humanos e Agenda 2030 | Direitos Humanos 10.6-10.7 | média | 7 (autorais) |
 
 ## Pegadinhas recorrentes esperadas da FGV
 

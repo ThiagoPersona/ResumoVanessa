@@ -11,6 +11,8 @@
 
 Este tema conecta a teoria de direitos humanos à política de Estado formalizada (PNDH) e ao compromisso internacional de desenvolvimento sustentável (Agenda 2030) — fechando o ciclo entre fundamentação teórica, política nacional e compromisso global.
 
+**Complementos (questões autorais fundamentadas em normas/documentos específicos)**: eixos orientadores multitemáticos do PNDH-3 (não se resume a segurança pública); Conselho Nacional dos Direitos Humanos (CNDH, Lei 12.986/2014) como órgão de monitoramento/articulação, sem poder jurisdicional ou legislativo; princípio "leave no one behind" da Agenda 2030 (priorizar grupos mais vulneráveis/marginalizados).
+
 ## Conteúdo completo orientado ao edital
 
 ### Programa Nacional de Direitos Humanos (PNDH-3)
@@ -68,6 +70,7 @@ A Agenda 2030 é um plano de ação global, adotado pelos países-membros da ONU
 - [ ] Sei que o eixo de segurança pública/acesso à justiça do PNDH-3 tem relação direta com a atividade policial.
 - [ ] Sei que Educação em Direitos Humanos é processo multidimensional (conhecimento, valores, práticas, consciência cidadã).
 - [ ] Sei que a Agenda 2030 tem 17 ODS, e que o ODS 16 trata de paz, justiça e instituições eficazes.
+- [ ] Sei a natureza e as atribuições do CNDH, e o conteúdo do princípio "leave no one behind".
 - [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas

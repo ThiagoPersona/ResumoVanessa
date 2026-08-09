@@ -62,9 +62,9 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Administrativo | Conceito, fontes, princípios e Administração Pública | 4 | [Abrir](provas/administrativo/001_conceito-fontes-principios-administracao.md) |
 | Administrativo | Atos, poderes, serviços, licitações e contratos | 4 | [Abrir](provas/administrativo/002_atos-poderes-servicos-licitacoes-contratos.md) |
 | Administrativo | Agentes, responsabilidade, improbidade e controle | 5 | [Abrir](provas/administrativo/003_agentes-responsabilidade-improbidade-controle.md) |
-| Direitos Humanos | Teoria, sistemas de proteção e democracia | 4 | [Abrir](provas/direitos-humanos/001_teoria-sistemas-protecao-democracia.md) |
-| Direitos Humanos | Grupos vulneráveis, segurança pública e atuação policial | 4 | [Abrir](provas/direitos-humanos/002_grupos-vulneraveis-atuacao-policial.md) |
-| Direitos Humanos | PNDH, educação em direitos humanos e Agenda 2030 | 4 | [Abrir](provas/direitos-humanos/003_pndh-educacao-agenda-2030.md) |
+| Direitos Humanos | Teoria, sistemas de proteção e democracia | 10 | [Abrir](provas/direitos-humanos/001_teoria-sistemas-protecao-democracia.md) |
+| Direitos Humanos | Grupos vulneráveis, segurança pública e atuação policial | 10 | [Abrir](provas/direitos-humanos/002_grupos-vulneraveis-atuacao-policial.md) |
+| Direitos Humanos | PNDH, educação em direitos humanos e Agenda 2030 | 7 | [Abrir](provas/direitos-humanos/003_pndh-educacao-agenda-2030.md) |
 
 ## Critério de conversão
 

@@ -77,7 +77,7 @@ Simulados autorais em .docx, com nota explícita de que as questões foram elabo
 | Arquivo | Status | Destino | Observação |
 |---|---|---|---|
 | simulado_crimes_ciberneticos.docx | usado (parcial) | tecnologia/005 (8 questões), tecnologia/006 (3 questões) | 80 questões em 12 seções (crimes digitais, invasão 154-A, crimes em redes sociais, cadeia de custódia digital, rastreamento, inteligência cibernética, OSINT, Marco Civil, LGPD, Lei 12.737/2012, Lei 14.155/2021, sigilo funcional/ética). 11 aproveitadas; restante (~69 questões) ainda não avaliado a fundo — boas candidatas para reforçar ainda mais os temas 005/006 numa próxima rodada |
-| simulado_direitos_humanos.docx | pendente | direitos-humanos/059-061 | 50 questões em 7 seções (teoria geral, sistemas de proteção, democracia/cidadania, grupos vulneráveis, segurança pública, PNDH/educação, Agenda 2030/ODS) — mapeiam diretamente aos temas 059-061 já existentes, nenhum tema novo necessário |
+| simulado_direitos_humanos.docx | usado (parcial) | direitos-humanos/059 (6), 060 (6), 061 (3) | 50 questões em 7 seções. 15 aproveitadas; restante (~35 questões) ainda não avaliado a fundo — boas candidatas para reforçar ainda mais os 3 temas numa próxima rodada |
 | simulado_legislacao_pc_pr_v2.docx | pendente | legislacao/040-046 | ~80 questões em 7 seções (Constituição do PR, LC 259/2023, Lei 14.735/2023, Lei 23.213/2026, Lei 21.894/2024, Lei 6.174/1970, legislação institucional/policial aplicada) — mapeiam diretamente aos temas 040-046 já existentes, nenhum tema novo necessário |
 
 ## Extração técnica (para reprocessar quando novos PDFs forem adicionados)

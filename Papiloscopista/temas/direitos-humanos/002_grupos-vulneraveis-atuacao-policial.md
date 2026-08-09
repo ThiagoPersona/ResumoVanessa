@@ -17,6 +17,8 @@ Este tema traduz a teoria de direitos humanos em protocolos concretos de atuaç�
 | FGV PCMG - Perito Criminal, Área I | 2024 | Q35: reconhecimento de crimes de homofobia/transfobia como racismo pelo STF; equiparação da injúria racial ao racismo (inafiançável e imprescritível); regra de "sempre que possível" (não exclusividade absoluta) para atendimento especializado à mulher em violência doméstica. |
 | FGV PCAM - Investigador de Polícia, 4ª Classe | 2021/2022 | Q79: notificação compulsória, pelo hospital, à autoridade policial, ao Ministério Público e aos Conselhos dos Direitos da Pessoa com Deficiência, em caso de violência contra pessoa com deficiência mental, mesmo ocorrida em local privado. |
 
+**Complementos (questões autorais fundamentadas em Constituição/tratados/lei)**: direitos originários dos povos indígenas sobre suas terras (Arts. 231-232 CF, inalienabilidade, legitimidade do MP para agir em juízo); princípio do non-refoulement (veda devolução do refugiado a país onde correria risco); Lei de Migração (13.445/2017) rompe com a lógica de segurança nacional do antigo Estatuto do Estrangeiro; Princípios Básicos da ONU (1990) sobre uso da força (legalidade, necessidade, proporcionalidade, moderação); Lei de Tortura (9.455/1997) como tipo penal autônomo; Súmula Vinculante 11 do STF sobre uso excepcional e justificado de algemas.
+
 ## Conteúdo completo orientado ao edital
 
 ### Homofobia, transfobia e racismo: a decisão do STF (ADO 26)
@@ -77,7 +79,7 @@ A atuação policial, especialmente em relação a grupos vulneráveis, deve obs
 
 ## Lacunas honestas
 
-- Nenhuma questão real de FGV localizada especificamente sobre povos indígenas, população LGBTQIA+ (além do contexto de racismo/homofobia já coberto) ou refugiados neste levantamento. A teoria geral sobre grupos vulneráveis está coberta; falta a camada de prática com questão real conferida para esses subtemas específicos.
+- Nenhuma questão real de FGV localizada especificamente sobre povos indígenas, refugiados/migrantes ou uso da força (tortura/algemas) neste levantamento — coberto por questões autorais fundamentadas em lei; falta a camada de prova real conferida para esses subtemas.
 
 ## Checklist de revisão
 
@@ -85,6 +87,8 @@ A atuação policial, especialmente em relação a grupos vulneráveis, deve obs
 - [ ] Sei que a injúria racial foi equiparada ao racismo (inafiançável e imprescritível) pela Lei 14.532/2023.
 - [ ] Sei que o atendimento especializado à mulher em violência doméstica é "sempre que possível" por servidora, não exclusividade absoluta.
 - [ ] Sei a regra de notificação compulsória de violência contra pessoa com deficiência (autoridade policial, MP, Conselhos), mesmo em local privado, por hospital público ou privado.
+- [ ] Sei o regime constitucional das terras indígenas e o princípio do non-refoulement.
+- [ ] Sei os critérios da ONU para uso da força e o teor da Súmula Vinculante 11 (algemas).
 - [ ] Resolvi as duas questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei a lacuna de fonte registrada acima.
 

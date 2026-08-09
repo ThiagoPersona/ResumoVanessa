@@ -2,7 +2,7 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 4 questões autorais no padrão FGV (sem prova FGV real localizada para este tema específico).
+**Itens neste banco:** 7 questões autorais no padrão FGV (sem prova FGV real localizada para este tema específico; 3 delas fundamentadas em normas/documentos específicos).
 
 ## Fontes usadas neste banco
 
@@ -110,6 +110,72 @@
 <li><strong>E.</strong> Incorreta. O horizonte temporal é 2030, não 2050.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> Errar o número de objetivos (17) ou o ano-alvo (2030) da Agenda 2030.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada no Decreto nº 7.037/2009 (PNDH-3)</p>
+<p><strong>5. O Programa Nacional de Direitos Humanos, em sua terceira versão (PNDH-3), está estruturado em eixos orientadores que contemplam, entre outros temas:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-061-cc-q44" value="A"> A. Exclusivamente segurança pública, sem qualquer outro eixo temático.</label>
+<label class="quiz-option"><input type="radio" name="fgv-061-cc-q44" value="B"> B. Interação democrática entre Estado e sociedade civil; desenvolvimento e direitos humanos; universalizar direitos em um contexto de desigualdades; segurança pública, acesso à justiça e combate à violência; educação e cultura em direitos humanos; direito à memória e à verdade.</label>
+<label class="quiz-option"><input type="radio" name="fgv-061-cc-q44" value="C"> C. Apenas política externa e relações diplomáticas do Brasil.</label>
+<label class="quiz-option"><input type="radio" name="fgv-061-cc-q44" value="D"> D. Exclusivamente política tributária e orçamentária federal.</label>
+<label class="quiz-option"><input type="radio" name="fgv-061-cc-q44" value="E"> E. Apenas infraestrutura de transportes e mobilidade urbana.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada no Decreto nº 7.037/2009.</p>
+<p><strong>Como pensar:</strong> O PNDH-3 é estruturado de forma ampla e multitemática — segurança pública é apenas um dos vários eixos, ao lado de participação social, desenvolvimento, redução de desigualdades, educação e memória/verdade.</p>
+<p><strong>Por que a B deve ser marcada:</strong> Reúne corretamente os principais eixos orientadores do programa.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Restringem indevidamente o programa a um único tema, quando na verdade é multitemático.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Reduzir o PNDH-3 a um único eixo (geralmente o de segurança pública, por ser o mais lembrado no contexto policial), ignorando sua estrutura multitemática.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada na Lei nº 12.986/2014 (CNDH)</p>
+<p><strong>6. O Conselho Nacional dos Direitos Humanos (CNDH), instituído pela Lei nº 12.986/2014 em substituição ao antigo Conselho de Defesa dos Direitos da Pessoa Humana (CDDPH), tem como uma de suas atribuições:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-061-cc-q46" value="A"> A. Julgar, em caráter definitivo e com força de coisa julgada, processos criminais relativos a violações de direitos humanos.</label>
+<label class="quiz-option"><input type="radio" name="fgv-061-cc-q46" value="B"> B. Zelar pela efetivação do sistema de proteção dos direitos humanos, podendo, entre outras atribuições, receber denúncias de violações e requisitar informações e a instauração de inquérito policial ou civil para apuração de fatos.</label>
+<label class="quiz-option"><input type="radio" name="fgv-061-cc-q46" value="C"> C. Legislar, em caráter primário, sobre matéria de direitos humanos, dispensando a atuação do Congresso Nacional.</label>
+<label class="quiz-option"><input type="radio" name="fgv-061-cc-q46" value="D"> D. Substituir a competência da Corte Interamericana de Direitos Humanos para casos envolvendo o Brasil.</label>
+<label class="quiz-option"><input type="radio" name="fgv-061-cc-q46" value="E"> E. Atuar exclusivamente na esfera internacional, sem qualquer competência sobre fatos ocorridos em território nacional.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada na Lei nº 12.986/2014.</p>
+<p><strong>Como pensar:</strong> O CNDH é órgão de monitoramento e articulação (recebe denúncias, requisita informações e apuração), não órgão jurisdicional nem legislativo — não julga, não legisla, não substitui a Corte IDH.</p>
+<p><strong>Por que a B deve ser marcada:</strong> Descreve corretamente sua natureza de órgão de zeladoria/monitoramento do sistema de proteção.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Atribuem ao CNDH poderes jurisdicionais, legislativos ou de substituição de outros órgãos, que ele não possui.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir um órgão de monitoramento/articulação (CNDH, sem poder decisório final) com órgãos que efetivamente julgam ou legislam.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada na Agenda 2030 da ONU</p>
+<p><strong>7. O princípio da Agenda 2030 conhecido pela expressão em língua inglesa "leave no one behind" (não deixar ninguém para trás) expressa o compromisso de que:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-061-cc-q50" value="A"> A. O desenvolvimento sustentável deve beneficiar apenas os países mais desenvolvidos, cabendo aos países em desenvolvimento arcar isoladamente com seus próprios desafios.</label>
+<label class="quiz-option"><input type="radio" name="fgv-061-cc-q50" value="B"> B. Os esforços para o alcance dos Objetivos de Desenvolvimento Sustentável devem priorizar a inclusão dos grupos mais vulneráveis e marginalizados, buscando alcançar primeiro aqueles que estão mais atrasados, em estreita conexão com a proteção dos direitos humanos.</label>
+<label class="quiz-option"><input type="radio" name="fgv-061-cc-q50" value="C"> C. Nenhum Estado pode ser responsabilizado por eventual descumprimento das metas da Agenda 2030.</label>
+<label class="quiz-option"><input type="radio" name="fgv-061-cc-q50" value="D"> D. As metas da Agenda 2030 aplicam-se apenas a organismos internacionais, sem qualquer dever para os Estados nacionais.</label>
+<label class="quiz-option"><input type="radio" name="fgv-061-cc-q50" value="E"> E. Apenas os indicadores econômicos devem ser considerados, com exclusão de indicadores sociais.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada no princípio "leave no one behind" da Agenda 2030.</p>
+<p><strong>Como pensar:</strong> O princípio é uma diretriz de priorização: os esforços de desenvolvimento devem alcançar primeiro quem está mais para trás (grupos vulneráveis/marginalizados), conectando a Agenda 2030 à lógica de direitos humanos (não discriminação, inclusão).</p>
+<p><strong>Por que a B deve ser marcada:</strong> Descreve corretamente o conteúdo do princípio.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Contrariam o sentido inclusivo e universal do princípio.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Interpretar "leave no one behind" apenas como uma frase de efeito genérica, sem reconhecer seu conteúdo técnico específico de priorização dos mais vulneráveis.</p>
 </div>
 </div>
 
