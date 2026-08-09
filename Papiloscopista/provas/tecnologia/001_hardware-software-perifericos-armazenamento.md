@@ -2,7 +2,7 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 7 questões.
+**Itens neste banco:** 9 questões (2 questões oficiais FGV com fonte e gabarito conferidos + 7 questões autorais no padrão FGV).
 
 ## Foco FGV
 
@@ -191,6 +191,57 @@ Estas questões são autorais e calibradas pelo padrão observado em provas FGV 
 <li><strong>E.</strong> Incorreta. Adware exibe publicidade, não descreve sequestro de arquivos.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> Misturar backup em nuvem com armazenamento comum e malware de engenharia social.</p>
+</div>
+</div>
+
+## Fontes reais usadas neste banco
+
+- FGV, MF, 2024. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, DATAPREV, 2024. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - MF, 2024</p>
+<p><strong>8. SSDs externos são meios de armazenamento comumente utilizados por organizações para guardar dados com segurança. Sobre esse meio de armazenamento, é correto afirmar que</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-013-mf-q20" value="A"> A. precisa permanecer ligado à energia elétrica por mais de 48 horas para preservar as informações.</label>
+<label class="quiz-option"><input type="radio" name="fgv-013-mf-q20" value="B"> B. realiza a leitura das informações por meio de um feixe laser de alta precisão.</label>
+<label class="quiz-option"><input type="radio" name="fgv-013-mf-q20" value="C"> C. usa conjuntos de circuitos integrados para armazenar dados por meio de memória flash.</label>
+<label class="quiz-option"><input type="radio" name="fgv-013-mf-q20" value="D"> D. possui partes móveis que precisam se movimentar para ler ou gravar informações.</label>
+<label class="quiz-option"><input type="radio" name="fgv-013-mf-q20" value="E"> E. faz armazenamento por meio magnético e permite grande densidade de informação.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, MF, 2024. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> SSD (Solid State Drive) é "estado sólido" justamente porque não tem partes móveis nem laser — armazena dados eletricamente em circuitos de memória flash.</p>
+<p><strong>Por que a C deve ser marcada:</strong> Descreve corretamente a tecnologia de memória flash usada no SSD.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Memória flash não exige energia contínua para preservar dados (é não volátil).</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Leitura a laser é característica de mídias óticas (CD/DVD), não de SSD.</li>
+<li><strong>D e E.</strong> <strong>Não marque.</strong> Descrevem HD magnético tradicional (partes móveis, armazenamento magnético), não SSD.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Atribuir ao SSD características do HD tradicional (partes móveis, armazenamento magnético) — a vantagem central do SSD é justamente não ter partes móveis.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - DATAPREV, 2024</p>
+<p><strong>9. Em um ambiente de rede de computadores, no qual se deseja trabalhar com virtualização, há a necessidade de se instalar no hardware físico um software para abstrair os recursos da máquina, visando disponibilizar esse ambiente virtual. Esse tipo de software é o</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-013-datraprev-q1" value="A"> A. automatizador.</label>
+<label class="quiz-option"><input type="radio" name="fgv-013-datraprev-q1" value="B"> B. controlador.</label>
+<label class="quiz-option"><input type="radio" name="fgv-013-datraprev-q1" value="C"> C. hipervisor.</label>
+<label class="quiz-option"><input type="radio" name="fgv-013-datraprev-q1" value="D"> D. manipulador.</label>
+<label class="quiz-option"><input type="radio" name="fgv-013-datraprev-q1" value="E"> E. radiador.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, DATAPREV, 2024. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> O software que roda diretamente sobre o hardware físico (ou sobre um sistema operacional hospedeiro) para criar e gerenciar máquinas virtuais é, por definição, o hipervisor.</p>
+<p><strong>Por que a C deve ser marcada:</strong> É o termo técnico correto para esse tipo de software de virtualização.</p>
+<ul class="quiz-explain">
+<li><strong>A, B, D e E.</strong> <strong>Não marque.</strong> Não são termos técnicos usados para descrever essa função de abstração de recursos de hardware para virtualização.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir hipervisor com termos genéricos ("controlador", "automatizador") que soam plausíveis, mas não são a nomenclatura técnica da área.</p>
 </div>
 </div>
 

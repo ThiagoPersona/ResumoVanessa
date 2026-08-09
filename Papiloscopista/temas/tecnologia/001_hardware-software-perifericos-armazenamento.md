@@ -11,6 +11,19 @@
 
 Este item do edital cobre a base física e lógica da informática: hardware, software, periféricos, dispositivos móveis, armazenamento, backup e os componentes que participam da inicialização do computador (BIOS/UEFI, drivers, firmware). É o alicerce sobre o qual os demais temas de Tecnologia se apoiam — sistemas operacionais, redes e segurança da informação pressupõem esse vocabulário básico.
 
+| Prova (fonte oficial conferida) | Ano | O que caiu neste tema |
+|---|---:|---|
+| FGV MF | 2024 | Q20: características técnicas do SSD (memória flash, sem partes móveis). |
+| FGV DATAPREV | 2024 | Q1: nome do software que abstrai recursos de hardware para virtualização (hipervisor). |
+
+### SSD: por que não tem partes móveis nem armazenamento magnético
+
+O SSD (Solid State Drive) grava dados eletricamente em circuitos integrados de **memória flash** — por isso é "estado sólido": não tem disco girando nem cabeça de leitura se movendo (diferente do HD magnético tradicional) e não usa leitura a laser (diferente de mídias óticas como CD/DVD). Por ser memória não volátil, não precisa de energia contínua para preservar os dados gravados.
+
+### Hipervisor: o software que viabiliza a virtualização
+
+Para rodar máquinas virtuais sobre um hardware físico, é necessário um software que abstraia os recursos físicos (processador, memória, armazenamento) e os disponibilize para os ambientes virtuais — esse software é o **hipervisor**. Existem duas categorias: **Tipo 1 (bare-metal)**, que roda diretamente sobre o hardware, sem sistema operacional hospedeiro; e **Tipo 2 (hospedado)**, que roda como um aplicativo sobre um sistema operacional já instalado.
+
 ## Conteúdo completo orientado ao edital
 
 ### Hardware x software x firmware
@@ -90,6 +103,23 @@ Smartphones e tablets seguem a mesma lógica de hardware/software/armazenamento,
 | BIOS/UEFI | Sistema operacional | Ambos "iniciam" o funcionamento do computador | BIOS/UEFI prepara o hardware e entrega o controle ao SO, que é carregado depois |
 | Driver | O próprio periférico | Confusão de nome comum | Driver é o software que permite a comunicação; o periférico é o hardware em si |
 | Backup | Sincronização em nuvem | Ambos "protegem" dados na aparência | Backup precisa de versionamento e independência; sincronização replica mudanças, inclusive exclusões |
+| SSD (memória flash) | HD tradicional (disco magnético) | Ambos são "armazenamento não volátil" | SSD não tem partes móveis nem usa magnetismo; HD tem disco girando e cabeça de leitura magnética |
+
+## Como caiu na prova: questões comentadas
+
+**Fonte: FGV, MF, 2024, questão 20 (gabarito oficial: C)**
+
+> Sobre SSDs externos, é correto afirmar que...
+
+1. **SSD usa memória flash (circuitos integrados), sem partes móveis nem laser nem magnetismo.**
+2. **C é o gabarito.**
+
+**Fonte: FGV, DATAPREV, 2024, questão 1 (gabarito oficial: C)**
+
+> Software que abstrai os recursos do hardware físico para disponibilizar ambiente virtual.
+
+1. **É a definição de hipervisor.**
+2. **C é o gabarito.**
 
 ## Pegadinhas da banca
 
@@ -98,6 +128,7 @@ Smartphones e tablets seguem a mesma lógica de hardware/software/armazenamento,
 - Confundir driver com o próprio periférico, ou com firmware.
 - Considerar UEFI como sinônimo de sistema operacional.
 - Ignorar a diferença entre periférico de entrada, saída e entrada/saída ao classificar um dispositivo.
+- Atribuir ao SSD características do HD tradicional (partes móveis, leitura magnética/a laser).
 
 ## Como resolver questões
 
@@ -108,7 +139,7 @@ Smartphones e tablets seguem a mesma lógica de hardware/software/armazenamento,
 
 ## Lacunas honestas
 
-- Ainda não há questão real de banca FGV localizada especificamente para este tema neste levantamento — as questões reais de Tecnologia localizadas até agora (nas provas SEAD/AP, PCMG e PCAM) tratam de sistemas operacionais e aplicativos (tema 014) e de redes (tema 015), não de hardware/periféricos/armazenamento puro. É prioridade de busca para sessão futura.
+- Ainda não há questão real localizada sobre periféricos ou dispositivos móveis especificamente neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
@@ -116,7 +147,9 @@ Smartphones e tablets seguem a mesma lógica de hardware/software/armazenamento,
 - [ ] Sei diferenciar BIOS/UEFI, driver e firmware pela função de cada um.
 - [ ] Sei os critérios que tornam uma cópia um backup de verdade (versionamento, independência).
 - [ ] Sei classificar periféricos por direção do fluxo de dados.
-- [ ] Sei diferenciar HD de SSD tecnicamente.
+- [ ] Sei diferenciar HD de SSD tecnicamente (memória flash x disco magnético).
+- [ ] Sei o que é um hipervisor e a diferença entre Tipo 1 (bare-metal) e Tipo 2 (hospedado).
+- [ ] Resolvi as duas questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei a lacuna de fonte registrada acima.
 
 ## Questões relacionadas
@@ -127,8 +160,9 @@ Smartphones e tablets seguem a mesma lógica de hardware/software/armazenamento,
 
 **Prova/FGV**
 
+- FGV. MF, 2024. Questão 20 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. DATAPREV, 2024. Questão 1 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
-- Nenhuma questão real de FGV localizada especificamente para este tema até o momento (lacuna registrada acima).
 
 **Material local**
 

@@ -2,13 +2,16 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 11 questões (9 questões oficiais FGV com fonte e gabarito conferidos + 2 questões autorais no padrão FGV).
+**Itens neste banco:** 14 questões (12 questões oficiais FGV com fonte e gabarito conferidos + 2 questões autorais no padrão FGV).
 
 ## Fontes reais usadas neste banco
 
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 - FGV, PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1. Gabarito definitivo publicado pela FGV.
+- FGV, ALERJ, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, EPE, 2024. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, Prefeitura de Canaã dos Carajás - PA, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 
 <div class="quiz-card" data-answer="E">
 <p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 11</p>
@@ -244,11 +247,85 @@
 </div>
 </div>
 
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - ALERJ, 2026</p>
+<p><strong>12. Um servidor da Assembleia Legislativa necessita localizar rapidamente um aplicativo específico no MS-Windows 10 ou superior, sem usar o mouse ou navegar pelos menus do sistema. Assinale a opção que indica o atalho de teclado padrão que permite abrir diretamente a função de pesquisa, possibilitando a digitação do nome do aplicativo ou do arquivo a ser localizado.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-014-alerj-q6" value="A"> A. Ctrl + Alt + Del.</label>
+<label class="quiz-option"><input type="radio" name="fgv-014-alerj-q6" value="B"> B. Alt + F4.</label>
+<label class="quiz-option"><input type="radio" name="fgv-014-alerj-q6" value="C"> C. Windows + S.</label>
+<label class="quiz-option"><input type="radio" name="fgv-014-alerj-q6" value="D"> D. Ctrl + P.</label>
+<label class="quiz-option"><input type="radio" name="fgv-014-alerj-q6" value="E"> E. Windows + E.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, ALERJ, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> "Windows + S" é o atalho padrão do Windows 10/11 para abrir a busca do sistema, permitindo digitar o nome de qualquer aplicativo ou arquivo.</p>
+<p><strong>Por que a C deve ser marcada:</strong> É exatamente esse o atalho de pesquisa do sistema.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Abre a tela de segurança (gerenciador de tarefas, bloqueio, etc.), não a pesquisa.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Fecha a janela/aplicativo ativo.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Abre o comando de impressão.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Abre o Explorador de Arquivos, não a pesquisa geral do sistema.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir "Windows + E" (Explorador de Arquivos) com "Windows + S" (pesquisa) — ambos são atalhos "Windows + letra" para abrir ferramentas do sistema, mas com funções diferentes.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">FGV - EPE, 2024</p>
+<p><strong>13. O Excel é um programa de desenvolvimento de planilhas digitais criado pela Microsoft. Assinale a opção que apresenta a funcionalidade do Excel destinada a automatizar tarefas repetitivas, gravando uma sequência de ações para serem executadas posteriormente com um único comando.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-014-epe-q11" value="A"> A. Tabela Dinâmica.</label>
+<label class="quiz-option"><input type="radio" name="fgv-014-epe-q11" value="B"> B. Power Query.</label>
+<label class="quiz-option"><input type="radio" name="fgv-014-epe-q11" value="C"> C. Colaboração em tempo real.</label>
+<label class="quiz-option"><input type="radio" name="fgv-014-epe-q11" value="D"> D. Macro.</label>
+<label class="quiz-option"><input type="radio" name="fgv-014-epe-q11" value="E"> E. Validação de Dados.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: FGV, EPE, 2024. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> A funcionalidade que grava uma sequência de ações do usuário para repeti-la posteriormente com um clique/comando é, por definição, a macro.</p>
+<p><strong>Por que a D deve ser marcada:</strong> Descreve exatamente a função das macros no Excel.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Tabela dinâmica resume/reorganiza dados, não grava sequência de ações.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Power Query importa e transforma dados de fontes externas.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Colaboração em tempo real permite múltiplos usuários editando simultaneamente, não automação de tarefas.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Validação de dados restringe o que pode ser digitado numa célula, não automatiza ações.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir ferramentas de organização/importação de dados (Tabela Dinâmica, Power Query) com a ferramenta específica de automação de ações repetitivas (Macro).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - Prefeitura de Canaã dos Carajás - PA, 2025</p>
+<p><strong>14. Um biomédico necessita configurar seu Microsoft Outlook Versão 365. Com relação às ferramentas de configuração de caixa de correio oferecidas pelo Outlook, avalie as afirmativas a seguir. I. Limpar Caixa de Correio permite gerenciar o tamanho da caixa de correio com opções avançadas. II. Esvaziar pasta de Itens Excluídos permite excluir permanentemente todos os itens da pasta Itens Excluídos. III. Limpar itens antigos permite renomear itens antigos para um arquivo de backup de dados do Outlook. Está correto o que se afirma em</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-014-canaa-q14" value="A"> A. I, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-014-canaa-q14" value="B"> B. I e II, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-014-canaa-q14" value="C"> C. I e III, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-014-canaa-q14" value="D"> D. II e III, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-014-canaa-q14" value="E"> E. I, II e III.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, Prefeitura de Canaã dos Carajás - PA, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Confira cada ferramenta contra sua função real no Outlook: "Limpar itens antigos" (AutoArquivamento) move os itens para um arquivo de dados de arquivo morto — ele não os "renomeia", apenas os transfere/arquiva.</p>
+<p><strong>Por que a B deve ser marcada:</strong> I e II descrevem corretamente as respectivas ferramentas; III descreve incorretamente "Limpar itens antigos" como uma ação de "renomear", quando na verdade é mover/arquivar.</p>
+<ul class="quiz-explain">
+<li><strong>I.</strong> Verdadeira. Descreve corretamente a ferramenta de gerenciamento de tamanho da caixa.</li>
+<li><strong>II.</strong> Verdadeira. Descreve corretamente o esvaziamento definitivo da lixeira.</li>
+<li><strong>III.</strong> Falsa. "Limpar itens antigos" arquiva/move os itens, não os "renomeia".</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Aceitar uma descrição que troca o verbo da ação (renomear x mover/arquivar) numa ferramenta que, de resto, é real e existente no Outlook — o detalhe do verbo é o que torna a afirmativa falsa.</p>
+</div>
+</div>
+
 ## Questões autorais de reforço
 
 <div class="quiz-card" data-answer="D">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>10. No Windows, um usuário precisa impedir que um aplicativo acesse a câmera sem autorização. O caminho conceitual correto é revisar:</strong></p>
+<p><strong>15. No Windows, um usuário precisa impedir que um aplicativo acesse a câmera sem autorização. O caminho conceitual correto é revisar:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-014" value="A"> A. a resolução do monitor.</label>
 <label class="quiz-option"><input type="radio" name="fgv-014" value="B"> B. a fragmentação do SSD.</label>
@@ -274,7 +351,7 @@
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>11. No editor de texto, a ferramenta de localizar/substituir com caracteres curinga é útil para:</strong></p>
+<p><strong>16. No editor de texto, a ferramenta de localizar/substituir com caracteres curinga é útil para:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-014-b" value="A"> A. apagar fisicamente o disco rígido.</label>
 <label class="quiz-option"><input type="radio" name="fgv-014-b" value="B"> B. encontrar padrões textuais que variam parcialmente, conforme a sintaxe aceita pelo programa.</label>

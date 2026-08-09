@@ -16,6 +16,9 @@ Este bloco cobre sistemas operacionais (Windows, Linux, e por extensão Android/
 | FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q11: componente do Windows (Registro). Q13: busca avançada com caracteres curinga no Word. Q14: contagem de células numa região do Excel. |
 | FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q21: finalidade do diretório /var no Linux (FHS). Q25: obrigação das diretrizes de distribuições de software livre (GNU FSDG). |
 | FGV PCAM Investigador de Polícia, Tipo 1 | 2021 | Q21: comportamento do clique direito num ícone fixado na barra de tarefas do Windows. Q23: desativar autocorreção específica no Word. Q24: peculiaridades do comando Imprimir no Word. Q25: cópia de fórmulas com referência relativa no Excel. |
+| FGV ALERJ | 2026 | Q6: atalho de teclado para pesquisa no Windows 10/11. |
+| FGV EPE | 2024 | Q11: funcionalidade do Excel para automatizar tarefas repetitivas (Macro). |
+| FGV Prefeitura de Canaã dos Carajás - PA | 2025 | Q14: ferramentas de configuração de caixa de correio no Outlook. |
 
 ## Conteúdo completo orientado ao edital
 
@@ -189,6 +192,27 @@ Sistemas operacionais móveis (Android, iOS) seguem lógica semelhante às dos s
 5. **Calcule a linha 3 (segundo bloco, células vazias envolvidas)**: D3 = "=B3+C3" = 0+0 = 0 (B3 e C3 estão vazias). E3 = "=C3+D3" = 0+0 = 0. F3 = "=D3+E3" = 0+0 = 0.
 6. **Resultado**: F1=13, F2=29, F3=0. **B é o gabarito** ("5; 8; 13" — atenção: a alternativa lista os valores de D1, E1, F1, não F1/F2/F3 isoladamente; o valor correto de F1 sozinho é 13, que aparece como o terceiro número da alternativa B, confirmando-a).
 
+**Fonte: FGV, ALERJ, 2026, questão 6 (gabarito oficial: C)**
+
+> Atalho de teclado padrão para abrir a pesquisa do Windows 10/11.
+
+1. **Windows + S é o atalho padrão de pesquisa do sistema.**
+2. **C é o gabarito.**
+
+**Fonte: FGV, EPE, 2024, questão 11 (gabarito oficial: D)**
+
+> Funcionalidade do Excel que automatiza tarefas repetitivas gravando uma sequência de ações.
+
+1. **É a definição de Macro.**
+2. **D é o gabarito.**
+
+**Fonte: FGV, Prefeitura de Canaã dos Carajás - PA, 2025, questão 14 (gabarito oficial: B)**
+
+> Ferramentas de configuração de caixa de correio no Outlook: Limpar Caixa de Correio, Esvaziar Itens Excluídos, Limpar itens antigos.
+
+1. **As duas primeiras estão corretas; a terceira erra o verbo ("renomear" em vez de "mover/arquivar").**
+2. **B é o gabarito.**
+
 ## Pegadinhas da banca
 
 - Tentar responder questão de Excel "de cabeça" sem rastrear cada célula intermediária que a fórmula copiada referencia.
@@ -196,6 +220,9 @@ Sistemas operacionais móveis (Android, iOS) seguem lógica semelhante às dos s
 - Buscar a opção de desativar autocorreção em guias erradas do Word (Revisão, Inserir) em vez de Arquivo > Opções.
 - Trocar a finalidade de diretórios do Linux que soam parecidos (/var, /usr, /etc).
 - Achar que qualquer software de código aberto automaticamente cumpre as diretrizes de uma distribuição livre.
+- Confundir atalhos "Windows + letra" entre si (S=pesquisa, E=explorador de arquivos, etc.).
+- Confundir Macro (automação de ações) com outras ferramentas do Excel (Tabela Dinâmica, Power Query, Validação de Dados).
+- Aceitar descrição de ferramenta do Outlook que troca o verbo da ação real (mover/arquivar x renomear/excluir).
 
 ## Como resolver questões
 
@@ -219,7 +246,8 @@ Sistemas operacionais móveis (Android, iOS) seguem lógica semelhante às dos s
 - [ ] Sei as peculiaridades do comando Imprimir no Word (páginas por folha, comentários, controle de alterações).
 - [ ] Sei rastrear referência relativa de fórmula copiada no Excel, célula por célula.
 - [ ] Sei contar células de uma região de planilha convertendo letras de coluna em posição numérica.
-- [ ] Resolvi as nove questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Sei o atalho de pesquisa do Windows e a diferença entre Macro e outras ferramentas do Excel.
+- [ ] Resolvi as doze questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
@@ -233,6 +261,9 @@ Sistemas operacionais móveis (Android, iOS) seguem lógica semelhante às dos s
 - FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questões 11, 13 e 14. Gabarito definitivo publicado pela FGV.
 - FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questões 21 e 25. Gabarito definitivo publicado pela FGV.
 - FGV. PCAM 2021 - Investigador de Polícia, 4ª Classe, Tipo 1. Caderno oficial, questões 21, 23, 24 e 25. Gabarito definitivo publicado pela FGV.
+- FGV. ALERJ, 2026. Questão 6 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. EPE, 2024. Questão 11 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. Prefeitura de Canaã dos Carajás - PA, 2025. Questão 14 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**

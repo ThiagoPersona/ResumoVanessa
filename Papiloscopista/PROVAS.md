@@ -16,9 +16,9 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | RLM | Problemas lógicos, contagem, probabilidade e sequências | 4 | [Abrir](provas/rlm/004_problemas-logicos-contagem-probabilidade-sequencias.md) |
 | Realidade PR | História, geografia e organização territorial do Paraná | 3 | [Abrir](provas/realidade-pr/001_historia-geografia-parana.md) |
 | Realidade PR | Cultura, indicadores, economia, políticas públicas e atualidades | 3 | [Abrir](provas/realidade-pr/002_cultura-indicadores-economia-politicas-atualidades.md) |
-| Tecnologia | Hardware, software, periféricos e armazenamento | 7 | [Abrir](provas/tecnologia/001_hardware-software-perifericos-armazenamento.md) |
-| Tecnologia | Sistemas operacionais, aplicativos e dispositivos móveis | 11 | [Abrir](provas/tecnologia/002_sistemas-operacionais-aplicativos-dispositivos-moveis.md) |
-| Tecnologia | Internet, redes, nuvem, web, bancos e APIs | 5 | [Abrir](provas/tecnologia/003_internet-redes-nuvem-web-bancos-apis.md) |
+| Tecnologia | Hardware, software, periféricos e armazenamento | 9 | [Abrir](provas/tecnologia/001_hardware-software-perifericos-armazenamento.md) |
+| Tecnologia | Sistemas operacionais, aplicativos e dispositivos móveis | 14 | [Abrir](provas/tecnologia/002_sistemas-operacionais-aplicativos-dispositivos-moveis.md) |
+| Tecnologia | Internet, redes, nuvem, web, bancos e APIs | 10 | [Abrir](provas/tecnologia/003_internet-redes-nuvem-web-bancos-apis.md) |
 | Tecnologia | Segurança da informação, malware, phishing e backup | 10 | [Abrir](provas/tecnologia/004_seguranca-informacao-malware-phishing-backup.md) |
 | Tecnologia | Crimes digitais, evidências eletrônicas e OSINT | 3 | [Abrir](provas/tecnologia/005_crimes-digitais-evidencias-osint.md) |
 | Tecnologia | Legislação e ética digital | 6 | [Abrir](provas/tecnologia/006_legislacao-etica-digital.md) |

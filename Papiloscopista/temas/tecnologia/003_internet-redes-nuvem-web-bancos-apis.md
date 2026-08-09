@@ -16,6 +16,11 @@ Este item reúne a infraestrutura que sustenta a comunicação digital: como as 
 | FGV SEAD/AP Papiloscopista, Tipo 1 | 2022 | Q12: comportamento do atalho de teclado Ctrl+Shift+T no Google Chrome. |
 | FGV PCMG Perito Criminal Área I, Tipo 1 | 2024 | Q23: papel do switch em comparação com hub, repetidor e bridge. |
 | FGV PCAM Investigador de Polícia, Tipo 1 | 2021 | Q22: quais operações de gerenciamento de cookies o Google Chrome realmente oferece. |
+| FGV AL-RO | 2026 | Q4: modelo de implantação de nuvem para soberania de dados (nuvem privada). |
+| FGV AGESAN-RS | 2025 | Q4: limites reais da navegação segura (HTTPS não garante proteção total contra phishing). |
+| FGV MPE-RJ | 2025 | Q2: os três níveis de Navegação segura do Chrome. |
+| FGV Prefeitura de Canaã dos Carajás - PA | 2025 | Q1: diferença entre gráficos rasterizados e vetoriais. |
+| FGV PGM-RJ | 2025 | Q15: função da ferramenta "Inspetor" do Firefox. |
 
 ## Conteúdo completo orientado ao edital
 
@@ -68,13 +73,36 @@ A computação em nuvem oferece recursos de TI sob demanda, pela internet, com d
 | PaaS (Plataforma como Serviço) | Infraestrutura + ambiente de execução (runtime, banco de dados gerenciado) | Só a aplicação e os dados |
 | SaaS (Software como Serviço) | Aplicação pronta para uso via navegador/app | Praticamente nada além dos próprios dados e configurações de uso |
 
-Modelos de implantação da nuvem: **pública** (infraestrutura compartilhada entre vários clientes, gerida por um provedor terceiro), **privada** (infraestrutura dedicada a uma única organização) e **híbrida** (combinação das duas, com dados/cargas transitando entre ambientes conforme a necessidade).
+Modelos de implantação da nuvem: **pública** (infraestrutura compartilhada entre vários clientes, gerida por um provedor terceiro), **privada** (infraestrutura dedicada a uma única organização) e **híbrida** (combinação das duas, com dados/cargas transitando entre ambientes conforme a necessidade). Cuidado para não confundir **modelo de implantação** (onde/com quem a infraestrutura é compartilhada) com **modelo de serviço** (IaaS/PaaS/SaaS, o que é entregue pronto): quando a exigência é controle exclusivo sobre hardware/infraestrutura (soberania de dados, dados sensíveis de governo), a resposta é sempre nuvem **privada**, não um modelo de serviço.
+
+### Navegação segura: o que cada camada realmente garante
+
+Um erro recorrente de prova é superestimar o que uma única medida de segurança garante:
+
+- **HTTPS/cadeado**: garante apenas que a conexão está **criptografada** — não garante que o site é legítimo (sites de phishing também podem ter HTTPS).
+- **Extensões de bloqueio de anúncios**: reduzem a exposição a **malvertising** (anúncios maliciosos), mas não eliminam todos os riscos de navegação.
+- **Atualizações automáticas do navegador**: corrigem vulnerabilidades conhecidas, mas não protegem contra ataques de engenharia social (o usuário sendo enganado a agir).
+
+**Níveis de Navegação segura do Google Chrome**: o navegador oferece exatamente três níveis, com esses nomes específicos — **reforçada** (proteção mais ampla, inclusive preditiva), **padrão** (proteção básica ativa por padrão) e **sem proteção** (desativada).
 
 ### Navegador web: gerenciamento de cookies e outras funcionalidades
 
 **Cookies** são pequenos arquivos de dados que sites armazenam no navegador do usuário, usados para lembrar sessão de login, preferências, ou para rastreamento. Navegadores modernos oferecem opções específicas de gerenciamento — mas nem toda combinação "lógica" de opção realmente existe: por exemplo, é comum haver a opção de **bloquear cookies**, **excluir cookies automaticamente ao fechar o navegador**, **excluir cookies de um período específico** e **excluir cookies de um site específico**, mas nem sempre existe uma opção simétrica de "excluir cookies ao iniciar o navegador" — é preciso testar cada opção específica contra a interface real do programa, não presumir simetria.
 
 **Atalhos de navegador** também são cobrados por comportamento exato: por exemplo, um atalho de "reabrir aba" tipicamente reabre a aba fechada mais recentemente, não necessariamente todo o histórico de abas fechadas — a diferença entre "recuperar a mais recente" e "listar as últimas fechadas" é sutil e decisiva para escolher a alternativa certa.
+
+**Ferramentas de desenvolvedor**: navegadores modernos incluem um conjunto de ferramentas técnicas (acessadas por atalho, como Ctrl+Shift+C no Firefox/Chrome) para inspecionar e editar temporariamente o HTML/CSS de uma página — não devem ser confundidas com funcionalidades comuns do usuário final (bloqueio de anúncio, gerenciamento de senhas salvas).
+
+### Gráficos rasterizados x vetoriais
+
+Dois tipos de arquivo de imagem, com lógica de armazenamento oposta:
+
+| Tipo | Como armazena a imagem | Exemplos de extensão |
+|---|---|---|
+| Rasterizado (bitmap) | Como uma grade de pixels (pequenos quadrados coloridos) | JPEG, GIF, PNG, BMP |
+| Vetorial | Como elementos geométricos (linhas, curvas, polígonos) descritos matematicamente | SVG, AI, EPS |
+
+Imagens vetoriais podem ser redimensionadas sem perda de qualidade (pois são recalculadas matematicamente); imagens rasterizadas perdem nitidez ao serem ampliadas além de sua resolução original.
 
 ### Bancos de dados: conceitos essenciais
 
@@ -136,6 +164,41 @@ Uma **API (Application Programming Interface)** é um conjunto de regras que per
 2. **Elimine a opção 3**, que não corresponde a uma funcionalidade real e distinta do Chrome.
 3. **D é o gabarito**: 1, 2, 4 e 5, excluindo a opção 3.
 
+**Fonte: FGV, AL-RO, 2026, questão 4 (gabarito oficial: C)**
+
+> Modelo de nuvem que garante controle exclusivo sobre hardware/infraestrutura para dados sensíveis de governo.
+
+1. **Controle exclusivo = nuvem privada.**
+2. **C é o gabarito.**
+
+**Fonte: FGV, AGESAN-RS, 2025, questão 4 (gabarito oficial: C)**
+
+> Bloqueio de anúncios previne malvertising (I, verdadeira); HTTPS garante total segurança contra phishing (II, falsa); atualizações automáticas corrigem vulnerabilidades (III, verdadeira).
+
+1. **I e III corretas; II exagera o que HTTPS garante.**
+2. **C é o gabarito.**
+
+**Fonte: FGV, MPE-RJ, 2025, questão 2 (gabarito oficial: D)**
+
+> Os três níveis de Navegação segura do Chrome.
+
+1. **Reforçada, padrão e sem proteção — nomenclatura exata da interface.**
+2. **D é o gabarito.**
+
+**Fonte: FGV, Prefeitura de Canaã dos Carajás - PA, 2025, questão 1 (gabarito oficial: C)**
+
+> Gráficos rasterizados x vetoriais: I e II trocam as definições entre si; III (JPEG/GIF/PNG são rasterizados) é verdadeira.
+
+1. **Apenas III está correta.**
+2. **C é o gabarito.**
+
+**Fonte: FGV, PGM-RJ, 2025, questão 15 (gabarito oficial: B)**
+
+> Função da ferramenta "Inspetor" do Firefox (Ctrl+Shift+C).
+
+1. **Analisar e editar elementos HTML/CSS da página — ferramenta de desenvolvedor.**
+2. **B é o gabarito.**
+
 ## Pegadinhas da banca
 
 - Confundir a camada de operação de hub, switch e roteador, ou atribuir a um dispositivo o comportamento de outro.
@@ -144,6 +207,11 @@ Uma **API (Application Programming Interface)** é um conjunto de regras que per
 - Confundir "reabrir a aba mais recente fechada" com "listar as últimas N abas fechadas" ou "restaurar toda a sessão anterior".
 - Tratar HTTP e HTTPS como idênticos, ignorando a camada de criptografia do segundo.
 - Confundir os três modelos de nuvem (IaaS, PaaS, SaaS) quanto ao que vem pronto e ao que o cliente ainda gerencia.
+- Confundir modelo de implantação (público/privado/híbrido) com modelo de serviço (IaaS/PaaS/SaaS) — são classificações diferentes.
+- Aceitar que HTTPS/cadeado garante segurança total contra phishing — garante só a criptografia da conexão.
+- Inventar nomes de níveis de proteção que não são os termos exatos da interface do navegador.
+- Trocar as definições de gráfico rasterizado (pixels) e vetorial (formas geométricas) entre si.
+- Confundir ferramentas de desenvolvedor (inspeção de código) com funcionalidades comuns do usuário final.
 
 ## Como resolver questões
 
@@ -165,7 +233,10 @@ Uma **API (Application Programming Interface)** é um conjunto de regras que per
 - [ ] Sei que nem toda funcionalidade "lógica" de navegador existe de fato na interface real do programa.
 - [ ] Sei os conceitos básicos de banco de dados relacional (tabela, chave primária, chave estrangeira) e os comandos SQL essenciais.
 - [ ] Sei o que é uma API REST e os métodos HTTP associados a cada operação.
-- [ ] Resolvi as três questões reais comentadas deste tema sem olhar o gabarito antes.
+- [ ] Sei diferenciar modelo de implantação de nuvem (público/privado/híbrido) de modelo de serviço (IaaS/PaaS/SaaS).
+- [ ] Sei o que HTTPS realmente garante (criptografia) e o que não garante (legitimidade do site).
+- [ ] Sei diferenciar gráfico rasterizado de vetorial.
+- [ ] Resolvi as oito questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei as lacunas de fonte registradas acima.
 
 ## Questões relacionadas
@@ -179,6 +250,11 @@ Uma **API (Application Programming Interface)** é um conjunto de regras que per
 - FGV. SEAD/AP - Peritos 2022 - Papiloscopista, Tipo 1 - Branca. Caderno oficial, questão 12. Gabarito definitivo publicado pela FGV.
 - FGV. PCMG 2024 - Perito Criminal Área I, Tipo 1. Caderno oficial, questão 23. Gabarito definitivo publicado pela FGV.
 - FGV. PCAM 2021 - Investigador de Polícia, 4ª Classe, Tipo 1. Caderno oficial, questão 22. Gabarito definitivo publicado pela FGV.
+- FGV. AL-RO, 2026. Questão 4 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. AGESAN-RS, 2025. Questão 4 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. MPE-RJ, 2025. Questão 2 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. Prefeitura de Canaã dos Carajás - PA, 2025. Questão 1 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV. PGM-RJ, 2025. Questão 15 localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - Edital PCPR n.º 01/2026, retificado em 31/07/2026 - FGV.
 
 **Material local**

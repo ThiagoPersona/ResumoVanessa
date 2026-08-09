@@ -2,13 +2,18 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 5 questões (3 questões oficiais FGV com fonte e gabarito conferidos + 2 questões autorais no padrão FGV).
+**Itens neste banco:** 10 questões (8 questões oficiais FGV com fonte e gabarito conferidos + 2 questões autorais no padrão FGV).
 
 ## Fontes reais usadas neste banco
 
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 - FGV, PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1. Gabarito definitivo publicado pela FGV.
+- FGV, AL-RO, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, AGESAN-RS, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, MPE-RJ, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, Prefeitura de Canaã dos Carajás - PA, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, PGM-RJ, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 
 <div class="quiz-card" data-answer="E">
 <p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 12</p>
@@ -88,11 +93,128 @@
 </div>
 </div>
 
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - AL-RO, 2026</p>
+<p><strong>4. Uma agência governamental precisa migrar seus dados de cidadãos para a cloud. As regulamentações de segurança e soberania de dados proíbem o armazenamento de informações sensíveis em infraestruturas compartilhadas ou fora de data centers específicos do governo. Assinale a opção que identifica o modelo de implantação de cloud que deve ser priorizado, garantindo o controle exclusivo sobre o hardware e a infraestrutura, dentro dos limites regulatórios.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-015-alro-q4" value="A"> A. Public Cloud.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-alro-q4" value="B"> B. Hybrid Cloud.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-alro-q4" value="C"> C. Private Cloud.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-alro-q4" value="D"> D. Edge Cloud.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-alro-q4" value="E"> E. Software as a Service.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, AL-RO, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> "Controle exclusivo sobre hardware e infraestrutura", sem compartilhar com outros clientes, é a definição central de nuvem privada — infraestrutura dedicada a uma única organização.</p>
+<p><strong>Por que a C deve ser marcada:</strong> É o único modelo que garante esse controle exclusivo exigido pela regulamentação de soberania de dados.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Nuvem pública compartilha infraestrutura entre múltiplos clientes — o oposto do exigido.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Híbrida combina pública e privada, ainda envolvendo infraestrutura compartilhada em parte.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Edge computing foca em processamento próximo à origem dos dados, não em controle exclusivo de infraestrutura governamental.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> SaaS é um modelo de serviço (aplicação pronta), não um modelo de implantação de infraestrutura.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir modelo de implantação (public/private/hybrid/edge, sobre ONDE a infraestrutura roda) com modelo de serviço (IaaS/PaaS/SaaS, sobre O QUE é entregue ao cliente).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - AGESAN-RS, 2025</p>
+<p><strong>5. Em relação à navegação segura na internet, avalie as afirmativas a seguir. I. Extensões de bloqueio de anúncios (uBlock Origin) previnem malvertising. II. Verificar "HTTPS" e cadeado no navegador garante total segurança contra phishing. III. Atualizações automáticas do navegador corrigem vulnerabilidades críticas. Está correto o que se afirma em</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-015-agesan-q4" value="A"> A. III, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-agesan-q4" value="B"> B. I e II, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-agesan-q4" value="C"> C. I e III, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-agesan-q4" value="D"> D. II e III, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-agesan-q4" value="E"> E. I, II e III.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, AGESAN-RS, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> Teste cada afirmativa contra a palavra "total"/"garante" — segurança na internet raramente é absoluta; HTTPS garante apenas que a conexão é criptografada, não que o site é legítimo.</p>
+<p><strong>Por que I e III são verdadeiras, mas II é falsa:</strong> Bloqueadores de anúncio realmente reduzem exposição a malvertising (I); atualizações automáticas realmente corrigem vulnerabilidades conhecidas (III); mas HTTPS/cadeado só garante criptografia do canal, não a legitimidade do site — sites de phishing também podem usar HTTPS (II é falsa).</p>
+<ul class="quiz-explain">
+<li><strong>I.</strong> Verdadeira.</li>
+<li><strong>II.</strong> Falsa. HTTPS não garante proteção total contra phishing.</li>
+<li><strong>III.</strong> Verdadeira.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Aceitar a afirmativa II por "soar razoável" — o termo "garante total segurança" é a pista de que a afirmativa exagera o que o HTTPS realmente oferece.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">FGV - MPE-RJ, 2025</p>
+<p><strong>6. Ao usar o recurso de "navegação segura" no navegador Chrome, o usuário recebe avisos que ajudam na proteção contra malware, sites e extensões abusivos, phishing, anúncios maliciosos e ataques de engenharia social. Os níveis de proteção de navegação segura oferecidos por esse navegador são:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-015-mperj-q2" value="A"> A. proteção extra e proteção padrão, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-mperj-q2" value="B"> B. proteção padrão e sem proteção, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-mperj-q2" value="C"> C. proteção avançada, proteção extra e proteção básica, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-mperj-q2" value="D"> D. proteção reforçada, proteção padrão e sem proteção, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-mperj-q2" value="E"> E. proteção reforçada, proteção avançada, proteção padrão e proteção básica, apenas.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: FGV, MPE-RJ, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> O Google Chrome oferece exatamente três níveis de Navegação segura, nomeados dessa forma específica pela própria interface do navegador.</p>
+<p><strong>Por que a D deve ser marcada:</strong> São os três níveis reais: reforçada (mais proteção), padrão (proteção básica ativa) e sem proteção (desativada).</p>
+<ul class="quiz-explain">
+<li><strong>A, B, C e E.</strong> <strong>Não marque.</strong> Usam nomenclatura ou quantidade de níveis que não correspondem à interface real do Chrome.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Inventar nomes de níveis que soam plausíveis ("avançada", "extra", "básica") mas não são os termos exatos usados pela interface do Chrome.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - Prefeitura de Canaã dos Carajás - PA, 2025</p>
+<p><strong>7. Com relação aos arquivos do tipo gráfico, analise as afirmativas a seguir. I. Gráficos rasterizados guardam e exibem uma imagem como elementos geométricos simples, tais como linhas, círculos e polígonos, em vez de uma coleção de pixels. II. Gráficos vetoriais são imagens feitas de pixels, pequenos quadrados coloridos que, em grande quantidade, formam imagens detalhadas. III. Arquivos com extensão JPEG, GIF e PNG são gráficos do tipo rasterizados. Está correto o que se afirma em</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-015-canaa-q1" value="A"> A. I, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-canaa-q1" value="B"> B. II, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-canaa-q1" value="C"> C. III, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-canaa-q1" value="D"> D. I e II, apenas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-canaa-q1" value="E"> E. II e III, apenas.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, Prefeitura de Canaã dos Carajás - PA, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> As afirmativas I e II trocam as definições entre si: quem guarda a imagem como elementos geométricos (linhas, círculos) é o gráfico VETORIAL, não o rasterizado; quem é feito de pixels é o RASTERIZADO, não o vetorial.</p>
+<p><strong>Por que III está correta:</strong> JPEG, GIF e PNG são de fato formatos rasterizados (baseados em pixels).</p>
+<ul class="quiz-explain">
+<li><strong>I.</strong> Falsa. Descreve gráfico vetorial, mas rotula como "rasterizado".</li>
+<li><strong>II.</strong> Falsa. Descreve gráfico rasterizado, mas rotula como "vetorial".</li>
+<li><strong>III.</strong> Verdadeira. JPEG/GIF/PNG são realmente formatos rasterizados.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Trocar as definições de gráfico rasterizado (pixels) e vetorial (formas geométricas) entre si — são conceitos opostos, fáceis de inverter numa leitura rápida.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - PGM-RJ, 2025</p>
+<p><strong>8. No Mozilla Firefox, a ferramenta "Inspetor" (acessível com Ctrl+Shift+C) é utilizada para</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-015-pgmrj-q15" value="A"> A. gerenciar senhas salvas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-pgmrj-q15" value="B"> B. analisar e editar elementos HTML/CSS da página.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-pgmrj-q15" value="C"> C. bloquear anúncios automaticamente.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-pgmrj-q15" value="D"> D. acelerar o carregamento de vídeos.</label>
+<label class="quiz-option"><input type="radio" name="fgv-015-pgmrj-q15" value="E"> E. converter páginas para PDF.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, PGM-RJ, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> A ferramenta "Inspetor" faz parte das Ferramentas de Desenvolvedor do navegador, usada para examinar e editar (temporariamente) a estrutura HTML e os estilos CSS de uma página.</p>
+<p><strong>Por que a B deve ser marcada:</strong> Descreve corretamente a função da ferramenta Inspetor.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Descrevem outras funcionalidades do navegador, não relacionadas à ferramenta de inspeção de código.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir ferramentas de desenvolvedor (uso técnico, análise de código) com funcionalidades comuns do navegador (bloqueio de anúncio, gerenciamento de senha).</p>
+</div>
+</div>
+
 ## Questões autorais de reforço
 
 <div class="quiz-card" data-answer="E">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>4. Ao digitar `www.exemplo.gov.br`, o serviço responsável por traduzir esse nome para um endereço IP é:</strong></p>
+<p><strong>9. Ao digitar `www.exemplo.gov.br`, o serviço responsável por traduzir esse nome para um endereço IP é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-015" value="A"> A. HTTP.</label>
 <label class="quiz-option"><input type="radio" name="fgv-015" value="B"> B. VPN.</label>
@@ -118,7 +240,7 @@
 
 <div class="quiz-card" data-answer="C">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>5. Um órgão contrata serviço em nuvem no qual usa um sistema pronto de e-mail e agenda pelo navegador, sem administrar servidores. O modelo predominante é:</strong></p>
+<p><strong>10. Um órgão contrata serviço em nuvem no qual usa um sistema pronto de e-mail e agenda pelo navegador, sem administrar servidores. O modelo predominante é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-015-b" value="A"> A. IaaS.</label>
 <label class="quiz-option"><input type="radio" name="fgv-015-b" value="B"> B. PaaS.</label>

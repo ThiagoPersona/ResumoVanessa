@@ -38,8 +38,9 @@ Convenção de status:
 
 | Arquivo | Status | Destino | Observação |
 |---|---|---|---|
-| info1.pdf–info28.pdf, infoo.pdf, infoo2.pdf | pendente | tecnologia/001-003 | ainda não lidos — ~392 questões FGV candidatas já extraídas em all_questions_dedup.json (subject=informatica), prontas para triagem |
-| Questões_de_Provas_*.pdf (2 arquivos genéricos) | pendente | tecnologia/001-003 | |
+| info1.pdf, info2.pdf, info10-12.pdf, info14-18.pdf, info20-22.pdf, info24.pdf, info27-28.pdf | usado (parcial) | tecnologia/001-003 | ~20 questões aproveitadas (SSD, hipervisor, atalhos Windows/Chrome/Firefox, Excel Macro, Outlook, cloud privada, navegação segura, raster/vetor). Muitas questões restantes são avançadas demais para o nível do edital (RBAC, OAuth2, ISO 27001/27002 detalhada, PTES pentest, Active Directory/Kerberos) — natural que fiquem de fora |
+| info3-9.pdf, info13.pdf, info19.pdf, info23.pdf, info25-26.pdf, infoo.pdf, infoo2.pdf | pendente | tecnologia/001-003 | não lidos — ~332 questões FGV candidatas já extraídas em all_questions_dedup.json (subject=informatica), prontas para triagem se quiser aprofundar mais |
+| Questões_de_Provas_*.pdf (2 arquivos genéricos) | usado (parcial) | tecnologia/002-003 | algumas aproveitadas via info1/info2 (mesmo conteúdo aparece duplicado entre esses e os arquivos genéricos) |
 
 ## Pasta: informatica2/
 
