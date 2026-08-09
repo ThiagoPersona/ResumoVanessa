@@ -66,9 +66,9 @@ nunca atribuídas a uma banca/órgão específico como se fossem prova real.
 
 | Arquivo | Status | Observação |
 |---|---|---|
-| AlfaCon--_1.pdf, _4.pdf, _6.pdf, _8.pdf, _12.pdf | pendente | gabarito em tabela sem letra extraível em texto (provavelmente imagem) — não utilizável sem OCR |
-| AlfaCon--_2.pdf, _5.pdf, _7.pdf, _9.pdf, _13.pdf, _14.pdf, _15.pdf, _16.pdf | pendente | têm "GABARITO: LETRA X" inline com explicação — utilizáveis, mas exigem checar se a questão já não veio de FGV real (recorte de prova oficial) sem repetir |
-| AlfaCon--exercicios-em-pdf_1.pdf, _2.pdf | pendente | têm gabarito inline, utilizáveis |
+| AlfaCon--_1.pdf, _4.pdf, _6.pdf, _8.pdf, _12.pdf | avaliado, não usado | gabarito em tabela sem letra extraível em texto (provavelmente imagem) — não utilizável sem OCR |
+| AlfaCon--_2.pdf, _5.pdf, _7.pdf, _9.pdf, _13.pdf, _14.pdf, _15.pdf, _16.pdf | avaliado, não usado | Todos são material "PC PR - Missão 06 - Revisão FGV" (curso preparatório, questões escritas pela AlfaCon no "estilo FGV", não são provas oficiais). Têm "GABARITO: LETRA X" inline com explicação — tecnicamente utilizáveis, mas exigiriam rótulo obrigatório "Questão de revisão FGV (AlfaCon)" (nunca como prova oficial de banca/órgão). Conteúdo amostrado é majoritariamente Português, área já com cobertura extensa e verificada a partir de provas oficiais reais — valor marginal baixo frente ao esforço de limpar caracteres corrompidos na extração (ƴ, ǁ, Ƹ) e reverificar cada gabarito. Deixado de fora nesta rodada; retomar apenas se targetar disciplinas específicas com lacuna (ex.: RLM, Realidade PR) que este material cubra e as demais fontes não cubram. |
+| AlfaCon--exercicios-em-pdf_1.pdf, _2.pdf | avaliado, não usado | mesmo perfil dos arquivos acima (revisão AlfaCon, não prova oficial) |
 
 ## Extração técnica (para reprocessar quando novos PDFs forem adicionados)
 
