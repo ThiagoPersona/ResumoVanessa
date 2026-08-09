@@ -2,13 +2,14 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 5 questões autorais no padrão FGV, construídas diretamente a partir do texto oficial verificado das leis citadas (sem prova FGV real localizada para este tema específico).
+**Itens neste banco:** 12 questões autorais no padrão FGV, construídas a partir do texto oficial verificado das leis citadas (sem prova FGV real localizada para este tema específico).
 
 ## Fontes usadas neste banco
 
 - Lei Federal n.º 13.869/2019 - Abuso de Autoridade.
-- Lei Federal n.º 12.037/2009 - Identificação Criminal.
+- Lei Federal n.º 12.037/2009 - Identificação Criminal, com alterações da Lei n.º 12.654/2012.
 - Lei Federal n.º 12.527/2011 - Lei de Acesso à Informação.
+- Lei Federal n.º 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD).
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">Questão autoral FGV/PCPR - baseada no texto oficial da Lei 13.869/2019</p>
@@ -137,6 +138,160 @@
 <li><strong>E.</strong> <strong>Não marque.</strong> Volume de pedidos de acesso não é critério de classificação de sigilo.</li>
 </ul>
 <p><strong>Pegadinha principal:</strong> Confundir motivos de conveniência política ou administrativa (não previstos em lei) com as hipóteses taxativas e objetivas de classificação de sigilo previstas no art. 23.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - baseada no art. 2º da Lei 13.869/2019</p>
+<p><strong>6. Segundo o art. 2º da Lei de Abuso de Autoridade, pode ser sujeito ativo do crime de abuso de autoridade:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q91" value="A"> A. Apenas o Delegado de Polícia, com exclusão de qualquer outro agente público.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q91" value="B"> B. Qualquer agente público, servidor ou não, da administração direta, indireta ou fundacional de qualquer dos Poderes da União, dos Estados, do Distrito Federal, dos Municípios e Territórios, incluindo, entre outros, os membros do Poder Legislativo, Executivo e Judiciário, do Ministério Público e o próprio integrante das Polícias Civis, Militares e Penais.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q91" value="C"> C. Somente agentes do Poder Executivo, excluídos os demais Poderes.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q91" value="D"> D. Apenas particulares que exerçam, ainda que informalmente, atividade de segurança privada.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q91" value="E"> E. Exclusivamente autoridades com foro privilegiado.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, baseada no Art. 2º da Lei 13.869/2019.</p>
+<p><strong>Como pensar:</strong> A lei adota conceito amplo de agente público (qualquer Poder, qualquer ente federativo, com ou sem vínculo típico), não restrito a uma única carreira ou Poder.</p>
+<p><strong>Por que a B deve ser marcada:</strong> Reproduz corretamente esse conceito amplo.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Restringem indevidamente o sujeito ativo a uma única carreira, Poder, ou situação (foro privilegiado, segurança privada).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Achar que a Lei de Abuso de Autoridade se aplica só a policiais — na verdade, alcança qualquer agente público de qualquer Poder e ente federativo.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - baseada no art. 18 da Lei 13.869/2019</p>
+<p><strong>7. Segundo o art. 18 da Lei de Abuso de Autoridade, constitui conduta típica submeter a pessoa presa ou detida a interrogatório policial durante:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q93" value="A"> A. O período diurno, em qualquer circunstância.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q93" value="B"> B. O período de repouso noturno, salvo se capturada em flagrante delito, ou se a própria pessoa ou seu advogado ou defensor público concordar com a realização do ato em tal período, entre outras hipóteses excepcionais previstas em lei.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q93" value="C"> C. A audiência de custódia, procedimento que jamais pode ocorrer à noite.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q93" value="D"> D. O horário comercial, ainda que com a presença de advogado constituído.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q93" value="E"> E. Nenhuma restrição temporal é imposta pela Lei de Abuso de Autoridade quanto ao interrogatório policial.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, baseada no Art. 18 da Lei 13.869/2019.</p>
+<p><strong>Como pensar:</strong> A vedação de interrogatório no repouso noturno protege o preso de desgaste indevido, mas comporta exceções expressas (flagrante, concordância da própria pessoa/defesa).</p>
+<p><strong>Por que a B deve ser marcada:</strong> Descreve corretamente a regra e suas exceções.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Descrevem restrições inexistentes ou negam por completo a restrição real (que é específica do período noturno, com exceções).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Achar que a vedação ao interrogatório noturno é absoluta, sem exceções — a lei prevê hipóteses específicas em que é permitido.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - baseada no art. 20 da Lei 13.869/2019</p>
+<p><strong>8. A divulgação, por agente público, de gravação ou trecho de gravação sem relação com a prova que se pretenda produzir, expondo a intimidade ou a vida privada de investigado ou terceiro, configura, nos termos da Lei de Abuso de Autoridade, a conduta típica prevista no:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q94" value="A"> A. Art. 3º, sobre decretação de medidas de busca e apreensão em situações não urgentes durante o período noturno.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q94" value="B"> B. Art. 20, que tipifica a divulgação de gravação ou trecho de gravação sem relação com a prova que se pretenda produzir, expondo a intimidade ou a vida privada de investigado ou terceiro, ou a que fizer referência.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q94" value="C"> C. Art. 25, relativo à condução coercitiva de testemunhas sem prévia intimação.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q94" value="D"> D. Art. 30, sobre a instauração de procedimento investigatório sem justa causa.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q94" value="E"> E. Nenhuma das alternativas; a conduta não é tipificada pela Lei de Abuso de Autoridade.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, baseada no Art. 20 da Lei 13.869/2019.</p>
+<p><strong>Como pensar:</strong> A conduta descrita (expor intimidade por meio de gravação irrelevante à prova) tem tipo específico próprio — não se confunde com busca noturna, condução coercitiva ou investigação sem justa causa.</p>
+<p><strong>Por que a B deve ser marcada:</strong> É o artigo que tipifica exatamente essa conduta.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Referem-se a outras condutas típicas distintas, ou negam indevidamente a tipificação.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir os diversos tipos específicos da Lei de Abuso de Autoridade entre si — cada artigo tipifica uma conduta distinta.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">Questão autoral FGV/PCPR - baseada na Lei 12.037/2009, com alterações da Lei 12.654/2012</p>
+<p><strong>9. A Lei nº 12.037/2009, com as alterações promovidas pela Lei nº 12.654/2012, passou a admitir, como forma de identificação criminal em hipóteses legalmente definidas, a:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q96" value="A"> A. Coleta de material biológico para obtenção de perfil genético, a ser armazenado em banco de dados de perfis genéticos, para fins de persecução penal.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q96" value="B"> B. Coleta compulsória de dados bancários do investigado, independentemente de ordem judicial.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q96" value="C"> C. Interceptação telefônica automática de qualquer pessoa identificada criminalmente.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q96" value="D"> D. Exame de DNA obrigatório de todos os cidadãos maiores de 18 anos, independentemente de qualquer investigação.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q96" value="E"> E. Publicação, em diário oficial, dos dados genéticos de qualquer pessoa identificada criminalmente, para fins de transparência.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Questão autoral, baseada na Lei 12.654/2012 (alteração da Lei 12.037/2009).</p>
+<p><strong>Como pensar:</strong> A Lei 12.654/2012 é conhecida justamente por introduzir a coleta de perfil genético como forma extraordinária de identificação criminal, em hipóteses específicas (não universais).</p>
+<p><strong>Por que a A deve ser marcada:</strong> Descreve corretamente essa inovação legislativa.</p>
+<ul class="quiz-explain">
+<li><strong>B, C, D e E.</strong> <strong>Não marque.</strong> Descrevem medidas de investigação totalmente diferentes (dados bancários, interceptação, exame universal, publicidade de dados genéticos), estranhas ao objeto real da Lei 12.654/2012.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Achar que a coleta de perfil genético é universal e obrigatória para qualquer cidadão — na verdade, aplica-se a hipóteses legalmente específicas de identificação criminal.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - baseada na LGPD (Lei 13.709/2018)</p>
+<p><strong>10. Na sistemática da LGPD, distinguem-se as figuras do controlador e do operador como agentes de tratamento de dados pessoais. Essa distinção consiste em que:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q97" value="A"> A. São sinônimos, sem qualquer distinção de responsabilidades entre eles.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q97" value="B"> B. O controlador é a pessoa responsável pelas decisões referentes ao tratamento de dados pessoais; o operador é quem realiza o tratamento em nome do controlador, seguindo suas instruções, com responsabilidades solidárias em determinadas hipóteses de descumprimento da lei.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q97" value="C"> C. O operador é sempre uma pessoa física; o controlador, sempre uma pessoa jurídica.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q97" value="D"> D. Apenas o operador pode ser responsabilizado por eventual vazamento de dados, jamais o controlador.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q97" value="E"> E. A distinção aplica-se exclusivamente a órgãos públicos, não alcançando entidades privadas.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, baseada nos conceitos de controlador e operador da LGPD.</p>
+<p><strong>Como pensar:</strong> Controlador decide o "porquê e como" do tratamento; operador executa o tratamento seguindo as instruções do controlador — ambos podem ser responsabilizados, cada um conforme sua participação.</p>
+<p><strong>Por que a B deve ser marcada:</strong> Descreve corretamente essa distinção de papéis e a responsabilidade compartilhada.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Ignoram a distinção real, criam restrições de natureza jurídica inexistentes na lei, ou isentam indevidamente uma das figuras.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Achar que só o operador (quem "executa") pode ser responsabilizado, isentando o controlador (quem "decide") — a lei prevê responsabilização de ambos, conforme o caso.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - baseada na Lei de Acesso à Informação</p>
+<p><strong>11. A Lei de Acesso à Informação (Lei nº 12.527/2011) impõe aos órgãos e entidades públicas o dever de transparência ativa, consistente em:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q99" value="A"> A. Responder, exclusivamente mediante requerimento formal do interessado, a qualquer pedido de informação.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q99" value="B"> B. Divulgar, independentemente de requerimentos, informações de interesse coletivo ou geral por eles produzidas ou custodiadas, em local de fácil acesso, no âmbito de suas competências (ex.: em sítios oficiais na internet).</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q99" value="C"> C. Manter em sigilo absoluto todas as informações produzidas pela Administração, salvo determinação judicial em contrário.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q99" value="D"> D. Aplicar-se apenas a órgãos da Administração direta federal, excluídos Estados e Municípios.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q99" value="E"> E. Restringir-se a informações de natureza orçamentária, excluindo dados sobre políticas públicas e estrutura organizacional.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, baseada no dever de transparência ativa da LAI.</p>
+<p><strong>Como pensar:</strong> "Ativa" significa que o órgão divulga por iniciativa própria, sem esperar requerimento (diferente da transparência passiva, que responde a pedidos individuais).</p>
+<p><strong>Por que a B deve ser marcada:</strong> Descreve corretamente essa modalidade proativa de divulgação.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Descrevem transparência passiva, sigilo absoluto indevido, ou restrições de alcance (federativo/temático) que a lei não impõe — a LAI aplica-se a todos os entes federativos e a amplo espectro de informações.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir transparência ativa (divulgação proativa, sem pedido) com transparência passiva (resposta a requerimento individual) — são dois deveres complementares, mas distintos.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - baseada na Lei de Acesso à Informação</p>
+<p><strong>12. Quanto ao procedimento de pedido de acesso à informação, formulado por qualquer interessado perante órgão público, a Lei de Acesso à Informação estabelece, como regras gerais, que o pedido:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q100" value="A"> A. Deve ser necessariamente formulado por advogado constituído, mediante procuração com poderes específicos.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q100" value="B"> B. Deve conter a identificação do requerente e a especificação da informação requerida, sendo vedadas exigências que inviabilizem a solicitação, e deve ser respondido em prazo de até 20 (vinte) dias, prorrogável por mais 10 (dez) dias mediante justificativa expressa.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q100" value="C"> C. É gratuito apenas para servidores públicos, sendo cobrada taxa de qualquer outro cidadão.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q100" value="D"> D. Deve ser obrigatoriamente indeferido sempre que envolver informação relativa a órgão de segurança pública.</label>
+<label class="quiz-option"><input type="radio" name="fgv-046-cc-q100" value="E"> E. Depende de comprovação de interesse jurídico específico do requerente, sob pena de indeferimento liminar.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, baseada no procedimento padrão de pedido de acesso à informação.</p>
+<p><strong>Como pensar:</strong> O pedido é simples e gratuito, sem exigência de motivação/interesse específico, com prazo de resposta certo e prorrogável mediante justificativa.</p>
+<p><strong>Por que a B deve ser marcada:</strong> Descreve corretamente os requisitos formais mínimos e o prazo de resposta.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Impõem exigências (advogado, taxa, indeferimento automático, motivação obrigatória) que a lei expressamente não exige — o acesso à informação é, como regra, gratuito e não motivado.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Exigir motivação/interesse jurídico do requerente — a LAI dispensa expressamente essa exigência como regra geral, bastando identificação e especificação da informação.</p>
 </div>
 </div>
 

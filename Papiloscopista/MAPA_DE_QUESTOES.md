@@ -5,7 +5,7 @@
 O mapa abaixo separa duas coisas que não devem ser misturadas:
 
 - **Peso oficial do edital:** já está completo para Papiloscopista.
-- **Banco FGV-style:** neste momento há 367 questões comentadas, com pelo menos uma por tema do edital.
+- **Banco FGV-style:** neste momento há 405 questões comentadas, com pelo menos uma por tema do edital.
 - **Validação por provas semelhantes:** já tem página própria para confrontar FGV Papiloscopista, FGV Perito/Polícia Civil e bancas próximas com os 61 temas.
 
 Isso evita inventar estatística de prova. À medida que os PDFs locais e oficiais forem convertidos, os totais por tema e a distribuição de alternativas devem ser atualizados aqui.
@@ -26,7 +26,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | Biologia | 10 | 4 | 27 | Conhecimentos Específicos, item 3 |
 | Física | 5 | 4 | 10 | Conhecimentos Específicos, item 4 |
 | Química | 5 | 5 | 21 | Conhecimentos Específicos, item 5 |
-| Legislação | 5 | 7 | 25 | Conhecimentos Específicos, item 6 |
+| Legislação | 5 | 7 | 63 | Conhecimentos Específicos, item 6 |
 | Penal | 3 | 3 | 14 | Conhecimentos Específicos, item 7 |
 | Processo Penal | 3 | 3 | 17 | Conhecimentos Específicos, item 8 |
 | Constitucional | 3 | 3 | 19 | Conhecimentos Específicos, item 9 |
@@ -94,13 +94,13 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | 037 | Química | Reações, balanceamento, velocidade e equilíbrio | Química 5.3 | média | 7 (6 oficiais FGV) |
 | 038 | Química | Funções químicas e química orgânica | Química 5.4 | alta | 4 (2 oficiais FGV) |
 | 039 | Química | Química da identificação, reagentes e fluorescência | Química 5.5 | altíssima | 4 (1 oficial FGV) |
-| 040 | Legislação | Constituição do Paraná: administração, servidores, segurança e Polícia Civil | Legislação 6.1 | alta | 4 (autorais) |
-| 041 | Legislação | LC 259/2023: carreiras da PCPR | Legislação 6.2 | altíssima | 4 (autorais) |
-| 042 | Legislação | Lei 14.735/2023: Lei Orgânica Nacional das Polícias Civis | Legislação 6.3 | altíssima | 4 (autorais) |
-| 043 | Legislação | Lei 23.213/2026: Lei Orgânica da PCPR | Legislação 6.4 | altíssima | 4 (autorais) |
-| 044 | Legislação | Lei 21.894/2024: Código Disciplinar da PCPR | Legislação 6.5 | alta | 4 (autorais) |
-| 045 | Legislação | Lei 6.174/1970: regime jurídico dos servidores do Paraná | Legislação 6.6 | alta | 4 (autorais) |
-| 046 | Legislação | Abuso de autoridade, identificação criminal, LGPD, LAI e sigilo | Legislação 6.7 | altíssima | 5 (autorais) |
+| 040 | Legislação | Constituição do Paraná: administração, servidores, segurança e Polícia Civil | Legislação 6.1 | alta | 10 (autorais) |
+| 041 | Legislação | LC 259/2023: carreiras da PCPR | Legislação 6.2 | altíssima | 9 (autorais) |
+| 042 | Legislação | Lei 14.735/2023: Lei Orgânica Nacional das Polícias Civis | Legislação 6.3 | altíssima | 9 (autorais) |
+| 043 | Legislação | Lei 23.213/2026: Lei Orgânica da PCPR | Legislação 6.4 | altíssima | 9 (autorais) |
+| 044 | Legislação | Lei 21.894/2024: Código Disciplinar da PCPR | Legislação 6.5 | alta | 8 (autorais) |
+| 045 | Legislação | Lei 6.174/1970: regime jurídico dos servidores do Paraná | Legislação 6.6 | alta | 10 (autorais) |
+| 046 | Legislação | Abuso de autoridade, identificação criminal, LGPD, LAI e sigilo | Legislação 6.7 | altíssima | 12 (autorais) |
 | 047 | Penal | Princípios, teoria do crime, penas e extinção da punibilidade | Penal 7.1 | alta | 5 (3 oficiais FGV) |
 | 048 | Penal | Crimes contra pessoa, patrimônio, dignidade sexual, fé pública e Administração | Penal 7.2 | alta | 5 (3 oficiais FGV) |
 | 049 | Penal | Legislação penal extravagante e atividade policial | Penal 7.3-7.4 | altíssima | 4 (2 oficiais FGV) |

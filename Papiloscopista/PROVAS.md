@@ -43,13 +43,13 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Química | Reações, balanceamento, velocidade e equilíbrio | 7 | [Abrir](provas/quimica/003_reacoes-balanceamento-velocidade-equilibrio.md) |
 | Química | Funções químicas e química orgânica | 4 | [Abrir](provas/quimica/004_funcoes-quimicas-organica.md) |
 | Química | Química da identificação, reagentes e fluorescência | 4 | [Abrir](provas/quimica/005_quimica-identificacao-reagentes-fluorescencia.md) |
-| Legislação | Constituição do Paraná: administração, servidores, segurança e Polícia Civil | 4 | [Abrir](provas/legislacao/001_constituicao-parana-administracao-seguranca.md) |
-| Legislação | LC 259/2023: carreiras da PCPR | 4 | [Abrir](provas/legislacao/002_lc-259-2023-carreiras-pcpr.md) |
-| Legislação | Lei 14.735/2023: Lei Orgânica Nacional das Polícias Civis | 4 | [Abrir](provas/legislacao/003_lei-14735-2023-organica-nacional-policias-civis.md) |
-| Legislação | Lei 23.213/2026: Lei Orgânica da PCPR | 4 | [Abrir](provas/legislacao/004_lei-23213-2026-organica-pcpr.md) |
-| Legislação | Lei 21.894/2024: Código Disciplinar da PCPR | 4 | [Abrir](provas/legislacao/005_lei-21894-2024-codigo-disciplinar-pcpr.md) |
-| Legislação | Lei 6.174/1970: regime jurídico dos servidores do Paraná | 4 | [Abrir](provas/legislacao/006_lei-6174-1970-regime-juridico-pr.md) |
-| Legislação | Abuso de autoridade, identificação criminal, LGPD, LAI e sigilo | 5 | [Abrir](provas/legislacao/007_abuso-identificacao-lgpd-lai-sigilo.md) |
+| Legislação | Constituição do Paraná: administração, servidores, segurança e Polícia Civil | 10 | [Abrir](provas/legislacao/001_constituicao-parana-administracao-seguranca.md) |
+| Legislação | LC 259/2023: carreiras da PCPR | 9 | [Abrir](provas/legislacao/002_lc-259-2023-carreiras-pcpr.md) |
+| Legislação | Lei 14.735/2023: Lei Orgânica Nacional das Polícias Civis | 9 | [Abrir](provas/legislacao/003_lei-14735-2023-organica-nacional-policias-civis.md) |
+| Legislação | Lei 23.213/2026: Lei Orgânica da PCPR | 9 | [Abrir](provas/legislacao/004_lei-23213-2026-organica-pcpr.md) |
+| Legislação | Lei 21.894/2024: Código Disciplinar da PCPR | 8 | [Abrir](provas/legislacao/005_lei-21894-2024-codigo-disciplinar-pcpr.md) |
+| Legislação | Lei 6.174/1970: regime jurídico dos servidores do Paraná | 10 | [Abrir](provas/legislacao/006_lei-6174-1970-regime-juridico-pr.md) |
+| Legislação | Abuso de autoridade, identificação criminal, LGPD, LAI e sigilo | 12 | [Abrir](provas/legislacao/007_abuso-identificacao-lgpd-lai-sigilo.md) |
 | Penal | Princípios, teoria do crime, penas e extinção da punibilidade | 5 | [Abrir](provas/penal/001_principios-teoria-crime-penas.md) |
 | Penal | Crimes contra pessoa, patrimônio, dignidade sexual, fé pública e Administração | 5 | [Abrir](provas/penal/002_crimes-pessoa-patrimonio-dignidade-fe-publica-administracao.md) |
 | Penal | Legislação penal extravagante e atividade policial | 4 | [Abrir](provas/penal/003_legislacao-extravagante-atividade-policial.md) |
