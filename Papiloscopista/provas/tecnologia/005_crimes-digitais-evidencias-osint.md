@@ -2,7 +2,7 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 3 questões (1 questão oficial FGV com fonte e gabarito conferidos + 2 questões autorais no padrão FGV).
+**Itens neste banco:** 11 questões (1 questão oficial FGV com fonte e gabarito conferidos + 10 questões autorais no padrão FGV, fundamentadas em legislação vigente).
 
 ## Foco FGV
 
@@ -93,7 +93,185 @@ Estas questões são autorais e calibradas pelo padrão observado em provas FGV 
 </div>
 </div>
 
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada no Código Penal (crimes cibernéticos)</p>
+<p><strong>4. Doutrinariamente, distinguem-se os crimes cibernéticos em "próprios" (ou puros) e "impróprios" (ou impuros/mistos). Essa distinção consiste em:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q1" value="A"> A. Crimes próprios são os cometidos por servidores públicos; impróprios, por particulares.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q1" value="B"> B. Crimes próprios são aqueles cujo tipo penal exige o meio informático como elemento essencial da conduta (ex.: invasão de dispositivo informático, art. 154-A do CP); impróprios são crimes comuns, já previstos na legislação, apenas praticados por meio eletrônico (ex.: estelionato praticado pela internet).</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q1" value="C"> C. Crimes próprios são os praticados na dark web; impróprios, na surface web (internet convencional).</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q1" value="D"> D. Não há distinção reconhecida pela doutrina; trata-se de terminologia em desuso.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q1" value="E"> E. Crimes próprios exigem dolo específico; impróprios, apenas dolo genérico, em qualquer hipótese.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada na classificação doutrinária consolidada de crimes cibernéticos.</p>
+<p><strong>Como pensar:</strong> Teste se o meio informático é elemento normativo indispensável do próprio tipo penal (próprio) ou se o tipo já existia e apenas passou a ser praticado por um novo meio (impróprio).</p>
+<p><strong>Por que a B deve ser marcada:</strong> Descreve corretamente o critério distintivo: presença ou não do meio informático como elemento essencial do tipo.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Usam critérios que não correspondem à classificação doutrinária real (autoria, local de prática, existência da distinção, tipo de dolo).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir "crime próprio" (no sentido de sujeito ativo qualificado, outro conceito penal) com "crime cibernético próprio" (meio informático como elemento do tipo) — são classificações diferentes que usam a mesma palavra "próprio".</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada no Código Penal (Lei 14.155/2021)</p>
+<p><strong>5. O phishing, técnica de engenharia social utilizada para induzir a vítima a fornecer dados sigilosos mediante mensagens ou páginas falsas, amolda-se, em regra, ao seguinte tipo penal quando resulta vantagem patrimonial indevida:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q2" value="A"> A. Furto simples (art. 155, caput, do CP).</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q2" value="B"> B. Estelionato (art. 171 do CP), podendo incidir a forma majorada de fraude eletrônica do §2º-A, incluído pela Lei nº 14.155/2021.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q2" value="C"> C. Extorsão mediante sequestro (art. 159 do CP).</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q2" value="D"> D. Dano qualificado (art. 163, parágrafo único, do CP).</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q2" value="E"> E. Violação de correspondência (art. 151 do CP).</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada no Art. 171, §2º-A, do CP (incluído pela Lei nº 14.155/2021).</p>
+<p><strong>Como pensar:</strong> No phishing, a vítima é enganada e entrega voluntariamente seus dados/valores — é o núcleo típico do estelionato (fraude que induz a vítima a se autolesionar patrimonialmente), não subtração contra a vontade dela (que seria furto).</p>
+<p><strong>Por que a B deve ser marcada:</strong> O phishing praticado por link malicioso, e-mail ou rede social se amolda à modalidade majorada de fraude eletrônica do §2º-A.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Furto pressupõe subtração sem a colaboração da vítima; no phishing, a vítima entrega voluntariamente (ainda que enganada).</li>
+<li><strong>C, D e E.</strong> <strong>Não marque.</strong> Não descrevem o núcleo típico do phishing (engano para obtenção de vantagem patrimonial).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir furto mediante fraude (o agente subtrai, enganando para se aproximar do bem) com estelionato (a própria vítima entrega o bem, iludida) — o critério é quem pratica o ato de disposição patrimonial.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada no Código Penal</p>
+<p><strong>6. O ransomware, prática de sequestro de dados por meio de criptografia maliciosa, seguida da exigência de pagamento (resgate) para a liberação do acesso, amolda-se, em regra, ao seguinte tipo penal:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q6" value="A"> A. Furto simples.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q6" value="B"> B. Extorsão (art. 158 do CP), por constranger a vítima, mediante ameaça, a pagar valor indevido em troca da restituição do acesso a seus próprios dados.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q6" value="C"> C. Apropriação indébita (art. 168 do CP).</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q6" value="D"> D. Dano simples (art. 163, caput, do CP), sem possibilidade de outra tipificação.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q6" value="E"> E. Receptação (art. 180 do CP).</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada no Art. 158 do CP (extorsão).</p>
+<p><strong>Como pensar:</strong> Extorsão exige constranger a vítima, mediante violência ou grave ameaça, a fazer, tolerar ou deixar de fazer algo, com o fim de obter vantagem indevida — o bloqueio dos dados é a "ameaça" (mantida a promessa de dano contínuo), e o pagamento é a vantagem exigida.</p>
+<p><strong>Por que a B deve ser marcada:</strong> Descreve corretamente a estrutura típica da extorsão aplicada ao ransomware.</p>
+<ul class="quiz-explain">
+<li><strong>A, C e E.</strong> <strong>Não marque.</strong> Não envolvem o elemento coator (ameaça para obter vantagem) central do ransomware.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Pode até concorrer com dano, mas não esgota a tipificação — falta considerar o elemento extorsivo.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Reduzir o ransomware a "apenas dano" (destruição/inutilização de dados), ignorando o elemento coativo (ameaça + exigência de pagamento) que o aproxima da extorsão.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada no Código de Processo Penal</p>
+<p><strong>7. No exame pericial de dispositivos de armazenamento (discos rígidos, pen drives, smartphones), a utilização de dispositivo bloqueador de escrita (write blocker) tem por finalidade:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q29" value="A"> A. Acelerar a transferência de arquivos entre dispositivos.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q29" value="B"> B. Impedir que o processo de análise pericial grave, altere ou modifique qualquer dado no dispositivo original, preservando sua integridade para fins de cadeia de custódia.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q29" value="C"> C. Criptografar os dados do dispositivo, tornando-os inacessíveis a terceiros.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q29" value="D"> D. Apagar definitivamente os dados do dispositivo após a perícia.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q29" value="E"> E. Aumentar a capacidade de armazenamento do dispositivo periciado.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada na prática consolidada de perícia forense digital.</p>
+<p><strong>Como pensar:</strong> O write blocker é um mecanismo de hardware/software que permite leitura, mas bloqueia fisicamente qualquer comando de escrita para o dispositivo examinado.</p>
+<p><strong>Por que a B deve ser marcada:</strong> É exatamente essa a função — preservar a integridade do dispositivo original durante o exame.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Nenhuma corresponde à função real do write blocker.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir write blocker (impede escrita, preserva o original) com outras ferramentas forenses (criptografia, apagamento, cópia).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada em técnicas de perícia forense digital</p>
+<p><strong>8. A recuperação de arquivos apagados de um dispositivo de armazenamento, realizada por meio de técnicas forenses que reconstroem arquivos a partir de fragmentos remanescentes na mídia, é conhecida tecnicamente como:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q33" value="A"> A. Data carving (ou apenas "carving").</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q33" value="B"> B. Phishing.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q33" value="C"> C. Spoofing.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q33" value="D"> D. Sniffing.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q33" value="E"> E. Brute force (força bruta).</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Questão autoral, fundamentada em técnicas consolidadas de perícia forense digital.</p>
+<p><strong>Como pensar:</strong> Um arquivo "apagado" normalmente continua fisicamente presente na mídia até ser sobrescrito — o data carving varre os blocos/setores brutos em busca de assinaturas de arquivos, reconstruindo-os sem depender do sistema de arquivos.</p>
+<p><strong>Por que a A deve ser marcada:</strong> É o termo técnico correto para essa técnica de recuperação.</p>
+<ul class="quiz-explain">
+<li><strong>B, C, D e E.</strong> <strong>Não marque.</strong> Descrevem técnicas de ataque (engenharia social, falsificação de origem, interceptação de tráfego, quebra de senha por tentativa exaustiva), não de recuperação forense de arquivos.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir termos técnicos de ataque cibernético (phishing, spoofing, sniffing, brute force) com termos técnicos de perícia forense (data carving) só porque todos "soam técnicos".</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada em conceitos de investigação digital</p>
+<p><strong>9. A "dark web", frequentemente confundida com a "deep web", caracteriza-se por:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q35" value="A"> A. Ser sinônimo de toda a internet não indexada por mecanismos de busca convencionais (deep web), incluindo bancos de dados privados e intranets corporativas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q35" value="B"> B. Ser uma pequena parcela da deep web, acessível apenas por softwares específicos (ex.: rede Tor), que garantem anonimato e é frequentemente associada, ainda que não exclusivamente, à comercialização de produtos e serviços ilícitos.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q35" value="C"> C. Ser a parte da internet indexada e de livre acesso por qualquer navegador convencional.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q35" value="D"> D. Não existir tecnicamente, tratando-se de mito popular sem correspondência real.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q35" value="E"> E. Ser acessível exclusivamente por autoridades policiais, mediante autorização judicial prévia.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada em conceitos consolidados de investigação digital.</p>
+<p><strong>Como pensar:</strong> Deep web é o conjunto amplo de conteúdo não indexado (bancos de dados, sistemas internos, conteúdo pago); dark web é uma fatia pequena e específica dentro dela, acessível só por software de anonimização.</p>
+<p><strong>Por que a B deve ser marcada:</strong> Descreve corretamente a relação de continência (dark web é subconjunto da deep web) e o meio de acesso específico.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Confunde dark web com deep web inteira — dark web é só uma fatia pequena dela.</li>
+<li><strong>C, D e E.</strong> <strong>Não marque.</strong> Contrariam fatos básicos sobre a existência e o funcionamento da dark web.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Tratar "deep web" e "dark web" como sinônimos — a deep web é muito mais ampla (qualquer conteúdo não indexado) e majoritariamente lícita (ex.: seu próprio e-mail, sistemas corporativos internos).</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada em conceitos de OSINT</p>
+<p><strong>10. OSINT é a sigla, em língua inglesa, para Open Source Intelligence, que pode ser traduzida como:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q43" value="A"> A. Inteligência de fontes fechadas e sigilosas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q43" value="B"> B. Inteligência de fontes abertas, ou seja, a atividade de coleta, tratamento e análise de informações disponíveis publicamente, sem necessidade de meios sigilosos ou de acesso não autorizado.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q43" value="C"> C. Sistema operacional de código aberto utilizado por peritos criminais.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q43" value="D"> D. Órgão internacional de cooperação policial.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q43" value="E"> E. Protocolo de criptografia utilizado por aplicativos de mensagens.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada na definição consolidada de OSINT.</p>
+<p><strong>Como pensar:</strong> "Open Source" aqui não se refere a software de código aberto, mas a fontes de informação abertas/públicas.</p>
+<p><strong>Por que a B deve ser marcada:</strong> É a tradução e definição corretas da sigla.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Atribuem à sigla significados que não correspondem à definição real.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Confundir "open source" no sentido de OSINT (fonte de informação pública) com "open source" no sentido de software (código aberto) — mesma expressão, significados diferentes conforme o contexto.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada em técnicas de OSINT</p>
+<p><strong>11. Entre as técnicas comumente empregadas em investigações de OSINT, destaca-se a análise de metadados de imagens publicadas em redes sociais, que pode revelar, por exemplo:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q48" value="A"> A. O conteúdo integral de conversas privadas do usuário, sem necessidade de qualquer outra diligência.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q48" value="B"> B. Informações de geolocalização e data/hora de captura da imagem, armazenadas nos metadados do arquivo (padrão EXIF), quando não removidas pela plataforma ou pelo usuário.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q48" value="C"> C. O número do cartão de crédito do usuário.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q48" value="D"> D. O CPF do usuário, de forma automática e sempre presente na imagem.</label>
+<label class="quiz-option"><input type="radio" name="fgv-017-cc-q48" value="E"> E. O teor de mensagens criptografadas de ponta a ponta trocadas pelo usuário.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada na técnica de análise de metadados EXIF.</p>
+<p><strong>Como pensar:</strong> Arquivos de imagem frequentemente carregam metadados técnicos (padrão EXIF) com informações do dispositivo, data/hora e, quando o GPS estava ativo, coordenadas de geolocalização.</p>
+<p><strong>Por que a B deve ser marcada:</strong> Descreve corretamente o que os metadados EXIF podem conter e revelar.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Atribuem aos metadados de imagem informações que eles não contêm (conteúdo de conversas, dados financeiros, CPF, mensagens criptografadas).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Superestimar o que metadados de imagem revelam — eles trazem dados técnicos do arquivo (dispositivo, data, local), não dados pessoais/financeiros do usuário.</p>
+</div>
+</div>
+
 ## Próxima ampliação
 
-- Inserir questões oficiais FGV quando o enunciado, imagens e gabarito estiverem conferidos.
 - Adicionar questões semelhantes de PF/Cebraspe, AOCP e IBFC apenas quando preencherem lacuna técnica do tema.

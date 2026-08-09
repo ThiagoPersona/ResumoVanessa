@@ -70,6 +70,16 @@ nunca atribuídas a uma banca/órgão específico como se fossem prova real.
 | AlfaCon--_2.pdf, _5.pdf, _7.pdf, _9.pdf, _13.pdf, _14.pdf, _15.pdf, _16.pdf | avaliado, não usado | Todos são material "PC PR - Missão 06 - Revisão FGV" (curso preparatório, questões escritas pela AlfaCon no "estilo FGV", não são provas oficiais). Têm "GABARITO: LETRA X" inline com explicação — tecnicamente utilizáveis, mas exigiriam rótulo obrigatório "Questão de revisão FGV (AlfaCon)" (nunca como prova oficial de banca/órgão). Conteúdo amostrado é majoritariamente Português, área já com cobertura extensa e verificada a partir de provas oficiais reais — valor marginal baixo frente ao esforço de limpar caracteres corrompidos na extração (ƴ, ǁ, Ƹ) e reverificar cada gabarito. Deixado de fora nesta rodada; retomar apenas se targetar disciplinas específicas com lacuna (ex.: RLM, Realidade PR) que este material cubra e as demais fontes não cubram. |
 | AlfaCon--exercicios-em-pdf_1.pdf, _2.pdf | avaliado, não usado | mesmo perfil dos arquivos acima (revisão AlfaCon, não prova oficial) |
 
+## Pasta: Simulados/ (adicionada em 09/08/2026)
+
+Simulados autorais em .docx, com nota explícita de que as questões foram elaboradas pelo autor "no padrão/nível da banca FGV", fundamentadas em legislação/doutrina/jurisprudência real — **não são reprodução de provas aplicadas**. Rotuladas no site como "Questão autoral FGV/PCPR - fundamentada em [norma]", nunca como prova oficial de banca/órgão.
+
+| Arquivo | Status | Destino | Observação |
+|---|---|---|---|
+| simulado_crimes_ciberneticos.docx | usado (parcial) | tecnologia/005 (8 questões), tecnologia/006 (3 questões) | 80 questões em 12 seções (crimes digitais, invasão 154-A, crimes em redes sociais, cadeia de custódia digital, rastreamento, inteligência cibernética, OSINT, Marco Civil, LGPD, Lei 12.737/2012, Lei 14.155/2021, sigilo funcional/ética). 11 aproveitadas; restante (~69 questões) ainda não avaliado a fundo — boas candidatas para reforçar ainda mais os temas 005/006 numa próxima rodada |
+| simulado_direitos_humanos.docx | pendente | direitos-humanos/059-061 | 50 questões em 7 seções (teoria geral, sistemas de proteção, democracia/cidadania, grupos vulneráveis, segurança pública, PNDH/educação, Agenda 2030/ODS) — mapeiam diretamente aos temas 059-061 já existentes, nenhum tema novo necessário |
+| simulado_legislacao_pc_pr_v2.docx | pendente | legislacao/040-046 | ~80 questões em 7 seções (Constituição do PR, LC 259/2023, Lei 14.735/2023, Lei 23.213/2026, Lei 21.894/2024, Lei 6.174/1970, legislação institucional/policial aplicada) — mapeiam diretamente aos temas 040-046 já existentes, nenhum tema novo necessário |
+
 ## Extração técnica (para reprocessar quando novos PDFs forem adicionados)
 
 - Texto extraído via PyMuPDF (`fitz`) para

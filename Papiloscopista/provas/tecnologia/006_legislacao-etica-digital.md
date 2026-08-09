@@ -2,7 +2,7 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 6 questões (5 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
+**Itens neste banco:** 9 questões (5 questões oficiais FGV com fonte e gabarito conferidos + 4 questões autorais no padrão FGV, 3 delas fundamentadas em legislação vigente).
 
 ## Fontes reais usadas neste banco
 
@@ -135,11 +135,81 @@
 </div>
 </div>
 
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada no Marco Civil da Internet</p>
+<p><strong>6. Constitui exceção à regra geral do art. 19 do Marco Civil, dispensando ordem judicial e bastando notificação extrajudicial pela vítima ou seu representante legal para gerar o dever de indisponibilização do conteúdo, a hipótese prevista no art. 21 da Lei nº 12.965/2014, relativa a:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-018-cc-q52" value="A"> A. Conteúdo de crítica política a autoridades públicas.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cc-q52" value="B"> B. Cenas de nudez ou de atos sexuais de caráter privado, divulgadas sem autorização dos participantes.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cc-q52" value="C"> C. Notícias jornalísticas de interesse público, ainda que contestadas pelo retratado.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cc-q52" value="D"> D. Publicidade comparativa entre produtos concorrentes.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cc-q52" value="E"> E. Comentários de humor envolvendo figuras públicas.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada no Art. 21 da Lei nº 12.965/2014 (Marco Civil da Internet).</p>
+<p><strong>Como pensar:</strong> A regra geral do Art. 19 exige ordem judicial para responsabilizar o provedor por conteúdo de terceiro; o Art. 21 cria uma exceção específica e sensível (nudez/sexo não consentidos), justamente por seu potencial lesivo imediato e irreversível à intimidade.</p>
+<p><strong>Por que a B deve ser marcada:</strong> É exatamente a hipótese prevista no Art. 21.</p>
+<ul class="quiz-explain">
+<li><strong>A, C, D e E.</strong> <strong>Não marque.</strong> Não são as hipóteses excepcionais previstas no Art. 21; permanecem sob a regra geral do Art. 19 (exigência de ordem judicial).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Achar que qualquer conteúdo sensível ou contestado dispensa ordem judicial — a exceção do Art. 21 é específica para nudez/atos sexuais não consentidos, não para qualquer conteúdo controvertido.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada na LGPD</p>
+<p><strong>7. O tratamento de dados pessoais realizado para fins exclusivos de segurança pública, defesa nacional, segurança do Estado ou atividades de investigação e repressão de infrações penais, nos termos do art. 4º, III, e §1º, da LGPD:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-018-cc-q60" value="A"> A. Submete-se integralmente e sem qualquer distinção ao regime geral da LGPD, aplicável a qualquer outro tratamento de dados.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cc-q60" value="B"> B. É regido por legislação específica, que deverá prever medidas proporcionais e estritamente necessárias ao atendimento do interesse público, observados o devido processo legal e os princípios gerais de proteção de dados, aplicando-se a LGPD de forma subsidiária na ausência dessa legislação específica.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cc-q60" value="C"> C. É absolutamente livre e desprovido de qualquer parâmetro legal, ainda que a legislação específica seja omissa.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cc-q60" value="D"> D. É vedado, em qualquer hipótese, pela LGPD.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cc-q60" value="E"> E. Depende de autorização prévia da vítima do crime investigado.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada no Art. 4º, III e §1º, da LGPD.</p>
+<p><strong>Como pensar:</strong> A LGPD exclui de seu regime geral o tratamento para segurança pública/investigação penal, mas não deixa essa atividade sem controle algum — exige legislação específica proporcional e necessária, com a LGPD funcionando como pano de fundo subsidiário na ausência de norma própria.</p>
+<p><strong>Por que a B deve ser marcada:</strong> Descreve corretamente esse regime intermediário (nem regime geral integral, nem ausência total de parâmetro).</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> A LGPD expressamente exclui esse tratamento do regime geral.</li>
+<li><strong>C e D.</strong> <strong>Não marque.</strong> Não há liberdade absoluta nem vedação total — há regramento próprio, com parâmetros de proporcionalidade.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não há essa exigência de autorização da vítima.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Achar que "excluído do regime geral da LGPD" significa "sem nenhum controle legal" — a exclusão exige regramento específico, não ausência de regramento.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Questão autoral FGV/PCPR - fundamentada na Lei 12.737/2012</p>
+<p><strong>8. A Lei nº 12.737/2012 promoveu, no Código Penal, as seguintes principais alterações:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="fgv-018-cc-q64" value="A"> A. Revogou integralmente o Título dos crimes contra a pessoa.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cc-q64" value="B"> B. Incluiu os arts. 154-A (invasão de dispositivo informático) e 154-B (ação penal), e alterou os arts. 266 (interrupção ou perturbação de serviço) e 298 (falsificação de documento particular).</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cc-q64" value="C"> C. Criou o crime de furto mediante fraude eletrônica, posteriormente também alterado por lei diversa.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cc-q64" value="D"> D. Instituiu a Autoridade Nacional de Proteção de Dados.</label>
+<label class="quiz-option"><input type="radio" name="fgv-018-cc-q64" value="E"> E. Criou o Marco Civil da Internet.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Questão autoral, fundamentada no texto da Lei nº 12.737/2012.</p>
+<p><strong>Como pensar:</strong> Além de criar o tipo central (Art. 154-A) e sua regra de ação penal (Art. 154-B), a lei ajustou dispositivos correlatos já existentes (interrupção de serviço informático, equiparação de documento eletrônico a particular para fins de falsificação).</p>
+<p><strong>Por que a B deve ser marcada:</strong> Descreve corretamente o conjunto de alterações promovidas por essa lei específica.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não houve revogação de todo o título.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> O furto mediante fraude eletrônica (Art. 155, §4º-B) veio da Lei 14.155/2021, não da 12.737/2012.</li>
+<li><strong>D e E.</strong> <strong>Não marque.</strong> ANPD e Marco Civil vieram de leis distintas (LGPD e Lei 12.965/2014, respectivamente).</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> Atribuir à Lei 12.737/2012 alterações que na verdade vieram de leis posteriores (Lei 14.155/2021, LGPD, Marco Civil) — cada uma tem seu próprio conjunto de mudanças específicas.</p>
+</div>
+</div>
+
 ## Questão autoral de reforço
 
 <div class="quiz-card" data-answer="C">
 <p class="quiz-source">Questão autoral FGV/PCPR - padrão FGV validado por provas policiais e periciais</p>
-<p><strong>6. No tratamento de dados biométricos por órgão público, a LGPD exige atenção especial porque dado biométrico é:</strong></p>
+<p><strong>9. No tratamento de dados biométricos por órgão público, a LGPD exige atenção especial porque dado biométrico é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="fgv-018" value="A"> A. sempre dado anonimizado, sem risco ao titular.</label>
 <label class="quiz-option"><input type="radio" name="fgv-018" value="B"> B. informação pública irrestrita por envolver segurança.</label>

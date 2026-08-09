@@ -20,8 +20,8 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Tecnologia | Sistemas operacionais, aplicativos e dispositivos móveis | 14 | [Abrir](provas/tecnologia/002_sistemas-operacionais-aplicativos-dispositivos-moveis.md) |
 | Tecnologia | Internet, redes, nuvem, web, bancos e APIs | 10 | [Abrir](provas/tecnologia/003_internet-redes-nuvem-web-bancos-apis.md) |
 | Tecnologia | Segurança da informação, malware, phishing e backup | 10 | [Abrir](provas/tecnologia/004_seguranca-informacao-malware-phishing-backup.md) |
-| Tecnologia | Crimes digitais, evidências eletrônicas e OSINT | 3 | [Abrir](provas/tecnologia/005_crimes-digitais-evidencias-osint.md) |
-| Tecnologia | Legislação e ética digital | 6 | [Abrir](provas/tecnologia/006_legislacao-etica-digital.md) |
+| Tecnologia | Crimes digitais, evidências eletrônicas e OSINT | 11 | [Abrir](provas/tecnologia/005_crimes-digitais-evidencias-osint.md) |
+| Tecnologia | Legislação e ética digital | 9 | [Abrir](provas/tecnologia/006_legislacao-etica-digital.md) |
 | Ciências Forenses | Medicina legal, identificação humana e papiloscopia | 7 | [Abrir](provas/ciencias-forenses/001_medicina-legal-identificacao-papiloscopia.md) |
 | Ciências Forenses | Antropologia, odontologia legal, DNA, reconhecimento facial e IA | 9 | [Abrir](provas/ciencias-forenses/002_antropologia-odontologia-dna-reconhecimento-facial-ia.md) |
 | Ciências Forenses | Sexologia, traumatologia, asfixiologia e balística | 11 | [Abrir](provas/ciencias-forenses/003_sexologia-traumatologia-asfixiologia-balistica.md) |

@@ -162,9 +162,15 @@ Além da tipificação penal, a atuação com tecnologia envolve princípios ét
 3. Para crimes informáticos, associe o fato descrito à norma específica (invasão = 12.737/2012; fraude eletrônica agravada = 14.155/2021).
 4. Para questões envolvendo biometria, lembre que se trata de dado pessoal sensível, com exigências reforçadas de finalidade e segurança.
 
+### Complementos: exceção do Art. 21 do Marco Civil, tratamento de dados para segurança pública, e alterações da Lei 12.737/2012 (questões autorais fundamentadas em lei)
+
+- **Exceção do Art. 21 do Marco Civil**: dispensa ordem judicial (basta notificação extrajudicial da vítima) apenas para conteúdo de **nudez ou atos sexuais privados divulgados sem consentimento** — regra geral do Art. 19 (exigência de ordem judicial) vale para os demais casos.
+- **Tratamento de dados para segurança pública/investigação penal (Art. 4º, III e §1º, LGPD)**: fica fora do regime geral da LGPD, mas não fica sem controle — exige legislação específica proporcional e necessária, com a LGPD servindo de parâmetro subsidiário na ausência dessa norma própria.
+- **Lei 12.737/2012**: além de criar o Art. 154-A (invasão de dispositivo) e o Art. 154-B (ação penal), também alterou o Art. 266 (interrupção/perturbação de serviço informático) e o Art. 298 (equiparação de documento eletrônico a documento particular para falsificação) — não criou o furto mediante fraude eletrônica (isso veio da Lei 14.155/2021) nem a ANPD ou o Marco Civil (leis distintas).
+
 ## Lacunas honestas
 
-- Ainda não há questão real localizada sobre a tipificação penal dos crimes informáticos (Lei 12.737/2012, Lei 14.155/2021) ou sobre a Lei de Acesso à Informação neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
+- Ainda não há questão real localizada sobre a Lei de Acesso à Informação neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
@@ -176,6 +182,8 @@ Além da tipificação penal, a atuação com tecnologia envolve princípios ét
 - [ ] Sei diferenciar os fundamentos da LGPD (Art. 2º) das hipóteses de exclusão de aplicação (Art. 4º).
 - [ ] Sei que a governança da PNCiber é centralizada no GSI, com foco em infraestruturas críticas.
 - [ ] Sei que o dever de sigilo profissional em TI independe de intenção de vantagem.
+- [ ] Sei a exceção do Art. 21 do Marco Civil e o regime de tratamento de dados para segurança pública (Art. 4º LGPD).
+- [ ] Sei exatamente quais alterações a Lei 12.737/2012 promoveu no Código Penal.
 - [ ] Resolvi as cinco questões reais comentadas deste tema sem olhar o gabarito antes.
 - [ ] Marquei a lacuna de fonte registrada acima.
 

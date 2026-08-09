@@ -108,17 +108,30 @@ A investigação de um dispositivo digital costuma seguir etapas análogas à pe
 3. Para OSINT, teste se a informação foi obtida de fonte pública sem burlar proteção alguma.
 4. Para qualquer questão de perícia digital, siga a lógica preservação → coleta → exame → análise → apresentação.
 
+### Complementos: classificação penal, técnicas forenses e OSINT (questões autorais fundamentadas em lei)
+
+- **Crime cibernético próprio x impróprio**: próprio exige o meio informático como elemento do tipo (ex.: Art. 154-A do CP); impróprio é crime comum (furto, estelionato) só praticado por meio eletrônico.
+- **Phishing** tende a se amoldar ao **estelionato** (Art. 171 CP, com a majorante de fraude eletrônica do §2º-A, Lei 14.155/2021) — a vítima entrega o dado/valor enganada, o que é diferente de subtração (furto).
+- **Ransomware** tende a se amoldar à **extorsão** (Art. 158 CP) — o bloqueio dos dados é a ameaça; o pagamento exigido é a vantagem indevida.
+- **Write blocker**: dispositivo/software que impede qualquer escrita no dispositivo original durante o exame pericial, preservando integridade.
+- **Data carving**: técnica de recuperação de arquivos apagados a partir de fragmentos brutos na mídia, sem depender do sistema de arquivos — útil enquanto o espaço não é sobrescrito.
+- **Deep web x dark web**: deep web é todo conteúdo não indexado (a maior parte, lícita); dark web é uma fatia pequena da deep web, acessada por software de anonimização (ex.: Tor).
+- **OSINT (Open Source Intelligence)**: coleta de informação de fontes públicas, sem violar proteção alguma — inclui a análise de metadados EXIF de imagens (geolocalização, data/hora de captura), quando não removidos.
+
 ## Lacunas honestas
 
-- Ainda não há questão real localizada sobre OSINT, hash forense ou cadeia de custódia digital especificamente neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
+- Ainda não há questão real localizada sobre hash forense ou cadeia de custódia digital especificamente neste levantamento — a teoria está coberta acima, falta a camada de prática com questão real conferida.
 
 ## Checklist de revisão
 
 - [ ] Sei explicar por que evidência digital é volátil e facilmente alterável.
 - [ ] Sei a função do hash na cadeia de custódia digital.
 - [ ] Sei diferenciar crime digital próprio (sistema é alvo) de impróprio (sistema é meio).
-- [ ] Sei o que caracteriza OSINT como técnica de fonte aberta e lícita.
+- [ ] Sei o que caracteriza OSINT como técnica de fonte aberta e lícita, incluindo análise de metadados EXIF.
 - [ ] Sei identificar a Lei Carolina Dieckmann e não confundo com a Lei 12.735/2012.
+- [ ] Sei a tipificação penal de phishing (estelionato) e ransomware (extorsão).
+- [ ] Sei a função do write blocker e a técnica de data carving.
+- [ ] Sei diferenciar deep web de dark web.
 - [ ] Resolvi a questão real comentada deste tema sem olhar o gabarito antes.
 - [ ] Sei as etapas do processo de perícia forense digital (preservação, coleta, exame, análise, apresentação).
 - [ ] Marquei a lacuna de fonte registrada acima.
