@@ -65,6 +65,15 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Direitos Humanos | Teoria, sistemas de proteção e democracia | 10 | [Abrir](provas/direitos-humanos/001_teoria-sistemas-protecao-democracia.md) |
 | Direitos Humanos | Grupos vulneráveis, segurança pública e atuação policial | 10 | [Abrir](provas/direitos-humanos/002_grupos-vulneraveis-atuacao-policial.md) |
 | Direitos Humanos | PNDH, educação em direitos humanos e Agenda 2030 | 7 | [Abrir](provas/direitos-humanos/003_pndh-educacao-agenda-2030.md) |
+| **Total** | **61 temas cobertos** | **409** | — |
+
+## Resumo geral de gabaritos
+
+| Total de questões | A | B | C | D | E | %A | %B | %C | %D | %E |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 409 | 69 | 134 | 78 | 78 | 50 | 16,9% | 32,8% | 19,1% | 19,1% | 12,2% |
+
+**Leitura prática:** a alternativa **B** está mais frequente que o esperado (32,8% do banco). Continue resolvendo pela técnica de eliminação (fonte, gabarito conferido de forma independente e pegadinha do card) em vez de "chutar" B nas dúvidas.
 
 ## Critério de conversão
 

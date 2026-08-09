@@ -5,7 +5,7 @@
 O mapa abaixo separa duas coisas que não devem ser misturadas:
 
 - **Peso oficial do edital:** já está completo para Papiloscopista.
-- **Banco FGV-style:** neste momento há 405 questões comentadas, com pelo menos uma por tema do edital.
+- **Banco FGV-style:** neste momento há 409 questões comentadas, com pelo menos uma por tema do edital.
 - **Validação por provas semelhantes:** já tem página própria para confrontar FGV Papiloscopista, FGV Perito/Polícia Civil e bancas próximas com os 61 temas.
 
 Isso evita inventar estatística de prova. À medida que os PDFs locais e oficiais forem convertidos, os totais por tema e a distribuição de alternativas devem ser atualizados aqui.
