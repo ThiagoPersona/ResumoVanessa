@@ -101,7 +101,7 @@ A lei estabelece que os Delegados de Polícia de classe mais elevada têm preced
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/legislacao/004_lei-23213-2026-organica-pcpr.md)
+- [Resolver questões deste tema](provas/legislacao/004_lei-23213-2026-organica-pcpr.md)
 
 ## Referências
 

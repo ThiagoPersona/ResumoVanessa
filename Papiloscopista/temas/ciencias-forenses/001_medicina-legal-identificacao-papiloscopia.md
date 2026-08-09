@@ -225,7 +225,7 @@ Cada tipo fundamental recebe um valor numérico fixo para compor os quatro dígi
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/ciencias-forenses/001_medicina-legal-identificacao-papiloscopia.md)
+- [Resolver questões deste tema](provas/ciencias-forenses/001_medicina-legal-identificacao-papiloscopia.md)
 
 ## Referências
 

@@ -189,7 +189,7 @@ Além da tipificação penal, a atuação com tecnologia envolve princípios ét
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/tecnologia/006_legislacao-etica-digital.md)
+- [Resolver questões deste tema](provas/tecnologia/006_legislacao-etica-digital.md)
 
 ## Referências
 

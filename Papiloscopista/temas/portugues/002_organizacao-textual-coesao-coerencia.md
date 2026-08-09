@@ -184,7 +184,7 @@ A ordem direta (sujeito → verbo → complementos → adjuntos ao final) costum
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/portugues/002_organizacao-textual-coesao-coerencia.md)
+- [Resolver questões deste tema](provas/portugues/002_organizacao-textual-coesao-coerencia.md)
 
 ## Referências
 

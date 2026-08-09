@@ -252,7 +252,7 @@ Sistemas operacionais móveis (Android, iOS) seguem lógica semelhante às dos s
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/tecnologia/002_sistemas-operacionais-aplicativos-dispositivos-moveis.md)
+- [Resolver questões deste tema](provas/tecnologia/002_sistemas-operacionais-aplicativos-dispositivos-moveis.md)
 
 ## Referências
 

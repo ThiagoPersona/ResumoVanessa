@@ -112,7 +112,7 @@ Políticas públicas estaduais em áreas como segurança, saúde, educação e a
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/realidade-pr/002_cultura-indicadores-economia-politicas-atualidades.md)
+- [Resolver questões deste tema](provas/realidade-pr/002_cultura-indicadores-economia-politicas-atualidades.md)
 
 ## Referências
 

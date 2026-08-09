@@ -100,7 +100,7 @@ Registre aqui, sem inventar, o que ainda falta:
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/caminho-do-tema.md)
+- [Resolver questões deste tema](provas/caminho-do-tema.md)
 
 ## Referências
 

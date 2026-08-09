@@ -123,7 +123,7 @@ A LGPD (Lei 13.709/2018), incluindo seus princípios, bases legais e a classific
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/legislacao/007_abuso-identificacao-lgpd-lai-sigilo.md)
+- [Resolver questões deste tema](provas/legislacao/007_abuso-identificacao-lgpd-lai-sigilo.md)
 
 ## Referências
 

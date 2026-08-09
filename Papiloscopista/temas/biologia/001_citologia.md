@@ -142,7 +142,7 @@ Essa diferença de composição é a base da **coloração de Gram**, técnica c
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/biologia/001_citologia.md)
+- [Resolver questões deste tema](provas/biologia/001_citologia.md)
 
 ## Referências
 

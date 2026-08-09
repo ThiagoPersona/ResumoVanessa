@@ -152,7 +152,7 @@ No eletroferograma (gráfico de picos gerado pelo sequenciamento), uma amostra c
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/biologia/004_biologia-identificacao-humana-biometria.md)
+- [Resolver questões deste tema](provas/biologia/004_biologia-identificacao-humana-biometria.md)
 
 ## Referências
 

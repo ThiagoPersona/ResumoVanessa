@@ -194,7 +194,7 @@ Problemas de tempo acumulado (como atraso constante de relógio ao longo de dias
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/rlm/002_numeros-porcentagem-juros-proporcionalidade-medidas.md)
+- [Resolver questões deste tema](provas/rlm/002_numeros-porcentagem-juros-proporcionalidade-medidas.md)
 
 ## Referências
 

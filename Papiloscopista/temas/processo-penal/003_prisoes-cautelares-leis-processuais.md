@@ -99,7 +99,7 @@ O conteúdo sobre a inafiançabilidade do tráfico de drogas (Lei 11.343/2006, a
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/processo-penal/003_prisoes-cautelares-leis-processuais.md)
+- [Resolver questões deste tema](provas/processo-penal/003_prisoes-cautelares-leis-processuais.md)
 
 ## Referências
 

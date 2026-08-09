@@ -100,7 +100,7 @@ Crimes relacionados a esse tipo de situação, para comparação (todos exigem q
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/penal/002_crimes-pessoa-patrimonio-dignidade-fe-publica-administracao.md)
+- [Resolver questões deste tema](provas/penal/002_crimes-pessoa-patrimonio-dignidade-fe-publica-administracao.md)
 
 ## Referências
 

@@ -107,7 +107,7 @@ O acusado tem direito a apresentar defesa escrita no prazo de 10 dias úteis, ac
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/legislacao/005_lei-21894-2024-codigo-disciplinar-pcpr.md)
+- [Resolver questões deste tema](provas/legislacao/005_lei-21894-2024-codigo-disciplinar-pcpr.md)
 
 ## Referências
 

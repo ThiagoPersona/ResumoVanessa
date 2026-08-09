@@ -251,7 +251,7 @@ O diagrama de Venn (círculos sobrepostos) é a ferramenta prática para resolve
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/rlm/001_logica-proposicional-conjuntos.md)
+- [Resolver questões deste tema](provas/rlm/001_logica-proposicional-conjuntos.md)
 
 ## Referências
 

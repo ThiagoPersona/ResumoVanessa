@@ -212,7 +212,7 @@ A psicopatologia forense avalia transtornos mentais com relevância jurídica, s
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/ciencias-forenses/004_tanatologia-necropsia-toxicologia-psicopatologia.md)
+- [Resolver questões deste tema](provas/ciencias-forenses/004_tanatologia-necropsia-toxicologia-psicopatologia.md)
 
 ## Referências
 

@@ -88,7 +88,7 @@ A estrutura completa da Constituição do Estado do Paraná — princípios da A
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/constitucional/003_controle-constitucionalidade-constituicao-parana.md)
+- [Resolver questões deste tema](provas/constitucional/003_controle-constitucionalidade-constituicao-parana.md)
 
 ## Referências
 

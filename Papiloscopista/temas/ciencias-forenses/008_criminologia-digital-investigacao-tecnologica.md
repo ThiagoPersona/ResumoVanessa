@@ -136,7 +136,7 @@ Assim como no controle social tradicional (tema 025), o ambiente digital tem mec
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/ciencias-forenses/008_criminologia-digital-investigacao-tecnologica.md)
+- [Resolver questões deste tema](provas/ciencias-forenses/008_criminologia-digital-investigacao-tecnologica.md)
 
 ## Referências
 

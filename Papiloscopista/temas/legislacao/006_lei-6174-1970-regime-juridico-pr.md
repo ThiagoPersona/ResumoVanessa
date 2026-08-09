@@ -92,7 +92,7 @@ O art. 43 do Estatuto de 1970 estabelece um período de **dois anos de efetivo e
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/legislacao/006_lei-6174-1970-regime-juridico-pr.md)
+- [Resolver questões deste tema](provas/legislacao/006_lei-6174-1970-regime-juridico-pr.md)
 
 ## Referências
 

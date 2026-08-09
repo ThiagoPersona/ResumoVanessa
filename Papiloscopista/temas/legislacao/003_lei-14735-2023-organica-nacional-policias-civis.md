@@ -103,7 +103,7 @@ O art. 7º estabelece que a polícia civil tem estrutura organizacional composta
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/legislacao/003_lei-14735-2023-organica-nacional-policias-civis.md)
+- [Resolver questões deste tema](provas/legislacao/003_lei-14735-2023-organica-nacional-policias-civis.md)
 
 ## Referências
 

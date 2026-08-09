@@ -138,7 +138,7 @@ A investigação de um dispositivo digital costuma seguir etapas análogas à pe
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/tecnologia/005_crimes-digitais-evidencias-osint.md)
+- [Resolver questões deste tema](provas/tecnologia/005_crimes-digitais-evidencias-osint.md)
 
 ## Referências
 

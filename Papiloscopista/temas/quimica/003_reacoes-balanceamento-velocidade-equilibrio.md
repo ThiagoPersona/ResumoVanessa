@@ -122,7 +122,7 @@ A **entalpia (H)** é uma medida da energia contida num sistema; a variação de
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/quimica/003_reacoes-balanceamento-velocidade-equilibrio.md)
+- [Resolver questões deste tema](provas/quimica/003_reacoes-balanceamento-velocidade-equilibrio.md)
 
 ## Referências
 

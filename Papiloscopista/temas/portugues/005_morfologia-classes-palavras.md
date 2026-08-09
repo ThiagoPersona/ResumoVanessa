@@ -413,7 +413,7 @@ Teste rápido: pergunte se as duas ações podem fisicamente ocorrer no mesmo in
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/portugues/005_morfologia-classes-palavras.md)
+- [Resolver questões deste tema](provas/portugues/005_morfologia-classes-palavras.md)
 
 ## Referências
 

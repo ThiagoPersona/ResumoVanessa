@@ -116,7 +116,7 @@ A distinção entre falsidade material e ideológica também é central no Direi
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/ciencias-forenses/006_documentoscopia-grafoscopia-falsificacoes.md)
+- [Resolver questões deste tema](provas/ciencias-forenses/006_documentoscopia-grafoscopia-falsificacoes.md)
 
 ## Referências
 

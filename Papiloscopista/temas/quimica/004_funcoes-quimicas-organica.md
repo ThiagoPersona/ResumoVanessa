@@ -104,7 +104,7 @@ Moléculas de interesse farmacológico e forense costumam ter mais de um grupo f
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/quimica/004_funcoes-quimicas-organica.md)
+- [Resolver questões deste tema](provas/quimica/004_funcoes-quimicas-organica.md)
 
 ## Referências
 

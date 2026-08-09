@@ -102,7 +102,7 @@ A potência dissipada ou fornecida é **P = U · i**, podendo ser reescrita, usa
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/fisica/003_eletricidade-circuitos-simples.md)
+- [Resolver questões deste tema](provas/fisica/003_eletricidade-circuitos-simples.md)
 
 ## Referências
 

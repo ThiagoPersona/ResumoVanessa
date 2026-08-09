@@ -129,7 +129,7 @@ Para luz se propagando no mesmo meio (por exemplo, no ar): **todas as cores/freq
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/fisica/002_uv-fluorescencia-ondas-eletromagnetismo.md)
+- [Resolver questões deste tema](provas/fisica/002_uv-fluorescencia-ondas-eletromagnetismo.md)
 
 ## Referências
 

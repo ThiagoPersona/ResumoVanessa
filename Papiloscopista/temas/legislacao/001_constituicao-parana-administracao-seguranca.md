@@ -100,7 +100,7 @@ A Constituição paranaense também prevê, em dispositivo próprio, que **"a po
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/legislacao/001_constituicao-parana-administracao-seguranca.md)
+- [Resolver questões deste tema](provas/legislacao/001_constituicao-parana-administracao-seguranca.md)
 
 ## Referências
 

@@ -109,7 +109,7 @@ Uma busca e apreensão realizada em **local diferente** do especificamente autor
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/processo-penal/002_provas-cadeia-custodia-busca-reconhecimento.md)
+- [Resolver questões deste tema](provas/processo-penal/002_provas-cadeia-custodia-busca-reconhecimento.md)
 
 ## Referências
 

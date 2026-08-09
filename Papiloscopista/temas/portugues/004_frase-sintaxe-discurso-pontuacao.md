@@ -417,7 +417,7 @@ Reconhecer a função predominante de um trecho ajuda a resolver questões de in
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/portugues/004_frase-sintaxe-discurso-pontuacao.md)
+- [Resolver questões deste tema](provas/portugues/004_frase-sintaxe-discurso-pontuacao.md)
 
 ## Referências
 

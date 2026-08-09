@@ -103,7 +103,7 @@ onde C₁, V₁ são a concentração e o volume antes da diluição, e C₂, V�
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/quimica/002_misturas-solucoes-separacao-concentracao.md)
+- [Resolver questões deste tema](provas/quimica/002_misturas-solucoes-separacao-concentracao.md)
 
 ## Referências
 

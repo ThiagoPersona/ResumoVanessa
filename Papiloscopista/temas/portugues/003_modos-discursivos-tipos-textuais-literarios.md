@@ -210,7 +210,7 @@ O gerúndio é o principal marcador de ação simultânea em português ("Sorrin
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/portugues/003_modos-discursivos-tipos-textuais-literarios.md)
+- [Resolver questões deste tema](provas/portugues/003_modos-discursivos-tipos-textuais-literarios.md)
 
 ## Referências
 

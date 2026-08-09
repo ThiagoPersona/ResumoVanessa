@@ -90,7 +90,7 @@ Sensores fotográficos (CCD ou CMOS) convertem fótons de luz incidente em sinal
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/fisica/004_fisica-captura-imagens-biometria-equipamentos.md)
+- [Resolver questões deste tema](provas/fisica/004_fisica-captura-imagens-biometria-equipamentos.md)
 
 ## Referências
 

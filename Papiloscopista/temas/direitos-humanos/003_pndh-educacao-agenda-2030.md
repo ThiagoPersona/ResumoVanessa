@@ -75,7 +75,7 @@ A Agenda 2030 é um plano de ação global, adotado pelos países-membros da ONU
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/direitos-humanos/003_pndh-educacao-agenda-2030.md)
+- [Resolver questões deste tema](provas/direitos-humanos/003_pndh-educacao-agenda-2030.md)
 
 ## Referências
 

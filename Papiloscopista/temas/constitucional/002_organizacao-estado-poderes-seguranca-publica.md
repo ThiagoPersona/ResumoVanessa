@@ -111,7 +111,7 @@ Servidor público em cargo efetivo, empregado ou função, quando **investido em
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/constitucional/002_organizacao-estado-poderes-seguranca-publica.md)
+- [Resolver questões deste tema](provas/constitucional/002_organizacao-estado-poderes-seguranca-publica.md)
 
 ## Referências
 

@@ -233,7 +233,7 @@ O **corpo de delito** é o conjunto de vestígios materiais que comprovam a exis
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/ciencias-forenses/005_criminalistica-local-crime-cadeia-custodia.md)
+- [Resolver questões deste tema](provas/ciencias-forenses/005_criminalistica-local-crime-cadeia-custodia.md)
 
 ## Referências
 

@@ -178,7 +178,7 @@ Quando o enunciado revela o fenótipo de um filho, isso muitas vezes permite ded
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/biologia/002_genetica.md)
+- [Resolver questões deste tema](provas/biologia/002_genetica.md)
 
 ## Referências
 

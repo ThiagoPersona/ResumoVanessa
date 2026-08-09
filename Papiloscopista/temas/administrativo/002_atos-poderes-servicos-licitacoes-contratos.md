@@ -107,7 +107,7 @@ A Lei 14.133/2021 (Nova Lei de Licitações e Contratos) reorganizou as modalida
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/administrativo/002_atos-poderes-servicos-licitacoes-contratos.md)
+- [Resolver questões deste tema](provas/administrativo/002_atos-poderes-servicos-licitacoes-contratos.md)
 
 ## Referências
 

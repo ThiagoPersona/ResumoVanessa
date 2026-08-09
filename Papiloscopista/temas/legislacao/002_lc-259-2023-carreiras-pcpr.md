@@ -100,7 +100,7 @@ A remuneração é organizada por **subsídio**, fixado em parcela única (art. 
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/legislacao/002_lc-259-2023-carreiras-pcpr.md)
+- [Resolver questões deste tema](provas/legislacao/002_lc-259-2023-carreiras-pcpr.md)
 
 ## Referências
 

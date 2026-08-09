@@ -113,7 +113,7 @@ O conteúdo específico da Lei de Abuso de Autoridade (Lei 13.869/2019) e da Lei
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/penal/003_legislacao-extravagante-atividade-policial.md)
+- [Resolver questões deste tema](provas/penal/003_legislacao-extravagante-atividade-policial.md)
 
 ## Referências
 

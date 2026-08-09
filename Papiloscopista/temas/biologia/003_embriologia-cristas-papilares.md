@@ -142,7 +142,7 @@ A determinação do sexo humano não é um evento único, mas uma **sequência e
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/biologia/003_embriologia-cristas-papilares.md)
+- [Resolver questões deste tema](provas/biologia/003_embriologia-cristas-papilares.md)
 
 ## Referências
 

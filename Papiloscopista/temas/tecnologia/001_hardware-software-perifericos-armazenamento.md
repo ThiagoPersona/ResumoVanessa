@@ -154,7 +154,7 @@ Smartphones e tablets seguem a mesma lógica de hardware/software/armazenamento,
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/tecnologia/001_hardware-software-perifericos-armazenamento.md)
+- [Resolver questões deste tema](provas/tecnologia/001_hardware-software-perifericos-armazenamento.md)
 
 ## Referências
 

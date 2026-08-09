@@ -223,7 +223,7 @@ Sistemas de reconhecimento facial usam algoritmos para mapear pontos geométrico
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/ciencias-forenses/002_antropologia-odontologia-dna-reconhecimento-facial-ia.md)
+- [Resolver questões deste tema](provas/ciencias-forenses/002_antropologia-odontologia-dna-reconhecimento-facial-ia.md)
 
 ## Referências
 

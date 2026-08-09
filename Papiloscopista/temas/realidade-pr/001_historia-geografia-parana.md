@@ -100,7 +100,7 @@ O Paraná tem quase 400 municípios (o número exato deve ser conferido em fonte
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/realidade-pr/001_historia-geografia-parana.md)
+- [Resolver questões deste tema](provas/realidade-pr/001_historia-geografia-parana.md)
 
 ## Referências
 

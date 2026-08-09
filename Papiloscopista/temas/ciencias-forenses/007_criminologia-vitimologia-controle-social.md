@@ -94,7 +94,7 @@ O controle informal costuma ser considerado mais eficaz na prevenção cotidiana
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/ciencias-forenses/007_criminologia-vitimologia-controle-social.md)
+- [Resolver questões deste tema](provas/ciencias-forenses/007_criminologia-vitimologia-controle-social.md)
 
 ## Referências
 

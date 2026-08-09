@@ -95,7 +95,7 @@ O Direito Administrativo é o ramo do Direito Público que disciplina a organiza
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/administrativo/001_conceito-fontes-principios-administracao.md)
+- [Resolver questões deste tema](provas/administrativo/001_conceito-fontes-principios-administracao.md)
 
 ## Referências
 

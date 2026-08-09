@@ -303,7 +303,7 @@ Teste prático rápido: troque o termo feminino por um masculino equivalente. Se
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/portugues/006_semantica-vocabulario-ortografia-crase.md)
+- [Resolver questões deste tema](provas/portugues/006_semantica-vocabulario-ortografia-crase.md)
 
 ## Referências
 

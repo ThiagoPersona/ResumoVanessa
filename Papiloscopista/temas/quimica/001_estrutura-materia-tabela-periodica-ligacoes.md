@@ -107,7 +107,7 @@ Famílias importantes: metais alcalinos (grupo 1, muito reativos, perdem 1 elét
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/quimica/001_estrutura-materia-tabela-periodica-ligacoes.md)
+- [Resolver questões deste tema](provas/quimica/001_estrutura-materia-tabela-periodica-ligacoes.md)
 
 ## Referências
 

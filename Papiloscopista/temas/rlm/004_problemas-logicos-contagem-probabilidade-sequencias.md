@@ -149,7 +149,7 @@ Problemas de dias da semana, calendário e sequência de posições (fila, ordem
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/rlm/004_problemas-logicos-contagem-probabilidade-sequencias.md)
+- [Resolver questões deste tema](provas/rlm/004_problemas-logicos-contagem-probabilidade-sequencias.md)
 
 ## Referências
 

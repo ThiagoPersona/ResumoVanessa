@@ -104,7 +104,7 @@ A datação por radiocarbono usa o fato de que o carbono-14 (¹⁴C), um isótop
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/quimica/005_quimica-identificacao-reagentes-fluorescencia.md)
+- [Resolver questões deste tema](provas/quimica/005_quimica-identificacao-reagentes-fluorescencia.md)
 
 ## Referências
 

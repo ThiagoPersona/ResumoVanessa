@@ -94,7 +94,7 @@ A atuação policial, especialmente em relação a grupos vulneráveis, deve obs
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/direitos-humanos/002_grupos-vulneraveis-atuacao-policial.md)
+- [Resolver questões deste tema](provas/direitos-humanos/002_grupos-vulneraveis-atuacao-policial.md)
 
 ## Referências
 

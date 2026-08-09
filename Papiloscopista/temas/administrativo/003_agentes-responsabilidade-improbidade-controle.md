@@ -93,7 +93,7 @@ A responsabilidade civil do Estado por **conduta comissiva** de seus agentes é,
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/administrativo/003_agentes-responsabilidade-improbidade-controle.md)
+- [Resolver questões deste tema](provas/administrativo/003_agentes-responsabilidade-improbidade-controle.md)
 
 ## Referências
 

@@ -228,7 +228,7 @@ Além dos movimentos, a balística forense também trata de: **balística intern
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/ciencias-forenses/003_sexologia-traumatologia-asfixiologia-balistica.md)
+- [Resolver questões deste tema](provas/ciencias-forenses/003_sexologia-traumatologia-asfixiologia-balistica.md)
 
 ## Referências
 

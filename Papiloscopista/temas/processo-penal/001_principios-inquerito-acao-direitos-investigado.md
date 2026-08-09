@@ -96,7 +96,7 @@ O investigado, mesmo na fase de inquérito (sem contraditório pleno), tem direi
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/processo-penal/001_principios-inquerito-acao-direitos-investigado.md)
+- [Resolver questões deste tema](provas/processo-penal/001_principios-inquerito-acao-direitos-investigado.md)
 
 ## Referências
 

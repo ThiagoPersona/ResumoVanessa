@@ -241,7 +241,7 @@ Uma **API (Application Programming Interface)** é um conjunto de regras que per
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/tecnologia/003_internet-redes-nuvem-web-bancos-apis.md)
+- [Resolver questões deste tema](provas/tecnologia/003_internet-redes-nuvem-web-bancos-apis.md)
 
 ## Referências
 

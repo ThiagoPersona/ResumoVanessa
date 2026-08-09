@@ -206,7 +206,7 @@ Mais três questões reais (SEAD/AP Q3, PCAM Q4 e PCAM Q7), com a mesma fonte e 
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/portugues/001_interpretacao-compreensao-texto.md)
+- [Resolver questões deste tema](provas/portugues/001_interpretacao-compreensao-texto.md)
 
 ## Referências
 

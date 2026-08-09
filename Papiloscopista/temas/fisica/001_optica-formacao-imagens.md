@@ -120,7 +120,7 @@ Quando duas lentes (uma convergente e outra divergente, ou duas convergentes) s�
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/fisica/001_optica-formacao-imagens.md)
+- [Resolver questões deste tema](provas/fisica/001_optica-formacao-imagens.md)
 
 ## Referências
 

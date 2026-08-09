@@ -108,7 +108,7 @@ Cidadania, nesse contexto, é o status jurídico-político que habilita a pessoa
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/direitos-humanos/001_teoria-sistemas-protecao-democracia.md)
+- [Resolver questões deste tema](provas/direitos-humanos/001_teoria-sistemas-protecao-democracia.md)
 
 ## Referências
 

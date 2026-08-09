@@ -111,7 +111,7 @@ A CF (Art. 194, parágrafo único, IV) lista, entre os objetivos da seguridade s
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/constitucional/001_principios-direitos-garantias-remedios.md)
+- [Resolver questões deste tema](provas/constitucional/001_principios-direitos-garantias-remedios.md)
 
 ## Referências
 

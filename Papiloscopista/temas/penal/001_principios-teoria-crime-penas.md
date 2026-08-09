@@ -115,7 +115,7 @@ Entre as causas que extinguem a punibilidade: morte do agente, anistia/graça/in
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/penal/001_principios-teoria-crime-penas.md)
+- [Resolver questões deste tema](provas/penal/001_principios-teoria-crime-penas.md)
 
 ## Referências
 

@@ -162,7 +162,7 @@ Para calcular quartis com uma quantidade par de valores (ex.: 14 valores), divid
 
 ## Questões relacionadas
 
-- [Resolver questões deste tema](../../provas/rlm/003_geometria-plano-cartesiano-graficos-tabelas.md)
+- [Resolver questões deste tema](provas/rlm/003_geometria-plano-cartesiano-graficos-tabelas.md)
 
 ## Referências
 
