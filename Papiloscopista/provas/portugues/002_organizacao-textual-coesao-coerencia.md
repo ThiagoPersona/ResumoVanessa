@@ -2,10 +2,14 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 4 questões (3 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
+**Itens neste banco:** 8 questões (3 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV + 4 questões reais de bancas diversas, com fonte e gabarito oficial extraídos de banco de questões qconcursos).
 
 ## Fontes reais usadas neste banco
 
+- FGV, AL-AM, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, CPRM, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, SEASIC-SE, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, TRT - 24ª REGIÃO (MS), 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 - FGV, DPE-RO 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
@@ -120,3 +124,107 @@
 
 - Buscar questão real sobre substituição de conectivo lógico (conjunção) mudando o valor semântico da oração.
 - Adicionar questões reais de PCRJ, PCRN e PCPI assim que os cadernos forem localizados e o gabarito conferido.
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - AL-AM, 2025</p>
+<p><strong>5. O Manual de Redação e Estilo do jornal Estado de São Paulo recomenda: “O redator deve ser claro, preciso, direto, objetivo e conciso. Não compor período de mais de três linhas, nem parágrafos com mais de oito datilografadas. Deve ser adotada como norma a ordem direta.” Desobedecendo a essa diretiva, determine a frase a seguir, que não se apresenta na ordem direta.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port002-5" value="A"> A. Ninguém pode ser sábio com o estômago vazio.</label>
+<label class="quiz-option"><input type="radio" name="real-port002-5" value="B"> B. Um pedante é um homem que dirige mal intelectualmente</label>
+<label class="quiz-option"><input type="radio" name="real-port002-5" value="C"> C. O sábio, no encontro entre um sábio de um idiota, tira mais proveito.</label>
+<label class="quiz-option"><input type="radio" name="real-port002-5" value="D"> D. A maior arte da vida é saber a hora certa de dizer as coisas que devem ser ditas.</label>
+<label class="quiz-option"><input type="radio" name="real-port002-5" value="E"> E. Um doido ensina bem a um sábio.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, AL-AM, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa C como correta.</p>
+<p><strong>Por que a C deve ser marcada:</strong> O sábio, no encontro entre um sábio de um idiota, tira mais proveito. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - CPRM, 2025</p>
+<p><strong>6. Assinale a opção que indica corretamente a estratégia argumentativa utilizada no primeiro parágrafo.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port002-6" value="A"> A. Parte-se de uma premissa mais geral para se concluir um fato.</label>
+<label class="quiz-option"><input type="radio" name="real-port002-6" value="B"> B. Parte-se de premissas baseadas na observação para se constatar uma ideia mais geral.</label>
+<label class="quiz-option"><input type="radio" name="real-port002-6" value="C"> C. Parte-se de uma explicação sobre o tema para estabelecer uma hipótese.</label>
+<label class="quiz-option"><input type="radio" name="real-port002-6" value="D"> D. Parte-se de um recorte sobre o assunto a fim de criar uma verdade científica.</label>
+<label class="quiz-option"><input type="radio" name="real-port002-6" value="E"> E. Parte-se de uma analogia para relativizar as conclusões a que se pode chegar.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, CPRM, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa B como correta.</p>
+<p><strong>Por que a B deve ser marcada:</strong> Parte-se de premissas baseadas na observação para se constatar uma ideia mais geral. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - SEASIC-SE, 2025</p>
+<p><strong>7. “Os tupis-guaranis, inclusive, são uma das etnias que habitavam a região. As outras são Canindé e Aratu.” Esse parágrafo do texto funciona como</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port002-7" value="A"> A. correção de uma falha do parágrafo anterior.</label>
+<label class="quiz-option"><input type="radio" name="real-port002-7" value="B"> B. explicação de algo que ficou incompleto.</label>
+<label class="quiz-option"><input type="radio" name="real-port002-7" value="C"> C. acréscimo de uma informação necessária.</label>
+<label class="quiz-option"><input type="radio" name="real-port002-7" value="D"> D. justificativa de uma ação anterior do texto.</label>
+<label class="quiz-option"><input type="radio" name="real-port002-7" value="E"> E. curiosidade para despertar o interesse dos leitores.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, SEASIC-SE, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa C como correta.</p>
+<p><strong>Por que a C deve ser marcada:</strong> acréscimo de uma informação necessária. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="E">
+<p class="quiz-source">FGV - TRT - 24ª REGIÃO (MS), 2025</p>
+<p><strong>8. O texto acima é estruturado em cinco parágrafos, cada um deles com uma função textual. Assinale a opção em que o conteúdo indicado está incorreto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port002-8" value="A"> A. Primeiro parágrafo – apresentação da tese.</label>
+<label class="quiz-option"><input type="radio" name="real-port002-8" value="B"> B. Segundo parágrafo – fato que comprova a tese.</label>
+<label class="quiz-option"><input type="radio" name="real-port002-8" value="C"> C. Terceiro parágrafo – outro fato que comprova a tese.</label>
+<label class="quiz-option"><input type="radio" name="real-port002-8" value="D"> D. Quarto parágrafo – outro fato que comprova a tese.</label>
+<label class="quiz-option"><input type="radio" name="real-port002-8" value="E"> E. Quinto parágrafo – resumo do texto.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: E.</strong> Fonte: FGV, TRT - 24ª REGIÃO (MS), 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa E como correta.</p>
+<p><strong>Por que a E deve ser marcada:</strong> Quinto parágrafo – resumo do texto. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>

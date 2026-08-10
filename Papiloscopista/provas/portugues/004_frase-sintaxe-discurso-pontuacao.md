@@ -2,10 +2,23 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 14 questões (13 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV).
+**Itens neste banco:** 31 questões (13 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV + 17 questões reais de bancas diversas, com fonte e gabarito oficial extraídos de banco de questões qconcursos).
 
 ## Fontes reais usadas neste banco
 
+- FGV, AL-AM, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, CPRM, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, EBSERH, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, MPU, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, MinC, 2024. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, PC-PI, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, PGM - RJ, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, PM-SP, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, Prefeitura de Canaã dos Carajás - PA, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, Prefeitura de Macaé - RJ, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, SEPLAN-SE, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, TCE-PE, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, TRT - 24ª REGIÃO (MS), 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 - FGV, PCAM 2021, Investigador de Polícia - 4ª Classe, Tipo 1. Gabarito definitivo publicado pela FGV.
@@ -384,3 +397,445 @@
 
 - Buscar questão real sobre função da linguagem (referencial, emotiva, conativa, fática, metalinguística, poética).
 - Adicionar questões reais de PCRJ, PCRN e PCPI assim que os cadernos forem localizados e o gabarito conferido.
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - Prefeitura de Macaé - RJ, 2026</p>
+<p><strong>15. “O Ministério da Saúde registra a ocorrência de 400 mil casos de infarto agudo do miocárdio por ano no Brasil. O índice posiciona a condição como uma das principais causas de óbito no país. Apesar da alta incidência, a percepção de bem-estar da população permanece vinculada apenas ao peso corporal total, ignorando os indicadores específicos de distribuição de gordura.” Catraca Livre, 16/04/2026.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-15" value="A"> A. O período inicial mostra que o texto foi estruturado a partir da opinião de quem o escreveu.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-15" value="B"> B. A utilização do advérbio “apenas” tem a função de mostrar a única causa da ocorrência de infarto agudo do miocárdio. Interpretação de Textos Provas: FGV - 2026 - Prefeitura de Macaé - RJ - Cirurgião-Dentista - Pacientes com Necessidades Especiais ... Interpretação de Textos , Coesão e coerência , Noções Gerais de Compreensão e Interpretação de Texto Provas: FGV - 2026 - Prefeitura de Macaé - RJ - Cirurgião-Dentista - Pacientes com Necessidades Especiais ...</label>
+<label class="quiz-option"><input type="radio" name="real-port004-15" value="C"> C. Ao dizer que o infarto é “uma das principais causas de óbito” no Brasil, o texto informa que há outras causas de óbito igualmente importantes.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-15" value="D"> D. Na frase “O índice posiciona a condição como uma das principais causas de óbito no país.”, os termos “índice” e “condição” se referem ao mesmo termo anterior.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-15" value="E"> E. O segmento inicial “O Ministério da Saúde registra a ocorrência de 400 mil casos de infarto agudo do miocárdio por ano no Brasil ” indica, de fato, a conclusão do texto.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, Prefeitura de Macaé - RJ, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa C como correta.</p>
+<p><strong>Por que a C deve ser marcada:</strong> Ao dizer que o infarto é “uma das principais causas de óbito” no Brasil, o texto informa que há outras causas de óbito igualmente importantes. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - PM-SP, 2025</p>
+<p><strong>16. Os vocábulos abaixo aparecem acentuados, mas um deles está acentuado de forma incorreta.  Assinale a opção em que esse vocábulo aparece.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-16" value="A"> A. balaústre / cafeína.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-16" value="B"> B. egoísta / gratuíto.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-16" value="C"> C. faísca / heroína.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-16" value="D"> D. juízo / país.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-16" value="E"> E. saúde / viúvo. Respostas Provas: FGV - 2026 - TCE-SC - Auditor Fiscal de Controle Externo - Administração ... Interpretação de Textos , Coesão e coerência , Sintaxe Uso dos conectivos , Noções Gerais de Compreensão e Interpretação de Texto 1: D 2: C 3: E 4: D 5: E 6: C 7: B 8: D 9: C 10: C 11: E 12: B 13: C 14: A 15: C 16: A 17: E 18: A 19: B 20: B</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, PM-SP, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa B como correta.</p>
+<p><strong>Por que a B deve ser marcada:</strong> egoísta / gratuíto. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - PM-SP, 2025</p>
+<p><strong>17. Um código indiano de leis registra o seguinte: Toda vez que o homem reconhece e confessa ter pecado, libera-se do próprio pecado como uma serpente, da pele velha. Sobre o significado e a estruturação desse segmento textual, é correto afirmar que</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-17" value="A"> A. a introdução da imagem da serpente no texto se prende à ideia má, contida nos pecados.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-17" value="B"> B. a comparação da liberação dos pecados com a liberação da pele por parte da serpente é exemplo de linguagem lógica.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-17" value="C"> C. o reconhecimento do pecado e a sua confissão levam à liberação de culpas no pecador.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-17" value="D"> D. o texto condena implicitamente a confissão dos pecados presente no catolicismo.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-17" value="E"> E. a última vírgula empregada no texto é necessária em função da inversão sintática de termos na frase. Interpretação de Textos , Figuras de Linguagem , Noções Gerais de Compreensão e Interpretação de Texto Resumo relacionado Fonologia: Conceitos Fundamentais e Dicas para Concursos Fonologia é o ramo da linguística que estuda os sons da fala, conhecidos por fonemas, e sua organização nos idiomas. No contexto dos concursos públicos, compreender fonologia é essencial, pois muitas questões de Língua Portuguesa cobram o reconhecimento e a análise d…</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, PM-SP, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa C como correta.</p>
+<p><strong>Por que a C deve ser marcada:</strong> o reconhecimento do pecado e a sua confissão levam à liberação de culpas no pecador. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - PC-PI, 2026</p>
+<p><strong>18. Assinale a opção que indica a estratégia argumentativa que é base para a construção do ponto de vista do texto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-18" value="A"> A. Uso do argumento de autoridade, evidenciado pela citação direta dos especialistas da área a fim de construir a credibilidade no texto.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-18" value="B"> B. Intertextualidade, revelada pela referência aos dados do estudo realizado como sustentação da argumentação defendida.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-18" value="C"> C. Comparação, comprovada pela associação depreciativa dos números de segurança de Piauí.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-18" value="D"> D. Generalização, pressuposta pela descrição de índices de uma realidade específica como recorte de uma constatação mais ampla.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-18" value="E"> E. Implicação, observada a característica de definição de objetos de estudo, seguidos dos efeitos no discurso. Interpretação de Textos , Sintaxe Provas: FGV - 2026 - PC-PI - Perito Criminal - Biomedicina e Farmácia e Bioquímica e Biologia e Química e Engenharia Química ... Interpretação de Textos Provas: FGV - 2026 - PC-PI - Perito Criminal - Biomedicina e Farmácia e Bioquímica e Biologia e Química e Engenharia Química ...</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, PC-PI, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa B como correta.</p>
+<p><strong>Por que a B deve ser marcada:</strong> Intertextualidade, revelada pela referência aos dados do estudo realizado como sustentação da argumentação defendida. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">FGV - AL-AM, 2025</p>
+<p><strong>19. Observe o seguinte diálogo: - O que você quer comer no almoço? - Sei lá! - Que tal... - Ah, já sei: camarão à milanesa. - Tá bom! Para dar verossimilhança ao diálogo acima, a estratégia que NÃO foi empregada no texto, é</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-19" value="A"> A. utilizar pontuação que demonstra a entoação.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-19" value="B"> B. usar frases curtas ou incompletas.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-19" value="C"> C. utilizar nível de linguagem adequado à situação.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-19" value="D"> D. empregar estruturas repetidas, típicas da fala.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-19" value="E"> E. acrescentar interjeições, próprias da língua falada.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: FGV, AL-AM, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa D como correta.</p>
+<p><strong>Por que a D deve ser marcada:</strong> empregar estruturas repetidas, típicas da fala. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">FGV - AL-AM, 2025</p>
+<p><strong>20. Leia o trecho inicial do romance A Morte e a Morte de Quincas Berro Dágua, do escritor modernista Jorge Amado. “Até hoje permanece certa confusão em torno da morte de Quincas Berro Dágua. Dúvidas por explicar, detalhes absurdos, contradições no depoimento das testemunhas, lacunas diversas. Não há clareza sobre hora, local e frase derradeira.” Assinale a afirmação correta sobre a sua significação ou estruturação.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-20" value="A"> A. O primeiro período do segmento é explicitado pelo restante do texto.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-20" value="B"> B. Entre o primeiro e o segundo período do texto, em lugar do ponto poderia ser empregado o conectivo “apesar de”.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-20" value="C"> C. A expressão “lacunas diversas” mostra o mesmo sentido que “diversas lacunas”.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-20" value="D"> D. Apesar de ser o início de um romance, o segmento textual mostra traços de uma reportagem jornalística.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-20" value="E"> E. A pontuação empregada no texto segue rigorosamente as regras normativas.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: FGV, AL-AM, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa A como correta.</p>
+<p><strong>Por que a A deve ser marcada:</strong> O primeiro período do segmento é explicitado pelo restante do texto. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">FGV - AL-AM, 2025</p>
+<p><strong>21. “Não, não direi que assisti às alvoradas do romantismo, que também eu fui fazer poesia efetiva no regaço da Itália; não direi coisa nenhuma.” (Memórias Póstumas de Brás Cubas) Nessa frase há um aspecto diferente na estruturação, que é</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-21" value="A"> A. a falta de coerência, pois o narrador acaba dizendo o que afirma não dizer.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-21" value="B"> B. a repetição desnecessária de termos, o que ocorre com a expressão “não direi”.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-21" value="C"> C. o descaso com a norma gramatical, com erros de pontuação e concordância.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-21" value="D"> D. a ausência de elementos de coesão, tornando as frases desconexas.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-21" value="E"> E. A utilização excessiva de palavras, causando redundâncias.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: FGV, AL-AM, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa A como correta.</p>
+<p><strong>Por que a A deve ser marcada:</strong> a falta de coerência, pois o narrador acaba dizendo o que afirma não dizer. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="E">
+<p class="quiz-source">FGV - CPRM, 2025</p>
+<p><strong>22. Assinale a opção que classifica corretamente a oração reduzida destacada em: “Não obtendo resultado, fustigou-o com a bainha da faca de ponta”.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-22" value="A"> A. Oração subordinada substantiva subjetiva reduzida de gerúndio.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-22" value="B"> B. Oração subordinada adverbial temporal reduzida de gerúndio.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-22" value="C"> C. Oração subordinada adverbial consecutiva reduzida de gerúndio.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-22" value="D"> D. Oração subordinada adjetiva restritiva reduzida de gerúndio.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-22" value="E"> E. Oração subordinada adverbial causal reduzida de gerúndio.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: E.</strong> Fonte: FGV, CPRM, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa E como correta.</p>
+<p><strong>Por que a E deve ser marcada:</strong> Oração subordinada adverbial causal reduzida de gerúndio. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="E">
+<p class="quiz-source">FGV - TCE-PE, 2025</p>
+<p><strong>23. Em todas as sentenças a seguir, foi inserida uma expressão entre parênteses com o objetivo de reescrever a frase sem alterar sua correção gramatical ou seu sentido original. Assinale a afirmativa em que essa inserção foi feita de maneira inadequada, comprometendo a estrutura ou o significado da frase.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-23" value="A"> A. A compra de novos uniformes veio a suprir uma deficiência de muitos de nossos alunos (inclusive) / A compra de novos uniformes veio, inclusive, a suprir uma deficiência de muitos de nossos alunos.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-23" value="B"> B. Não é difícil encontrar vestígios da colonização portuguesa na história moderna do Brasil (a essa altura) / Não é difícil encontrar, a essa altura, vestígios da colonização portuguesa na história moderna do Brasil.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-23" value="C"> C. Há medidas oficiais que conseguem corrigir problemas sociais (ainda que impopulares) / Há medidas oficiais, ainda que impopulares, que conseguem corrigir problemas sociais.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-23" value="D"> D. Esses jogadores não estavam ligados ao time no início do campeonato (o que talvez tenha sido bom) / Esses jogadores não estavam ligados ao time no início do campeonato, o que talvez tenha sido bom.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-23" value="E"> E. Os acidentes aeroviários provocam grande número de vítimas (no entanto) / Os acidentes, no entanto, aeroviários provocam grande número de vítimas. Interpretação de Textos Provas: FGV - 2025 - TCE-PE - Auditor de Controle Externo – Contas Públicas ... Interpretação de Textos , Sintaxe Provas: FGV - 2025 - TCE-PE - Auditor de Controle Externo – Contas Públicas ...</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: E.</strong> Fonte: FGV, TCE-PE, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa E como correta.</p>
+<p><strong>Por que a E deve ser marcada:</strong> Os acidentes aeroviários provocam grande número de vítimas (no entanto) / Os acidentes, no entanto, aeroviários provocam grande número de vítimas. Interpretação de Textos Provas: FGV - 2025 - TCE-PE - Auditor de Controle Externo – Contas Públicas ... Interpretação de Textos , Sintaxe Provas: FGV - 2025 - TCE-PE - Auditor de Controle Externo – Contas Públicas ... — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="E">
+<p class="quiz-source">FGV - SEPLAN-SE, 2025</p>
+<p><strong>24. Segundo dados da organização Our World in Data, o Brasil lidera o ranking mundial de prevalência de transtornos de ansiedade. A esse respeito, leia o depoimento do psicólogo Alexandre Amaral a seguir. Eu não considero a ansiedade um sintoma psiquiátrico. Considerar a ansiedade como um sintoma psiquiátrico é patologizar e medicalizar um sintoma que, para mim, hoje é cultural. Nós estamos vivendo uma vida de múltiplas pressões de desempenho, uma cultura cada vez mais competitiva e comparativa das trajetórias individuais. Desde o tipo da casa, de carreira, de trajetória pessoal, de humor, se está bem-humorado o tempo inteiro ou não, se performa na rede social. É um mundo que pressiona e faz a pessoa chegar no final do dia com a sensação de derrota. Adaptado de https://apublica.org/2025/04/a-goteira-que-cai-no-baldeate-transbordar-as-raizes-sociais-da-ansiedade-no- brasil/#_ Com base no trecho, é correto afirmar que, na perspectiva do autor, a ansiedade é</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-24" value="A"> A. um problema individual com causas neuroquímicas, genéticas, cognitivas ou traumáticas.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-24" value="B"> B. um fator químico que desestrutura o funcionamento psicológico e desregula a cognição e a dimensão emocional.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-24" value="C"> C. uma resposta coletiva ao modo de vida moderno, que promove a secularização e responsabiliza o sujeito por todos os fracassos.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-24" value="D"> D. um estado emocional cujo tratamento consiste em controlar os sintomas mediante antidepressivos e terapias estruturadas.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-24" value="E"> E. um fenômeno psicológico que reflete o mal-estar gerado pelas exigências da cultura contemporânea, como a aceleração do tempo e a idealização constante da performance.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: E.</strong> Fonte: FGV, SEPLAN-SE, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa E como correta.</p>
+<p><strong>Por que a E deve ser marcada:</strong> um fenômeno psicológico que reflete o mal-estar gerado pelas exigências da cultura contemporânea, como a aceleração do tempo e a idealização constante da performance. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">FGV - TRT - 24ª REGIÃO (MS), 2025</p>
+<p><strong>25. Assinale a frase que deve apresentar uma vírgula.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-25" value="A"> A. A estrada do excesso conduz ao palácio da sabedoria.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-25" value="B"> B. A moderação é sempre a tática preferível.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-25" value="C"> C. Ao homem sábio são mais úteis os seus inimigos do que ao tolo os seus amigos.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-25" value="D"> D. Em geral na natureza humana existe mais tolice do que sabedoria.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-25" value="E"> E. Um homem sábio viverá tanto nos limites da própria presença de espírito quanto nos da própria renda.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: FGV, TRT - 24ª REGIÃO (MS), 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa D como correta.</p>
+<p><strong>Por que a D deve ser marcada:</strong> Em geral na natureza humana existe mais tolice do que sabedoria. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">FGV - MPU, 2025</p>
+<p><strong>26. Observe a seguinte frase: “Ele ficou esgotado porque correu muito”. A maneira de reescrevê-la que modifica o seu sentido original é:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-26" value="A"> A. Se ele correu muito, ficou esgotado;</label>
+<label class="quiz-option"><input type="radio" name="real-port004-26" value="B"> B. Ele sentiu-se esgotado por ter corrido muito;</label>
+<label class="quiz-option"><input type="radio" name="real-port004-26" value="C"> C. Já que correu muito, sentiu-se esgotado; Interpretação de Textos Provas: FGV - 2025 - MPU - Analista do MPU - Perito em Contabilidade ... Interpretação de Textos Provas: FGV - 2025 - MPU - Analista do MPU - Perito em Contabilidade ... Interpretação de Textos , Sintaxe Provas: FGV - 2025 - MPU - Analista do MPU - Perito em Contabilidade ...</label>
+<label class="quiz-option"><input type="radio" name="real-port004-26" value="D"> D. Porque correu muito, ficou esgotado;</label>
+<label class="quiz-option"><input type="radio" name="real-port004-26" value="E"> E. Seu esgotamento ocorreu por ter corrido muito.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: FGV, MPU, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa A como correta.</p>
+<p><strong>Por que a A deve ser marcada:</strong> Se ele correu muito, ficou esgotado; — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">FGV - MinC, 2024</p>
+<p><strong>27. Assinale a alternativa que apresenta um uso facultativo da vírgula.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-27" value="A"> A. Ontem, todos os aeroportos ainda estavam fechados por conta do temporal.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-27" value="B"> B. É preciso apontar, sem dúvidas, os equívocos na formação dos candidatos.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-27" value="C"> C. A escola funciona nos dias de semana até às 22 horas. Nos sábados, até às 11.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-27" value="D"> D. Devemos cuidar do corpo, mas sem descuidar do espírito.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-27" value="E"> E. Considerando o nível de poluição mundial, deve-se reduzir o consumo de plásticos. Interpretação de Textos , Noções Gerais de Compreensão e Interpretação de Texto</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: FGV, MinC, 2024. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa A como correta.</p>
+<p><strong>Por que a A deve ser marcada:</strong> Ontem, todos os aeroportos ainda estavam fechados por conta do temporal. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - Prefeitura de Canaã dos Carajás - PA, 2025</p>
+<p><strong>28. Assinale a frase que manifesta o discurso indireto. Termos integrantes da oração: predicativo do sujeito e predicativo do objeto Interpretação de Textos , Coesão e coerência Provas: FGV - 2025 - Prefeitura de Canaã dos Carajás - PA - Professor de Língua Portuguesa ... Provas: FGV - 2025 - Prefeitura de Canaã dos Carajás - PA - Professor de Língua Portuguesa ...</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-28" value="A"> A. Eu devia ter mais paciência com ela.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-28" value="B"> B. O livreiro me disse que eu o acharia apaixonante.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-28" value="C"> C. Minha irmã tentou perturbar a minha leitura, mas eu a enxotei.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-28" value="D"> D. Eu comecei a ler o livro no primeiro momento de tranquilidade.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-28" value="E"> E. O livro que comprei na semana passada é um romance de ficção científica.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, Prefeitura de Canaã dos Carajás - PA, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa B como correta.</p>
+<p><strong>Por que a B deve ser marcada:</strong> O livreiro me disse que eu o acharia apaixonante. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="E">
+<p class="quiz-source">FGV - Prefeitura de Canaã dos Carajás - PA, 2025</p>
+<p><strong>29. Assinale a frase que apresenta pontuação adequada.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-29" value="A"> A. Rico não é quem mais tem! É quem menos precisa.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-29" value="B"> B. Pobre é o povo, que não se abaixa, para levantar uma moeda do chão.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-29" value="C"> C. Como a maior parte dos ricos: o principal uso da riqueza consiste na exibição da riqueza.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-29" value="D"> D. É mais fácil um camelo entrar pelo buraco de uma agulha do que um rico entrar, no reino de Deus.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-29" value="E"> E. A situação tá tão feia, minha grana tão escassa, que o vizinho faz churrasco e eu passo o pão na fumaça.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: E.</strong> Fonte: FGV, Prefeitura de Canaã dos Carajás - PA, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa E como correta.</p>
+<p><strong>Por que a E deve ser marcada:</strong> A situação tá tão feia, minha grana tão escassa, que o vizinho faz churrasco e eu passo o pão na fumaça. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - EBSERH, 2025</p>
+<p><strong>30. Atenção. O Texto 3 a seguir refere-se à próxima questão. A personalização dos cuidados médicos é um desafio, mas também uma perspectiva promissora. Cada indivíduo é único, com características genéticas, histórico médico e estilo de vida distintos, e a Medicina está se movendo em direção a uma abordagem mais personalizada. Isso caminha lado a lado com a Medicina humanizada e a compreensão de que os pacientes não são doenças a serem tratadas, mas sim indivíduos com particularidades e estilos de vida que os levam a ter necessidades também variadas. No entanto, a implementação prática dessa abordagem requer o acesso a tecnologias avançadas de diagnóstico, uma melhor compreensão dos fatores genéticos e ambientais e a capacidade de adaptar os tratamentos de acordo com as necessidades individuais. As frases a seguir mostram um termo sublinhado que se refere a um termo anterior (coesão). Assinale a frase em que esse termo sublinhado se refere a um termo posterior.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-30" value="A"> A. Grande parte da saúde consiste em desejá-la em todos os momentos. Interpretação de Textos , Noções Gerais de Compreensão e Interpretação de Texto Provas: FGV - 2024 - EPE - Analista de Pesquisa Energética (Gás e Bioenergia - Bioenergia) ... Interpretação de Textos , Coesão e coerência Provas: FGV - 2025 - EBSERH - Grupo Clínica Médica ...</label>
+<label class="quiz-option"><input type="radio" name="real-port004-30" value="B"> B. Dar nome a uma doença é apressar-lhe os avanços.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-30" value="C"> C. A verdade é esta: todos mentem para todos.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-30" value="D"> D. A maioria dos homens morre de seus remédios.</label>
+<label class="quiz-option"><input type="radio" name="real-port004-30" value="E"> E. Você deve preparar a sua mente para o melhor da vida.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, EBSERH, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa C como correta.</p>
+<p><strong>Por que a C deve ser marcada:</strong> A verdade é esta: todos mentem para todos. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">FGV - PGM - RJ, 2025</p>
+<p><strong>31. As frases a seguir foram redigidas sem um elemento de ligação entre elas. Assinale a opção em que foi proposto um conectivo adequado.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-port004-31" value="A"> A. Passou meia hora sem poder entrar em casa; João pôde abrir a porta. / só então</label>
+<label class="quiz-option"><input type="radio" name="real-port004-31" value="B"> B. O goleiro estava bem colocado; a bola fez uma volta estranha e entrou no ângulo esquerdo. / enquanto</label>
+<label class="quiz-option"><input type="radio" name="real-port004-31" value="C"> C. Era um lugar esplêndido para pernoitar; havia telefone. / mas</label>
+<label class="quiz-option"><input type="radio" name="real-port004-31" value="D"> D. A empregada, ao limpar o escritório, remexeu nos meus papéis; não pude encontrar mais nada. / conquanto</label>
+<label class="quiz-option"><input type="radio" name="real-port004-31" value="E"> E. Aplique a injeção; você já é médico. / logo</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: FGV, PGM - RJ, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa A como correta.</p>
+<p><strong>Por que a A deve ser marcada:</strong> Passou meia hora sem poder entrar em casa; João pôde abrir a porta. / só então — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+</div>
+</div>

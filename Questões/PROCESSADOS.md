@@ -62,6 +62,12 @@ Convenção de status:
 | plataformas.pdf | pendente | tecnologia/002 ou 003 | |
 | 2.pdf–8.pdf, Questões_de_Provas_*.pdf | pendente | tecnologia/001-003 | |
 
+## Pasta: questoesbiologia/ e questoesportugues/
+
+Pastas adicionadas em 09/08/2026 (17 PDFs de Biologia, 18 de Português). Processadas na mesma rodada de importação em massa, via parser estruturado (`all_questions2.json`, formato "Ano:/Banca:/Órgão:" + bloco "Respostas" do qconcursos). 288 questões válidas de Biologia e 345 de Português, classificadas por tema via palavra-chave, deduplicadas contra o conteúdo já existente, gabarito extraído aceito como está.
+
+Adicionadas: biologia/001 +30, /002 +30, /003 +6 (66 no total); portugues/001 +30, /002 +4, /003 +18, /004 +17, /005 +30, /006 +29 (128 no total). Teto de 30 por tema aplicado nesta rodada — sobraram candidatas em quase todos os temas (especialmente português/001 com 148 válidas e 118 ainda não usadas, e português/005 com 78 válidas e 48 ainda não usadas) para uma rodada futura.
+
 ## Pasta: Alfacon/
 
 Material de **revisão da AlfaCon** ("estilo FGV"), não são provas oficiais de banca.
