@@ -2,10 +2,15 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 13 questões (11 questões oficiais FGV com fonte e gabarito conferidos + 2 questões autorais no padrão FGV).
+**Itens neste banco:** 20 questões (11 questões oficiais FGV com fonte e gabarito conferidos + 2 questões autorais no padrão FGV + 7 questões reais de bancas diversas, com fonte e gabarito oficial extraídos de banco de questões qconcursos).
 
 ## Fontes reais usadas neste banco
 
+- FGV, PC-AM, 2022. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, PC-PI, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, PC-SC, 2024. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- Fundação FAPEC, PC-MS, 2021. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- IBADE, PC-BA, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, PCMG 2024, Perito Criminal Área I, Tipo 1. Gabarito definitivo publicado pela FGV.
 - FGV, PC-PI, 2026. Questões localizadas em banco de questões (qconcursos), com gabarito oficial da banca.
 
@@ -338,3 +343,185 @@
 
 - Buscar questão real sobre local de crime mediato/imediato/relacionado, ou sobre laudo pericial.
 - Adicionar questões reais de PCRJ, PCRN e PCPI assim que os cadernos forem localizados e o gabarito conferido.
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">FGV - PC-PI, 2026</p>
+<p><strong>14. Em uma investigação sobre falha de eixo em máquina industrial, duas amostras do mesmo vestígio metálico foram acondicionadas em embalagens plásticas vedadas. Ao chegarem ao laboratório, apresentaram sinais de oxidação, resultando em divergências na composição química superficial. Essa condição de acondicionamento, para o perito, antes de validar o laudo,</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-005-14" value="A"> A. Afeta a análise, por alterar a superfície e comprometer o vestígio.</label>
+<label class="quiz-option"><input type="radio" name="real-005-14" value="B"> B. Pode ser corrigida com nova coleta, desde que autorizada formalmente.</label>
+<label class="quiz-option"><input type="radio" name="real-005-14" value="C"> C. É irrelevante, pois a oxidação superficial não compromete a análise técnica.</label>
+<label class="quiz-option"><input type="radio" name="real-005-14" value="D"> D. Não configura falha grave se o transporte for rápido e documentado.</label>
+<label class="quiz-option"><input type="radio" name="real-005-14" value="E"> E. É tolerável em perícias preliminares, com justificativa no laudo. Vestígios de Interesse Forense Vestígios de Interesse Forense Vestígios de Interesse Forense Locais de Crime , Vestígios de Interesse Forense</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: FGV, PC-PI, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o texto/doutrina pertinente; a banca aponta a alternativa A como correta.</p>
+<p><strong>Por que a A deve ser marcada:</strong> Afeta a análise, por alterar a superfície e comprometer o vestígio. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - PC-PI, 2026</p>
+<p><strong>15. Após uma invasão generalizada em uma empresa, um perito precisa classificar corretamente os tipos de fontes de vestígio encontrado no local digital do crime para poder utilizar as ferramentas apropriadas de análise. 1. Volátil 2. Não Volátil 3. Fisicos 4. De Rede Associe corretamente o tipo de vestígio digital ao seu exemplo.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-005-15" value="A"> A. (1) Arquivos no HD / (2) RAM / (3) Pacotes TCP / (4) BIOS</label>
+<label class="quiz-option"><input type="radio" name="real-005-15" value="B"> B. (1) Conteúdo da RAM / (2) Arquivos em disco / (3) Universal Serial Bus(USB) / (4) Pacotes TCP</label>
+<label class="quiz-option"><input type="radio" name="real-005-15" value="C"> C. (1) CD-ROM / (2) Registro do Windows / (3) Pacotes / (4) RAM</label>
+<label class="quiz-option"><input type="radio" name="real-005-15" value="D"> D. (1) Hashes SHA-256 / (2) Interface USB / (3) DNS / (4) Documentos Word</label>
+<label class="quiz-option"><input type="radio" name="real-005-15" value="E"> E. (1) Registro do Windows / (2) Conteúdo da RAM / (3) Pacotes TCP / (4) Arquivos em disco</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, PC-PI, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o texto/doutrina pertinente; a banca aponta a alternativa B como correta.</p>
+<p><strong>Por que a B deve ser marcada:</strong> (1) Conteúdo da RAM / (2) Arquivos em disco / (3) Universal Serial Bus(USB) / (4) Pacotes TCP — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="E">
+<p class="quiz-source">IBADE - PC-BA, 2025</p>
+<p><strong>16. Em relação a evidências e lesões produzidas no corpo de uma vítima em um local de crime contra a pessoa, assinale a alternativa INCORRETA.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-005-16" value="A"> A. A reação vital observada no corpo de uma vítima pode determinar a ordem em que as lesões foram produzidas.</label>
+<label class="quiz-option"><input type="radio" name="real-005-16" value="B"> B. A rigidez cadavérica se inicia a partir dos músculos mandibulares e do pescoço.</label>
+<label class="quiz-option"><input type="radio" name="real-005-16" value="C"> C. Um instrumento lácerocontundente produz contusão e esmagamento do tecido do corpo da vítima.</label>
+<label class="quiz-option"><input type="radio" name="real-005-16" value="D"> D. Instrumentos perfurocortantes podem produzir lesões incisas ou perfuroincisas.</label>
+<label class="quiz-option"><input type="radio" name="real-005-16" value="E"> E. Em casos suspeitos de enforcamento, quando os pés da vítima estão apoiados no solo, pode-se considerar um sinal inequívoco de simulação de suicídio.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: E.</strong> Fonte: IBADE, PC-BA, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o texto/doutrina pertinente; a banca aponta a alternativa E como correta.</p>
+<p><strong>Por que a E deve ser marcada:</strong> Em casos suspeitos de enforcamento, quando os pés da vítima estão apoiados no solo, pode-se considerar um sinal inequívoco de simulação de suicídio. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">Fundação FAPEC - PC-MS, 2021</p>
+<p><strong>17. O Delegado de Polícia titular da Delegacia de Costa Rica – MS, ao chegar em um local de crime, deparou-se com dois cadáveres: o primeiro apresentava estigmas ungueais em torno do pescoço, palidez da face, máscara equimótica e sufusões homorrágicas nas conjuntivas. O segundo cadáver apresentava sulcos duplos transversais ao eixo do pescoço, com profundidade constante, máscara equimótica e sufusões hemorrágicas nas conjuntivas. Na situação descrita, os tipos de mortes mais prováveis são, respectivamente:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-005-17" value="A"> A. asfixias por enforcamento e por estrangulamento.</label>
+<label class="quiz-option"><input type="radio" name="real-005-17" value="B"> B. asfixias por esganadura e por estrangulamento.</label>
+<label class="quiz-option"><input type="radio" name="real-005-17" value="C"> C. asfixias por esganadura e por enforcamento.</label>
+<label class="quiz-option"><input type="radio" name="real-005-17" value="D"> D. asfixias por estrangulamento e por esganadura.</label>
+<label class="quiz-option"><input type="radio" name="real-005-17" value="E"> E. asfixias por estrangulamento e por enforcamento.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: Fundação FAPEC, PC-MS, 2021. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o texto/doutrina pertinente; a banca aponta a alternativa B como correta.</p>
+<p><strong>Por que a B deve ser marcada:</strong> asfixias por esganadura e por estrangulamento. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - PC-SC, 2024</p>
+<p><strong>18. Acerca da cronotanatognose e dos fenômenos cadavéricos, é correto afirmar que</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-005-18" value="A"> A. por ocasião da sua presença num local de crime, o Delegado de Polícia possui plenas condições de distinguir se uma lesão foi praticada em vida ou após a morte, durante o período de Tourdes.</label>
+<label class="quiz-option"><input type="radio" name="real-005-18" value="B"> B. os sinais abióticos de morte podem ser divididos em imediatos e tardios/consecutivos, podendo ser mencionados, como exemplos, a perda de consciência e o resfriamento cadavérico, respectivamente.</label>
+<label class="quiz-option"><input type="radio" name="real-005-18" value="C"> C. a autólise é um fenômeno cadavérico consecutivo que representa a tendência do cadáver em equilibrar sua temperatura com a do ambiente à sua volta.</label>
+<label class="quiz-option"><input type="radio" name="real-005-18" value="D"> D. a evaporação tegumentar é um fenômeno cadavérico transformativo destrutivo posicionado entre as fases de coloração e enfisematosa da putrefação.</label>
+<label class="quiz-option"><input type="radio" name="real-005-18" value="E"> E. a maceração séptica se difere da asséptica, pois enquanto na primeira não há líquido contaminado, com ausência de putrefação, na segunda o líquido contaminado permite a decomposição do cadáver. Tanatologia Forense Tanatologia Forense Tanatologia Forense Resumo relacionado Tanatologia Forense: conceitos essenciais para concursos públicos Tanatologia Forense é o ramo da Medicina Legal dedicado ao estudo da morte sob seus aspectos médicos, legais e sociais. Para concursos públicos, compreender os fundamentos da Tanatologia Forense é crucial, pois ela auxilia a esclarecer causas da morte, estimar o moment…</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, PC-SC, 2024. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o texto/doutrina pertinente; a banca aponta a alternativa B como correta.</p>
+<p><strong>Por que a B deve ser marcada:</strong> os sinais abióticos de morte podem ser divididos em imediatos e tardios/consecutivos, podendo ser mencionados, como exemplos, a perda de consciência e o resfriamento cadavérico, respectivamente. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">FGV - PC-SC, 2024</p>
+<p><strong>19. No dia 04/11/2023, Adelaide procurou a Delegacia da Mulher da Cidade de Xanxerê para registrar ocorrência de lesão corporal praticada no contexto de violência doméstica e familiar contra a mulher, haja vista que parte do seu dedo indicador da mão direita foi necrosada em virtude de uma agressão praticada por Jonas, seu companheiro. Por ocasião de seu atendimento, foi encaminhada para o Instituto Médico-Legal (IML) que abrange a região, para a realização dos Agentes Vulnerantes Físicos Mecânicos , Traumatologia Forense Traumatologia Forense Agentes Vulnerantes Físicos Mecânicos , Traumatologia Forense , Energias Vulnerantes Físicas e não mecânica Perícia , Traumatologia Forense procedimentos periciais pertinentes. Nesse sentido, levando-se em consideração a atuação do perito nos diversos ramos do Direito, bem como a manifestação daqueles através dos documentos médico-legais, é correto afirmar que</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-005-19" value="A"> A. a perícia a ser realizada no IML é o exame de corpo de delito, através do perito médico-legista, que irá detalhar as lesões existentes mediante descrição objetiva, cujo resultado será materializado por meio do relatório médico-legal.</label>
+<label class="quiz-option"><input type="radio" name="real-005-19" value="B"> B. Adelaide deverá procurar o papiloscopista no Instituto Geral de Perícias de Santa Catarina, de modo a comprovar a necrose do dedo indicador da mão direita, cuja perícia gerará uma notificação compulsória ao Instituto Médico-Legal e servirá como exame de corpo de delito a ser juntado no inquérito policial.</label>
+<label class="quiz-option"><input type="radio" name="real-005-19" value="C"> C. a perícia a ser realizada no IML é o exame de necropsia, em virtude da necrose no dedo indicador da mão direita de Adelaide, que deverá ser procedida por um perito criminal, sendo relatada num prontuário que servirá como exame de corpo de delito direto.</label>
+<label class="quiz-option"><input type="radio" name="real-005-19" value="D"> D. Adelaide deverá procurar o perito criminal no IML para que seja feito o exame pericial de local de crime, que deverá ser concentrado nas respectivas lesões da sua mão, cujas constatações deverão ser redigidas num parecer médico- legal a ser juntado no inquérito policial.</label>
+<label class="quiz-option"><input type="radio" name="real-005-19" value="E"> E. a perícia a ser realizada no Instituto Geral de Perícias é o exame de corpo de delito, que será feita pelo perito médico- legista de forma indireta, através de um prontuário, encaminhando o resultado ao IML que abrange a região de Xanxerê para que lá o resultado seja compilado de forma direta.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: FGV, PC-SC, 2024. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o texto/doutrina pertinente; a banca aponta a alternativa A como correta.</p>
+<p><strong>Por que a A deve ser marcada:</strong> a perícia a ser realizada no IML é o exame de corpo de delito, através do perito médico-legista, que irá detalhar as lesões existentes mediante descrição objetiva, cujo resultado será materializado por meio do relatório médico-legal. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - PC-AM, 2022</p>
+<p><strong>20. Sabemos que o corpo de delito é o conjunto de elementos denunciadores de um fato criminoso. Avalie se as seguintes afirmativas sobre o assunto são falsas (F) ou verdadeiras (V). ( ) O corpo de delito é o resultado de um delito e deve ser avaliado apenas quanto aos aspectos físicos e não psíquicos. ( ) O exame de corpo de delito é feito em qualquer corpo em que haja vestígio de um crime. ( ) Infrações penais não transeuntes são as que deixam vestígios ( ) De acordo com o CPP, Art. 158, quando a infração deixar vestígios torna-se indispensável o exame de corpo de delito, podendo supri-lo a confissão do acusado, ou seja, havendo réu confesso, o exame é dispensado. As afirmativas são respectivamente</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-005-20" value="A"> A. F – F – V – V.</label>
+<label class="quiz-option"><input type="radio" name="real-005-20" value="B"> B. F – V – V – F.</label>
+<label class="quiz-option"><input type="radio" name="real-005-20" value="C"> C. V – F – V – F</label>
+<label class="quiz-option"><input type="radio" name="real-005-20" value="D"> D. V – V – F – F.</label>
+<label class="quiz-option"><input type="radio" name="real-005-20" value="E"> E. V – F – V – F.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, PC-AM, 2022. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o texto/doutrina pertinente; a banca aponta a alternativa B como correta.</p>
+<p><strong>Por que a B deve ser marcada:</strong> F – V – V – F. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>

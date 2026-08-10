@@ -11,6 +11,8 @@ Convenção de status:
 
 ## Pasta: cienciasforenses/
 
+**Rodada de 09/08/2026 (importação em massa):** todos os arquivos desta pasta foram reprocessados de uma vez via `all_questions_dedup.json` (parser estruturado que já cobria a pasta inteira, banca/órgão/ano/gabarito extraídos automaticamente do texto). Cada questão candidata foi classificada por palavra-chave no tema mais aderente, deduplicada contra o conteúdo já existente e o gabarito extraído foi aceito como está (fonte + "gabarito oficial da banca" citados no card, sem re-derivação manual questão a questão — troca deliberada de rigor por volume, a pedido do usuário). Adicionadas 101 questões novas (qualquer banca, não só FGV): ciencias-forenses/001 +1, /002 +30, /003 +30, /004 +30, /005 +7, /007 +4. As tabelas de arquivo individuais abaixo refletem o estado *anterior* a essa rodada; ainda restam candidatas não usadas em cada arquivo (o parser extraiu 492 questões válidas do assunto, 390 ainda não entraram no banco) para uma futura rodada.
+
 | Arquivo | Status | Destino | Observação |
 |---|---|---|---|
 | antropologia.txt | usado | ciencias-forenses/001, 002 | 20 questões FGV (PC-PI, PC-MG, EBSERH, SEAD-AP, PC-AM), 12 aproveitadas |

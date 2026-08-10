@@ -22,13 +22,13 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Tecnologia | Segurança da informação, malware, phishing e backup | 10 | [Abrir](provas/tecnologia/004_seguranca-informacao-malware-phishing-backup.md) |
 | Tecnologia | Crimes digitais, evidências eletrônicas e OSINT | 11 | [Abrir](provas/tecnologia/005_crimes-digitais-evidencias-osint.md) |
 | Tecnologia | Legislação e ética digital | 9 | [Abrir](provas/tecnologia/006_legislacao-etica-digital.md) |
-| Ciências Forenses | Medicina legal, identificação humana e papiloscopia | 7 | [Abrir](provas/ciencias-forenses/001_medicina-legal-identificacao-papiloscopia.md) |
-| Ciências Forenses | Antropologia, odontologia legal, DNA, reconhecimento facial e IA | 9 | [Abrir](provas/ciencias-forenses/002_antropologia-odontologia-dna-reconhecimento-facial-ia.md) |
-| Ciências Forenses | Sexologia, traumatologia, asfixiologia e balística | 11 | [Abrir](provas/ciencias-forenses/003_sexologia-traumatologia-asfixiologia-balistica.md) |
-| Ciências Forenses | Tanatologia, necropsia, toxicologia e psicopatologia | 11 | [Abrir](provas/ciencias-forenses/004_tanatologia-necropsia-toxicologia-psicopatologia.md) |
-| Ciências Forenses | Criminalística, local de crime e cadeia de custódia | 13 | [Abrir](provas/ciencias-forenses/005_criminalistica-local-crime-cadeia-custodia.md) |
+| Ciências Forenses | Medicina legal, identificação humana e papiloscopia | 8 | [Abrir](provas/ciencias-forenses/001_medicina-legal-identificacao-papiloscopia.md) |
+| Ciências Forenses | Antropologia, odontologia legal, DNA, reconhecimento facial e IA | 39 | [Abrir](provas/ciencias-forenses/002_antropologia-odontologia-dna-reconhecimento-facial-ia.md) |
+| Ciências Forenses | Sexologia, traumatologia, asfixiologia e balística | 41 | [Abrir](provas/ciencias-forenses/003_sexologia-traumatologia-asfixiologia-balistica.md) |
+| Ciências Forenses | Tanatologia, necropsia, toxicologia e psicopatologia | 41 | [Abrir](provas/ciencias-forenses/004_tanatologia-necropsia-toxicologia-psicopatologia.md) |
+| Ciências Forenses | Criminalística, local de crime e cadeia de custódia | 20 | [Abrir](provas/ciencias-forenses/005_criminalistica-local-crime-cadeia-custodia.md) |
 | Ciências Forenses | Documentoscopia, grafoscopia e falsificações | 2 | [Abrir](provas/ciencias-forenses/006_documentoscopia-grafoscopia-falsificacoes.md) |
-| Ciências Forenses | Criminologia, vitimologia e controle social | 2 | [Abrir](provas/ciencias-forenses/007_criminologia-vitimologia-controle-social.md) |
+| Ciências Forenses | Criminologia, vitimologia e controle social | 6 | [Abrir](provas/ciencias-forenses/007_criminologia-vitimologia-controle-social.md) |
 | Ciências Forenses | Criminologia digital e investigação tecnológica | 3 | [Abrir](provas/ciencias-forenses/008_criminologia-digital-investigacao-tecnologica.md) |
 | Biologia | Citologia | 6 | [Abrir](provas/biologia/001_citologia.md) |
 | Biologia | Genética | 10 | [Abrir](provas/biologia/002_genetica.md) |
@@ -65,7 +65,7 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Direitos Humanos | Teoria, sistemas de proteção e democracia | 10 | [Abrir](provas/direitos-humanos/001_teoria-sistemas-protecao-democracia.md) |
 | Direitos Humanos | Grupos vulneráveis, segurança pública e atuação policial | 10 | [Abrir](provas/direitos-humanos/002_grupos-vulneraveis-atuacao-policial.md) |
 | Direitos Humanos | PNDH, educação em direitos humanos e Agenda 2030 | 7 | [Abrir](provas/direitos-humanos/003_pndh-educacao-agenda-2030.md) |
-| **Total** | **61 temas cobertos** | **409** | — |
+| **Total** | **61 temas cobertos** | **511** | — |
 
 ## Critério de conversão
 

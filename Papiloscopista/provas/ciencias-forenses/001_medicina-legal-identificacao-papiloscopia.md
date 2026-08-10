@@ -2,7 +2,7 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 7 questões (5 questões oficiais FGV com fonte e gabarito conferidos + 2 questões autorais no padrão FGV).
+**Itens neste banco:** 8 questões (5 questões oficiais FGV com fonte e gabarito conferidos + 2 questões autorais no padrão FGV + 1 questões reais de bancas diversas, com fonte e gabarito oficial extraídos de banco de questões qconcursos).
 
 ## Foco FGV
 
@@ -14,6 +14,7 @@ Estas questões são autorais e calibradas pelo padrão observado em provas FGV 
 
 ## Fontes reais usadas neste banco
 
+- FGV, PC-PI, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, PC-PI, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, PC-MG, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, PC-AM, 2022. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
@@ -198,3 +199,29 @@ Estas questões são autorais e calibradas pelo padrão observado em provas FGV 
 ## Próxima ampliação
 
 - Adicionar questões semelhantes de PF/Cebraspe, AOCP e IBFC apenas quando preencherem lacuna técnica do tema.
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - PC-PI, 2026</p>
+<p><strong>8. Durante a investigação de um cadáver, sem documentação, encontrado próximo a uma lagoa da cidade de Springfield do Sul, o Instituto de Identificação é acionado para buscar correspondência no banco de dados nacional de impressões digitais. Esse procedimento demonstra a aplicação da dactiloscopia na. Assinale a opção correta.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-001-8" value="A"> A. Antropometria forense</label>
+<label class="quiz-option"><input type="radio" name="real-001-8" value="B"> B. Grafotecnia</label>
+<label class="quiz-option"><input type="radio" name="real-001-8" value="C"> C. Identificação civil e criminal</label>
+<label class="quiz-option"><input type="radio" name="real-001-8" value="D"> D. Datiloscopia genética</label>
+<label class="quiz-option"><input type="radio" name="real-001-8" value="E"> E. Hemotipagem forense</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, PC-PI, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o texto/doutrina pertinente; a banca aponta a alternativa C como correta.</p>
+<p><strong>Por que a C deve ser marcada:</strong> Identificação civil e criminal — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
