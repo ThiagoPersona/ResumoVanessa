@@ -1,4 +1,4 @@
-# Simulado Progressivo AlfaCon - Operação 05
+# Simulado 5 (AlfaCon)
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho deste simulado.
 
@@ -12,7 +12,7 @@
 ### Língua Portuguesa
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>1. FGV - 2026 - qAnalista Legislativo (ALERO) Assinale a opção em que há uma forma incorreta de plural.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-1" value="A"> A. Os xampus estrangeiros são melhores / os ás da palavra casa são, respectivamente, tônico e átono.</label>
@@ -23,7 +23,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> Todas as sextas-feiras há festa nos bares / Os guarda- municipais trabalham bastante. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -38,7 +38,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>2. FGV - 2026 - Consultor Legislativo (ALERO) As frases a seguir foram retiradas do livro Eurico, o Presbítero, de Alexandre Herculano. Assinale a frase que mostra um erro gráfico na palavra sublinhada.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-2" value="A"> A. “Assentado à sombra de uma rocha que formava um promontoriozinho do lado do sul, lancei os olhos em volta até onde se descobria o horizonte.”</label>
@@ -49,7 +49,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> “De Melária, aonde me escondi com grande número dos moradores de Carteia e dos seus arredores, continuarei as minhas correrias noturnas para as bandas do Calpe, com os homens mais ousados que quiserem acompanhar-me...” — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -64,7 +64,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>3. FGV - 2026 - Analista Legislativo (ALEGO) Entre as palavras sublinhadas nas frases abaixo, propositalmente grafadas sem acentos, aquela que deve ser pronunciada como paroxítona, é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-3" value="A"> A. A história do viúvo pudico, que se apaixona por uma prostituta com vocação para amante e, graças às armações do irmão invejoso, acaba traído pelo filho e pela amada, traz as marcas inconfundíveis do autor, que a definia como "uma obsessão em três atos". (FSP-01/11/2012)</label>
@@ -75,7 +75,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> A história do viúvo pudico, que se apaixona por uma prostituta com vocação para amante e, graças às armações do irmão invejoso, acaba traído pelo filho e pela amada, traz as marcas inconfundíveis do autor, que a definia como "uma obsessão em três atos". (FSP-01/11/2012) — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -90,7 +90,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>4. FGV - 2025 - Analista Técnico (Pref Nova Iguaçu) Assinale a opção gramaticalmente correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-4" value="A"> A. Os professores não aderiram à paralização.</label>
@@ -101,7 +101,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> Comeu bastantes salgadinhos na festa da prima. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -116,7 +116,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>5. FGV - 2026 - Juiz Leigo (TJ BA) Observe a charge a seguir. https://amarildocharge.wordpress.com/2011/04/07/ambucao-ou-rabelancia O termo “ambucão” aparece no lugar de “ambulância”, produzindo um efeito humorístico ao sugerir uma escolha entre dois tipos de atendimento. A formação dessa palavra contribui para o sentido do texto porque</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-5" value="A"> A. o acréscimo do sufixo aumentativo apresenta a ideia de um veículo maior que uma ambulância comum.</label>
@@ -127,7 +127,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> a junção de partes de duas palavras diferentes sugere que o veículo reúne características de ambulância e rabecão. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -142,7 +142,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>6. FGV - 2026 - Especialista Legislativo (ALERJ) Leia a frase a seguir. Perde-se o Brasil, Senhor (digamo-lo em uma palavra), porque alguns ministros de Sua Majestade não vêm cá buscar o nosso bem, vêm cá buscar nossos bens. Padre Antônio Vieira, Os Sermões. Ed. Lello &amp; Irmão. Sobre as palavras sublinhadas na frase, assinale a afirmativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-6" value="A"> A. As palavras sublinhadas são exemplos de classes gramaticais diferentes.</label>
@@ -153,7 +153,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> O substantivo abstrato, ao ser colocado no plural, torna-se concreto. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -168,7 +168,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>7. FGV - 2025 - Analista Legislativo (ALEAM) Observe a seguinte frase, retirada do romance Ressurreição, de Machado de Assis. “Ouviu bater uma por uma as horas todas”. Sobre a estruturação gramatical dessa frase é correto afirmar que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-7" value="A"> A. mostra um erro de concordância, pois o infinitivo “bater” deveria estar no plural.</label>
@@ -179,7 +179,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> as formas verbais “ouviu” e “bater” não formam locução verbal, cada uma delas com seu próprio sujeito. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -194,7 +194,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>8. FGV - 2026 - Técnico de Atividade Judiciária (TJ RJ) Todas as frases abaixo contêm pronomes relativos. A alternativa em que o emprego desse tipo de pronome está correto é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-8" value="A"> A. O policial mais alto, quem tinha o uniforme mais escuro, aproximou-se da janela do carro.</label>
@@ -205,7 +205,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> O artista a quem se entregou o prêmio ficou bastante emocionado. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -220,7 +220,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>9. FGV - 2025 - Soldado da Polícia Militar do Estado de São Paulo (PM SP) A subjetividade é particularmente expressa pelos pronomes de primeira pessoa. Assinale a frase em que outro pronome se encarrega da subjetividade, equivalente aos pronomes de primeira pessoa.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-9" value="A"> A. Na Idade Média, preferia-se o campo à cidade.</label>
@@ -231,7 +231,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> Afinal de contas, vai-se ao teatro ou não? — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -246,7 +246,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>10. FGV - 2025 - Auditor Público Interno (CGM Cuiabá) (Pref Cuiabá) A frase abaixo em que a preposição sublinhada tem valor semântico, não sendo exigida por nenhum termo anterior, é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-10" value="A"> A. Desconfiai sempre de afirmações alheias.</label>
@@ -257,7 +257,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> Alguém que tenha um milhão de euros sente-se tão bem como se fosse rico. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -272,7 +272,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>11. FGV - 2026 - Analista Legislativo (ALERO) A frase abaixo em que o termo adjetivo sublinhado foi adequadamente substituído por um adjetivo de sentido equivalente, é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-11" value="A"> A. “Uma morte honrosa pode glorificar uma vida sem nobreza.” (Cícero) / humilde.</label>
@@ -283,7 +283,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> “Uma morte honrosa pode glorificar uma vida sem nobreza.” (Cícero) / humilde. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -298,7 +298,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>12. FGV - 2026 - Professor II (Pref SJC) Assinale a frase em que o termo sublinhado não é omitido por elipse na continuidade do texto.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-12" value="A"> A. Quando tem alguma coisa de que eu não gosto, chamo para conversar e mostro como melhorar. Na terceira vez, eu demito.</label>
@@ -309,7 +309,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> O brasileiro detesta andar. Nossos compatriotas só andam a pé por prescrição médica. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -324,7 +324,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>13. FGV - 2026 - Analista Legislativo (ALEGO) O verbo agradecer é geralmente empregado com objeto direto de coisa e objeto indireto de pessoa. Assinale a frase abaixo em que esse verbo mostra uma regência diferente dessa.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-13" value="A"> A. As pessoas agradeciam-lhe a simpatia e o obséquio.</label>
@@ -335,7 +335,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> Os feirantes agradeceram os fregueses por todas as compras feitas. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -350,7 +350,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>14. FGV - 2025 - Professor (SEEC RN) Entre as frases abaixo, assinale aquela que mostra o acento grave indicativo da crase de forma correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-14" value="A"> A. Não leve a vida tão à sério. Você não conseguirá sair dela com vida.</label>
@@ -361,7 +361,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> O que é verdade à luz de uma lâmpada não é sempre verdade sob o sol. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -379,7 +379,7 @@
 ### Informática
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>15. FGV - 2025 - Servidor Público Federal (CNU) A figura a seguir mostra a percentagem de domicílios com acesso a computador e internet por região brasileira em 2023 (total de domicílios em %). (Fonte: Pesquisa sobre o uso das tecnologias de informação e comunicação nos domicílios brasileiros: TIC Domicílios 2023. São Paulo: Comitê Gestor da Internet no Brasil, 2024, p. 29) Considerando os fundamentos e os princípios que disciplinam o uso da rede mundial de computadores no Brasil previstos no Marco Civil da Internet, a análise dos dados da figura acima demonstra que:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-15" value="A"> A. a desigualdade regional de acesso contraria o princípio da liberdade de expressão, pois impede a livre manifestação dos cidadãos nas plataformas digitais;</label>
@@ -390,7 +390,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> a universalização do acesso e a redução das desigualdades regionais permanecem como desafios a serem superados, pois favorecem o pleno exercício da cidadania digital; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -405,7 +405,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>16. FGV - 2026 - Assistente Legislativo (ALERO) Durante uma sessão longa e de alta demanda na ALE-RO, o sistema de registro de votos e tramitação de emendas começa a ficar extremamente lento. O analista de TI, ao monitorar o sistema, observa que a memória física (RAM) está completamente utilizada. O sistema operacional então passa a usar um recurso para não travar completamente. O recurso técnico que o sistema operacional utiliza como extensão da memória RAM física, quando essa atinge sua capacidade máxima, armazenando dados temporariamente em um dispositivo de armazenamento secundário, é denominado</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-16" value="A"> A. Memória Cache L3.</label>
@@ -416,7 +416,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> Memória Virtual. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -431,7 +431,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>17. CEBRASPE (CESPE) - 2025 - Agente de Operações de Sistema de Saneamento (CAESB) O touchpad refere-se</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-17" value="A"> A. a um tipo de mouse que o usuário, em vez de mover o dispositivo, move uma esfera com os dedos para controlar o cursor na tela.</label>
@@ -442,7 +442,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> à parte sensível ao toque, localizada na parte inferior dos notebooks, que permite controlar o cursor na tela ao fazer movimentos com um ou mais dedos. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -457,7 +457,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>18. FGV - 2026 - Técnico em Desenvolvimento de Tecnologia Nuclear e Defesa (AMAZUL) Um técnico em edificações precisa organizar os arquivos digitais de um projeto executivo. Ele criou uma pasta chamada “Projeto Escola” e deseja armazenar nela as plantas e memoriais descritivos. No Windows 10, o procedimento que permite mover um arquivo de uma pasta para outra dentro do mesmo computador é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-18" value="A"> A. selecionar o arquivo e pressionar Ctrl + C.</label>
@@ -468,7 +468,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> selecionar o arquivo e pressionar Ctrl + X, depois Ctrl + V na pasta de destino. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -483,7 +483,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>19. FGV - 2026 - Técnico em Desenvolvimento de Tecnologia Nuclear e Defesa (AMAZUL) Durante a organização de arquivos em um computador com o sistema operacional Windows versão 11 BR, um usuário seleciona um arquivo, pressiona a combinação de teclas SHIFT+DELETE e confirma a ação solicitada pelo sistema. Em seguida, ele não encontra mais o arquivo no diretório onde estava e tenta entender o que ocorreu. Nessa situação, a ação executada pelo sistema foi</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-19" value="A"> A. bloquear o arquivo para edição.</label>
@@ -494,7 +494,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> excluir o arquivo permanentemente. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -509,7 +509,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>20. FGV - 2025 - Agente da Autoridade de Trânsito (Nittrans) Um estagiário da Nittrans precisa acessar o manual de procedimentos, que está disponível no endereço web https://www. nittrans.niteroi.rj.gov.br/manual.pdf. A esse respeito, é correto afirmar que a sentença “o endereço é um exemplo de URL, onde "https" especifica o protocolo de comunicação seguro e "www.nittrans.niteroi.rj.gov.br" é o nome do domínio que identifica exclusivamente o servidor onde o recurso ("manual.pdf") está hospedado” é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-20" value="A"> A. verdadeira, pois a estrutura apresentada descreve com precisão os componentes fundamentais de um endereço web Uniform Resource Locator (URL).</label>
@@ -520,7 +520,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> verdadeira, pois a estrutura apresentada descreve com precisão os componentes fundamentais de um endereço web Uniform Resource Locator (URL). — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -535,7 +535,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>21. FGV - 2025 - Analista em Gestão Municipal (Pref SJC) No Mozilla Firefox, a ferramenta "Inspetor" (acessível com Ctrl+Shift+C) é utilizada para</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-21" value="A"> A. gerenciar senhas salvas.</label>
@@ -546,7 +546,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> analisar e editar elementos HTML/CSS da página. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -561,7 +561,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>22. FGV - 2024 - Técnico Legislativo (CM SP) Conectar uma rede privada à Internet oferece um alto risco para a segurança, devido à possibilidade de ocorrer um acesso não autorizado. A solução pode ser fornecida por mecanismos de controle de acesso que tornam uma rede segura verificando, controlando e bloqueando acessos indesejáveis na rede. Estes mecanismos são fornecidos por equipamentos que combinam hardware e software denominados</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-22" value="A"> A. UPS.</label>
@@ -572,7 +572,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> Firewall. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -587,7 +587,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>23. FGV - 2024 - Técnico Legislativo (ALEP) Uma agência governamental, que lida com dados sensíveis e enfrenta ameaças constantes de ataques cibernéticos e acessos maliciosos, precisa implementar estratégias robustas de prevenção para proteger suas operações e dados. Ela também busca implementar uma abordagem holística de segurança, combinando tecnologia, processos e conscientização dos funcionários. Assinale a opção que retrata a hipótese adequada, com relação aos conceitos de prevenção e medidas de proteção e segurança.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-23" value="A"> A. A agência subestima a eficácia dos ataques de phishing, considerando-os óbvios e fáceis de identificar.</label>
@@ -598,7 +598,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> A agência prioriza a segurança física dos dispositivos e instalações para proteger dados sensíveis e utiliza criptografia tanto para dados em trânsito quanto armazenados. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -613,7 +613,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>24. FGV - 2025 - Agente (Pref Canaã Carajás) O sistema de arquivos do sistema operacional Windows 11 nomeia um arquivo por meio de duas partes. A primeira parte identifica o nome do arquivo e a segunda parte indica o tipo do arquivo mediante a extensão. Assinale a opção que indica a extensão mais usada para salvar um arquivo no programa Word.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-24" value="A"> A. .accdt</label>
@@ -624,7 +624,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> .docx — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -639,7 +639,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>25. CEBRASPE (CESPE) - 2026 - Professor da Educação Básica (SEED SE) Acerca das características fundamentais dos serviços de armazenamento em nuvem, assinale a opção correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-25" value="A"> A. O armazenamento em nuvem permite armazenar dados em servidores remotos acessados via Internet, com escalabilidade sob demanda e pagamento conforme o uso.</label>
@@ -650,7 +650,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> O armazenamento em nuvem permite armazenar dados em servidores remotos acessados via Internet, com escalabilidade sob demanda e pagamento conforme o uso. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -665,7 +665,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>26. FGV - 2026 - Técnico em Desenvolvimento de Tecnologia Nuclear e Defesa (AMAZUL) Durante um incidente, a equipe detecta um programa que se replica automaticamente explorando falhas em serviços de rede internos. O tipo de malware descrito por esse comportamento é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-26" value="A"> A. Worm.</label>
@@ -676,7 +676,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> Worm. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -691,7 +691,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>27. Scareware. ( ) Esse tipo de golpe abusa da curiosidade natural dos usuários para o convencer a se expor a um agressor. Tipicamente, o potencial de receber algo gratuito ou exclusivo é usado para manipular e explorar o usuário. O golpe normalmente consiste em infectar o dispositivo do usuário com malwares. Os métodos populares podem incluir desde Pen drives deixados em espaços públicos até anexos de e-mail incluindo detalhes sobre uma oferta gratuita ou software gratuito fraudulento. ( ) é o ato de seguir um membro autorizado da equipe em uma área de acesso restrito. Os agressores podem se aproveitar da cortesia social para fazer com que se segure a porta para conceder acesso físico ou convencimento de que eles também estão autorizados a estar na área. ( ) É uma forma de malware usada para assustar e fazer o usuário agir. Esse recurso enganador utiliza advertências alarmantes que relatam infecções falsas por malware ou afirmam que uma de suas contas foi comprometida. Esse ataque induz o usuário a comprar softwares fraudulentos de cibersegurança ou divulgar detalhes privados como suas credenciais de conta. ( ) Os golpistas desse tipo de ataque fingem ser uma instituição ou um indivíduo confiável na tentativa de persuadi-lo a expor dados pessoais e outros bens valiosos. Esse tipo de ataque pode ser generalizado dirigido a muitos usuários ou utilizar informações personalizadas para direcionar usuários específicos. Assinale a opção que indica a relação correta, segundo a ordem apresentada.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-27" value="A"> A. 1 – 4 – 3 – 2.</label>
@@ -702,7 +702,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> 2 – 3 – 4 – 1. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -717,7 +717,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>28. FGV - 2026 - Analista em Desenvolvimento de Tecnologia Nuclear e Defesa (AMAZUL) O Android passou por uma mudança significativa em seu ambiente de tempo de execução (runtime). Nas versões mais antigas (até o Android KitKat), a Dalvik Virtual Machine era utilizada para executar o bytecode dos aplicativos. A partir do Android Lollipop, um novo ambiente foi introduzido para substituir a Dalvik, oferecendo melhor desempenho e eficiência. O ambiente de tempo de execução que substituiu a Dalvik Virtual Machine no Android e a principal técnica de compilação que ele emprega são, respectivamente,</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-28" value="A"> A. Java Virtual Machine (JVM) e compilação Just-In-Time (JIT)</label>
@@ -728,7 +728,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> Android RunTime (ART) e compilação Ahead-Of-Time (AOT) — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -746,7 +746,7 @@
 ### Matemática
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>29. FGV - 2025 - Assistente Técnico em Saúde (Pref SJC) Um conjunto A possui 20 elementos e um conjunto B possui 15 elementos. O número de elementos da união dos conjuntos A e B é, no mínimo,</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-29" value="A"> A. 15.</label>
@@ -757,7 +757,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> 20. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -772,7 +772,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>30. FGV - 2025 - Técnico da Defensoria Pública (DPE RO) Jonas cria galinhas, todas poedeiras e com mesma produtividade. Sabe-se que 8 dessas galinhas produzem 8 ovos em 2 dias. O número de ovos que 12 dessas galinhas produzirão em 30 dias é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-30" value="A"> A. 60.</label>
@@ -783,7 +783,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> 180. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -798,7 +798,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>31. FGV - 2026 - Agente de Pesquisas e Mapeamento (IBGE) O gráfico apresenta o número total de domicílios no Brasil, nos anos de 2010 e 2022. NÚMERO DE DOMICÍLIOS (TOTAL) (Disponível em: https://oglobo.globo.com/economia/noticia/2023/06/resultados-do-censo-2022-do- ibge-surpreendem-especialistas-confira-dados.ghtml. Adaptado) O aumento percentual do número total de domicílios, de 2010 para 2022, é mais próximo de</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-31" value="A"> A. 23%.</label>
@@ -809,7 +809,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> 34%. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -824,7 +824,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>32. FGV - 2025 - Soldado da Polícia Militar do Estado de São Paulo (PM SP) A tabela abaixo mostra alguns dados de estatística criminal do Estado de São Paulo, comparando os números de 2023 com os de 2024. Fonte: Dados da Secretaria de Segurança Pública do Estado de SP com valores ligeiramente arredondados para facilitar os cálculos. Acesso em 16/12/2024. A linha da tabela que mostra o maior crescimento percentual de 2023 para 2024 foi a de</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-32" value="A"> A. Nº de homicídios culposos por acidente de trânsito.</label>
@@ -835,7 +835,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> Nº de armas de fogo apreendidas. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -850,7 +850,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>33. FGV - 2026 - Técnico em Desenvolvimento de Tecnologia Nuclear e Defesa (AMAZUL) Um operador precisa executar 5 procedimentos, A, B, C, D e E, um por vez, em sequência, mas ainda não decidiu a ordem que seguirá. Ele já sabe, todavia, que não começará pelo procedimento C. O número total de sequências dos cinco procedimentos, que atendem a restrição determinada pelo operador, é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-33" value="A"> A. 120</label>
@@ -861,7 +861,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> 96 — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -879,7 +879,7 @@
 ### Direito Constitucional
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>34. FGV - 2025 - Analista Legislativo (ALEAM) Assinale a afirmativa que apresenta corretamente um princípio que rege a República Federativa do Brasil nas suas relações internacionais.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-34" value="A"> A. Independência nacional e prevalência dos interesses do país na condução de sua política externa.</label>
@@ -890,7 +890,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> Independência nacional e prevalência dos interesses do país na condução de sua política externa. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -905,7 +905,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>35. FGV - 2025 - Aluno-Oficial (PM SP) Ao passar por determinada localidade, João, policial militar, constatou que se encontrava no interior de uma residência, debruçado sobre o peitoril da janela frontal, a mesma pessoa do sexo masculino que ele tinha perseguido uma semana antes, em razão da prática de crime de furto contra pedestre. Na situação descrita, é correto afirmar que João</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-35" value="A"> A. pode ingressar na residência, sem o consentimento do morador, para prender a referida pessoa.</label>
@@ -916,7 +916,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> somente pode ingressar na residência, sem o consentimento do morador, durante o dia, por determinação judicial. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -931,7 +931,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>36. FGV - 2025 - Profissional Temporário (IPHAN) Carlos, empresário maior e capaz, em dia com seus direitos políticos, tomou ciência de que o Estado Alfa editou ato administrativo ilegal e lesivo ao patrimônio histórico e cultural brasileiro. Nesse cenário, Carlos buscou informações, junto a amigos advogados, sobre o caminho que poderia seguir para pleitear, em juízo, a anulação do ato editado. Considerando as disposições da Constituição da República, é correto afirmar que Carlos deverá ingressar em Juízo com um (a)</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-36" value="A"> A. mandado de injunção.</label>
@@ -942,7 +942,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> ação popular. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -957,7 +957,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>37. FGV - 2026 - Magistratura (ENAM) Os irmãos Jéssica, Rodrigo e Manuela trabalham em uma determinada sociedade empresária. Jéssica tem 17 anos de idade e trabalha como assistente administrativo; Rodrigo tem 16 anos de idade e trabalha como auxiliar de almoxarife; já Manuela tem 14 anos de idade e trabalha como aprendiz na área de Recursos Humanos. Todos os irmãos trabalham de segunda a sexta-feira, das 10 às 17 horas, com pausa alimentar de uma hora. Considerando esses fatos e a previsão contida na Constituição Federal, assinale a afirmativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-37" value="A"> A. Manuela não poderia trabalhar, porque tem idade inferior a 16 anos.</label>
@@ -968,7 +968,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> Os contratos dos irmãos estão de acordo com a Constituição Federal. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -983,7 +983,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>38. FGV - 2026 - Juiz Estadual (TJ PR) Ana nasceu no território turco quando seus pais, brasileiros naturalizados, trabalhavam na embaixada alemã. Foi regularmente registrada perante o registro civil turco, de modo a facilitar a fruição de direitos civis, e, ao completar dezoito anos de idade, passou a residir no território brasileiro, tendo planos de exercer uma atividade laborativa somente permitida aos brasileiros. Considerando as informações fornecidas, é correto afirmar que Ana é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-38" value="A"> A. brasileira nata.</label>
@@ -994,7 +994,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> estrangeira, mas será considerada brasileira nata caso opte pela nacionalidade brasileira a qualquer tempo. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1009,7 +1009,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>39. FGV - 2026 - Assistente Legislativo (ALERO) Os princípios que regem a Administração Pública têm por finalidade orientar a atuação do agente público no exercício de suas funções. Nesse contexto, parte desses princípios encontra-se expressamente prevista na Constituição Federal de 1988, enquanto outros foram identificados pela doutrina e pela jurisprudência como princípios implícitos, extraídos da interpretação jurídica do texto constitucional. Com base nesse entendimento, um princípio expressamente previsto na Constituição Federal é a</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-39" value="A"> A. razoabilidade.</label>
@@ -1020,7 +1020,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> moralidade. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1035,7 +1035,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>40. FGV - 2024 - Oficial Policial Militar (PM RJ) João, agente público, realiza fiscalização de rotina em diversos estabelecimentos comerciais, apreendendo dezenas de quilos de alimentos vencidos, inclusive em um restaurante muito famoso no município do Rio de Janeiro. Ao final do dia, João concede uma entrevista a um grande veículo de comunicação, afirmando que a atuação do Poder Público visou à proteção do interesse público primário. Segundo os entendimentos doutrinário e jurisprudencial dominantes, é correto afirmar que o atendimento do interesse público consiste no(na):</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-40" value="A"> A. motivação do ato administrativo;</label>
@@ -1046,7 +1046,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> finalidade do ato administrativo; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1061,7 +1061,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>41. FGV - 2024 - Técnico Judiciário Auxiliar (TJ SC) Após o devido processo administrativo, foi regularmente aplicada a penalidade de demissão ao servidor público Euzébio, em decorrência da prática de falta funcional grave, para a qual estava prevista a aludida sanção. Considerando os poderes administrativos, a situação narrada corresponde à manifestação do:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-41" value="A"> A. poder normativo;</label>
@@ -1072,7 +1072,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> poder disciplinar; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1087,7 +1087,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>42. FGV - 2025 - Técnico do Ministério Público da União (MPU) Fiscais do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) receberam notícia, devidamente circunstanciada, de que João, naquele momento, estava ateando fogo e provocando incêndio no interior de sua propriedade rural e, assim, destruindo e danificando floresta, vegetação nativa e espécies nativas plantadas, objeto de especial preservação, sem qualquer autorização ou licença da autoridade ambiental competente, fato que, como se sabe, constitui infração administrativa ambiental. Ao comparecerem ao local, os fiscais comprovaram a veracidade da denúncia e adotaram as providências cabíveis. O Ibama instaurou auto de infração e aplicou a sanção administrativa de multa prevista na legislação de regência, em desfavor de João, sem prejuízo das medidas regularmente adotadas na esfera ambiental. De acordo com a doutrina de Direito Administrativo, a regular aplicação da sanção administrativa de multa pelo Ibama a João decorreu diretamente do poder administrativo:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-42" value="A"> A. de polícia;</label>
@@ -1098,7 +1098,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> de polícia; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -1113,7 +1113,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>43. FGV - 2024 - Contador (Pref Nova Iguaçu) O Governador do Estado Alfa convidou, para uma reunião, representantes de uma autarquia, de uma empresa pública e de uma fundação estatal de direito privado. Nesse cenário, considerando o entendimento doutrinário e jurisprudencial dominante, é correto afirmar que a</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-43" value="A"> A. autarquia e a empresa pública são entidades integrantes da Administração Pública Direta. Por sua vez, a fundação estatal de direito privado faz parte da Administração Pública Indireta.</label>
@@ -1124,7 +1124,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> autarquia, a empresa pública e a fundação estatal de direito privado são entidades integrantes da Administração Pública Indireta. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1142,7 +1142,7 @@
 ### Direito Penal
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>44. FGV - 2021 - Defensor Público do Estado do Rio de Janeiro (DPE RJ) “O recrudescimento cautelar do sistema de controle brasileiro refletiu os objetivos reais e ideais de um país racista que tinha como problema maior a questão negra, calcada em termos genocidas como condição de sobrevivência da sua falsa branquidade. Contexto que impôs uma cisão em nosso Direito Penal: ao lado do Direito Penal declarado para os cidadãos, alicerçado no Direito Penal do fato construído às luzes do Classicismo, o Direito Penal paralelo para os “subcidadãos”, legitimado no Direito Penal do autor consolidado pela tradução marginal do paradigma racial-etiológico, que, por sua vez, situa seu fundamento na periculosidade que exala dos corpos negros, um sistema outrora identificado por Lola Aniyar de Castro (2005, p. 96) como “subterrâneo” que aqui jamais se ocultou, sendo operacionado sob os olhos de quem quiser enxergar.” (GÓES, Luciano. Abolicionismo penal? Mas qual abolicionismo, “cara pálida”?. Revista InSURgência. Brasília. Ano 3. v.3. n.2. 2017. Pg. 98). Considerando a afirmativa acima, é possível compreender o fenômeno do encarceramento em massa no Brasil, sob o ponto de vista empírico e teórico, a partir da correlação entre:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-44" value="A"> A. o racismo individualista e o minimalismo penal;</label>
@@ -1153,7 +1153,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> o racismo estrutural e o direito penal do inimigo; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1168,7 +1168,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>45. FGV - 2025 - Procurador do Tribunal de Contas do Estado de Pernambuco (TCE PE) Em março de 2023, foi publicada a Lei “1”, que aumentou a pena mínima do crime de furto simples de 1 (um) para 2 (dois) anos de reclusão. Em julho de 2024, essa lei foi revogada pela Lei “2”, sendo restabelecida a redação anterior. Em janeiro de 2025, entrou em vigor a Lei “3”, que aumentou novamente a pena mínima para o crime referido, desta vez, para 3 (três) anos de reclusão. Pedro foi julgado em maio de 2025 por furto simples consumado em janeiro de 2023. Diante de tal situação hipotética, é correto afirmar que deve ser aplicada:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-45" value="A"> A. a lei vigente ao tempo da publicação da sentença.</label>
@@ -1179,7 +1179,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> a lei mais benéfica ao réu, mesmo que não seja a vigente no momento da prolação da sentença. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1194,7 +1194,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>46. FGV - 2024 - Analista Legislativo (CAM DEP) No tocante às normas gerais do Direito Penal, analise as afirmações a seguir. I.	 A pena cumprida no estrangeiro não atenua a pena imposta no Brasil pelo mesmo crime, quando diversas, ou nela é computada, quando idênticas. II.	 Considera-se praticado o crime no momento da ação ou omissão, mesmo que outro seja o momento do resultado. III.	  Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, não cessando, porém, em virtude dela a execução e os efeitos penais da sentença condenatória. Está correto o que se afirma em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-46" value="A"> A. I, II e III.</label>
@@ -1205,7 +1205,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> II, apenas. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1220,7 +1220,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 05</p>
+<p class="quiz-source">AlfaCon - Simulado 5 (revisão FGV, não é prova oficial)</p>
 <p><strong>47. FGV - 2021 - Auditor Fiscal da Receita Estadual (SEFAZ ES) José trabalha como guarda-vidas da piscina do Clube Romano, aberto ao público das 8h às 22h, diariamente. A piscina do clube funciona das 9h às 21h, de terça a domingo, sendo aberta por Antônio, que trabalha como zelador no mesmo clube. José é sempre o primeiro a entrar na área da piscina, tão logo ela é aberta, para assumir seu posto no alto da cadeira de guarda-vidas. Contudo, no dia 1º de novembro de 2020, ele não chegou no horário porque sua condução atrasou. O espaço da piscina foi aberto por Antônio no horário habitual, mas José somente chegou ao clube às 10h. Ao entrar na área da piscina deparou-se com uma cena terrível: o corpo de uma criança morta, boiando na piscina. Sobre a conduta de José, assinale a afirmativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-05-47" value="A"> A. José não praticou nenhum crime.</label>
@@ -1231,7 +1231,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 05. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 5. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> José não praticou nenhum crime. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>

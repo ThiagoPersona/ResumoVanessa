@@ -1,4 +1,4 @@
-# Simulado Progressivo AlfaCon - Operação 03
+# Simulado 3 (AlfaCon)
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho deste simulado.
 
@@ -12,7 +12,7 @@
 ### Língua Portuguesa
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>1. Assinale a frase em que houve troca indevida entre onde/ aonde.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-1" value="A"> A. Aquele é um país onde nem as fábulas têm moral.</label>
@@ -23,7 +23,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> Eu fui para lugares onde vão todos os turistas. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -38,7 +38,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>2. Assinale a frase em que houve a troca indevida entre onde/aonde.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-2" value="A"> A. Onde aumentam os bens, aumentam aqueles que os devoram.</label>
@@ -49,7 +49,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> A habilidade de um líder está em levar as pessoas de onde elas estão para aonde elas nunca estiveram. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -64,7 +64,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>3. AO ENCONTRO DE / DE ENCONTRO A são expressões semelhantes, mas muito diferentes no significado. A frase abaixo em que uma dessas expressões está empregada em lugar da outra, é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-3" value="A"> A. O acidente causado pelo motoqueiro fez com que o caminhão se desgovernasse e fosse ao encontro do poste;</label>
@@ -75,7 +75,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> O acidente causado pelo motoqueiro fez com que o caminhão se desgovernasse e fosse ao encontro do poste; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -90,7 +90,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>4. Assinale a frase em que a grafia do “porquê” está correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-4" value="A"> A. Você certamente sabe por que acreditar num deus.</label>
@@ -101,7 +101,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> Você certamente sabe por que acreditar num deus. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -116,7 +116,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>5. Assinale a frase em que houve troca indevida entre SOB e SOBRE.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-5" value="A"> A. Sentar-se à sombra, num belo dia, e repousar o olhar sob a verdura é o repouso mais perfeito.</label>
@@ -127,7 +127,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> Sentar-se à sombra, num belo dia, e repousar o olhar sob a verdura é o repouso mais perfeito. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -142,7 +142,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>6. Sobre as palavras “deletar”, “logar” e “twittar” é correto afirmar que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-6" value="A"> A. são palavras que foram adaptadas à língua portuguesa por meio da tradução de seu sentido original.</label>
@@ -153,7 +153,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> são palavras que sofreram acréscimo do sufixo de formação de verbos da primeira conjugação em língua portuguesa. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -168,7 +168,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>7. Nas frases abaixo há duas formas sublinhadas, sendo a segunda uma forma abreviada da primeira. A opção em que essa forma abreviada se mostra INADEQUADA é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-7" value="A"> A. Na cidade havia um estacionamento especial para motocicletas e muitas motos ficavam ali todo o dia;</label>
@@ -179,7 +179,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> Houve uma festança na comemoração do aniversário da cidade e a população vai lembrar-se dessa festa por anos; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -194,7 +194,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>8. sufixo -ada possui vários significados. Assinale a opção em que esse sufixo tem valor de “golpe, pancada”.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-8" value="A"> A. cachorrada, meninada.</label>
@@ -205,7 +205,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> bofetada, cadeirada. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -220,7 +220,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>9. Assinale a frase em que não está presente qualquer processo de abreviação vocabular ou textual.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-9" value="A"> A. Expressei-me clara e calmamente.</label>
@@ -231,7 +231,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> Os animais e os humanos participam do mesmo mundo. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -246,7 +246,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>10. Assinale a frase em que a classificação do advérbio sublinhado está corretamente feita.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-10" value="A"> A. “As sociedades modernas parecem orgulhar-se demais da abolição da escravatura” (Marquês de Custine) / intensidade.</label>
@@ -257,7 +257,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> “As sociedades modernas parecem orgulhar-se demais da abolição da escravatura” (Marquês de Custine) / intensidade. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -272,7 +272,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>11. Há frases interrogativas que são ordens disfarçadas, como no seguinte caso:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-11" value="A"> A. O senhor quer viajar de primeira ou de segunda classe?</label>
@@ -283,7 +283,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> O senhor poderia me mostrar seus documentos? — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -298,7 +298,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>12. Em todas as opções abaixo há uma frase composta de duas orações; a opção em que a relação entre elas é de justaposição, ou seja, não mostra relação de coordenação ou subordinação, é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-12" value="A"> A. Político profissional jamais tem medo do escuro. Tem medo é da claridade;</label>
@@ -309,7 +309,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> Políticos são interessados em pessoas. Moscas são interessadas em cachorros; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -324,7 +324,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>13. Todas as frases abaixo são compostas de dois períodos. A ligação lógica entre eles que está corretamente identificada, é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-13" value="A"> A. Faz parte da natureza dos mortais pisar ainda mais em quem já caiu. / os dois períodos estão em comparação.</label>
@@ -335,7 +335,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> Eu não podia esperar pelo sucesso. Assim eu fui em frente sem ele. / o segundo período é uma conclusão do primeiro. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -350,7 +350,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>14. Assinale a frase abaixo que não exemplifica uma interrogação indireta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-14" value="A"> A. Queria descobrir quem fez isso.</label>
@@ -361,7 +361,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> Eu vi quando eles chegaram. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -376,7 +376,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>15. A questão desta prova é elaborada a partir de pequenos textos e pretendem avaliar sua capacidade em interpretar e compreender textos, assim como em redigir de forma correta e adequada. Todas as frases a seguir foram construídas de forma impessoal, à exceção de uma. Assinale-a.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-15" value="A"> A. Por melhor que se fale, quando se fala muito, finaliza-se sempre por dizer tolices.</label>
@@ -387,7 +387,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> Analisa-se o homem para que ele seja conhecido. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -405,7 +405,7 @@
 ### Informática
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>16. Observe a figura a seguir, que ilustra as configurações do computador de Pedro. Sobre as configurações do computador de Pedro, é correto afirmar que:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-16" value="A"> A. o clock do processador é 2.80 GHz;</label>
@@ -416,7 +416,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> o clock do processador é 2.80 GHz; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -431,7 +431,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>17. Considere as seguintes assertivas sobre componentes básicos de microcomputadores e seu funcionamento: I.	 O sistema operacional é um componente do hardware do computador; II.	  O mouse é um dispositivo periférico de entrada de dados; III.	  A memória RAM é apagada quando se desliga o computador. Está correto o que se afirma em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-17" value="A"> A. I e II, apenas.</label>
@@ -442,7 +442,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> II e III, apenas. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -457,7 +457,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>18. Observe a figura a seguir, que ilustra um dispositivo móvel com o cabo a ser conectado em um computador utilizado por Paulo. Para transferir dados do dispositivo móvel para o computador, Paulo deve conectar o periférico usando a porta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-18" value="A"> A. DVI;</label>
@@ -468,7 +468,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> USB; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -483,7 +483,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>19. Os dispositivos de entrada/saída permitem a interação do computador com o mundo exterior. São exemplos de dispositivos de entrada/saída:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-19" value="A"> A. Mouse, memória RAM e processador.</label>
@@ -494,7 +494,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> Mouse, impressora e microfone. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -509,7 +509,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>20. Observe a seguinte especificação de computador publicada em um site de vendas na Internet. Monitor 19,5” RAM 4GB HD 1TB Intel 2.41GHz Gravador DVD Sobre a especificação do computador ilustrado, assinale a afirmativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-20" value="A"> A. O clock do processador é 2.41GHz.</label>
@@ -520,7 +520,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> O clock do processador é 2.41GHz. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -535,7 +535,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>21. Quando abertos inadvertidamente, arquivos anexados a um e-mail podem constituir séries ameaças à segurança de um computador. Assinale a opção que indica a extensão de arquivo que caracteriza arquivos perigosos.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-21" value="A"> A. .exe</label>
@@ -546,7 +546,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> .exe — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -561,7 +561,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>22. Com relação aos aspectos da segurança da informação, analise as afirmativas a seguir. I.	 Autenticação – visa garantir ao remetente e ao destinatário a identidade da outra parte envolvida na comunicação, confirmando ou não se é de fato quem alega ser. II.	  Integridade – visa garantir que apenas o remetente e o destinatário pretendido devem poder entender o conteúdo da mensagem transmitida. III.	 Confidencialidade – visa garantir que o conteúdo da comunicação, durante a transmissão, não seja alterado por acidente ou por má intenção. Assinale:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-22" value="A"> A. se somente a afirmativa I estiver correta.</label>
@@ -572,7 +572,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> se somente a afirmativa I estiver correta. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -587,7 +587,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>23. Para uma navegação segura na internet o usuário deve tomar alguns cuidados específicos contra ameaças virtuais. O método mais seguro para evitar um ataque do tipo phishing através de um e-mail é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-23" value="A"> A. abrir todos os anexos de desconhecidos do e-mail para validar as informações.</label>
@@ -598,7 +598,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> acessar o site indicado no e-mail digitando o endereço diretamente no navegador. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -613,7 +613,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>24. Considere as seguintes afirmativas acerca de técnicas e aplicativos de segurança: I.	 Um programa antivírus bloqueia o acesso de usuários não autorizados ao computador local e adicionalmente pode determinar quais formatos de senha são seguros para serem utilizados. II.	 Um firewall analisa o tráfego de rede para determinar quais operações de entrada e saída podem ser executadas, a partir de um conjunto de regras. III.	 Um firewall pode ser um aplicativo de software executando em um computador local. Está correto o que se afirma em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-24" value="A"> A. I e II, apenas.</label>
@@ -624,7 +624,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> II e III, apenas. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -639,7 +639,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>25. Considere as seguintes afirmativas: I.	 Um gateway é uma máquina intermediária geralmente destinada a interligar redes, separar domínios de colisão ou mesmo traduzir protocolos. II.	  Roteadores e firewalls são exemplos de gateways, uma vez que ambos servem de intermediários entre o utilizador e a rede. III.	  Um proxy pode ser interpretado como um gateway. IV.	  A função de um gateway é ter acesso ao exterior por meio de linhas de transmissão de maior débito, de modo a evitar um estrangulamento entre a rede exterior e a rede local. V.	 Cabe aos gateways traduzir e adaptar os pacotes originários da rede local para que estes possam atingir o destinatário e, também, traduzir as respostas e devolvê-las ao par local da comunicação. Estão corretas:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-25" value="A"> A. I, II e III, apenas.</label>
@@ -650,7 +650,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> I, II, III, IV e V. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -665,7 +665,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>26. Os criminosos virtuais, também chamados de hackers, atacam computadores conectados à internet para roubar informações ou danificar o computador. Para protegê-lo, utiliza-se um software ou hardware que verifica as informações vindas da internet, conforme ilustrado na figura a seguir. O software ou hardware utilizado para rejeitar ou permitir que informações da internet entrem no computador é o:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-26" value="A"> A. firewall;</label>
@@ -676,7 +676,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> firewall; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -691,7 +691,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>27. Considere que um agente mal-intencionado usa um ransomware para criptografar os dados dos usuários de uma organização, impedindo o acesso a arquivos, bancos de dados e aplicativos. Em seguida, é exigido o pagamento de um resgate para a liberação do acesso. Sabe-se que a organização foi, de fato, atacada, que houve negligência por parte do gestor de segurança, e que o ransomware apresentará uma mensagem de sequestro na tela ou adicionará um arquivo de texto (mensagem) nas pastas afetadas. Com base no caso relatado, analise as afirmativas a seguir sobre formas de proteção contra ataques do tipo ransomware. I.	 Fazer backup dos dados de modo regular e manter pelo menos um backup completo off-line. II.	 Manter todos os softwares, incluindo os sistemas operacionais, atualizados e com patches de segurança. III.	 Combinar boas práticas como monitoramento, softwares antimalware, treinamento e conscientização dos usuários. Está correto o que se afirma em:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-27" value="A"> A. II e III, apenas.</label>
@@ -702,7 +702,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> I, II e III. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -717,7 +717,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>28. O tráfego de dados na Internet é composto por uma grande diversidade de elementos, tais como textos, figuras, vídeos, mensagens de voz, arquivos de dados e documentos. Dependendo da atividade, itens sensíveis como senhas e informações bancárias também passam pelos meios físicos de comunicação. Para evitar que o tráfego seja interceptado por estranhos, e tornar mais segura a movimentação de dados, os procedimentos de segurança baseiam-se principalmente:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-28" value="A"> A. em senhas longas;</label>
@@ -728,7 +728,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> na criptografia de dados; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -743,7 +743,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>29. A compressão de dados em formato Zip serve, em informática, à finalidade de:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-29" value="A"> A. obter-se maior espaço no disco rígido e expedir tais dados mais rapidamente pela Internet.</label>
@@ -754,7 +754,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> obter-se maior espaço no disco rígido e expedir tais dados mais rapidamente pela Internet. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -769,7 +769,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>30. Considera‐se um documento ou aplicativo acessível se ele puder ser operado ou lido por usuários portadores de deficiências físicas. Os recursos de acessibilidade no Adobe Acrobat, Adobe Reader e Adobe Portable Document Format permitem a leitura de documentos PDF com ou sem leitores e ampliadores de tela ou impressoras braile. A respeito dos recursos para a leitura acessível dos documentos PDF, analise os itens a seguir: I.	 comandos opcionais de saída para software e periféricos assistentes, como impressoras braile; II.	 criação de PDFs marcados a partir de aplicativos de criação; III.	 alternativas no teclado para ações do mouse. Assinale</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-30" value="A"> A. se apenas os itens I e II forem verdadeiros.</label>
@@ -780,7 +780,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> se todas os itens forem verdadeiros. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -798,7 +798,7 @@
 ### Matemática
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>31. A tabela a seguir mostra, parcialmente, o resultado de uma pesquisa para verificar o consumo de dois produtos A e B entre mulheres e homens. Foram entrevistadas ao todo 150 pessoas. O valor de X + Y é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-31" value="A"> A. 95.</label>
@@ -809,7 +809,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> 109. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -824,7 +824,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>32. Considere as seguintes características de dois números naturais: •	 os dois números possuem 3 algarismos cada; •	 os 6 algarismos registrados são diferentes entre si; •	 a soma dos dois números naturais é a maior possível. Essa soma é igual a</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-32" value="A"> A. 1641.</label>
@@ -835,7 +835,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> 1839. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -850,7 +850,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>33. Um carro da PM transportou o major Roberto de São Paulo para Araçatuba e retornou, no dia seguinte, pela mesma estrada. A distância rodoviária entre essas duas cidades é de 520 km e o moderno carro que transportou o major percorreu 13 km por litro de gasolina. Nessa época, o litro de gasolina custava, em São Paulo, 6,10 reais por litro. O gasto com combustível dessa viagem foi de, aproximadamente,</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-33" value="A"> A. 245 reais.</label>
@@ -861,7 +861,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> 490 reais. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -876,7 +876,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>34. Em uma investigação, a quantidade de policiais trabalhando é inversamente proporcional ao tempo necessário para a sua conclusão. Se houvesse apenas três policiais desde o início da investigação, o tempo para a sua conclusão seria de 20 dias. A inclusão de um policial a mais no início da investigação permitiria que a conclusão do trabalho fosse antecipada em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-34" value="A"> A. um dia.</label>
@@ -887,7 +887,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> cinco dias. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -902,7 +902,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>35. Durante uma operação da polícia civil para investigar fraudes fiscais, constatou-se que, em uma amostra de 600 documentos analisados, 55% apresentaram indícios de irregularidades. Ao examinar mais detalhadamente esses documentos com indícios, apurou-se que 30% dos valores neles declarados foram fraudados. Além disso, desses valores fraudulentos, um terço correspondeu a fraudes envolvendo notas “frias” emitidas por empresas fictícias. Com base nessas informações, o número total de documentos analisados que apresentaram indícios e que envolvem fraudes relacionadas a notas “frias” emitidas por empresas fictícias é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-35" value="A"> A. 30.</label>
@@ -913,7 +913,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> 33. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -931,7 +931,7 @@
 ### Direito Constitucional
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>36. A República Federativa do Brasil tem as suas relações internacionais regidas por princípios listados na Constituição Federal. Entre esses princípios se encontra:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-36" value="A"> A. A concessão de asilo político.</label>
@@ -942,7 +942,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> A concessão de asilo político. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -957,7 +957,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>37. Após amplos estudos realizados pelo Ministério competente, foi sugerido ao Presidente da República a apresentação de projeto de lei estabelecendo uma política pública especificamente direcionada a duas regiões do país, fundada em níveis de desenvolvimento humano, o que redundaria em direcionamento diferenciado de recursos e tratamento mais favorecido, quando cotejado com aquele dispensado às demais regiões. O presidente do partido político Alfa, que tem grande penetração nas regiões preteridas, solicitou que sua assessoria analisasse a sua compatibilidade com os objetivos fundamentais da República Federativa do Brasil. A assessoria esclareceu corretamente que a proposta</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-37" value="A"> A. não possui conformidade constitucional por destoar do objetivo fundamental de garantir o desenvolvimento nacional.</label>
@@ -968,7 +968,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> se ajusta ao objetivo fundamental de reduzir as desigualdades sociais e regionais, ainda que redunde em tratamento inicial distinto entre as regiões do país. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -983,7 +983,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>38. Determinada empresa jornalística pretende ajuizar ação judicial para obter junto à Secretaria Municipal de Educação informações sobre os processos de licitação referentes ao fornecimento de merendas às escolas do Município Beta. O acesso a tais informações fora negado de forma arbitrária à empresa. Entre os remédios constitucionais previstos pela ordem constitucional vigente, aquele cabível na situação hipotética narrada é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-38" value="A"> A. o mandado de segurança individual.</label>
@@ -994,7 +994,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> o mandado de segurança individual. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -1009,7 +1009,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>39. A Lei nº XX previu, como política assistencial, que as pessoas com renda familiar per capita inferior a determinado percentual do salário mínimo fariam jus a uma cesta básica. Apesar de Joana ter preenchido todos os requisitos para o recebimento da cesta básica, e dela necessitar, o diretor da repartição pública responsável pela distribuição proferiu decisão negando a sua entrega, sob o argumento de que ela não aparentava ser necessitada. Como a decisão era manifestamente ilegal, Joana procurou a Defensoria Pública, munida da decisão proferida pelo diretor, e solicitou o ajuizamento da ação constitucional cabível para que fosse determinada a entrega da cesta básica. Essa ação é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-39" value="A"> A. o habeas data.</label>
@@ -1020,7 +1020,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> o mandado de segurança. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1038,7 +1038,7 @@
 ### Direito Administrativo
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>40. Os princípios orçamentários, fundamentais para o sistema jurídico, orientam a interpretação das normas e fortalecem a instituição orçamentária para auxiliar o controle parlamentar sobre o governo. A esse respeito, acerca desses princípios, avalie as afirmativas a seguir. I.	 A Administração Pública só pode agir dentro dos limites estabelecidos pela lei. II.	 Os atos administrativos devem ser realizados com transparência, garantindo o acesso público às informações. III.	 A atuação dos agentes públicos deve visar ao interesse coletivo, sem o favorecimento de indivíduos ou grupos específicos. IV.	 Os agentes públicos devem agir com ética, probidade e lealdade em relação ao interesse público. Essas afirmativas referem-se, respectivamente, aos seguintes princípios:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-40" value="A"> A. legalidade / impessoalidade / eficiência / publicidade.</label>
@@ -1049,7 +1049,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> legalidade / publicidade / impessoalidade / moralidade. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1064,7 +1064,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>41. A Administração Pública brasileira organiza-se em Administração Direta e Indireta. Um exemplo de ente da Administração Direta são</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-41" value="A"> A. as autarquias.</label>
@@ -1075,7 +1075,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> os ministérios. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1090,7 +1090,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>42. Antes de ser nomeado e empossado na qualidade de inspetor de polícia, Lucas, com o objetivo de melhor entender as funções que futuramente desempenhará, resolveu analisar como a Polícia Civil do Estado de Minas Gerais está inserida no contexto da Administração Pública. Considerando os entendimentos doutrinário e jurisprudencial dominantes, é correto afirmar que a Polícia Civil do Estado de Minas Gerais é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-42" value="A"> A. um órgão público, integrante da Administração Pública Direta, fruto da desconcentração administrativa.</label>
@@ -1101,7 +1101,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> um órgão público, integrante da Administração Pública Direta, fruto da desconcentração administrativa. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -1116,7 +1116,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>43. Assinale a opção que apresenta apenas estruturas que fazem parte da Administração Direta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-43" value="A"> A. Secretaria de Educação, Tribunal de Contas, Polícia Civil.</label>
@@ -1127,7 +1127,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> Secretaria de Educação, Tribunal de Contas, Polícia Civil. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -1142,7 +1142,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>44. Gilberto estava estudando para concurso público com sua amiga Juliana, quando esta perguntou para ele qual a natureza jurídica do Tribunal de Justiça do Estado do Rio de Janeiro. Nesse caso, a resposta correta de Gilberto foi de que se trata de</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-44" value="A"> A. órgão integrante da Administração Direta.</label>
@@ -1153,7 +1153,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> órgão integrante da Administração Direta. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -1168,7 +1168,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>45. Em janeiro de 2023, Marcelo, tabelião, utilizou dados pessoais e documentos de pessoa falecida para lavrar uma procuração falsa, beneficiando terceiro indivíduo que, por sua vez, vendeu um imóvel do falecido como se fosse procurador legítimo. Em maio de 2024, entrou em vigor uma lei que passou a considerar, como circunstância qualificadora da falsificação, o uso de identidade de pessoa falecida, com pena aumentada em metade. Em setembro de 2024, o Ministério Público denunciou Marcelo com base na nova redação legal, invocando o entendimento de que a nova lei não cria crime novo, apenas detalha o tipo penal anterior, não violando, portanto, os princípios da legalidade e da anterioridade. Diante de tal situação hipotética, é correto afirmar que:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-45" value="A"> A. a responsabilização penal de Marcelo com base na nova lei é legítima, pois a falsidade ideológica já era crime anteriormente, sendo a alteração legal meramente explicativa;</label>
@@ -1179,7 +1179,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> a aplicação da nova lei ao fato anterior é inconstitucional, pois viola os princípios da legalidade e da anterioridade da lei penal; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1194,7 +1194,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>46. Dentre os princípios basilares do Direito Penal, está o da legalidade. Acerca dele, é correto afirmar, à luz da Constituição da República e da jurisprudência dos Tribunais Superiores, que:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-46" value="A"> A. O Supremo Tribunal Federal, no julgamento do ADO nº 26, expressamente excepcionou o princípio da legalidade e admitiu o emprego da analogia in malam partem, para equiparar as condutas homotransfóbicas aos crimes de racismo.</label>
@@ -1205,7 +1205,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> Tratados e convenções internacionais, ainda que ratificados, não têm o condão de, no direito interno, tipificar crimes e cominar penas, por conta do princípio da reserva legal. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1220,7 +1220,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>47. Assinale a afirmativa que corretamente descreve um princípio do Direito Penal.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-47" value="A"> A. O princípio da insignificância afasta a tipicidade formal do delito.</label>
@@ -1231,7 +1231,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> O princípio da culpabilidade penal impõe que a responsabilidade deve ser pessoal, subjetiva e pelo fato, afastando-se a influência de qualidades pessoais na formação da culpa. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1246,7 +1246,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>48. Acerca da Teoria da Norma Penal, assinale a alternativa correta:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-48" value="A"> A. A interpretação sistemática pressupõe a hermenêutica da norma à luz do contexto histórico no qual ela foi criada.</label>
@@ -1257,7 +1257,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> A interpretação analógica é admitida o Direito Penal, mesmo em desfavor do réu. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1272,7 +1272,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 03</p>
+<p class="quiz-source">AlfaCon - Simulado 3 (revisão FGV, não é prova oficial)</p>
 <p><strong>49. Mônica foi condenada a 8 (oito) anos de reclusão, em regime inicialmente fechado, tendo a sentença condenatória transitado em julgado em 2020, quando se iniciou o cumprimento da pena em estabelecimento prisional. Em 2022, a legislação penal sofreu modificação, reduzindo a pena máxima do delito cometido por Mônica para 5 (cinco) anos de reclusão. Nesse caso, competirá ao Juiz da execução</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-03-49" value="A"> A. cientificar o Ministério Público e a defesa da condenada acerca do advento da nova lei mais benéfica, a fim de que seja ajuizada ação de revisão criminal perante o juízo de origem.</label>
@@ -1283,7 +1283,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 03. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 3. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> a aplicação de lei posterior que, de qualquer modo, favoreça a condenada. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>

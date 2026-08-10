@@ -1,4 +1,4 @@
-# Caderno de Revisão por Questões AlfaCon - Operação 04
+# Simulado 4 - Caderno de Revisão (AlfaCon)
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho deste simulado.
 
@@ -9,7 +9,7 @@
 [Voltar para Simulados](SIMULADOS.md)
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>1. Assinale a frase, retirada do livro Os Sertões, de Euclides da Cunha, que apresenta um erro gráfico na forma da palavra sublinhada.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-1" value="A"> A. “A multidão poupara-lhe o indagar torturante acerca do próprio estado emotivo, o esforço dessas interroga- tivas angustiosas e dessa intuspecção delirante...”</label>
@@ -20,7 +20,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> “Durante acerca de uma hora os combatentes que contemplavam a refrega, no alto das colinas circunjacentes, nada mais distinguiram...” — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>2. ACERCA DE / CERCA DE / A CERCA DE são três expressões de emprego distinto. A frase em que houve uma troca indevida entre elas, é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-2" value="A"> A. Os convidados chegaram cedo e ficaram a cerca de 10 metros do palco principal;</label>
@@ -46,7 +46,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> Havia acerca de 10m entre o palco e o público; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -61,7 +61,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>3. Assinale a frase em que houve troca indevida entre “porque” e “por que”:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-3" value="A"> A. Quem tem porque viver é capaz de suportar qualquer coisa.</label>
@@ -72,7 +72,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> Quem tem porque viver é capaz de suportar qualquer coisa. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -87,7 +87,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>4. Os vocábulos abaixo aparecem acentuados, mas um deles está acentuado de forma incorreta. Assinale a opção em que esse vocábulo aparece.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-4" value="A"> A. balaústre / cafeína.</label>
@@ -98,7 +98,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> egoísta / gratuíto. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -113,7 +113,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>5. Assinale a opção que mostra todos os vocábulos clíticos ou átonos da frase “ Um cachorro não deita para pensar, pois, se o faz, pode ser mordido por outro”.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-5" value="A"> A. um / não / para /pois/se/o/ por.</label>
@@ -124,7 +124,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> um / não / para /pois/se/o/ por. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -139,7 +139,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>6. As opções a seguir mostram três vocábulos da mesma família, exceto uma, em que há um termo intruso. Assinale-a.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-6" value="A"> A. Lua / lunar / lunático.</label>
@@ -150,7 +150,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> Paz / pacífico / paciente. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -165,7 +165,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>7. Assinale a frase em que a forma verbal sublinhada tem seu infinitivo indicado incorretamente.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-7" value="A"> A. Convém economizar na juventude / convir.</label>
@@ -176,7 +176,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> Bem proveu a Natureza ao nosso Estado / provir. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -191,7 +191,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>8. Assinale a opção que indica a única palavra em que a letra A desempenha o papel de desinência modo-temporal.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-8" value="A"> A. Fazia.</label>
@@ -202,7 +202,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> Fazia. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -217,7 +217,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>9. Assinale a frase que mostra a presença de antônimos.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-9" value="A"> A. Em certa idade da vida, se sua casa não se encher de crianças, ela se encherá de manias e de vícios.</label>
@@ -228,7 +228,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> Seja a vida longa ou curta, depende completamente para que ela serviu. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -243,7 +243,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>10. Assinale a opção que apresenta a frase que não mostra antônimos em sua composição.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-10" value="A"> A. É mais fácil perdoar um inimigo que um amigo.</label>
@@ -254,7 +254,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> Perdoar é cristão, mas esquecer é de sem-vergonha. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -269,7 +269,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>11. A frase abaixo cujo termo sublinhado exerce a função sintática de objeto direto, é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-11" value="A"> A. Viu-se o acidente de longe;</label>
@@ -280,7 +280,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> Alugamos ontem o apartamento; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -295,7 +295,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>12. Texto associado As questões da prova de Língua Portuguesa referem-se ao texto a seguir. O estado do Piauí apresentou avanços expressivos no combate à criminalidade em 2024, de acordo com o Mapa da Segurança Pública, divulgado pelo Ministério da Justiça e Segurança Pública (MJSP) e pela Secretaria Nacional de Segurança Pública (SENASP). O levantamento, que reúne dados das Unidades da Federação sobre criminalidade e atuação das forças de segurança, mostra que o estado superou diversas médias nacionais em indicadores-chave. Entre os destaques está a redução de 10,02% nos homicídios dolosos, índice superior à média nacional, que ficou em 6,33%. Houve também queda de 23,08% nos casos de lesão corporal seguida de morte, enquanto o país registrou um aumento de 22,93% nesse tipo de crime. Nos casos de latrocínio — roubo seguido de morte —, o estado registrou uma redução de 9,52%, desem- penho mais expressivo do que o observado no restante do país, onde a queda foi de apenas 1,65%. Também foram registrados avanços em crimes contra o patrimônio. Os roubos de veículos caíram 21,76%, e os furtos de veículos recuaram 11,01%. Considerando a geografia desse tipo de crime em âmbito nacional, as quedas foram de 6,10% e 2,64%, respectivamente. O Piauí também obteve destaque no enfrentamento a práticas criminosas do crime organizado. As apreen- sões de maconha cresceram 561,34% — o maior aumento do Nordeste — e os casos de investigação de tráfico de drogas subiram 10,20%. Outro dado relevante aponta que o estado está entre os que apresentam as menores taxas de desaparecimento do Brasil, com um crescimento de 25,71% no número de pessoas localizadas. Na área da justiça criminal, o número de prisões por mandado judicial aumentou 19,04%. Já as mortes a esclarecer sem indícios de crime tiveram uma queda expressiva de 75%, em contraste com o aumento de 10,46% registrado no cenário nacional. https://pensarpiaui.com/noticias/piaui-lidera-avancos-em-seguran- ca-publica-e-supera-a-media-nacional/44485 - adaptado. 14 Súmário Assinale a opção em que o elemento destacado possui função diferente dos demais.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-12" value="A"> A. As apreensões de maconha cresceram 561,34%.</label>
@@ -306,7 +306,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> Na área da justiça criminal. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -321,7 +321,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>13. Texto associado As questões prova de Língua Portuguesa referem-se ao texto a seguir: Quase 90% das mulheres mortas por feminicídio no Piauí entre janeiro de 2022 e abril de 2025 não denun- ciaram os agressores à polícia, segundo levantamento da Secretaria de Segurança Pública do estado (SSP-PI) divulgado nesta segunda-feira (8). Os dados fazem parte da Biografia da Vítima de Feminicídio, produzida pela Gerência de Análise Criminal Estatística (Gace), e mostram que 87,85% das vítimas não haviam registrado boletim de ocorrência contra os agressores. 16 Súmário A SSP alerta que o feminicídio costuma ser precedido por diferentes formas de violência. “O ciclo começa com xingamentos, ciúmes excessivos, piadas ofensivas, ameaças, controle, assédio sexual, chantagem, mentiras, ofensas e humilhações públicas”, informou o órgão. “Em seguida, o agressor passa a cometer agressões físicas, como beliscões, arranhões, empurrões e chutes, além de destruir objetos da vítima. No estágio mais grave, há confinamento, lesões corporais, ameaças com armas, abuso sexual, espancamento e ameaça de morte. Por fim, ocorre o feminicídio”, detalhou. A SSP, a Defensoria Pública, o Tribunal de Justiça e a Secretaria das Mulheres do Piauí lançaram a cartilha “Você denuncia, o estado acolhe”. O material reúne informações simples e diretas sobre como denunciar casos de violência, os direitos das vítimas e os serviços disponíveis. A cartilha está disponível online, no site da SSP e nas redes sociais do órgão, por meio de QRCode. O objetivo é facilitar o acesso às informações, incentivar denúncias e reforçar o apoio às vítimas. https://g1.globo.com Na frase “o objetivo é facilitar o acesso às informações, incentivar denúncias e reforçar o apoio às vítimas”, observa-se uma estrutura sintática formada por</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-13" value="A"> A. oração subordinada substantiva subjetiva reduzida de infinitivo.</label>
@@ -332,7 +332,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> oração subordinada substantiva predicativa reduzida de infinitivo. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -347,7 +347,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>14. Observe os quadrinhos a seguir. https://vidadesuporte.com.br - acesso em 25.9.25. O uso de pronomes é um importante recurso para coesão textual. Com base nisso, assinale a opção que identifica corretamente o referente do pronome relativo “que” no segundo quadrinho da tirinha.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-14" value="A"> A. Ética.</label>
@@ -358,7 +358,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> Prova. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -373,7 +373,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>15. A paciência torna mais leve o que não é possível remediar. Assinale a opção que indica uma observação correta a respeito da significação e/ou da estruturação da frase acima.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-15" value="A"> A. A forma verbal “remediar” poderia ser adequadamente substituída por “que se remedie”.</label>
@@ -384,7 +384,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> A oração adjetiva “que não é possível remediar” pode ser substituída adequadamente pelo adjetivo “irremediável”. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -402,7 +402,7 @@
 ### Informática
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>16. Os computadores possuem um mecanismo por meio do qual componentes distintos do processador podem interromper a seqüência normal de execução de instruções do processador. Mecanismo de interrupções visa, principalmente, a melhorar a eficiência de processamento. Nesse contexto, observe a citação abaixo: “Uma classe de interrupção acontece quando é gerada por alguma condição que ocorra como resultado da execução de uma instrução, tal como overflow em uma operação aritmética, divisão por zero, tentativa de executar uma instrução de máquina ilegal e referência a um endereço de memória fora do espaço de endereça- mento de programa.” 21 Súmário A citação acima se refere a uma classe denominada interrupção de:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-16" value="A"> A. falha de hardware.</label>
@@ -413,7 +413,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> software. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -428,7 +428,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>17. A memória não volátil que pode ser programada fora da fábrica em que é produzida e pode ter seu conteúdo apagado e regravado por meio de processos especiais pela aplicação de luz ultravioleta, é conhecida como</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-17" value="A"> A. RAM.</label>
@@ -439,7 +439,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> EPROM. 22 Súmário — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -454,7 +454,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>18. Leia atentamente o trecho a seguir. Dispositivo de armazenamento de dados portátil e removível constituído por uma memória flash com possi- bilidade de conexão a uma porta USB do computador. As capacidades de armazenamento variam de MB até GB. Assinale a opção que indica o dispositivo descrito no trecho acima.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-18" value="A"> A. Memória cache.</label>
@@ -465,7 +465,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> Pen drive. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -480,7 +480,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>19. Atualmente existem no mercado diferentes tipos de dispositivos capazes de armazenar diferentes tipos de dados. Os dispositivos podem ser divididos em três categorias: discos rígidos magnéticos, discos do tipo flash memory e discos de mídias óticas. Assinale a opção que indica uma mídia ótica.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-19" value="A"> A. DVD.</label>
@@ -491,7 +491,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> DVD. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -506,7 +506,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>20. Analise os dispositivos a seguir e assinale 1 para dispositivo de entrada de dados e 2 para saída de dados. ( ) 25 Súmário ( ) ( ) ( ) ( ) 26 Súmário Assinale a opção que indica a relação correta, na ordem apresentada.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-20" value="A"> A. 1 – 2 – 1 – 2 – 1.</label>
@@ -517,7 +517,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> 1 – 2 – 1 – 1 – 2. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -532,7 +532,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>21. Assinale a opção que indica os componentes de uma unidade central de processamento ou CPU (Central Processing Unit).</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-21" value="A"> A. Unidade lógica e aritmética, unidade de controle e registradores.</label>
@@ -543,7 +543,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> Unidade lógica e aritmética, unidade de controle e registradores. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -558,7 +558,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>22. Os sistemas de arquivos são essenciais para organizar, armazenar e gerenciar dados em dispositivos de arma- zenamento. Cada sistema de arquivos possui características específicas que determinam sua compatibilidade, desempenho e capacidade de armazenamento. Assinale a opção que corretamente associa um sistema de arquivos a sua característica principal.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-22" value="A"> A. O sistema de arquivos FAT32 suporta tamanhos de arquivos superiores a 4 GB e é amplamente utilizado em unidades modernas.</label>
@@ -569,7 +569,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> O sistema de arquivos NTFS oferece suporte a permissões de arquivo baseadas em ACLs (Access Control Lists) e compressão nativa. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -584,7 +584,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>23. O sistema de arquivos de um dispositivo computacional é armazenado em discos, sendo cada disco composto por uma ou mais partições. O setor 0 (zero) de um disco, utilizado para inicializar o computador, com sua leitura feita pela BIOS da máquina, é denominado</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-23" value="A"> A. Bloco de boot.</label>
@@ -595,7 +595,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> MBR (Master Boot Record). — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -610,7 +610,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>24. Um sistema de arquivos é uma estrutura organizada de dados que é utilizada para armazenar, recuperar e organizar arquivos em um dispositivo de armazenamento permanente, como um disco rígido, uma unidade de estado sólido (SSD) ou um dispositivo de armazenamento em rede. São exemplos de sistemas de arquivos</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-24" value="A"> A. HTML e FAT.</label>
@@ -621,7 +621,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> FAT e NTFS. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -636,7 +636,7 @@
 </div>
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>25. Considere a texto a seguir, retirado de uma página Web da Microsoft. “Um banco de dados hierárquico central usado no Windows 98, Windows CE, Windows NT e Windows 2000 usado para armazenar informações necessárias para configurar o sistema para um ou mais usuários, aplicativos e dispositivos de hardware.” Assinale o componente do Windows descrito no texto.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-25" value="A"> A. Área de Trabalho.</label>
@@ -647,7 +647,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> Registro. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -662,7 +662,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>26. Segurança da Informação é um tema que se reveste atualmente de alta importância para os negócios. Um de seus aspectos mais relevantes está associado à capacidade do sistema de permitir que alguns usuários acessem determinadas informações e paralelamente impede que outros, não autorizados, a vejam. O aspecto abordado é denominado</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-26" value="A"> A. Integridade.</label>
@@ -673,7 +673,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> Confidencialidade. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -688,7 +688,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>27. Leia o fragmento a seguir. Em 2023, uma grande empresa de logística, após sofrer um ataque de ransomware, ficou com seus sistemas inoperantes. À época, a empresa não possuía um ______ atualizado, o que impediu a recuperação rápida dos dados. Assinale a opção que indica o procedimento de segurança essencial que evitaria essa demora na recuperação dos dados e completa corretamente a lacuna do fragmento acima.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-27" value="A"> A. antivírus premium</label>
@@ -699,7 +699,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> plano de backup e contingência — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -714,7 +714,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>28. Em relação ao tema “Segurança da Informação”, avalie as afirmativas a seguir. I. Vírus anexam-se a arquivos executáveis para se propagar. II. Firewalls podem impedir a saída não autorizada de dados sensíveis. III.	 Anti-spywares focam apenas em roubo de senhas bancárias. Está correto o que se afirma em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-28" value="A"> A. I, apenas.</label>
@@ -725,7 +725,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> I e II, apenas. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -740,7 +740,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>29. Mecanismos de proteção de acesso a sistemas e estações de trabalho referem-se às medidas implementa- das para garantir que apenas usuários autorizados possam acessar recursos e informações em um sistema ou estação de trabalho. O processo de verificação da identidade de um usuário, podendo envolver o uso de senhas, biometria ou tokens de segurança, é conhecido como</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-29" value="A"> A. Autenticação.</label>
@@ -751,7 +751,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> Autenticação. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -769,7 +769,7 @@
 ### Matemática
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>30. Considere o conjunto dos números naturais de 2 até 20: {2, 3, 4, 5, ..., 18, 19, 20} O número de pares ordenados que podem ser formados com os elementos desse conjunto, de tal forma que as primeiras coordenadas (abcissas) sejam números pares e maiores do que as segundas coordenadas (orde- nadas) correspondentes é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-30" value="A"> A. 120;</label>
@@ -780,7 +780,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> 90; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -795,7 +795,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>31. Um prédio, que possui apenas salas comerciais, tem 6 andares incluindo o andar térreo. Cada andar tem 15 salas comerciais, com exceção do térreo, que tem apenas 5 salas comerciais. Cada sala comercial tem dois interfones. Assinale a opção que indica a quantidade de interfones instalados nas salas comerciais desse prédio.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-31" value="A"> A. 160.</label>
@@ -806,7 +806,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> 160. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -821,7 +821,7 @@
 </div>
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>32. Um número N é dividido em 3 partes inversamente proporcionais a 2, 3 e 5. A diferença entre a maior parte e a menor parte é 153. É correto concluir que N é um valor</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-32" value="A"> A. maior que 530.</label>
@@ -832,7 +832,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> entre 520 e 530. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -847,7 +847,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>33. Durante as investigações de um sinistro, foram obtidos exatos 20 minutos e 15 segundos contínuos de gra- vação de uma câmera de segurança. Por um dano na câmera, ao longo de toda a gravação, alternam-se 2 minutos de imagens nítidas com períodos variáveis de imagens sem qualquer nitidez. O primeiro trecho sem nitidez dura 1 segundo e cada um dos demais dura o dobro do tempo do trecho defeituoso precedente. Dessa forma, nos primeiros minutos da gravação, vê-se, nessa ordem: 2 minutos de imagens nítidas, segui- dos de 1 segundo de imagens sem nitidez, seguido de 2 minutos de imagens nítidas, seguidos de 2 segundos de imagens sem nitidez, seguidos de 2 minutos de imagens nítidas, seguidos de 4 segundos de imagens sem nitidez. 42 Súmário Com base nessas informações, é correto concluir que o tempo total de imagens sem nitidez nessa gravação é de exatamente</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-33" value="A"> A. 4 minutos.</label>
@@ -858,7 +858,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> 4 minutos e 15 segundos. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -873,7 +873,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>34. Uma função real é definida por f(2x + 1) = x2 - 1. O valor de f(7) é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-34" value="A"> A. 8</label>
@@ -884,7 +884,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> 8 — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -899,7 +899,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>35. A Constituição do país Alfa, cujo texto foi elaborado por uma comissão de notáveis e aprovado pela quase totalidade dos eleitores em plebiscito organizado especialmente para esse fim, buscou incorporar as melhores práticas do constitucionalismo contemporâneo. Além disso, buscou contemplar as distintas correntes ideoló- gicas existentes no território de Alfa, estruturando arranjos institucionais que permitissem sua coexistência. Por outro lado, apesar de ser muito avançada, destoava dos valores prevalecentes no ambiente sociopolítico, o que comprometia a sua observância e a consequente eficácia. Considerando os balizamentos dessa narrativa, assinale a opção que indica, corretamente, como a Consti- tuição do país Alfa pode ser classificada.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-35" value="A"> A. Cesarista e normativa.</label>
@@ -910,7 +910,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> Semântica e dogmática. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -925,7 +925,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>36. Um grupo de policiais militares foi convidado por certo militar reformado a formar uma associação civil sem fins lucrativos. O objetivo era permitir que os associados, todos com porte legal de arma de fogo, pudessem participar de patrulhamento voluntário das vias públicas, devidamente uniformizados com trajes contendo as cores e o símbolo da associação, de modo a dissuadir os interessados na prática de ilícitos e prender aqueles que se encontrassem em flagrante delito, submetendo-os à autoridade competente. Ao analisarem a Constituição da República, os policiais militares convidados concluíram corretamente que é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-36" value="A"> A. vedada a formação de associação com essas características, por ter caráter paramilitar.</label>
@@ -936,7 +936,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> vedada a formação de associação com essas características, por ter caráter paramilitar. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -951,7 +951,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>37. João, particular, está sofrendo coação em sua liberdade de locomoção, por conduta ilegal e abusiva perpetrada pelo delegado de polícia da comarca Alfa. Com efeito, em havendo prova cabal sobre a ilicitude verificada, a defesa de João pretende ingressar, em juízo, com o remédio constitucional adequado para sanar a situação constatada. Nesse cenário, considerando as disposições da Constituição Federal, é correto afirmar que caberá a impe- tração de um(a):</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-37" value="A"> A. mandado de segurança, que deverá ser julgado, originariamente, pelo Tribunal de Justiça;</label>
@@ -962,7 +962,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> habeas corpus, que deverá ser julgado pelo juiz competente em primeira instância; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -977,7 +977,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>38. A constituição federal brasileira (1988) estabelece que o lazer é um</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-38" value="A"> A. direito social.</label>
@@ -988,7 +988,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> direito social. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -1003,7 +1003,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>39. João, brasileiro nato, e Pedro, brasileiro naturalizado, foram acusados e condenados pela prática de um crime no País Beta, que solicitou a extradição de ambos ao Estado brasileiro. À luz da sistemática constitucional vigente:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-39" value="A"> A. apenas Pedro pode ser extraditado, caso se trate de crime comum praticado antes da naturalização ou de tráfico ilícito de entorpecentes e drogas afins, na forma da lei;</label>
@@ -1014,7 +1014,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> apenas Pedro pode ser extraditado, caso se trate de crime comum praticado antes da naturalização ou de tráfico ilícito de entorpecentes e drogas afins, na forma da lei; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -1032,7 +1032,7 @@
 ### Direito Administrativo
 
 <div class="quiz-card" data-answer="B">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>40. O ato administrativo refere-se a uma categoria específica de atos praticados no exercício da função administrativa. Uma característica própria do ato administrativo é a de:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-40" value="A"> A. Se tratar de uma manifestação implícita da vontade do Estado que não precisa ser exteriorizada.</label>
@@ -1043,7 +1043,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: B.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a B deve ser marcada:</strong> Produzir efeitos jurídicos imediatos e estar sempre sujeito a controle judicial. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1058,7 +1058,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>41. Maria acaba de ser aprovada em concurso público para o cargo efetivo de técnico policial de necropsia da Polícia Civil do Estado Alfa, inclusive obtendo excelente aproveitamento no curso de formação ministrado pela Acadepol. Em sua primeira lotação que acaba de ser publicada no Diário Oficial, Maria pretendia ser lotada no Instituto Médico Legal sediado na capital do Estado Alfa, mas foi lotada em determinado Posto Regional de Polícia Técnica e Científica (PRPTC), no interior do Estado. De acordo com a doutrina de Direito Administrativo, em matéria de classificação do ato administrativo quanto ao grau de liberdade do agente, o ato praticado pelo secretário de Polícia Civil de lotação inicial de Maria no citado PRPTC é um ato:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-41" value="A"> A. vinculado, pois a lei regulamenta a edição do ato de lotação, não conferindo ao agente público qualquer margem de escolha;</label>
@@ -1069,7 +1069,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> discricionário, pois o agente público busca, dentro dos limites da lei, razões de oportunidade e conveniência para praticar o ato; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1084,7 +1084,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>42. Diante da necessidade de aprofundar os seus conhecimentos com relação ao ato administrativo, Eliseu passou a analisar a delimitação das noções de perfeição, validade e eficácia, no âmbito do Direito Administrativo, vindo a concluir corretamente que</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-42" value="A"> A. o ato administrativo perfeito é necessariamente válido e eficaz.</label>
@@ -1095,7 +1095,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> o ato administrativo pode ser eficaz, ainda que não esteja perfeito. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1110,7 +1110,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>43. Ao aprofundar os seus estudos acerca do direito administrativo, Carlota observou que existem diversas manifestações do poder hierárquico, entre as quais é correto apontar</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-43" value="A"> A. a avocação temporária de competência.</label>
@@ -1121,7 +1121,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> a avocação temporária de competência. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -1136,7 +1136,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>44. Assinale a opção que apresenta uma manifestação do poder de polícia.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-44" value="A"> A. A edição de atos administrativos gerais para fiel execução das leis.</label>
@@ -1147,7 +1147,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> A fiscalização dos hospitais particulares por órgãos da vigilância sanitária. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1165,7 +1165,7 @@
 ### Direito Penal
 
 <div class="quiz-card" data-answer="E">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>45. Com relação aos princípios penais, assinale a assertiva incorreta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-45" value="A"> A. Segundo o princípio da legalidade estrita, novos crimes só podem ser criados através de lei ordinária.</label>
@@ -1176,7 +1176,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: E.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: E.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a E deve ser marcada:</strong> O princípio da insignificância implica na exclusão da tipicidade formal diante lesão ou risco de lesão irrelevante ao bem jurídico tutelado. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1191,7 +1191,7 @@
 </div>
 
 <div class="quiz-card" data-answer="D">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>46. Um pacote legislativo resultou na aprovação de três novas leis penais no Congresso Nacional. A Lei A revogou o crime previsto no art. 28 da Lei de Drogas (Lei nº 11.343/06). Noutro giro, a Lei B alterou o texto do art. 213 do Código Penal, passando a prever para o crime de estupro a pena de 8 a 12 anos de reclusão. Por fim, a Lei C alterou o art. 155 do Código Penal, passando a prever para o crime de furto simples a pena de detenção de 1 a 5 anos. Em relação ao tema, assinale a afirmativa correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-46" value="A"> A. A lei A se refere à hipótese de irretroatividade da lei penal mais severa.</label>
@@ -1202,7 +1202,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: D.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: D.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a D deve ser marcada:</strong> A lei B se refere à hipótese de ultratividade da lei anterior mais benéfica. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
@@ -1217,7 +1217,7 @@
 </div>
 
 <div class="quiz-card" data-answer="A">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>47. Júlio, brasileiro, embarca em um avião privado de matrícula brasileira, que faz o percurso entre Montevidéu (Uruguai) e Teresina (Piauí). Durante o voo, enquanto a aeronave sobrevoava o Oceano Atlântico (águas in- ternacionais), Júlio, com intenção de matar, ministrou um veneno de ação lenta em uma bebida oferecida ao seu desafeto, o estrangeiro Juan. A vítima começou a passar mal logo após a ingestão, mas a morte somente foi confirmada e atestada após o pouso no Aeroporto Senador Petrônio Portella, em Teresina, capital do Piauí. Diante de tal situação hipotética, assinale a opção correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-47" value="A"> A. A lei penal brasileira será aplicável por força do princípio da ubiquidade, correspondendo o local do crime ao lugar onde se produziu o resultado.</label>
@@ -1228,7 +1228,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: A.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a A deve ser marcada:</strong> A lei penal brasileira será aplicável por força do princípio da ubiquidade, correspondendo o local do crime ao lugar onde se produziu o resultado. — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada no gabarito do material de revisão.</li>
@@ -1243,7 +1243,7 @@
 </div>
 
 <div class="quiz-card" data-answer="C">
-<p class="quiz-source">Simulado de revisão FGV (AlfaCon) - Operação 04</p>
+<p class="quiz-source">AlfaCon - Simulado 4 (revisão FGV, não é prova oficial)</p>
 <p><strong>48. Lidiane, exímia nadadora, convida sua amiga Karen para realizarem a travessia a nado de um rio, afirmando que poderia socorrê-la caso tivesse qualquer dificuldade. Durante a travessia, Karen e Lidiane foram pegas por um forte redemoinho que as puxou para o fundo do rio. Lidiane conseguiu escapar, mas, em razão da forte correnteza, não conseguiu salvar Karen, que veio a falecer por afogamento. Considerando o fato acima narrado, Lidiane:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="alfacon-04-48" value="A"> A. será responsabilizada pelo homicídio de Karen por omissão imprópria, visto que criou a situação de perigo e assumiu a posição de garantidora;</label>
@@ -1254,7 +1254,7 @@
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: Simulado de revisão FGV (AlfaCon), Operação 04. Gabarito do material de revisão, não é prova oficial de banca.</p>
+<p><strong>Resposta: C.</strong> Fonte: AlfaCon, Simulado 4. Gabarito do material de revisão, não é prova oficial de banca.</p>
 <p><strong>Por que a C deve ser marcada:</strong> assumiu a função de garantidora, mas não responderá pela morte de Karen, pois estava impossibilitada de agir; — é a alternativa indicada no gabarito do material de revisão.</p>
 <ul class="quiz-explain">
 <li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao gabarito do material de revisão.</li>
