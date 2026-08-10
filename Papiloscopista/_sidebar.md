@@ -1,4 +1,5 @@
 - [Provas](PROVAS.md)
+- [Simulados](SIMULADOS.md)
 
 - **Língua Portuguesa**
   - [001 - Interpretação e compreensão de texto](temas/portugues/001_interpretacao-compreensao-texto.md)

@@ -71,13 +71,25 @@ Adicionadas: biologia/001 +30, /002 +30, /003 +6 (66 no total); portugues/001 +3
 ## Pasta: Alfacon/
 
 Material de **revisão da AlfaCon** ("estilo FGV"), não são provas oficiais de banca.
-Quando usadas, questões devem ser rotuladas como "Questão de revisão FGV (AlfaCon)",
-nunca atribuídas a uma banca/órgão específico como se fossem prova real.
+Quando usadas, questões devem ser rotuladas como "Questão de revisão FGV (AlfaCon)" /
+"Simulado de revisão FGV (AlfaCon)", nunca atribuídas a uma banca/órgão específico como
+se fossem prova real.
+
+**Rodada de 10/08/2026 — nasce o setor "Simulados" do site:** em vez de picotar estas questões por
+tema (como as demais pastas), a AlfaCon foi usada para montar `Papiloscopista/simulados/` — simulados
+completos, na ordem original do caderno, com placar único ao final (ver `SIMULADOS.md`). Escrito um
+parser dedicado (formato "N. enunciado / a)-e) opções / Gabarito: X / Comentário do professor") para
+os 5 arquivos com texto limpo e gabarito+comentário extraíveis: `exercicios-em-pdf_1` (Operação 01,
+45 questões), `_2` (Operação 02, 49), `_7` (Operação 03, 49), `_9` (Operação 04 - Caderno de Revisão,
+48) e `_15` (Operação 05, 47) = 238 questões, cada uma com o comentário completo do professor da
+AlfaCon preservado no card.
 
 | Arquivo | Status | Observação |
 |---|---|---|
 | AlfaCon--_1.pdf, _4.pdf, _6.pdf, _8.pdf, _12.pdf | avaliado, não usado | gabarito em tabela sem letra extraível em texto (provavelmente imagem) — não utilizável sem OCR |
-| AlfaCon--_2.pdf, _5.pdf, _7.pdf, _9.pdf, _13.pdf, _14.pdf, _15.pdf, _16.pdf | avaliado, não usado | Todos são material "PC PR - Missão 06 - Revisão FGV" (curso preparatório, questões escritas pela AlfaCon no "estilo FGV", não são provas oficiais). Têm "GABARITO: LETRA X" inline com explicação — tecnicamente utilizáveis, mas exigiriam rótulo obrigatório "Questão de revisão FGV (AlfaCon)" (nunca como prova oficial de banca/órgão). Conteúdo amostrado é majoritariamente Português, área já com cobertura extensa e verificada a partir de provas oficiais reais — valor marginal baixo frente ao esforço de limpar caracteres corrompidos na extração (ƴ, ǁ, Ƹ) e reverificar cada gabarito. Deixado de fora nesta rodada; retomar apenas se targetar disciplinas específicas com lacuna (ex.: RLM, Realidade PR) que este material cubra e as demais fontes não cubram. |
+| AlfaCon--_2.pdf, exercicios-em-pdf_1.pdf, _7.pdf, _9.pdf, _15.pdf | **usado** | Texto limpo (sem corrupção de acentuação) e gabarito+comentário extraíveis. Viraram os simulados Operação 01-05 em `Papiloscopista/simulados/`. |
+| AlfaCon--_5.pdf, _13.pdf, _16.pdf, exercicios-em-pdf_2.pdf | avaliado, não usado | Mesmo formato "Simulado Progressivo"/"Caderno de Revisão" dos usados acima, mas com forte corrupção de acentuação na extração de texto (milhares de caracteres substituídos por "ǁ"/"ƴ" — problema de mapeamento de fonte no PDF de origem). Não usado para não publicar texto com erros de grafia; retomar apenas com OCR ou reextração via outra ferramenta. |
+| AlfaCon--_14.pdf | avaliado, não usado | "Simulado Progressivo" sem nenhum gabarito/comentário extraível em texto (só o enunciado das questões) — resposta correta não verificável a partir deste arquivo. |
 | AlfaCon--exercicios-em-pdf_1.pdf, _2.pdf | avaliado, não usado | mesmo perfil dos arquivos acima (revisão AlfaCon, não prova oficial) |
 
 ## Pasta: Simulados/ (adicionada em 09/08/2026)
