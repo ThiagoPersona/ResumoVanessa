@@ -16,12 +16,12 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | RLM | Problemas lógicos, contagem, probabilidade e sequências | 4 | [Abrir](provas/rlm/004_problemas-logicos-contagem-probabilidade-sequencias.md) |
 | Realidade PR | História, geografia e organização territorial do Paraná | 3 | [Abrir](provas/realidade-pr/001_historia-geografia-parana.md) |
 | Realidade PR | Cultura, indicadores, economia, políticas públicas e atualidades | 3 | [Abrir](provas/realidade-pr/002_cultura-indicadores-economia-politicas-atualidades.md) |
-| Tecnologia | Hardware, software, periféricos e armazenamento | 9 | [Abrir](provas/tecnologia/001_hardware-software-perifericos-armazenamento.md) |
-| Tecnologia | Sistemas operacionais, aplicativos e dispositivos móveis | 14 | [Abrir](provas/tecnologia/002_sistemas-operacionais-aplicativos-dispositivos-moveis.md) |
-| Tecnologia | Internet, redes, nuvem, web, bancos e APIs | 10 | [Abrir](provas/tecnologia/003_internet-redes-nuvem-web-bancos-apis.md) |
-| Tecnologia | Segurança da informação, malware, phishing e backup | 10 | [Abrir](provas/tecnologia/004_seguranca-informacao-malware-phishing-backup.md) |
-| Tecnologia | Crimes digitais, evidências eletrônicas e OSINT | 11 | [Abrir](provas/tecnologia/005_crimes-digitais-evidencias-osint.md) |
-| Tecnologia | Legislação e ética digital | 9 | [Abrir](provas/tecnologia/006_legislacao-etica-digital.md) |
+| Tecnologia | Hardware, software, periféricos e armazenamento | 21 | [Abrir](provas/tecnologia/001_hardware-software-perifericos-armazenamento.md) |
+| Tecnologia | Sistemas operacionais, aplicativos e dispositivos móveis | 44 | [Abrir](provas/tecnologia/002_sistemas-operacionais-aplicativos-dispositivos-moveis.md) |
+| Tecnologia | Internet, redes, nuvem, web, bancos e APIs | 40 | [Abrir](provas/tecnologia/003_internet-redes-nuvem-web-bancos-apis.md) |
+| Tecnologia | Segurança da informação, malware, phishing e backup | 40 | [Abrir](provas/tecnologia/004_seguranca-informacao-malware-phishing-backup.md) |
+| Tecnologia | Crimes digitais, evidências eletrônicas e OSINT | 30 | [Abrir](provas/tecnologia/005_crimes-digitais-evidencias-osint.md) |
+| Tecnologia | Legislação e ética digital | 39 | [Abrir](provas/tecnologia/006_legislacao-etica-digital.md) |
 | Ciências Forenses | Medicina legal, identificação humana e papiloscopia | 8 | [Abrir](provas/ciencias-forenses/001_medicina-legal-identificacao-papiloscopia.md) |
 | Ciências Forenses | Antropologia, odontologia legal, DNA, reconhecimento facial e IA | 39 | [Abrir](provas/ciencias-forenses/002_antropologia-odontologia-dna-reconhecimento-facial-ia.md) |
 | Ciências Forenses | Sexologia, traumatologia, asfixiologia e balística | 41 | [Abrir](provas/ciencias-forenses/003_sexologia-traumatologia-asfixiologia-balistica.md) |
@@ -65,7 +65,7 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Direitos Humanos | Teoria, sistemas de proteção e democracia | 10 | [Abrir](provas/direitos-humanos/001_teoria-sistemas-protecao-democracia.md) |
 | Direitos Humanos | Grupos vulneráveis, segurança pública e atuação policial | 10 | [Abrir](provas/direitos-humanos/002_grupos-vulneraveis-atuacao-policial.md) |
 | Direitos Humanos | PNDH, educação em direitos humanos e Agenda 2030 | 7 | [Abrir](provas/direitos-humanos/003_pndh-educacao-agenda-2030.md) |
-| **Total** | **61 temas cobertos** | **511** | — |
+| **Total** | **61 temas cobertos** | **662** | — |
 
 ## Critério de conversão
 

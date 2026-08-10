@@ -36,7 +36,9 @@ Convenção de status:
 | infortunistica.txt, infortunistica2.txt | pendente | ciencias-forenses/003 (traumatologia/infortunística) | infortunistica2 tem 1 candidata FGV (Q4, simulação/metassimulação) ainda não usada; poucas FGV no geral |
 | Questões_de_Provas_-_Questões_de_Concursos_*.pdf (3 arquivos genéricos) | usado (parcial) | ciencias-forenses/005, 006, 008 | 8 questões aproveitadas (ISO 17025, geologia forense, microscopia em arte, ordem de volatilidade, tipos de vestígio digital). Restante (2 questões históricas de medicina legal — Nina Rodrigues, Traité des Relatoires) ainda não usado |
 
-## Pasta: informatica/
+## Pasta: informatica/ e informatica2/
+
+**Rodada de 09/08/2026 (importação em massa):** as duas pastas foram reprocessadas juntas via `all_questions_dedup.json` (mesmo pipeline usado em cienciasforenses nesta rodada). 644 questões válidas classificadas por palavra-chave nos temas 001-006 de tecnologia, deduplicadas contra o conteúdo já existente, gabarito extraído aceito como está. Adicionadas 151 questões novas (qualquer banca): tecnologia/001 +12, /002 +30, /003 +30, /004 +30, /005 +19, /006 +30 (30 é o teto por tema aplicado nesta rodada; sobraram candidatas em 002, 003, 004 e 006 para uma rodada futura). As tabelas abaixo refletem o estado *anterior* a essa rodada.
 
 | Arquivo | Status | Destino | Observação |
 |---|---|---|---|

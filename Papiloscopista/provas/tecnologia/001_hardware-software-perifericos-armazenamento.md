@@ -2,7 +2,7 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 9 questões (2 questões oficiais FGV com fonte e gabarito conferidos + 7 questões autorais no padrão FGV).
+**Itens neste banco:** 21 questões (2 questões oficiais FGV com fonte e gabarito conferidos + 7 questões autorais no padrão FGV + 12 questões reais de bancas diversas, com fonte e gabarito oficial extraídos de banco de questões qconcursos).
 
 ## Foco FGV
 
@@ -196,6 +196,17 @@ Estas questões são autorais e calibradas pelo padrão observado em provas FGV 
 
 ## Fontes reais usadas neste banco
 
+- FAU, Prefeitura de Dois Vizinhos - PR, 2023. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, AL-RO, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, ALERJ, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, AMAZUL, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, AgSUS, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, CNU, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, DATAPREV, 2024. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, MPU, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, PM-SP, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, Prefeitura de Canaã dos Carajás - PA, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
+- FGV, TRF - 1ª REGIÃO, 2024. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, MF, 2024. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, DATAPREV, 2024. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 
@@ -249,3 +260,315 @@ Estas questões são autorais e calibradas pelo padrão observado em provas FGV 
 
 - Inserir questões oficiais FGV quando o enunciado, imagens e gabarito estiverem conferidos.
 - Adicionar questões semelhantes de PF/Cebraspe, AOCP e IBFC apenas quando preencherem lacuna técnica do tema.
+
+<div class="quiz-card" data-answer="A">
+<p class="quiz-source">FGV - AgSUS, 2025</p>
+<p><strong>10. Durante um download de um arquivo, um usuário observa que a velocidade de transferência é de 8 Mbps (Megabits por segundo). A velocidade efetiva de download, em Megabytes por segundo (MB/s), é de, aproximadamente,</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-tec001-10" value="A"> A. 1 MB/s.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-10" value="B"> B. 8 MB/s.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-10" value="C"> C. 64 MB/s.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-10" value="D"> D. 0,5 MB/s.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-10" value="E"> E. 10 MB/s.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: A.</strong> Fonte: FGV, AgSUS, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito técnico pertinente; a banca aponta a alternativa A como correta.</p>
+<p><strong>Por que a A deve ser marcada:</strong> 1 MB/s. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="E">
+<p class="quiz-source">FGV - MPU, 2025</p>
+<p><strong>11. João é consultor de uma empresa de armazenamento de dados e foi contratado pela empresa X para buscar a solução mais adequada. João então elaborou um relatório com os requisitos. A empresa X possui um servidor dedicado e um data center. Esse servidor dedicado exige um controle direto sobre o armazenamento e a segurança dos dados, com acesso à camada de hardware do dispositivo. Entretanto, o data center busca uma solução em um sistema especializado especificamente para block storage, com recursos como capturas instantâneas, provisionamento fino e data replication. Com base no relatório de João, a empresa X implementará um storage, respectivamente:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-tec001-11" value="A"> A. virtual e físico;</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-11" value="B"> B. definido por software e físico;</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-11" value="C"> C. físico e físico;</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-11" value="D"> D. virtual e definido por software;</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-11" value="E"> E. físico e definido por software.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: E.</strong> Fonte: FGV, MPU, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito técnico pertinente; a banca aponta a alternativa E como correta.</p>
+<p><strong>Por que a E deve ser marcada:</strong> físico e definido por software. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - Prefeitura de Canaã dos Carajás - PA, 2025</p>
+<p><strong>12. Um psicólogo assistiu no Youtube um podcast sobre noções de informática. O apresentador informou que um byte é composto por 8 bits contíguos, e perguntou aos expectadores qual era o número máximo de combinações possíveis de bits em um único byte. Assinale a resposta correta.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-tec001-12" value="A"> A. 128.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-12" value="B"> B. 256.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-12" value="C"> C. 512.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-12" value="D"> D. 1024.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-12" value="E"> E. 2048.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, Prefeitura de Canaã dos Carajás - PA, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito técnico pertinente; a banca aponta a alternativa B como correta.</p>
+<p><strong>Por que a B deve ser marcada:</strong> 256. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - Prefeitura de Canaã dos Carajás - PA, 2025</p>
+<p><strong>13. Os dispositivos de entrada e saída (E/S) podem ser classificados em dois tipos: dispositivos usados como memória secundária e dispositivos usados como interface homem–computador. Considerando os dispositivos de E/S usados como interface homem–computador, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) A tela de cristal líquido (Liquid Cristal Display – LCD) é composta por cristais que se polarizam para gerar as cores. ( ) Os teclados são um dos componentes do computador com menos contato físico. O teclado possui um conjunto de teclas alfabéticas, numéricas, de pontuação, de símbolos e de controles. ( ) Os mouses sem fio funcionam com tecnologia de radiofrequência. Eles necessitam de pilhas ou baterias para funcionar. Operam com uma frequência de 2,4 GHz, permitindo que o computador reconheça os movimentos a uma distância de 10 metros. As afirmativas são, respectivamente,</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-tec001-13" value="A"> A. V – V – F.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-13" value="B"> B. V – F – V.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-13" value="C"> C. V – F – F.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-13" value="D"> D. F – V – F.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-13" value="E"> E. F – F – V.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, Prefeitura de Canaã dos Carajás - PA, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito técnico pertinente; a banca aponta a alternativa B como correta.</p>
+<p><strong>Por que a B deve ser marcada:</strong> V – F – V. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - AL-RO, 2026</p>
+<p><strong>14. Avalie as afirmativas a seguir, sobre componentes de um microcomputador: I. A Memória RAM é um tipo de memória volátil, utilizada para armazenar temporariamente os dados e programas em uso pelo sistema. II. A Memória ROM é uma memória volátil usada para armazenar instruções temporárias de inicialização, sendo apagada toda vez que o computador é desligado. III. A Unidade Central de Processamento (CPU) é responsável pela execução das instruções e pelo controle das operações realizadas pelo computador. Está correto o que se afirma em</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-tec001-14" value="A"> A. I, apenas.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-14" value="B"> B. II, apenas.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-14" value="C"> C. I e III, apenas.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-14" value="D"> D. II e III, apenas.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-14" value="E"> E. I, II e III.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, AL-RO, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito técnico pertinente; a banca aponta a alternativa C como correta.</p>
+<p><strong>Por que a C deve ser marcada:</strong> I e III, apenas. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">FGV - ALERJ, 2026</p>
+<p><strong>15. O setor de TI da ALERJ usa o Microsoft Teams para coordenar o trabalho em projetos. Eles criaram um time para o projeto chamado “Modernização da Rede” e desejam organizar as discussões sobre tópicos específicos, como hardware, software e documentação. Sobre a estrutura de um time no Microsoft Teams, assinale a opção que indica o recurso usado para organizar conversas, arquivos e ferramentas relacionadas a um tópico ou a uma área de trabalho específica dentro do projeto.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-tec001-15" value="A"> A. Chat Pessoal.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-15" value="B"> B. Guia Arquivos (Files Tab).</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-15" value="C"> C. Chat de Grupo.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-15" value="D"> D. Canal (Channel).</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-15" value="E"> E. Reunião (Meeting).</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: FGV, ALERJ, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito técnico pertinente; a banca aponta a alternativa D como correta.</p>
+<p><strong>Por que a D deve ser marcada:</strong> Canal (Channel). — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FAU - Prefeitura de Dois Vizinhos - PR, 2023</p>
+<p><strong>16. Qual é o tipo de lei que protege os direitos autorais de software?</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-tec001-16" value="A"> A. Lei de Patentes.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-16" value="B"> B. Lei de Marcas Registradas.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-16" value="C"> C. Lei de Direitos Autorais.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-16" value="D"> D. Lei de Segurança Cibernética.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-16" value="E"> E. Lei de Concorrência Desleal.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FAU, Prefeitura de Dois Vizinhos - PR, 2023. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito técnico pertinente; a banca aponta a alternativa C como correta.</p>
+<p><strong>Por que a C deve ser marcada:</strong> Lei de Direitos Autorais. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">FGV - PM-SP, 2025</p>
+<p><strong>17. Acerca dos ambientes Google Workspace, associe as ferramentas listadas a seguir às respectivas funções. 1. Meet 2. Drive 3. Google Calendar (   ) Facilita o armazenamento e compartilhamento de arquivos, permitindo o acesso online e colaborativo. (   ) Permite videoconferências e chamadas de voz, facilitando a comunicação em tempo real e a realização de reuniões online. (   ) Ajuda a organizar e gerenciar eventos e reuniões, permitindo que as pessoas saibam quando e onde precisam estar. Assinale a opção que indica a associação correta, na ordem apresentada.</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-tec001-17" value="A"> A. 1 – 3 – 2.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-17" value="B"> B. 1 – 2 – 3.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-17" value="C"> C. 2 – 3 – 1.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-17" value="D"> D. 2 – 1 – 3.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-17" value="E"> E. 3 – 1 – 2.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: FGV, PM-SP, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito técnico pertinente; a banca aponta a alternativa D como correta.</p>
+<p><strong>Por que a D deve ser marcada:</strong> 2 – 1 – 3. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="B">
+<p class="quiz-source">FGV - DATAPREV, 2024</p>
+<p><strong>18. Uma empresa está trabalhando na implementação e gerenciamento de seus ativos de software com base na norma ISO/IEC 19770. No momento, a empresa estuda a implementação do nível 2 dessa norma. Esse nível corresponde a</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-tec001-18" value="A"> A. atingir o estado estratégico ideal, permitindo que a gestão de ativos de TI apoie os objetivos do negócio.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-18" value="B"> B. cobrir o ambiente básico de controle de gestão, incluindo políticas, papéis e responsabilidades.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-18" value="C"> C. definir o conceito dos mecanismos que permitirão à empresa permanecer em conformidade contínua.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-18" value="D"> D. integrar a gestão de ativos de software nos processos operacionais da empresa.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-18" value="E"> E. montar uma base de dados para fornecer a capacidade de demonstrar a conformidade de licenciamento.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: B.</strong> Fonte: FGV, DATAPREV, 2024. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito técnico pertinente; a banca aponta a alternativa B como correta.</p>
+<p><strong>Por que a B deve ser marcada:</strong> cobrir o ambiente básico de controle de gestão, incluindo políticas, papéis e responsabilidades. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="D">
+<p class="quiz-source">FGV - TRF - 1ª REGIÃO, 2024</p>
+<p><strong>19. A empresa "CompraCerta", uma nova plataforma de e-commerce, está implementando SSL (Secure Sockets Layer) para garantir a segurança das transações entre seus clientes e servidores. Em relação aos aspectos técnicos do SSL, é correto afirmar que:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-tec001-19" value="A"> A. o SSL é um protocolo único projetado para fazer uso do TCP de modo a prover um serviço fim a fim seguro e confiável;</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-19" value="B"> B. entre qualquer par de participantes (aplicações como HTTP no cliente e no servidor), pode haver apenas uma conexão segura;</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-19" value="C"> C. o Protocolo de Apresentação SSL consiste em uma série de mensagens trocadas entre cliente e servidor. Pode-se considerar que essa troca possui sete fases;</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-19" value="D"> D. na operação global do protocolo de registro SSL, a primeira etapa é fragmentação. Cada mensagem de camada superior é fragmentada em blocos de 214 bytes (16.384 bytes) ou menos;</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-19" value="E"> E. a etapa final de processamento do Protocolo de Registro SSL é anexar um cabeçalho ao início da mensagem, consistindo nos campos: tipo de conteúdo, versão principal, comprimento comprimido e handshake.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: D.</strong> Fonte: FGV, TRF - 1ª REGIÃO, 2024. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito técnico pertinente; a banca aponta a alternativa D como correta.</p>
+<p><strong>Por que a D deve ser marcada:</strong> na operação global do protocolo de registro SSL, a primeira etapa é fragmentação. Cada mensagem de camada superior é fragmentada em blocos de 214 bytes (16.384 bytes) ou menos; — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - AMAZUL, 2026</p>
+<p><strong>20. O Navisworks é um software da Autodesk utilizado principalmente para</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-tec001-20" value="A"> A. modelagem 3D.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-20" value="B"> B. criação de animação e renderização.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-20" value="C"> C. modelagens de projetos.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-20" value="D"> D. edição de imagens.</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-20" value="E"> E. desenho técnico 2D.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, AMAZUL, 2026. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito técnico pertinente; a banca aponta a alternativa C como correta.</p>
+<p><strong>Por que a C deve ser marcada:</strong> modelagens de projetos. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
+
+<div class="quiz-card" data-answer="C">
+<p class="quiz-source">FGV - CNU, 2025</p>
+<p><strong>21. Paulo precisa analisar dados sobre a educação pública ao longo do tempo, envolvendo métricas sobre ingressos, egressos, bolsas, capacitação de docentes, entre outros. Para realizar esse monitoramento visando à avaliação das políticas da educação, Paulo deve:</strong></p>
+<div class="quiz-options">
+<label class="quiz-option"><input type="radio" name="real-tec001-21" value="A"> A. aderir ao programa Capacita GOV.BR para obter dados e analisar o resultado da capacitação de alunos aplicando algoritmos de Aprendizado de Máquina, como o Random Forest;</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-21" value="B"> B. coletar indicadores de desempenho escolar da Infovia Brasília e implementar as métricas correspondentes em um ambiente de visualização com dashboards;</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-21" value="C"> C. acessar os recursos de dados sobre o tema Educação no Portal Brasileiro de Dados Abertos (https://dados.gov.br) e analisá-los por meio de métricas usando uma ferramenta como o Power BI;</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-21" value="D"> D. desenvolver um projeto de Ciência de Dados fazendo uso de linguagens como Python para coletar dados disponíveis nos sites dos órgãos de educação e realizar o Reconhecimento de Entidades Nomeadas;</label>
+<label class="quiz-option"><input type="radio" name="real-tec001-21" value="E"> E. utilizar o serviço Modelo de Acessibilidade em Governo Eletrônico (eMAG) para avaliar o nível de acesso dos alunos às escolas públicas e outros índices educacionais.</label>
+</div>
+<button class="quiz-check" type="button">Checar resposta</button>
+<div class="quiz-feedback" hidden>
+<p><strong>Resposta: C.</strong> Fonte: FGV, CNU, 2025. Gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito técnico pertinente; a banca aponta a alternativa C como correta.</p>
+<p><strong>Por que a C deve ser marcada:</strong> acessar os recursos de dados sobre o tema Educação no Portal Brasileiro de Dados Abertos (https://dados.gov.br) e analisá-los por meio de métricas usando uma ferramenta como o Power BI; — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<ul class="quiz-explain">
+<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+</ul>
+<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+</div>
+</div>
