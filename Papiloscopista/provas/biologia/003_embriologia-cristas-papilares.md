@@ -2,18 +2,16 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 9 questões (2 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV + 6 questões reais de bancas diversas, com fonte e gabarito oficial extraídos de banco de questões qconcursos).
+**Itens neste banco:** 8 questões (2 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV + 5 questões reais de bancas diversas, com fonte e gabarito oficial extraídos de banco de questões qconcursos).
 
 ## Fontes reais usadas neste banco
 
 - FGV, FIOCRUZ, 2010. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, PC-MG, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, Prefeitura de Macaé - RJ, 2024. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
-- FGV, Prefeitura de São José dos Campos - SP, 2023. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, Prefeitura de São Lourenço da Mata - PE, 2024. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, SEDUC-MT, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
-- FGV, SEDUC-MT 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 
 <div class="quiz-card" data-answer="C">
 <p class="quiz-source">FGV - SEAD/AP Papiloscopista, Tipo 1 - Branca, 2022, questão 34</p>
@@ -111,16 +109,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: E.</strong> Fonte: FGV, FIOCRUZ, 2010. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa E como correta.</p>
-<p><strong>Por que a E deve ser marcada:</strong> 48 heterozigotos. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> aplique o equilíbrio de Hardy-Weinberg (p² + 2pq + q² = 1) com p = frequência de D1 = 0,8 e q = frequência de D2 = 0,2, multiplicando cada termo pelo tamanho da amostra (150).</p>
+<p><strong>Por que a E deve ser marcada:</strong> a frequência esperada de heterozigotos é 2pq = 2 × 0,8 × 0,2 = 0,32; em 150 indivíduos, isso dá 0,32 × 150 = 48 heterozigotos.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Homozigotos D1D1 esperados são p² × n = 0,64 × 150 = 96, não 80.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Pelo mesmo cálculo (p² × n = 96), 20 está muito abaixo do esperado para homozigotos D1D1.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Corresponde a esquecer de multiplicar por 2 no termo 2pq (0,8 × 0,2 × 150 = 24) e ainda arredondar mal — não é o valor correto de heterozigotos.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Está próximo do valor certo, mas não é o resultado do cálculo 2pq × n; é uma pegadinha para quem arredonda a frequência sem multiplicar com precisão.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> 2pq × n = 0,32 × 150 = 48 heterozigotos, batendo com a fórmula de Hardy-Weinberg.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> esquecer o fator 2 na fórmula do heterozigoto (2pq) é o erro mais comum nesse tipo de conta — sem ele você cai em 24, não em 48.</p>
 </div>
 </div>
 
@@ -137,16 +135,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: FGV, SEDUC-MT, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> a reprodução por fragmentação em Cladorhiza representa um mecanismo de reprodução assexuada, garantindo a perpetuação genética em ambientes extremos. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> o próprio enunciado já entrega a resposta ao descrever "reprodução por fragmentação" — fragmentação é, por definição, um mecanismo de multiplicação assexuada (um fragmento do organismo dá origem a um novo indivíduo geneticamente idêntico, sem fusão de gametas).</p>
+<p><strong>Por que a B deve ser marcada:</strong> fragmentação não envolve gametas nem fecundação; é reprodução assexuada, útil justamente onde encontrar parceiro para reprodução sexuada é raro (fundo abissal, baixa densidade populacional).</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Contradiz o próprio enunciado, que descreve fragmentação (assexuada) como a estratégia destacada, não reprodução sexuada.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> Fragmentação é reprodução assexuada por definição — não há formação nem fusão de gametas.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Fala de fecundação externa (sexuada), mas o exemplo do texto é de fragmentação (assexuada).</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Afirma dependência exclusiva da reprodução sexuada, o oposto do que o texto descreve para Cladorhiza.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Troca o mecanismo citado (fragmentação) por outro (brotamento) e erra o ambiente (o texto fala de baixa produtividade/escassez de nutrientes, não alta produtividade).</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> a banca troca o nome do mecanismo (fragmentação → brotamento) ou o tipo de reprodução (assexuada → sexuada) para testar se você leu o enunciado com atenção, não só decorou "reprodução em ambiente extremo".</p>
 </div>
 </div>
 
@@ -163,16 +161,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: FGV, PC-MG, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa A como correta.</p>
-<p><strong>Por que a A deve ser marcada:</strong> O homem não é o pai, pois não há como nascer um filho Rh positivo de um casal em que ambos são Rh negativo. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> separe os dois sistemas genéticos do problema. O sistema ABO só define uma probabilidade (não exclui ninguém sozinho); o sistema Rh, aqui, é o que realmente decide o caso, porque o alegado pai só pode transmitir alelos que ele possui.</p>
+<p><strong>Por que a A deve ser marcada:</strong> o homem é Rh negativo e seus pais também são (homozigotos para o fenótipo dele), logo o genótipo dele só pode ser <em>dd</em> — ele não tem o alelo <em>D</em> para transmitir. A mãe também é Rh negativo (<em>dd</em>). Um casal <em>dd</em> × <em>dd</em> só gera filhos <em>dd</em> (Rh negativo). Como a criança nasceu com eritroblastose fetal — condição causada por incompatibilidade Rh entre mãe Rh− e feto Rh+ —, ela precisa ser Rh positivo, o que é geneticamente impossível com esse homem como pai.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> A exclusão de paternidade vem do sistema Rh (impossibilidade genética), não do ABO.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Discute apenas a probabilidade pelo sistema ABO, mas ignora que o sistema Rh já exclui totalmente o homem como pai — a resposta não pode ser uma probabilidade parcial.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Afirma 100% de chance, mas o próprio Rh do homem (dd) impede que ele seja o pai de um filho Rh positivo.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> De novo, foca só no ABO (mesmo que o genótipo Ii desse 50% de compatibilidade para esse sistema) e ignora a exclusão definitiva pelo Rh.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Erra o próprio genótipo do homem: se os pais dele são homozigotos Rh negativo, ele não pode ter genótipo DD (que é Rh positivo).</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> a questão tenta te prender no cálculo de probabilidade do sistema ABO (que parece ser o "problema principal"), mas quem resolve o caso é o sistema Rh, que exclui o homem de forma absoluta e não probabilística.</p>
 </div>
 </div>
 
@@ -189,16 +187,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: FGV, Prefeitura de Macaé - RJ, 2024. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> dupla fecundação, em que se forma o zigoto e o endosperma. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> identifique o grupo vegetal citado no poema — bananeira e laranjeira são angiospermas (plantas com flor e fruto) — e lembre qual processo é exclusivo delas entre os grupos vegetais.</p>
+<p><strong>Por que a B deve ser marcada:</strong> a dupla fecundação é exclusiva das angiospermas: um núcleo espermático fecunda a oosfera (formando o zigoto/embrião) e outro se funde aos núcleos polares (formando o endosperma, tecido de reserva do fruto/semente). Gimnospermas e outros grupos vegetais não têm esse processo duplo.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Plantas têm alternância de gerações (fase haploide e diploide se alternam); não existe fase diploide permanente nesse ciclo.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> Dupla fecundação (zigoto + endosperma) é a característica exclusiva das angiospermas, grupo ao qual pertencem bananeira e laranjeira.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Descreve genericamente o grão de pólen, mas essa proteção não é exclusiva das angiospermas — gimnospermas também protegem seu gametófito masculino.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Mesmo erro de A, invertido: não existe fase haploide permanente no ciclo de vida dessas plantas.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> De novo descreve o pólen maduro de forma genérica, sem apontar o traço realmente exclusivo (a dupla fecundação).</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> as alternativas C e E tentam te distrair com uma descrição correta, mas genérica, do grão de pólen — o enunciado pede a característica <em>exclusiva</em> do grupo, e essa é a dupla fecundação, não a simples proteção do gametófito.</p>
 </div>
 </div>
 
@@ -215,41 +213,15 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: FGV, Prefeitura de São Lourenço da Mata - PE, 2024. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa A como correta.</p>
-<p><strong>Por que a A deve ser marcada:</strong> respiração traqueal. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> pense no que permitiu aos insetos conquistar o ambiente terrestre com tanto sucesso: um sistema respiratório eficiente e independente do sistema circulatório, que leva oxigênio diretamente às células.</p>
+<p><strong>Por que a A deve ser marcada:</strong> a respiração traqueal — rede de tubos (traqueias/traquéolas) que leva ar diretamente aos tecidos — é altamente eficiente e dispensa um sistema circulatório sofisticado para transportar gases, permitindo aos insetos ocupar praticamente todos os ambientes terrestres.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> A respiração traqueal é a adaptação-chave para a vida terrestre bem-sucedida dos insetos.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Inverte um fato biológico: insetos têm circulação <em>aberta</em> (hemolinfa banha diretamente os órgãos), não fechada.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> A maioria dos insetos tem fecundação interna, não externa — e isso não é a característica associada ao sucesso terrestre discutido no enunciado.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Insetos têm tubo digestório completo (boca e ânus), não incompleto.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Inverte outro fato: o exoesqueleto dos insetos é <em>impermeável</em> (cutícula com camada de cera), o que reduz a perda de água — justamente uma vantagem para a vida terrestre, não uma característica de permeabilidade.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - Prefeitura de São José dos Campos - SP, 2023</p>
-<p><strong>9. O sistema genital feminino produz os gametas (óvulos) e também alguns hormônios que regulam o surgimento de características secundárias e o ciclo menstrual. Sobre o sistema genital feminino, representado acima, é correto afirmar que</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="real-bio003-9" value="A"> A. o encontro dos gametas ocorre em 1.</label>
-<label class="quiz-option"><input type="radio" name="real-bio003-9" value="B"> B. a menstruação é a descamação do tecido que reveste 4.</label>
-<label class="quiz-option"><input type="radio" name="real-bio003-9" value="C"> C. a fecundação ocorre no órgão 3.</label>
-<label class="quiz-option"><input type="radio" name="real-bio003-9" value="D"> D. a nidação ocorre em 4.</label>
-<label class="quiz-option"><input type="radio" name="real-bio003-9" value="E"> E. a produção do hormônio folículo estimulante (FSH) ocorre em 2.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: FGV, Prefeitura de São José dos Campos - SP, 2023. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> a fecundação ocorre no órgão 3. — é a alternativa apontada pelo gabarito oficial da banca.</p>
-<ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-</ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> várias alternativas descrevem o oposto exato da característica real do inseto (circulação fechada em vez de aberta, exoesqueleto permeável em vez de impermeável) — leia cada termo com atenção, não apenas reconheça palavras-chave.</p>
 </div>
 </div>

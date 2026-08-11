@@ -5,7 +5,7 @@
 O mapa abaixo separa duas coisas que não devem ser misturadas:
 
 - **Peso oficial do edital:** já está completo para Papiloscopista.
-- **Banco FGV-style:** neste momento há 856 questões comentadas, com pelo menos uma por tema do edital.
+- **Banco FGV-style:** neste momento há 851 questões comentadas, com pelo menos uma por tema do edital.
 - **Validação por provas semelhantes:** já tem página própria para confrontar FGV Papiloscopista, FGV Perito/Polícia Civil e bancas próximas com os 61 temas.
 
 Isso evita inventar estatística de prova. À medida que os PDFs locais e oficiais forem convertidos, os totais por tema e a distribuição de alternativas devem ser atualizados aqui.
@@ -23,7 +23,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | Realidade PR | 5 | 2 | 6 | Conhecimentos Gerais, item 3 |
 | Tecnologia | 15 | 6 | 214 | Conhecimentos Específicos, item 1 |
 | Ciências Forenses | 10 | 8 | 160 | Conhecimentos Específicos, item 2 |
-| Biologia | 10 | 4 | 93 | Conhecimentos Específicos, item 3 |
+| Biologia | 10 | 4 | 88 | Conhecimentos Específicos, item 3 |
 | Física | 5 | 4 | 10 | Conhecimentos Específicos, item 4 |
 | Química | 5 | 5 | 21 | Conhecimentos Específicos, item 5 |
 | Legislação | 5 | 7 | 63 | Conhecimentos Específicos, item 6 |
@@ -82,8 +82,8 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | 025 | Ciências Forenses | Criminologia, vitimologia e controle social | Ciências Forenses 2.3 | alta | 6 (4 reais diversas) |
 | 026 | Ciências Forenses | Criminologia digital e investigação tecnológica | Ciências Forenses 2.4 | alta | 3 (2 oficiais FGV) |
 | 027 | Biologia | Citologia | Biologia 3.1 | alta | 36 (5 oficiais FGV + 30 reais diversas) |
-| 028 | Biologia | Genética | Biologia 3.2 | altíssima | 40 (8 oficiais FGV + 30 reais diversas) |
-| 029 | Biologia | Embriologia e cristas papilares | Biologia 3.3 | altíssima | 9 (2 oficiais FGV + 6 reais diversas) |
+| 028 | Biologia | Genética | Biologia 3.2 | altíssima | 36 (8 oficiais FGV + 26 reais diversas) |
+| 029 | Biologia | Embriologia e cristas papilares | Biologia 3.3 | altíssima | 8 (2 oficiais FGV + 5 reais diversas) |
 | 030 | Biologia | Biologia da identificação humana e biometria | Biologia 3.4 | altíssima | 8 (6 oficiais FGV) |
 | 031 | Física | Óptica e formação de imagens | Física 4.1 | alta | 4 (2 oficiais FGV) |
 | 032 | Física | UV, fluorescência, ondas e eletromagnetismo | Física 4.1-4.2 | alta | 4 (2 oficiais FGV) |

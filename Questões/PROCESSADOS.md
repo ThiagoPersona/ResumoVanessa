@@ -9,6 +9,15 @@ Convenção de status:
 - `revisado-sem-uso` — arquivo foi lido/extraído, mas nenhuma questão nova coube nos temas do edital (fora de escopo, duplicada, ou gabarito não verificável).
 - `pendente` — ainda não processado.
 
+## Rodada de qualidade de 11/08/2026 — reescrita das explicações do lote de importação em massa
+
+As 446 questões importadas em massa em 09-10/08/2026 (Ciências Forenses, Tecnologia, Biologia, Português — ver seções abaixo) usaram um template genérico de explicação ("Não corresponde ao enunciado; descartada pelo gabarito oficial da banca" repetido em toda alternativa errada), a troca de rigor por volume combinada com o usuário na época. O usuário apontou, com razão, que isso não serve como material de estudo — precisa explicar *por que* cada alternativa errada está errada, não só "porque o gabarito diz que não é essa".
+
+Iniciada rodada de reescrita, tema por tema: cada questão é lida de novo, a explicação de cada alternativa é escrita com o raciocínio real (não mais gabarito-como-autoridade), e questões que dependem de imagem/tabela não capturada na extração (ex.: "a figura mostra...", heredograma, árvore filogenética) ou que têm opções vazias/corrompidas por artefato de raspagem são **removidas** em vez de mantidas com pedaços faltando. Progresso registrado por tema conforme concluído.
+
+- biologia/003 (embriologia): 6 questões revisadas, 1 removida (dependia de imagem não capturada) → 8 questões no total.
+- biologia/002 (genética): 30 questões revisadas, 4 removidas (1 com opções vazias, 3 dependiam de figura/tabela) → 36 questões no total.
+
 ## Pasta: cienciasforenses/
 
 **Rodada de 09/08/2026 (importação em massa):** todos os arquivos desta pasta foram reprocessados de uma vez via `all_questions_dedup.json` (parser estruturado que já cobria a pasta inteira, banca/órgão/ano/gabarito extraídos automaticamente do texto). Cada questão candidata foi classificada por palavra-chave no tema mais aderente, deduplicada contra o conteúdo já existente e o gabarito extraído foi aceito como está (fonte + "gabarito oficial da banca" citados no card, sem re-derivação manual questão a questão — troca deliberada de rigor por volume, a pedido do usuário). Adicionadas 101 questões novas (qualquer banca, não só FGV): ciencias-forenses/001 +1, /002 +30, /003 +30, /004 +30, /005 +7, /007 +4. As tabelas de arquivo individuais abaixo refletem o estado *anterior* a essa rodada; ainda restam candidatas não usadas em cada arquivo (o parser extraiu 492 questões válidas do assunto, 390 ainda não entraram no banco) para uma futura rodada.
