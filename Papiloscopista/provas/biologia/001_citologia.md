@@ -2,25 +2,22 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 36 questões (5 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV + 30 questões reais de bancas diversas, com fonte e gabarito oficial extraídos de banco de questões qconcursos).
+**Itens neste banco:** 31 questões (5 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV + 25 questões reais de bancas diversas, com fonte e gabarito oficial extraídos de banco de questões qconcursos).
 
 ## Fontes reais usadas neste banco
 
 - FGV, EBSERH, 2024. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, EBSERH, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, FIOCRUZ, 2010. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
-- FGV, PC-MA, 2012. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, PC-MG, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, PC-RJ, 2011. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, Prefeitura de Caraguatatuba - SP, 2024. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, Prefeitura de Manaus - AM, 2022. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, Prefeitura de Paulínia - SP, 2021. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, Prefeitura de São José dos Campos - SP, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
-- FGV, SEDUC-AM, 2014. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, SEDUC-SP, 2023. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, SEDUC-TO, 2023. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, SEEC-RN, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
-- FGV, SME - SP, 2016. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, SUSAM, 2014. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, SEAD/AP - Peritos 2022, Papiloscopista, Tipo 1 - Branca (mesmo cargo deste edital). Gabarito definitivo publicado pela FGV.
 - FGV, PC-RJ 2011 - Perito Legista/Perito Criminal (cargo pericial correlato). Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
@@ -202,16 +199,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: FGV, Prefeitura de São José dos Campos - SP, 2026. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> ribossomos e RNAm. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> pense no que é indispensável para QUALQUER célula viva traduzir informação genética em proteína — isso remonta ao ancestral comum de todos os seres vivos, incluindo LUCA.</p>
+<p><strong>Por que a B deve ser marcada:</strong> ribossomos (fazem a síntese de proteínas) e RNAm (carrega a informação do DNA até o ribossomo) são estruturas/moléculas universais, presentes em toda célula viva conhecida — por isso, devem ter existido já em LUCA.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> RNAm é universal, mas cápsula é uma estrutura presente apenas em certas bactérias (nem todas), não em arqueias — não é compartilhada por todos os organismos citados.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> Ribossomos e RNAm são universais entre bactérias, arqueias e eucariontes.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Fímbrias são estruturas específicas de certas bactérias, ausentes em arqueias e eucariontes — não são universais.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Núcleo é exclusivo de eucariontes; bactérias e arqueias não o possuem, então não poderia estar em LUCA.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Nucleoide é característico de procariontes, mas flagelos não são universais (muitas bactérias e arqueias não têm) — não é um componente comum a todos.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> as outras alternativas trazem estruturas reais da biologia procariótica, mas que só existem em ALGUNS grupos — o enunciado pede o que é compartilhado por TODOS os organismos citados, ou seja, algo universal.</p>
 </div>
 </div>
 
@@ -228,16 +225,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: FGV, Prefeitura de Manaus - AM, 2022. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> difusão simples, processo passivo onde as moléculas do gás se movimentam a favor do gradiente de concentração. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> gases (O2, CO2) atravessam a membrana sem gasto de energia e sem necessidade de proteína transportadora — o próprio gás, sendo pequeno e apolar, atravessa a bicamada lipídica diretamente, sempre do local mais concentrado para o menos concentrado.</p>
+<p><strong>Por que a C deve ser marcada:</strong> a troca gasosa ocorre por difusão simples (sem proteína, sem ATP) e é passiva, seguindo o gradiente de concentração (do meio mais concentrado para o menos concentrado) — não contra ele.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Difusão simples é processo passivo (não gasta ATP) e ocorre a favor do gradiente — a alternativa erra em chamá-la de "ativa" e "contra o gradiente".</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Trocas gasosas usam difusão simples, não facilitada (que exigiria proteína transportadora) — além disso, erra a direção do movimento (deveria ser a favor, não contra o gradiente).</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> Descreve corretamente o mecanismo: difusão simples, passiva, a favor do gradiente.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Gases não precisam de proteína transportadora (não é difusão facilitada) nem de gasto de energia (não é processo ativo).</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Acerta "difusão simples" e "passivo", mas erra a direção — difusão sempre ocorre a favor do gradiente de concentração, nunca contra ele (isso seria transporte ativo).</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> "processo passivo" e "contra o gradiente" são incompatíveis entre si — todo processo passivo (sem gasto de energia) só pode ocorrer a favor do gradiente; ir contra o gradiente sempre exige energia (transporte ativo).</p>
 </div>
 </div>
 
@@ -254,48 +251,20 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: FGV, Prefeitura de Paulínia - SP, 2021. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> V – F – F. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> lembre a diferença essencial entre metabolismo CAM (separação temporal — noite/dia na mesma célula) e via C4 (separação espacial — mesofilo/bainha do feixe, células diferentes); e lembre que o ciclo de Calvin sempre depende de ATP/NADPH gerados na fase clara, mesmo em plantas CAM.</p>
+<p><strong>Por que V-F-F está correto:</strong> a 1ª descreve corretamente a estratégia CAM (estômatos à noite, economia de água); a 2ª erra porque o ciclo de Calvin ocorre de dia (não à noite) e continua dependendo da fase clara; a 3ª descreve a via C4 (mesofilo/bainha do feixe), não o CAM, que ocorre nas mesmas células em momentos diferentes.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>1ª afirmativa (V).</strong> É a definição central do metabolismo CAM: estômatos abertos à noite (fixando CO2 como ácido málico) e fechados de dia, reduzindo a perda de água em clima quente e seco.</li>
+<li><strong>2ª afirmativa (F).</strong> O ácido málico estocado à noite é liberado de dia para alimentar o ciclo de Calvin, que ocorre com os estômatos fechados durante o dia — e continua precisando de ATP/NADPH da fase clara (luz), não é independente dela.</li>
+<li><strong>3ª afirmativa (F).</strong> Separar as reações entre células do mesofilo e da bainha do feixe é a estratégia da via C4 (separação espacial); no CAM, a separação é temporal (dia/noite), ocorrendo nas mesmas células do mesofilo.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - Prefeitura de Paulínia - SP, 2021</p>
-<p><strong>10. O caminho que um impulso nervoso segue, de sua origem nos dendritos ou no corpo celular de um neurônio até seu término em outro local, é denominado via nervosa. Um tipo de via nervosa é o arco reflexo. https://mathsmadeeasy.co.uk/wp-content/uploads/2017/10/TheNervous-System-1-Questions-AQA-OCR-Edexcel.pdf No diagrama acima a letra A está representando o</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="real-bio001-10" value="A"> A. neurônio de associação, que conduz o impulso do receptor direto ao efetor.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-10" value="B"> B. receptor, que responde a um estímulo por meio de um impulso motor.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-10" value="C"> C. neurônio sensitivo, que conduz o impulso do receptor ao centro integrador.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-10" value="D"> D. efetor, que responde a um estímulo por meio de um impulso motor.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-10" value="E"> E. neurônio motor, que conduz o impulso do receptor direto ao efetor.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: FGV, Prefeitura de Paulínia - SP, 2021. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> neurônio sensitivo, que conduz o impulso do receptor ao centro integrador. — é a alternativa apontada pelo gabarito oficial da banca.</p>
-<ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-</ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> confundir CAM (separação no tempo, mesma célula) com C4 (separação no espaço, células diferentes) — a 3ª afirmativa descreve corretamente a via C4, mas erra por atribuí-la ao CAM, tema da questão.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">FGV - Prefeitura de Paulínia - SP, 2021</p>
-<p><strong>11. A imagem ilustra o complexo sinaptonêmico em Lilium (Raven, P.H., Evert, R.F. &amp; Eichhorn, S.E. Biologia Vegetal, 8ª ed. Rio de Janeiro: Guanabara Koogan S.A, 2014.) Os complexos sinaptonêmicos ocorrem nas células em divisão durante a</strong></p>
+<p><strong>10. A imagem ilustra o complexo sinaptonêmico em Lilium (Raven, P.H., Evert, R.F. &amp; Eichhorn, S.E. Biologia Vegetal, 8ª ed. Rio de Janeiro: Guanabara Koogan S.A, 2014.) Os complexos sinaptonêmicos ocorrem nas células em divisão durante a</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-11" value="A"> A. prófase I da meiose.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-11" value="B"> B. metáfase I da meiose</label>
@@ -306,152 +275,74 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: FGV, Prefeitura de Paulínia - SP, 2021. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa A como correta.</p>
-<p><strong>Por que a A deve ser marcada:</strong> prófase I da meiose. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> lembre a função do complexo sinaptonêmico: uma estrutura proteica que "costura" os cromossomos homólogos lado a lado, permitindo o pareamento e o crossing-over — isso só faz sentido em uma fase que envolve homólogos, que só existe na meiose I.</p>
+<p><strong>Por que a A deve ser marcada:</strong> o complexo sinaptonêmico se forma durante a prófase I da meiose, na etapa de pareamento dos cromossomos homólogos (sinapse), viabilizando a permutação genética (crossing-over).</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É exatamente na prófase I que ocorre o pareamento de homólogos mediado pelo complexo sinaptonêmico.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Na metáfase I os homólogos já estão pareados e alinhados no centro da célula — o complexo sinaptonêmico já cumpriu seu papel na prófase I anterior.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Na prófase II não há mais cromossomos homólogos para parear (a meiose I já os separou) — não há complexo sinaptonêmico nessa fase.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Mesma razão de B: não é a fase de pareamento de homólogos.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> A mitose não envolve pareamento de cromossomos homólogos (cada cromossomo se comporta de forma independente) — não há complexo sinaptonêmico na mitose.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - SME - SP, 2016</p>
-<p><strong>12. O professor de Biologia mostrou aos alunos as figuras a seguir que representam duas mitocôndrias (1 e 2) de modo simplificado e, aproximadamente, na mesma escala. Ele informou aos alunos que uma delas correspondia à mitocôndria de células da pele e a outra, à de células de um músculo estriado. Após diversas discussões intermediadas pelo professor, os alunos concluíram que a mitocôndria proveniente das células musculares correspondia</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="real-bio001-12" value="A"> A. à figura 1, uma vez que, sendo menor e com mais cristas, apresenta maior absorção de glicose e oxigênio.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-12" value="B"> B. à figura 1, uma vez que, tendo mais cristas, apresenta maior produção de ATP.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-12" value="C"> C. à figura 1, uma vez que, sendo menor e com mais cristas, apresenta maior superfície de contato com a actina e a miosina.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-12" value="D"> D. à figura 2, uma vez que, sendo maior e com menos cristas, pode produzir maior quantidade de ATP.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-12" value="E"> E. à figura 2, uma vez que, sendo maior e com mais cristas, consome menos energia para produzir ATP.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: FGV, SME - SP, 2016. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> à figura 1, uma vez que, tendo mais cristas, apresenta maior produção de ATP. — é a alternativa apontada pelo gabarito oficial da banca.</p>
-<ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-</ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="A">
-<p class="quiz-source">FGV - SEDUC-AM, 2014</p>
-<p><strong>13. O gráfico a seguir mostra os dados relativos à medida da atividade fotossintética de duas plantas (I e II), em um ambiente onde apenas a intensidade luminosa variava. A partir dos dados fornecidos pelo gráfico, assinale a afirmativa correta.</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="real-bio001-13" value="A"> A. Em locais de baixa luminosidade, a planta I é mais eficiente que a II.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-13" value="B"> B. Na planta I funcionam dois tipos de clorofila e na planta II, apenas um tipo.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-13" value="C"> C. A planta I apresenta menor número de cloroplastos por célula que a planta II.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-13" value="D"> D. Em qualquer tipo de luminosidade, a planta I é mais eficiente que a planta II.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-13" value="E"> E. A planta I utiliza melhor as luzes de menor comprimento de onda que a planta II.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: A.</strong> Fonte: FGV, SEDUC-AM, 2014. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa A como correta.</p>
-<p><strong>Por que a A deve ser marcada:</strong> Em locais de baixa luminosidade, a planta I é mais eficiente que a II. — é a alternativa apontada pelo gabarito oficial da banca.</p>
-<ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-</ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> o complexo sinaptonêmico está ligado ao pareamento de homólogos — só existe onde há homólogos para parear, ou seja, exclusivamente na prófase I da meiose (nunca na mitose ou na meiose II).</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">FGV - SUSAM, 2014</p>
-<p><strong>14. Assinale a opção que indica a principal causa de diminuição do nível de glicose no líquido cefalorraquidiano (LCR) na meningite bacteriana.</strong></p>
+<p><strong>11. Assinale a opção que indica a principal causa de diminuição do nível de glicose no líquido cefalorraquidiano (LCR) na meningite bacteriana.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-14" value="A"> A. Utilização de glicose pelos microrganismos presentes no LCR</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-14" value="B"> B. Glicólise rápida</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-14" value="C"> C. Utilização da glicose pelos leucócitos presentes no LCR</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-14" value="D"> D. Alteração do transporte hematoencefálico da glicose</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-14" value="E"> E. Utilização da glicose pelas células nervosas Respostas 261: A 262: D 263: A 264: A 265: A 266: B 267: C 268: C 269: E 270: E 271: D 272: B 273: D 274: E 275: C 276: E 277: C 278: B 279: A 280: A Provas: FGV - 2014 - SUSAM - Farmacêutico Bioquímico ... Provas: FGV - 2014 - SUSAM - Farmacêutico Bioquímico ...</label>
+<label class="quiz-option"><input type="radio" name="real-bio001-14" value="E"> E. Utilização da glicose pelas células nervosas</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: FGV, SUSAM, 2014. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa A como correta.</p>
-<p><strong>Por que a A deve ser marcada:</strong> Utilização de glicose pelos microrganismos presentes no LCR — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> pense em quem está "comendo" a glicose do líquor: numa meningite bacteriana, há uma população bacteriana ativa e numerosa no espaço subaracnóideo, consumindo glicose para seu próprio metabolismo — daí a hipoglicorraquia característica desse tipo de meningite (diferente da meningite viral, em que a glicose costuma estar normal).</p>
+<p><strong>Por que a A deve ser marcada:</strong> as bactérias presentes no LCR utilizam a glicose disponível como fonte de energia para seu metabolismo, consumindo-a diretamente — esse é o principal motivo da baixa glicorraquia na meningite bacteriana.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> O consumo direto de glicose pelas bactérias é a causa central da hipoglicorraquia bacteriana.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "Glicólise rápida" isolada, sem especificar quem a realiza, não explica por que a glicose cai especificamente na infecção bacteriana (e não na viral).</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Os leucócitos presentes também consomem alguma glicose, mas o consumo bacteriano é o fator predominante e característico desse quadro — não é a causa principal citada como resposta.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> O transporte de glicose pela barreira hematoencefálica pode ficar alterado em processos inflamatórios, mas não é o mecanismo central apontado para a meningite bacteriana especificamente.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Neurônios consomem glicose normalmente, mas isso ocorre independentemente da meningite — não explica a queda específica associada à infecção bacteriana.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> várias alternativas citam consumidores reais de glicose (leucócitos, neurônios), mas a causa mais direta e característica da hipoglicorraquia na meningite bacteriana é o consumo pelas próprias bactérias, que se multiplicam ativamente no LCR.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="E">
 <p class="quiz-source">FGV - SUSAM, 2014</p>
-<p><strong>15. No cérebro existe uma camada contínua de células endoteliais unidas por zonas de oclusão, que o torna inacessível a muitas drogas de ação sistêmica, incluindo muitos agentes antineoplásicos e antibióticos. Essa camada é conhecida como</strong></p>
+<p><strong>12. No cérebro existe uma camada contínua de células endoteliais unidas por zonas de oclusão, que o torna inacessível a muitas drogas de ação sistêmica, incluindo muitos agentes antineoplásicos e antibióticos. Essa camada é conhecida como</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-15" value="A"> A. espaço intratecal.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-15" value="B"> B. espaço peridural.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-15" value="C"> C. barreira cerebral.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-15" value="D"> D. espaço raquidiano.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-15" value="E"> E. barreira hematoencefálica. Provas: FGV - 2014 - SUSAM - Farmacêutico Bioquímico ... Provas: FGV - 2014 - SUSAM - Farmacêutico Bioquímico ... Provas: FGV - 2014 - SUSAM - Farmacêutico Bioquímico ... Resumo relacionado Ecologia e Ciências Ambientais para concursos: resumo completo Ecologia é o ramo da Biologia que estuda as interações entre os seres vivos e o ambiente em que vivem. Já as ciências ambientais abrangem o estudo do meio ambiente de forma interdisciplinar, considerando fatores biológicos, físicos e sociais. O conhecimento desses… Resumo relacionado Origem e Evolução da Vida: resumo e principais conceitos A origem e evolução da vida são temas essenciais na Biologia, especialmente em concursos públicos, pois tratam do surgimento da vida na Terra e das transformações que permitiram a diversidade biológica atual. Compreender esses processos é fundamental…</label>
+<label class="quiz-option"><input type="radio" name="real-bio001-15" value="E"> E. barreira hematoencefálica.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: E.</strong> Fonte: FGV, SUSAM, 2014. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa E como correta.</p>
-<p><strong>Por que a E deve ser marcada:</strong> barreira hematoencefálica. Provas: FGV - 2014 - SUSAM - Farmacêutico Bioquímico ... Provas: FGV - 2014 - SUSAM - Farmacêutico Bioquímico ... Provas: FGV - 2014 - SUSAM - Farmacêutico Bioquímico ... Resumo relacionado Ecologia e Ciências Ambientais para concursos: resumo completo Ecologia é o ramo da Biologia que estuda as interações entre os seres vivos e o ambiente em que vivem. Já as ciências ambientais abrangem o estudo do meio ambiente de forma interdisciplinar, considerando fatores biológicos, físicos e sociais. O conhecimento desses… Resumo relacionado Origem e Evolução da Vida: resumo e principais conceitos A origem e evolução da vida são temas essenciais na Biologia, especialmente em concursos públicos, pois tratam do surgimento da vida na Terra e das transformações que permitiram a diversidade biológica atual. Compreender esses processos é fundamental… — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> a descrição — camada de células endoteliais unidas por junções que bloqueiam a passagem de muitas drogas — é a definição clássica da barreira que protege o encéfalo, filtrando o que passa do sangue para o tecido nervoso.</p>
+<p><strong>Por que a E deve ser marcada:</strong> a barreira hematoencefálica é formada por células endoteliais dos capilares cerebrais unidas por junções de oclusão (tight junctions), que restringem a passagem de muitas substâncias, incluindo diversos fármacos.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Espaço intratecal é a região onde circula o líquor (entre as meninges), não uma camada celular de endotélio.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Espaço peridural é um espaço anatômico na coluna vertebral, sem relação com a barreira descrita.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> "Barreira cerebral" é um termo genérico e impreciso; o nome técnico correto e específico é barreira hematoencefálica.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Espaço raquidiano também é um espaço anatômico (não uma camada celular restritiva) — não corresponde à estrutura descrita.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É o nome técnico correto da estrutura formada por células endoteliais com junções de oclusão que limita a passagem de substâncias para o sistema nervoso central.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - PC-MA, 2012</p>
-<p><strong>16. No esquema a seguir estão parcialmente representadas as estruturas de duas células. Analisando o esquema, é correto afirmar que :</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="real-bio001-16" value="A"> A. 1 representa um espermatozóide porque apresenta flagelo.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-16" value="B"> B. 2 representa uma célula vegetal porque apresenta um grande vacúolo.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-16" value="C"> C. 1 é de uma célula procarionte e 2 de um eucarionte, porque apenas 2 apresenta membrana nuclear</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-16" value="D"> D. 1 e 2 representam células eucariontes porque em ambos existe membrana nuclear.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-16" value="E"> E. 1 e 2 representam bactérias, sendo o 1 bactéria com flagelo e 2 sem flagelo.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: FGV, PC-MA, 2012. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> 1 é de uma célula procarionte e 2 de um eucarionte, porque apenas 2 apresenta membrana nuclear — é a alternativa apontada pelo gabarito oficial da banca.</p>
-<ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-</ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> confundir espaços anatômicos (intratecal, peridural, raquidiano — todos preenchidos por líquido) com uma barreira celular funcional (a hematoencefálica, formada por células vivas com junções especializadas).</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
 <p class="quiz-source">FGV - PC-RJ, 2011</p>
-<p><strong>17. Experimentalmente é possível seguir a trajetória de uma proteína a partir de sua biossíntese até seu destino final. Assinale a alternativa que indica o trajeto feito por uma proteína secretada por uma célula endócrina.</strong></p>
+<p><strong>13. Experimentalmente é possível seguir a trajetória de uma proteína a partir de sua biossíntese até seu destino final. Assinale a alternativa que indica o trajeto feito por uma proteína secretada por uma célula endócrina.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-17" value="A"> A. Retículo endoplásmico aparelho de Golgi núcleo.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-17" value="B"> B. Aparelho de Golgi retículo endoplásmico lisossoma.</label>
@@ -462,48 +353,48 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: FGV, PC-RJ, 2011. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa D como correta.</p>
-<p><strong>Por que a D deve ser marcada:</strong> Retículo endoplásmico aparelho de Golgi vesículas que se fundem com a membrana plasmática. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> memorize a via secretora clássica: proteína é sintetizada no RE rugoso → processada/empacotada no complexo de Golgi → sai em vesículas que se fundem à membrana plasmática, liberando o conteúdo para fora da célula (exocitose).</p>
+<p><strong>Por que a D deve ser marcada:</strong> descreve corretamente a via secretora: retículo endoplasmático (síntese) → Golgi (processamento/empacotamento) → vesículas que se fundem à membrana plasmática (secreção).</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Termina no núcleo, mas o núcleo não faz parte da via de secreção de proteínas — é de onde vem a informação genética, não o destino da proteína secretada.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Inverte a ordem (Golgi antes do retículo) e termina em lisossomo, não em secreção para fora da célula.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Começa pelo núcleo como se fosse uma organela de trânsito da proteína, quando na verdade o núcleo só fornece o RNAm que será traduzido no retículo.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> Segue exatamente a rota real de uma proteína secretada.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Passa por lisossomo em vez de Golgi — lisossomo é destino de enzimas digestivas intracelulares, não etapa da via secretora padrão.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> trocar o lisossomo (digestão intracelular) pelo complexo de Golgi (processamento/empacotamento para secreção) — são organelas com destinos finais bem diferentes na rota de uma proteína.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">FGV - FIOCRUZ, 2010</p>
-<p><strong>18. Nas células eucarióticas, as proteínas que são destinadas à exportação são sintetizadas no:</strong></p>
+<p><strong>14. Nas células eucarióticas, as proteínas que são destinadas à exportação são sintetizadas no:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-18" value="A"> A. retículo endoplasmático rugoso.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-18" value="B"> B. retículo endoplasmático liso.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-18" value="C"> C. ribossomos livres no citoplasma.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-18" value="D"> D. ribossomos associados à membrana plasmática. da Pesquisa</label>
+<label class="quiz-option"><input type="radio" name="real-bio001-18" value="D"> D. ribossomos associados à membrana plasmática.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-18" value="E"> E. ribossomos no interior das mitocôndrias.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: FGV, FIOCRUZ, 2010. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa A como correta.</p>
-<p><strong>Por que a A deve ser marcada:</strong> retículo endoplasmático rugoso. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> ribossomos livres (no citosol) sintetizam proteínas de USO INTERNO da própria célula; ribossomos aderidos ao retículo endoplasmático rugoso sintetizam proteínas destinadas à EXPORTAÇÃO (secreção) ou a organelas do sistema endomembranoso.</p>
+<p><strong>Por que a A deve ser marcada:</strong> o retículo endoplasmático rugoso, coberto por ribossomos aderidos, é o local de síntese das proteínas que serão exportadas (após passar por Golgi e vesículas de secreção).</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É onde a tradução de proteínas destinadas à exportação começa.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> O retículo liso não tem ribossomos aderidos; atua em síntese de lipídios e destoxificação, não em síntese proteica.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Ribossomos livres no citoplasma produzem proteínas para uso da própria célula (citosólicas), não para exportação.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Ribossomos não ficam associados diretamente à membrana plasmática; ficam associados ao retículo endoplasmático.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Mitocôndrias têm seus próprios ribossomos (70S), mas sintetizam apenas algumas proteínas mitocondriais internas, não proteínas de exportação da célula.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> confundir ribossomos livres (proteínas de uso interno/citosólico) com ribossomos aderidos ao retículo rugoso (proteínas de exportação/membrana/organelas do sistema endomembranoso) — a localização do ribossomo já indica o destino da proteína.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
 <p class="quiz-source">FGV - FIOCRUZ, 2010</p>
-<p><strong>19. A biologia do sistema excretor dos insetos evoluiu para a vida no ambiente terrestre, onde o problema de perda hídrica é constante. A excreção nos insetos é realizada em órgãos que se localizam entre os intestinos médio e posterior. Identifique nas alternativas a resposta correta.</strong></p>
+<p><strong>15. A biologia do sistema excretor dos insetos evoluiu para a vida no ambiente terrestre, onde o problema de perda hídrica é constante. A excreção nos insetos é realizada em órgãos que se localizam entre os intestinos médio e posterior. Identifique nas alternativas a resposta correta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-19" value="A"> A. Glândulas coxais.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-19" value="B"> B. Nefrídeos.</label>
@@ -514,22 +405,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: FGV, FIOCRUZ, 2010. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> Túbulos de Malpighi. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> associe cada estrutura excretora ao seu grupo animal: insetos → túbulos de Malpighi; anelídeos → metanefrídeos; platelmintos → células-flama; crustáceos → glândulas antenais/coxais.</p>
+<p><strong>Por que a C deve ser marcada:</strong> os túbulos de Malpighi são a estrutura excretora típica dos insetos, localizados entre os intestinos médio e posterior, adaptados para conservar água (excreção de ácido úrico quase sólido) — uma adaptação-chave à vida terrestre.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Glândulas coxais são órgãos excretores de aracnídeos, não de insetos.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Nefrídeos (metanefrídeos) são típicos de anelídeos (minhocas), estrutura diferente dos túbulos de Malpighi.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a estrutura excretora correta e específica dos insetos.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Células-flama são típicas de platelmintos (planárias), não de insetos.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Metanefrídeos, de novo, são de anelídeos, não de insetos.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> misturar as estruturas excretoras de diferentes filos do reino animal — cada grupo (platelmintos, anelídeos, insetos, aracnídeos) tem seu órgão excretor característico e exclusivo.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
 <p class="quiz-source">FGV - FIOCRUZ, 2010</p>
-<p><strong>20. De acordo com o modelo do mosaico fluído, as proteínas de membrana estão:</strong></p>
+<p><strong>16. De acordo com o modelo do mosaico fluído, as proteínas de membrana estão:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-20" value="A"> A. espalhadas em uma camada contínua sobre as superfícies interna e externa da membrana.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-20" value="B"> B. restritas à região hidrofóbica da membrana.</label>
@@ -540,22 +431,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: FGV, FIOCRUZ, 2010. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> inseridas totalmente ou parcialmente na bicamada lipídica. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> o "mosaico fluido" descreve a membrana como um mar de lipídios (fluido) com proteínas "flutuando" nele — algumas atravessando toda a espessura (integrais/transmembrana), outras encostadas em só uma face (periféricas).</p>
+<p><strong>Por que a C deve ser marcada:</strong> segundo o modelo, as proteínas podem estar total (transmembrana) ou parcialmente (associadas a uma das faces) inseridas na bicamada lipídica, o que descreve corretamente a diversidade real de proteínas de membrana.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> O modelo não prevê uma "camada contínua" cobrindo toda a superfície — as proteínas estão dispersas (em mosaico), não formando uma camada uniforme.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Proteínas de membrana não ficam restritas à região hidrofóbica interna; muitas se projetam para fora, tendo regiões hidrofílicas expostas ao meio aquoso.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> Descreve corretamente os dois tipos de inserção proteica (total e parcial) previstos pelo modelo.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> As proteínas têm, sim, orientação específica (uma face voltada para dentro, outra para fora) — não é aleatória nem sem polaridade.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Proteínas de membrana não se soltam livremente para o meio extracelular; ficam ancoradas na bicamada (ainda que possam se mover lateralmente dentro dela).</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> achar que "fluido" no nome do modelo significa que as proteínas "flutuam livremente" e podem se soltar da membrana — na verdade, "fluido" descreve a mobilidade lateral dos lipídios/proteínas dentro da bicamada, não a possibilidade de escaparem dela.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="E">
 <p class="quiz-source">FGV - FIOCRUZ, 2010</p>
-<p><strong>21. Com relação ao controle do ciclo celular, assinale a afirmativa incorreta.</strong></p>
+<p><strong>17. Com relação ao controle do ciclo celular, assinale a afirmativa incorreta.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-21" value="A"> A. a proteína RB inibe a ativação da divisão celular por se ligar ao fator de transcrição E2F. Quando RB é fosforilada este fator é liberado e inicia a transcrição de genes envolvidos na replicação do DNA.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-21" value="B"> B. na ausência de nutrientes ou de fatores de crescimento as células entram em G0 e não se dividem.</label>
@@ -566,22 +457,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: E.</strong> Fonte: FGV, FIOCRUZ, 2010. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa E como correta.</p>
-<p><strong>Por que a E deve ser marcada:</strong> quando ocorrem danos na molécula de DNA, o ciclo celular é logo iniciado de forma que a replicação do material genético aconteça antes que mais danos ocorram. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> atenção ao comando — pede a afirmativa <em>incorreta</em>. Lembre a lógica dos pontos de checagem (checkpoints): diante de dano no DNA, a célula PARA o ciclo (não acelera nem inicia replicação), dando tempo para reparo antes de prosseguir.</p>
+<p><strong>Por que a E deve ser marcada como incorreta:</strong> a afirmativa inverte o mecanismo real — na presença de dano no DNA, o ciclo celular é interrompido (não "logo iniciado") nos pontos de checagem, evitando que a célula replique DNA danificado ou se divida antes do reparo.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>A.</strong> <strong>Correta (não é a resposta).</strong> RB de fato inibe E2F; ao ser fosforilada, libera E2F para ativar genes da fase S — mecanismo real de controle do ciclo.</li>
+<li><strong>B.</strong> <strong>Correta (não é a resposta).</strong> Sem nutrientes/fatores de crescimento, células realmente saem do ciclo e entram em quiescência (G0).</li>
+<li><strong>C.</strong> <strong>Correta (não é a resposta).</strong> p21 é um inibidor real de complexos ciclina-Cdk, freando o avanço do ciclo.</li>
+<li><strong>D.</strong> <strong>Correta (não é a resposta).</strong> Vírus que inativam RB (como certos HPVs oncogênicos) de fato estão associados a tumores, por liberarem E2F descontroladamente.</li>
+<li><strong>E.</strong> <strong>Incorreta — é a resposta.</strong> O correto é o ciclo ser interrompido (parado) diante de dano no DNA, não acelerado — os checkpoints existem justamente para evitar replicar DNA danificado.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> a alternativa E soa como uma resposta "protetora" (evitar mais danos), mas descreve o oposto do mecanismo real — parar o ciclo, não iniciá-lo, é o que realmente protege a integridade do DNA.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
 <p class="quiz-source">FGV - FIOCRUZ, 2010</p>
-<p><strong>22. Secções finas são efetivamente pedaços bidimensionais de tecidos e não transmitem a organização tridimensional dos componentes celulares. Apesar da terceira dimensão poder ser reconstruída, a partir de secções seriais, este é um processo lento e trabalhoso. Felizmente, existem formas mais diretas para se obter uma imagem tridimensional, em uma técnica que é usualmente mais utilizada para se estudar células intactas e tecidos do que organelas subcelulares, pois apenas características da superfície podem ser observadas. Essa técnica, no entanto, apresenta resolução um pouco mais baixa do que o microscópio eletrônico de transmissão. Assinale o tipo de microscópio capaz de gerar a imagem tridimensional mencionada acima.</strong></p>
+<p><strong>18. Secções finas são efetivamente pedaços bidimensionais de tecidos e não transmitem a organização tridimensional dos componentes celulares. Apesar da terceira dimensão poder ser reconstruída, a partir de secções seriais, este é um processo lento e trabalhoso. Felizmente, existem formas mais diretas para se obter uma imagem tridimensional, em uma técnica que é usualmente mais utilizada para se estudar células intactas e tecidos do que organelas subcelulares, pois apenas características da superfície podem ser observadas. Essa técnica, no entanto, apresenta resolução um pouco mais baixa do que o microscópio eletrônico de transmissão. Assinale o tipo de microscópio capaz de gerar a imagem tridimensional mencionada acima.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-22" value="A"> A. Microscópio confocal.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-22" value="B"> B. Microscopia de fluorescência.</label>
@@ -592,22 +483,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: FGV, FIOCRUZ, 2010. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> Microscópio eletrônico de varredura. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> as pistas do enunciado apontam para uma técnica de imagem tridimensional, voltada à SUPERFÍCIE de células/tecidos (não organelas internas), com resolução um pouco inferior à do microscópio eletrônico de transmissão — esse perfil é exatamente o da microscopia eletrônica de varredura (MEV).</p>
+<p><strong>Por que a C deve ser marcada:</strong> o MEV varre a superfície da amostra com um feixe de elétrons e gera uma imagem tridimensional realista do relevo externo, sendo ideal para estudar a superfície de células e tecidos.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> O microscópio confocal usa luz (não elétrons) e reconstrói profundidade por cortes ópticos seriados — não é a técnica de superfície tridimensional descrita, e tem resolução diferente da citada.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Microscopia de fluorescência detecta marcadores fluorescentes, não gera diretamente uma imagem tridimensional de superfície como descrito.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> Corresponde exatamente à descrição de imagem 3D de superfície com resolução um pouco menor que o MET.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> O microscópio óptico comum tem resolução bem mais baixa e não gera imagem tridimensional de superfície como a técnica descrita.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> O microscópio de contraste de fase melhora o contraste de células vivas transparentes, mas não gera a imagem tridimensional de superfície descrita no enunciado.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> confundir microscopia eletrônica de transmissão (MET — atravessa a amostra, mostra estruturas internas em 2D) com microscopia eletrônica de varredura (MEV — varre a superfície, gera imagem 3D externa) — são técnicas complementares, mas com propósitos diferentes.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">FGV - FIOCRUZ, 2010</p>
-<p><strong>23. A maior parte das moléculas de lipídeos presentes nas membranas celulares são anfipáticas. Essa propriedade significa que possuem:</strong></p>
+<p><strong>19. A maior parte das moléculas de lipídeos presentes nas membranas celulares são anfipáticas. Essa propriedade significa que possuem:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-23" value="A"> A. uma extremidade hidrofílica e uma extremidade hidrofóbica.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-23" value="B"> B. uma extremidade carregada positivamente e uma extremidade carregada negativamente.</label>
@@ -618,22 +509,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: FGV, FIOCRUZ, 2010. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa A como correta.</p>
-<p><strong>Por que a A deve ser marcada:</strong> uma extremidade hidrofílica e uma extremidade hidrofóbica. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> "anfipático" vem de "anfi" (ambos) + afinidade — a molécula tem duas partes com comportamento oposto em relação à água: uma que gosta de água (hidrofílica) e outra que a repele (hidrofóbica).</p>
+<p><strong>Por que a A deve ser marcada:</strong> é a própria definição de anfipático: a cabeça polar do fosfolipídio é hidrofílica (interage com a água) e a cauda de ácidos graxos é hidrofóbica (evita a água), o que leva à formação espontânea da bicamada.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> Descreve corretamente a dupla afinidade que define a anfipaticidade.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Carga elétrica (positiva/negativa) não é o critério que define anfipaticidade — o critério é afinidade com água (polar/apolar), não sinal de carga.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Fosfolipídios não têm uma "extremidade protéica"; são compostos por glicerol, ácidos graxos e um grupo fosfato — não há proteína na molécula.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não há exigência de carga negativa "necessariamente" em uma extremidade — o que define anfipaticidade é a polaridade (hidrofilicidade), não uma carga específica obrigatória.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Mesmo raciocínio de D, mas com carga positiva — não é esse o critério que caracteriza a molécula como anfipática.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> confundir "polaridade" (afinidade com a água, o que define anfipático) com "carga elétrica" (positiva ou negativa) — uma molécula pode ser polar sem ter carga líquida definida em uma extremidade.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
 <p class="quiz-source">FGV - FIOCRUZ, 2010</p>
-<p><strong>24. Uma enzima que será secretada por uma célula passará por uma séria de organelas celulares antes de ser secretada. A ordem correta das organelas por onde esta enzima irá passar até seu destino final é:</strong></p>
+<p><strong>20. Uma enzima que será secretada por uma célula passará por uma séria de organelas celulares antes de ser secretada. A ordem correta das organelas por onde esta enzima irá passar até seu destino final é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-24" value="A"> A. Retículo rugoso → Golgi → núcleo.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-24" value="B"> B. Golgi → Retículo rugoso → lisossomo.</label>
@@ -644,22 +535,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: FGV, FIOCRUZ, 2010. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa D como correta.</p>
-<p><strong>Por que a D deve ser marcada:</strong> Retículo rugoso → Golgi → vesículas que se fundem à membrana plasmática. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> mesma via secretora clássica de outra questão deste banco: síntese no retículo rugoso, processamento/empacotamento no Golgi, e saída por vesículas que se fundem à membrana plasmática.</p>
+<p><strong>Por que a D deve ser marcada:</strong> segue corretamente a rota de uma enzima secretada — retículo rugoso (síntese) → Golgi (processamento) → vesículas de secreção (liberação para fora da célula).</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Termina no núcleo, que não é destino de proteínas secretadas — o núcleo só fornece a informação genética, não recebe a enzima pronta.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Inverte a ordem (Golgi antes do retículo) e termina em lisossomo, não em secreção para o meio extracelular.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Começa pelo núcleo como etapa de trânsito da enzima, o que não corresponde à via real de secreção.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> Reproduz corretamente a rota retículo → Golgi → vesículas de secreção.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Passa por lisossomo em vez de Golgi — lisossomo é destino de enzimas digestivas internas, não etapa da via secretora.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> confundir a via de secreção (retículo → Golgi → vesículas → exocitose) com a via de digestão intracelular (retículo → Golgi → lisossomos) — organelas parecidas no início da rota, mas destinos finais bem diferentes.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">FGV - EBSERH, 2025</p>
-<p><strong>25. Paulinho, sabendo que seus peixes Betta necessitam de água entre 24 e 27°C., resolveu ligar o aquecedor/termostato do aquário. No entanto, alguns minutos após ligar o equipamento percebeu que ele estava fora do aquário e, na ânsia de resolver o problema, segurou na parte de vidro e queimou a palma de sua mão. Para que haja a regeneração da epiderme da palma da mão da criança, após a queimadura de segundo grau, é preciso que ocorra a mitose das células do estrato</strong></p>
+<p><strong>21. Paulinho, sabendo que seus peixes Betta necessitam de água entre 24 e 27°C., resolveu ligar o aquecedor/termostato do aquário. No entanto, alguns minutos após ligar o equipamento percebeu que ele estava fora do aquário e, na ânsia de resolver o problema, segurou na parte de vidro e queimou a palma de sua mão. Para que haja a regeneração da epiderme da palma da mão da criança, após a queimadura de segundo grau, é preciso que ocorra a mitose das células do estrato</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-25" value="A"> A. basal.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-25" value="B"> B. lúcido.</label>
@@ -670,22 +561,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: FGV, EBSERH, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa A como correta.</p>
-<p><strong>Por que a A deve ser marcada:</strong> basal. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> lembre a organização da epiderme: apenas a camada mais profunda (basal, junto à derme) tem células capazes de mitose; as demais camadas são formadas por células em diferentes estágios de queratinização, sem capacidade de se dividir.</p>
+<p><strong>Por que a A deve ser marcada:</strong> o estrato basal (germinativo) é a única camada da epiderme com células mitoticamente ativas, responsáveis por repor continuamente as células da pele, inclusive após lesões como queimaduras.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a camada germinativa, fonte das novas células da epiderme.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> O estrato lúcido é formado por células mortas e achatadas (presente só em pele espessa) — não há mitose ali.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> O estrato córneo é a camada mais superficial, de células mortas e queratinizadas — sem capacidade de divisão.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> O estrato granuloso tem células em processo de morte celular programada (início da queratinização), não em mitose.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> O estrato espinhoso tem células já diferenciando-se (unidas por desmossomos), com pouca ou nenhuma atividade mitótica comparada à basal.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> achar que qualquer camada viva da epiderme pode se dividir — na prática, só a camada mais profunda (basal) tem células-tronco ativas capazes de mitose; as demais camadas só amadurecem e migram para a superfície.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
 <p class="quiz-source">FGV - SEEC-RN, 2025</p>
-<p><strong>26. É fácil reconhecer fungos na forma de cogumelos. Eles estão nos jardins, nas áreas de mata, no tronco de árvores. Mas é importante destacar que os cogumelos são apenas uma parte desse organismo. Debaixo do solo está a maior parte do fungo, chamada de micélio vegetativo. (Adaptado de: Ciência Hoje, n 397. 2023) O micélio dos fungos corresponde a um(a)</strong></p>
+<p><strong>22. É fácil reconhecer fungos na forma de cogumelos. Eles estão nos jardins, nas áreas de mata, no tronco de árvores. Mas é importante destacar que os cogumelos são apenas uma parte desse organismo. Debaixo do solo está a maior parte do fungo, chamada de micélio vegetativo. (Adaptado de: Ciência Hoje, n 397. 2023) O micélio dos fungos corresponde a um(a)</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-26" value="A"> A. filamento de células fúngicas.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-26" value="B"> B. massa citoplasmática polinucleada.</label>
@@ -696,22 +587,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: FGV, SEEC-RN, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa D como correta.</p>
-<p><strong>Por que a D deve ser marcada:</strong> rede de hifas fúngicas. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> o cogumelo é só a estrutura reprodutiva visível (corpo de frutificação); a maior parte do fungo vive no solo como uma malha de filamentos que absorve nutrientes — isso é o micélio, formado por hifas entrelaçadas.</p>
+<p><strong>Por que a D deve ser marcada:</strong> o micélio vegetativo é justamente essa rede (malha) de hifas fúngicas que se espalha pelo substrato absorvendo nutrientes, da qual o cogumelo é apenas a parte reprodutiva.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> "Filamento" no singular não captura a ideia de rede/malha entrelaçada que caracteriza o micélio — uma hifa isolada não é o micélio inteiro.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "Massa citoplasmática polinucleada" describe mais uma célula/hifa cenocítica isolada, não a estrutura organizada em rede que é o micélio como um todo.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Basídio é uma estrutura reprodutiva microscópica (produz esporos), parte do cogumelo, não o micélio subterrâneo.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> Descreve corretamente o micélio como rede de hifas.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> "Estrutura produtora de esporos" descreve órgãos reprodutivos (como o próprio cogumelo), não o micélio vegetativo, que é estrutura de absorção/crescimento.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> confundir o micélio (estrutura vegetativa subterrânea, de absorção) com estruturas reprodutivas do fungo (cogumelo, basídio, esporos) — são partes distintas do mesmo organismo, com funções diferentes.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">FGV - PC-MG, 2025</p>
-<p><strong>27. Leia o trecho a seguir. A identificação dos tipos de fungos encontrados em um cadáver pode auxiliar na determinação do intervalo post mortem. Um estudo realizado no Ceará, analisou amostras retiradas de cadáveres em diferentes estágios de decomposição e os resultados mostraram, de modo geral: prevalência dos gêneros Aspergillus e Candida, no período gasoso; Candida, no período coliquativo; e Aspergillus, Penicillium e Mucor, no período de esqueletização. D.A.D. WEÇOSKI &amp; P. DALZOTO. Revista Brasileira de Criminologia. 12(2), p. 112-121, 2023. (Adaptado). Com relação aos fungos de interesse forense, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Para diferenciar fungos unicelulares de células bacterianas crescendo sobre cadáveres, pode-se avaliar a composição da parede celular. Nos fungos, ela contém predominantemente celulose, enquanto nas bactérias, a composição é de peptidoglicana. ( ) Alguns fungos são dimórficos, apresentando duas formas de crescimento – filamentosa ou levedura – e podem passar de uma forma para outra quando mudam as condições ambientais. ( ) A dosagem de etanol em amostras biológicas post mortem pode sofrer interferência devido à presença de leveduras que realizam a fermentação. As afirmativas são, respectivamente,</strong></p>
+<p><strong>23. Leia o trecho a seguir. A identificação dos tipos de fungos encontrados em um cadáver pode auxiliar na determinação do intervalo post mortem. Um estudo realizado no Ceará, analisou amostras retiradas de cadáveres em diferentes estágios de decomposição e os resultados mostraram, de modo geral: prevalência dos gêneros Aspergillus e Candida, no período gasoso; Candida, no período coliquativo; e Aspergillus, Penicillium e Mucor, no período de esqueletização. D.A.D. WEÇOSKI &amp; P. DALZOTO. Revista Brasileira de Criminologia. 12(2), p. 112-121, 2023. (Adaptado). Com relação aos fungos de interesse forense, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa. ( ) Para diferenciar fungos unicelulares de células bacterianas crescendo sobre cadáveres, pode-se avaliar a composição da parede celular. Nos fungos, ela contém predominantemente celulose, enquanto nas bactérias, a composição é de peptidoglicana. ( ) Alguns fungos são dimórficos, apresentando duas formas de crescimento – filamentosa ou levedura – e podem passar de uma forma para outra quando mudam as condições ambientais. ( ) A dosagem de etanol em amostras biológicas post mortem pode sofrer interferência devido à presença de leveduras que realizam a fermentação. As afirmativas são, respectivamente,</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-27" value="A"> A. F – V – F.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-27" value="B"> B. F – V – V.</label>
@@ -722,22 +613,20 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: FGV, PC-MG, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> F – V – V. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> confira o componente principal da parede celular de fungos (é quitina, não celulose — celulose é de plantas); lembre o conceito de dimorfismo fúngico; e pense se leveduras fermentadoras poderiam gerar álcool "artificial" numa amostra post mortem.</p>
+<p><strong>Por que F-V-V está correto:</strong> a 1ª erra o componente da parede fúngica (quitina, não celulose); a 2ª e a 3ª descrevem fenômenos reais e documentados na micologia forense.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>1ª afirmativa (F).</strong> A parede celular dos fungos é composta predominantemente por quitina, não celulose (que é característica de plantas) — a parte sobre peptideoglicana em bactérias está correta, mas a afirmativa como um todo erra ao descrever a parede fúngica.</li>
+<li><strong>2ª afirmativa (V).</strong> Dimorfismo fúngico é um fenômeno real: espécies como Candida e fungos causadores de micoses sistêmicas alternam entre forma filamentosa e leveduriforme conforme temperatura/condições ambientais.</li>
+<li><strong>3ª afirmativa (V).</strong> É um problema reconhecido em toxicologia forense: leveduras que colonizam o cadáver podem fermentar açúcares e produzir etanol post mortem, interferindo na dosagem de álcool e gerando falsos positivos/alterados.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> trocar quitina por celulose na composição da parede fúngica é um erro clássico — celulose é marca registrada da parede vegetal, não da fúngica.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">FGV - PC-MG, 2025</p>
-<p><strong>28. O exame de material biológico encontrado em um corpo enterrado em uma cova rasa, próxima à cidade de Buenos Aires, permitiu correlacionar um potencial suspeito ao local do crime. A análise comparou a composição palinológica encontrada na cena do crime com a flora local, com as roupas da vítima e com amostras obtidas de pás e botas apreendidas na residência do suspeito. A análise palinológica é o estudo de estruturas, como</strong></p>
+<p><strong>24. O exame de material biológico encontrado em um corpo enterrado em uma cova rasa, próxima à cidade de Buenos Aires, permitiu correlacionar um potencial suspeito ao local do crime. A análise comparou a composição palinológica encontrada na cena do crime com a flora local, com as roupas da vítima e com amostras obtidas de pás e botas apreendidas na residência do suspeito. A análise palinológica é o estudo de estruturas, como</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-28" value="A"> A. os esporos, os gametas de vegetais como os fungos e as pteridófitas.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-28" value="B"> B. os grãos de pólen, presentes em gimnospermas e angiospermas.</label>
@@ -748,22 +637,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: FGV, PC-MG, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> os grãos de pólen, presentes em gimnospermas e angiospermas. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> "palinologia" vem de "pólen" — é literalmente o estudo de grãos de pólen (e esporos), úteis na perícia porque têm formato e resistência (exina) característicos de cada espécie vegetal, permitindo rastrear onde uma pessoa ou objeto esteve.</p>
+<p><strong>Por que a B deve ser marcada:</strong> a palinologia forense estuda grãos de pólen (gametófitos masculinos maduros protegidos por parede resistente), presentes tanto em gimnospermas quanto em angiospermas — esses grãos grudam em roupas, calçados e ferramentas, permitindo associar o suspeito ao local do crime.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Confunde esporos com gametas; além disso, fungos não são o foco da palinologia (que trata de pólen/esporos vegetais especificamente).</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> Descreve corretamente o objeto de estudo da palinologia e os grupos vegetais que produzem pólen.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Bactérias e fungos não produzem grãos de pólen — pólen é estrutura exclusiva de plantas com sementes (gimnospermas e angiospermas).</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Pteridófitas (samambaias) não produzem pólen — elas se reproduzem por esporos, não por sementes; a palinologia foca em pólen de plantas com semente.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Células bacterianas não são objeto da palinologia, que trata especificamente de pólen e esporos vegetais.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> misturar palinologia (pólen/esporos de plantas) com microbiologia (bactérias, fungos) — são disciplinas periciais diferentes, cada uma com seu material de estudo próprio.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="C">
 <p class="quiz-source">FGV - EBSERH, 2024</p>
-<p><strong>29. Anaplasma marginale é a bactéria relacionada com a Tristeza Parasitária Bovina. Essa riquétsia se multiplica nas células do endotélio intestinal do carrapato e, quando inoculada nos bovinos, no interior dos eritrócitos, se multiplicam por fissão binária em um vacúolo parasitóforo, formando corpúsculos iniciais que irão penetrar em outros eritrócitos. Os processos pelos quais as formas de A. marginale penetram e abandonam as hemácias parasitadas são processos de transporte celulares. Assinale a opção que identifica esses processos.</strong></p>
+<p><strong>25. Anaplasma marginale é a bactéria relacionada com a Tristeza Parasitária Bovina. Essa riquétsia se multiplica nas células do endotélio intestinal do carrapato e, quando inoculada nos bovinos, no interior dos eritrócitos, se multiplicam por fissão binária em um vacúolo parasitóforo, formando corpúsculos iniciais que irão penetrar em outros eritrócitos. Os processos pelos quais as formas de A. marginale penetram e abandonam as hemácias parasitadas são processos de transporte celulares. Assinale a opção que identifica esses processos.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-29" value="A"> A. Endocitose e lise celular.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-29" value="B"> B. Pinocitose e lise celular.</label>
@@ -774,22 +663,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: FGV, EBSERH, 2024. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> Endocitose e exocitose. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> "entrar" numa célula envolvendo a membrana ao redor de si (formando o vacúolo parasitóforo citado) é endocitose; "sair" da célula, atravessando a membrana para o meio externo, é exocitose — processo simétrico de entrada e saída.</p>
+<p><strong>Por que a C deve ser marcada:</strong> a riqueétsia entra na hemácia por endocitose (formando o vacúolo parasitóforo citado no enunciado) e, ao multiplicar-se, sai por exocitose para infectar novas hemácias — os dois processos de transporte em massa através da membrana.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Lise celular é o rompimento (morte) da célula hospedeira, não um processo controlado de saída como a exocitose descrita para deixar a hemácia intacta o suficiente para reinfectar outras.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Pinocitose é um tipo específico de endocitose (de líquidos/pequenas moléculas), mas termina em lise celular na alternativa, o que não corresponde ao processo de saída controlada descrito.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> Endocitose (entrada) e exocitose (saída) descrevem corretamente os dois processos de transporte em massa envolvidos.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "Pinocitose reversa" não é o termo padrão para a saída da partícula da célula — o termo correto é exocitose.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> "Rofeocitose" é um termo mais restrito e específico (associado à digestão de material por hemócitos em invertebrados), não o par correto entrada/saída aqui descrito.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> a banca troca os nomes técnicos por termos parecidos mas incorretos (pinocitose reversa, rofeocitose) — o par correto e mais geral para entrada/saída controlada de partículas em massa através da membrana é sempre endocitose/exocitose.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="E">
 <p class="quiz-source">FGV - EBSERH, 2024</p>
-<p><strong>30. O sistema endócrino, em conjunto com o sistema nervoso, atua na regulação e controle das funções do nosso corpo. Sobre a colecistocinina (CCK), hormônio produzido no trato gastrointestinal, assinale a opção que indica, corretamente, sua função.</strong></p>
+<p><strong>26. O sistema endócrino, em conjunto com o sistema nervoso, atua na regulação e controle das funções do nosso corpo. Sobre a colecistocinina (CCK), hormônio produzido no trato gastrointestinal, assinale a opção que indica, corretamente, sua função.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-30" value="A"> A. Aumentar a produção de hemácias e diminuir a pressão sanguínea.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-30" value="B"> B. Suprimir a liberação de insulina pelas células beta pancreáticas.</label>
@@ -800,74 +689,46 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: E.</strong> Fonte: FGV, EBSERH, 2024. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa E como correta.</p>
-<p><strong>Por que a E deve ser marcada:</strong> Estimular a secreção de suco pancreático e a liberação da bile, produzindo a sensação de saciedade. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> a CCK é liberada pelo intestino delgado em resposta a gordura/proteína no quimo; sua função clássica é coordenar a digestão dessas gorduras (estímulo ao pâncreas e à vesícula biliar) e sinalizar saciedade ao cérebro.</p>
+<p><strong>Por que a E deve ser marcada:</strong> a colecistocinina estimula a secreção de enzimas pancreáticas e a contração da vesícula biliar (liberando bile para digerir gorduras), além de atuar no cérebro promovendo a sensação de saciedade.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Produção de hemácias (eritropoetina) e pressão sanguínea não são funções da CCK.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> A CCK não suprime insulina; pelo contrário, atua principalmente no eixo digestivo (pâncreas exócrino e vesícula biliar), não na regulação direta da insulina pancreática.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Secreção de suco gástrico e aumento do peristaltismo estomacal são mais associados à gastrina, não à CCK — na verdade, a CCK tende a retardar o esvaziamento gástrico.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Inibir apetite é parcialmente verdadeiro, mas estimular FSH/LH não é função da CCK — esses hormônios são regulados pelo eixo hipotálamo-hipófise-gônadas.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> Reúne corretamente as duas ações centrais da CCK: estímulo pancreático/biliar e sensação de saciedade.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> confundir CCK com gastrina (secreção gástrica) ou com hormônios reprodutivos (FSH/LH) — cada hormônio do eixo digestivo/endócrino tem um alvo e uma função bem específicos.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">FGV - Prefeitura de Caraguatatuba - SP, 2024</p>
-<p><strong>31. A figura a seguir representa o transporte de uma substância através da membrana plasmática REECE, J. B. et al. Biologia de Campbell. 10. ed. Artmed. O transporte representado é chamado</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="real-bio001-31" value="A"> A. difusão simples e a substância é transportada a favor do gradiente de concentração.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-31" value="B"> B. difusão facilitada e requer a participação de uma proteína transportadora.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-31" value="C"> C. canal iônico e efetua a passagem de cátions de forma ativa, contra o gradiente de concentração.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-31" value="D"> D. passivo e transporta substâncias polares contra um gradiente de concentração.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-31" value="E"> E. ativo e realiza o transporte de substâncias apolares, como a água e a glicose, com gasto de ATP pela célula</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: FGV, Prefeitura de Caraguatatuba - SP, 2024. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> difusão facilitada e requer a participação de uma proteína transportadora. — é a alternativa apontada pelo gabarito oficial da banca.</p>
-<ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-</ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
-</div>
-</div>
-
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - Prefeitura de Caraguatatuba - SP, 2024</p>
-<p><strong>32. Os processos fermentativos têm uma grande importância em vários setores de interesse da sociedade, como nas indústrias química, farmacêutica e de alimentos, além da agricultura. Com relação aos processos de fermentação, analise os itens a seguir: I. Na fermentação láctica, o piruvato é reduzido diretamente a ácido láctico e o saldo é de apenas duas moléculas de ATP, geradas durante a glicólise. II. Na fermentação alcoólica, que ocorre em anaerobiose, o piruvato origina etanol e C0  . III. A fermentação ocorre no citosol de bactérias. Já nas leveduras, o processo ocorre em parte no citosol e em parte na mitocôndria. Está correto o que se afirma em</strong></p>
+<p><strong>27. Os processos fermentativos têm uma grande importância em vários setores de interesse da sociedade, como nas indústrias química, farmacêutica e de alimentos, além da agricultura. Com relação aos processos de fermentação, analise os itens a seguir: I. Na fermentação láctica, o piruvato é reduzido diretamente a ácido láctico e o saldo é de apenas duas moléculas de ATP, geradas durante a glicólise. II. Na fermentação alcoólica, que ocorre em anaerobiose, o piruvato origina etanol e C0  . III. A fermentação ocorre no citosol de bactérias. Já nas leveduras, o processo ocorre em parte no citosol e em parte na mitocôndria. Está correto o que se afirma em</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-32" value="A"> A. I, apenas.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-32" value="B"> B. I e II, apenas.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-32" value="C"> C. I e III, apenas.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-32" value="D"> D. II e III, apenas.</label>
-<label class="quiz-option"><input type="radio" name="real-bio001-32" value="E"> E. I, II e III. Respostas 81: D 82: A 83: E 84: B 85: E 86: D 87: A 88: A 89: D 90: B 91: B 92: D 93: A 94: C 95: B 96: B 97: C 98: E 99: C 100: B</label>
+<label class="quiz-option"><input type="radio" name="real-bio001-32" value="E"> E. I, II e III.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: FGV, Prefeitura de Caraguatatuba - SP, 2024. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> I e II, apenas. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> lembre que fermentação inteira (gliólise + etapa de regeneração de NAD+) ocorre no CITOSOL, sem envolver a mitocôndria — essa é justamente a característica que torna a fermentação um processo independente de oxígênio.</p>
+<p><strong>Por que I e II estão corretas (e III errada):</strong> I e II descrevem corretamente os produtos e o saldo energético das fermentações láctica e alcoólica; III erra ao colocar parte do processo na mitocôndria de leveduras — fermentação é, por definição, inteiramente citosólica, em qualquer organismo.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>I.</strong> <strong>Verdadeira.</strong> Piruvato é reduzido diretamente a ácido lático (regenerando NAD+), e o saldo líquido de ATP vem só da gliólise (2 ATP) — a etapa de fermentação em si não gera ATP extra.</li>
+<li><strong>II.</strong> <strong>Verdadeira.</strong> Na fermentação alcoólica, o piruvato é descarboxilado (liberando CO2) e depois reduzido a etanol — descrição correta.</li>
+<li><strong>III.</strong> <strong>Falsa.</strong> Tanto em bactérias quanto em leveduras, toda a fermentação ocorre no citosol; não há participação da mitocôndria nesse processo anaeróbio — usar a mitocôndria é característica da respiração aeróbia, não da fermentação.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> achar que, por leveduras serem eucariontes (com mitocôndrias), parte da fermentação usaria essa organela — na verdade, a fermentação é sempre 100% citosólica, mesmo em células que possuem mitocôndria.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">FGV - Prefeitura de Caraguatatuba - SP, 2024</p>
-<p><strong>33. Um professor propôs a seus alunos uma atividade do tipo júri simulado, cujo tema era “Colesterol – vilão ou herói?”. Os alunos foram orientados, então, a realizar uma pesquisa prévia sobre o assunto para que, no dia da atividade, pudessem argumentar a favor ou contra. Com relação ao colesterol, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Alimentos ricos em gordura trans aumentam o risco de problemas cardíacos, pois elevam os níveis de HDL que causa aterosclerose e aumento da probabilidade de formação de coágulos. ( ) O colesterol não é, obrigatoriamente, um “vilão” para o organismo, pois faz parte da constituição das membranas das células animais e é usado na síntese de sais biliares e vitamina D. ( ) O colesterol pode ser obtido através da ingestão de alimentos como carnes, mas também pode ser produzido pelo nosso fígado. As afirmativas são, respetivamente,</strong></p>
+<p><strong>28. Um professor propôs a seus alunos uma atividade do tipo júri simulado, cujo tema era “Colesterol – vilão ou herói?”. Os alunos foram orientados, então, a realizar uma pesquisa prévia sobre o assunto para que, no dia da atividade, pudessem argumentar a favor ou contra. Com relação ao colesterol, assinale V para a afirmativa verdadeira e F para a falsa. ( ) Alimentos ricos em gordura trans aumentam o risco de problemas cardíacos, pois elevam os níveis de HDL que causa aterosclerose e aumento da probabilidade de formação de coágulos. ( ) O colesterol não é, obrigatoriamente, um “vilão” para o organismo, pois faz parte da constituição das membranas das células animais e é usado na síntese de sais biliares e vitamina D. ( ) O colesterol pode ser obtido através da ingestão de alimentos como carnes, mas também pode ser produzido pelo nosso fígado. As afirmativas são, respetivamente,</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-33" value="A"> A. F – V – F.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-33" value="B"> B. F – V – V.</label>
@@ -878,22 +739,20 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: FGV, Prefeitura de Caraguatatuba - SP, 2024. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> F – V – V. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> confira qual lipoproteína a gordura trans realmente eleva (LDL, não HDL — HDL é o "colesterol bom"); depois confirme os papéis fisiológicos legítimos do colesterol (membranas, sáis biliares, vitamina D) e sua dupla origem (dieta + síntese hepática).</p>
+<p><strong>Por que F-V-V está correto:</strong> a 1ª troca as lipoproteínas (gordura trans eleva LDL, não HDL); a 2ª e a 3ª descrevem corretamente as funções do colesterol e sua dupla origem.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>1ª afirmativa (F).</strong> Gordura trans eleva o LDL ("colesterol ruim", ligado à aterosclerose) e reduz o HDL ("colesterol bom", protetor) — o oposto do que a afirmativa diz.</li>
+<li><strong>2ª afirmativa (V).</strong> O colesterol é componente estrutural essencial das membranas de células animais e precursor de sáis biliares e vitamina D — longe de ser só "vilão".</li>
+<li><strong>3ª afirmativa (V).</strong> O colesterol tem duas origens: exógena (dieta, carnes) e endógena (síntese pelo fígado) — fato bem estabelecido.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> trocar HDL por LDL (ou vice-versa) é o erro clássico em questões sobre gordura trans e colesterol — lembre: LDL leva colesterol para os tecidos (pode acumular em placas), HDL remove o excesso (protetor).</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
 <p class="quiz-source">FGV - SEDUC-SP, 2023</p>
-<p><strong>34. Assinale a opção que indica a organela comum a células eucarióticas e procarióticas.</strong></p>
+<p><strong>29. Assinale a opção que indica a organela comum a células eucarióticas e procarióticas.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-34" value="A"> A. Mitocôndria.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-34" value="B"> B. Retículo endoplasmático.</label>
@@ -904,22 +763,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: FGV, SEDUC-SP, 2023. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa D como correta.</p>
-<p><strong>Por que a D deve ser marcada:</strong> Ribossomo. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> lembre a lista de organelas exclusivas de eucariontes (mitocôndria, retículo, Golgi — todas membranosas) e o que sobra como universal: apenas o ribossomo, presente em toda célula viva que sintetiza proteínas.</p>
+<p><strong>Por que a D deve ser marcada:</strong> o ribossomo (70S em procariontes, 80S em eucariontes) é a única estrutura da lista presente em ambos os tipos celulares, pois toda célula viva precisa sintetizar suas próprias proteínas.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Mitocôndria é exclusiva de eucariontes; procariontes não possuem organelas membranosas.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Retículo endoplasmático também é um sistema de membranas internas exclusivo de eucariontes.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Lisozima é uma enzima (não uma organela) encontrada em secreções como lágrima e saliva — nem se encaixa na categoria da pergunta.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> Ribossomos existem tanto em procariontes quanto em eucariontes.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Complexo de Golgi, como as demais organelas membranosas, é exclusivo de eucariontes.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> procariontes não têm nenhuma organela membranosa (mitocôndria, RE, Golgi) — a única estrutura celular universal entre os dois grupos é o ribossomo, que não é envolto por membrana.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
 <p class="quiz-source">FGV - SEDUC-TO, 2023</p>
-<p><strong>35. A maioria das estruturas celulares observados ao microscópio óptico (MO) são incolores, o que dificulta sua visualização. Os corantes são substâncias que torna os componentes celulares visíveis. Durante uma aula prática para observação de estruturas celulares ao MO, recomenda-se o uso de</strong></p>
+<p><strong>30. A maioria das estruturas celulares observados ao microscópio óptico (MO) são incolores, o que dificulta sua visualização. Os corantes são substâncias que torna os componentes celulares visíveis. Durante uma aula prática para observação de estruturas celulares ao MO, recomenda-se o uso de</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-35" value="A"> A. eosina, corante de natureza básica essencial para o exame de cloroplastos em folhas de elódea.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-35" value="B"> B. lugol, corante de natureza ácida que cora de marrom os amiloplastos das células do fígado.</label>
@@ -930,22 +789,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: FGV, SEDUC-TO, 2023. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa D como correta.</p>
-<p><strong>Por que a D deve ser marcada:</strong> azul de metileno, corante de natureza básica que cora de azul (arroxeado) o núcleo de células da mucosa de bochecha. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> lembre o experimento clássico de aula prática: raspado de mucosa bucal + azul de metileno é o procedimento mais comum para visualizar núcleos celulares ao microscópio óptico — um corante básico que se liga a estruturas ácidas como o DNA do núcleo.</p>
+<p><strong>Por que a D deve ser marcada:</strong> o azul de metileno é um corante básico amplamente usado em aula prática para corar (de azul-arroxeado) o núcleo de células soltas da mucosa da bochecha, tornando-o visível ao microscópio óptico.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Eosina é corante ácido (não básico), e cloroplastos de elódea já são visíveis ao vivo pela cor verde da clorofila, sem necessidade desse corante.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Lugol cora amido (amiloplastos), estrutura de reserva típica de células vegetais (como batata) — células do fígado (animal) não têm amiloplastos.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Orceína acética é usada classicamente para corar cromossomos em preparações de cariótipo, não para visualizar a membrana plasmática de hemácias.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> Descreve corretamente o corante, sua natureza e o experimento clássico de coloração nuclear.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Hematoxilina é corante básico (não ácido) e cora principalmente núcleos, não ribossomos especificamente.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> cada alternativa erra a natureza química do corante (ácido/básico) OU a estrutura-alvo que ele realmente cora — confira sempre os dois detalhes (tipo de corante e o que ele cora) antes de marcar.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
 <p class="quiz-source">FGV - SEDUC-TO, 2023</p>
-<p><strong>36. Por meio da clonagem in vitro, plantas completas podem ser obtidas a partir da cultura de pequenos pedaços de tecido retirados da planta mãe. As células desses fragmentos, quando colocadas em meios de cultura contendo nutrientes e hormônios dividem-se e formam um calo de células indiferenciadas. Quando as concentrações dos hormônios e nutrientes são manipuladas adequadamente, um calo pode produzir brotos e raízes com células completamente diferenciadas, que originam novas plantas. O calo produzido no meio de cultura nada mais é que um agrupamento de células indiferenciadas, chamadas</strong></p>
+<p><strong>31. Por meio da clonagem in vitro, plantas completas podem ser obtidas a partir da cultura de pequenos pedaços de tecido retirados da planta mãe. As células desses fragmentos, quando colocadas em meios de cultura contendo nutrientes e hormônios dividem-se e formam um calo de células indiferenciadas. Quando as concentrações dos hormônios e nutrientes são manipuladas adequadamente, um calo pode produzir brotos e raízes com células completamente diferenciadas, que originam novas plantas. O calo produzido no meio de cultura nada mais é que um agrupamento de células indiferenciadas, chamadas</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-bio001-36" value="A"> A. parenquimáticas.</label>
 <label class="quiz-option"><input type="radio" name="real-bio001-36" value="B"> B. trofoblastos.</label>
@@ -956,15 +815,15 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: FGV, SEDUC-TO, 2023. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com o conceito biológico pertinente; a banca aponta a alternativa D como correta.</p>
-<p><strong>Por que a D deve ser marcada:</strong> totipotentes. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> o fato de o calo conseguir dar origem a uma planta inteira (raízes, brotos, todos os tecidos) mostra que essas células mantêm a capacidade máxima de diferenciação — o nome técnico para essa capacidade total é totipotência.</p>
+<p><strong>Por que a D deve ser marcada:</strong> células totipotentes são aquelas capazes de originar qualquer tipo celular (e um organismo completo), exatamente o que ocorre quando o calo forma brotos e raízes com células diferenciadas.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> "Parenquimáticas" descreve um tecido vegetal já diferenciado (parênquima), não o estado indiferenciado inicial do calo.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Trofoblastos são células de embriões animais (relacionadas à placenta), termo que não se aplica a tecido vegetal.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Apoptóticas descreve células em processo de morte celular programada — o oposto de células capazes de formar uma planta inteira.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> Descreve corretamente a capacidade de diferenciação total das células do calo.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Neoplásicas se refere a células com crescimento tumoral desregulado, não à cultura de tecidos controlada descrita no enunciado.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> confundir totipotência (célula que pode originar um organismo inteiro, como no calo vegetal) com outros termos de biologia celular que soam parecidos mas descrevem processos bem diferentes (morte celular, tumor, tecido diferenciado).</p>
 </div>
 </div>

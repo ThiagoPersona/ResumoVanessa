@@ -30,7 +30,7 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Ciências Forenses | Documentoscopia, grafoscopia e falsificações | 2 | [Abrir](provas/ciencias-forenses/006_documentoscopia-grafoscopia-falsificacoes.md) |
 | Ciências Forenses | Criminologia, vitimologia e controle social | 6 | [Abrir](provas/ciencias-forenses/007_criminologia-vitimologia-controle-social.md) |
 | Ciências Forenses | Criminologia digital e investigação tecnológica | 3 | [Abrir](provas/ciencias-forenses/008_criminologia-digital-investigacao-tecnologica.md) |
-| Biologia | Citologia | 36 | [Abrir](provas/biologia/001_citologia.md) |
+| Biologia | Citologia | 31 | [Abrir](provas/biologia/001_citologia.md) |
 | Biologia | Genética | 36 | [Abrir](provas/biologia/002_genetica.md) |
 | Biologia | Embriologia e cristas papilares | 8 | [Abrir](provas/biologia/003_embriologia-cristas-papilares.md) |
 | Biologia | Biologia da identificação humana e biometria | 8 | [Abrir](provas/biologia/004_biologia-identificacao-humana-biometria.md) |
@@ -65,7 +65,7 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Direitos Humanos | Teoria, sistemas de proteção e democracia | 10 | [Abrir](provas/direitos-humanos/001_teoria-sistemas-protecao-democracia.md) |
 | Direitos Humanos | Grupos vulneráveis, segurança pública e atuação policial | 10 | [Abrir](provas/direitos-humanos/002_grupos-vulneraveis-atuacao-policial.md) |
 | Direitos Humanos | PNDH, educação em direitos humanos e Agenda 2030 | 7 | [Abrir](provas/direitos-humanos/003_pndh-educacao-agenda-2030.md) |
-| **Total** | **61 temas cobertos** | **851** | — |
+| **Total** | **61 temas cobertos** | **846** | — |
 
 ## Critério de conversão
 

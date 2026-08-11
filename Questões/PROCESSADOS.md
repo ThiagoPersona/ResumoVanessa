@@ -17,6 +17,7 @@ Iniciada rodada de reescrita, tema por tema: cada questão é lida de novo, a ex
 
 - biologia/003 (embriologia): 6 questões revisadas, 1 removida (dependia de imagem não capturada) → 8 questões no total.
 - biologia/002 (genética): 30 questões revisadas, 4 removidas (1 com opções vazias, 3 dependiam de figura/tabela) → 36 questões no total.
+- biologia/001 (citologia): 25 questões revisadas, 5 removidas (dependiam de imagem/gráfico/esquema não capturado) → 31 questões no total. Biologia (temas 001-003) concluída nesta rodada.
 
 ## Pasta: cienciasforenses/
 
