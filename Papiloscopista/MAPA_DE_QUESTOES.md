@@ -5,7 +5,7 @@
 O mapa abaixo separa duas coisas que não devem ser misturadas:
 
 - **Peso oficial do edital:** já está completo para Papiloscopista.
-- **Banco FGV-style:** neste momento há 846 questões comentadas, com pelo menos uma por tema do edital.
+- **Banco FGV-style:** neste momento há 843 questões comentadas, com pelo menos uma por tema do edital.
 - **Validação por provas semelhantes:** já tem página própria para confrontar FGV Papiloscopista, FGV Perito/Polícia Civil e bancas próximas com os 61 temas.
 
 Isso evita inventar estatística de prova. À medida que os PDFs locais e oficiais forem convertidos, os totais por tema e a distribuição de alternativas devem ser atualizados aqui.
@@ -18,7 +18,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 
 | Disciplina | Questões no edital | Capítulos | Questões convertidas | Base |
 |---|---:|---:|---:|---|
-| Português | 25 | 6 | 178 | Conhecimentos Gerais, item 1 |
+| Português | 25 | 6 | 175 | Conhecimentos Gerais, item 1 |
 | RLM | 5 | 4 | 17 | Conhecimentos Gerais, item 2 |
 | Realidade PR | 5 | 2 | 6 | Conhecimentos Gerais, item 3 |
 | Tecnologia | 15 | 6 | 214 | Conhecimentos Específicos, item 1 |
@@ -56,7 +56,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | ID | Disciplina | Tema | Edital | Prioridade | Questões convertidas |
 |---:|---|---|---|---|---:|
 | 001 | Português | Interpretação e compreensão de texto | Língua Portuguesa 1.1 | altíssima | 39 (8 oficiais FGV + 30 reais diversas) |
-| 002 | Português | Organização textual, coesão e coerência | Língua Portuguesa 1.2-1.3 | altíssima | 8 (3 oficiais FGV + 4 reais diversas) |
+| 002 | Português | Organização textual, coesão e coerência | Língua Portuguesa 1.2-1.3 | altíssima | 5 (3 oficiais FGV + 1 real diversa) |
 | 003 | Português | Modos discursivos, tipos textuais e textos literários | Língua Portuguesa 1.4-1.6 | alta | 25 (6 oficiais FGV + 18 reais diversas) |
 | 004 | Português | Frase, sintaxe, discurso e pontuação | Língua Portuguesa 1.7-1.17 | altíssima | 31 (13 oficiais FGV + 17 reais diversas) |
 | 005 | Português | Morfologia e classes de palavras | Língua Portuguesa 1.18-1.20 | alta | 38 (7 oficiais FGV + 30 reais diversas) |
