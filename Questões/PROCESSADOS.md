@@ -18,6 +18,8 @@ Iniciada rodada de reescrita, tema por tema: cada questão é lida de novo, a ex
 - biologia/003 (embriologia): 6 questões revisadas, 1 removida (dependia de imagem não capturada) → 8 questões no total.
 - biologia/002 (genética): 30 questões revisadas, 4 removidas (1 com opções vazias, 3 dependiam de figura/tabela) → 36 questões no total.
 - biologia/001 (citologia): 25 questões revisadas, 5 removidas (dependiam de imagem/gráfico/esquema não capturado) → 31 questões no total. Biologia (temas 001-003) concluída nesta rodada.
+- portugues/002 (organização textual): 1 questão revisada, 3 removidas (dependiam de texto-base não capturado) → 5 questões no total.
+- portugues/004 (frase, sintaxe): 15 questões revisadas, 2 removidas (1 dependia de texto-base não capturado, 1 tinha texto-base incoerente com as opções) → 29 questões no total. Achado importante: a maioria das questões de sintaxe/gramática é autocontida (frases completas nas alternativas), diferente das de interpretação de texto.
 
 ## Pasta: cienciasforenses/
 

@@ -2,16 +2,14 @@
 
 > Depois de clicar em **Checar resposta**, a alternativa fica salva neste navegador e entra no desempenho do tema.
 
-**Itens neste banco:** 31 questões (13 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV + 17 questões reais de bancas diversas, com fonte e gabarito oficial extraídos de banco de questões qconcursos).
+**Itens neste banco:** 29 questões (13 questões oficiais FGV com fonte e gabarito conferidos + 1 questão autoral no padrão FGV + 15 questões reais de bancas diversas, com fonte e gabarito oficial extraídos de banco de questões qconcursos).
 
 ## Fontes reais usadas neste banco
 
 - FGV, AL-AM, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, CPRM, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
-- FGV, EBSERH, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, MPU, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, MinC, 2024. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
-- FGV, PC-PI, 2026. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, PGM - RJ, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, PM-SP, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
 - FGV, Prefeitura de Canaã dos Carajás - PA, 2025. Questão localizada em banco de questões (qconcursos), com gabarito oficial da banca.
@@ -411,16 +409,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: FGV, Prefeitura de Macaé - RJ, 2026. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> Ao dizer que o infarto é “uma das principais causas de óbito” no Brasil, o texto informa que há outras causas de óbito igualmente importantes. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> a expressão "uma das principais causas" é logicamente diferente de "a principal causa" — dizer que algo é "uma das" pressupõe que existem outras no mesmo grupo de destaque.</p>
+<p><strong>Por que a C deve ser marcada:</strong> ao classificar o infarto como "uma das principais causas de óbito", o texto necessariamente admite que há outras causas também relevantes — é uma implicação lógica do próprio uso do artigo indefinido "uma".</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> O primeiro período apresenta um dado estatístico (fato), não uma opinião do autor — não há marca de subjetividade nele.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "Apenas" no texto qualifica a percepção da população sobre bem-estar (vinculada só ao peso), não afirma que o peso é a única causa do infarto — são coisas diferentes.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a leitura logicamente correta de "uma das principais causas".</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "Índice" e "condição" retomam coisas diferentes no texto (o número/dado e o infarto em si), não o mesmo termo anterior.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> O segmento inicial apresenta o dado estatístico que abre o texto, não uma conclusão (que viria ao final, resumindo o argumento).</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> confundir "uma das principais causas" (implica outras causas igualmente relevantes) com "a principal causa" (implicaria exclusividade) — o artigo indefinido "uma" é a pista gramatical central da questão.</p>
 </div>
 </div>
 
@@ -432,21 +430,21 @@
 <label class="quiz-option"><input type="radio" name="real-port004-16" value="B"> B. egoísta / gratuíto.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-16" value="C"> C. faísca / heroína.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-16" value="D"> D. juízo / país.</label>
-<label class="quiz-option"><input type="radio" name="real-port004-16" value="E"> E. saúde / viúvo. Respostas Provas: FGV - 2026 - TCE-SC - Auditor Fiscal de Controle Externo - Administração ... Interpretação de Textos , Coesão e coerência , Sintaxe Uso dos conectivos , Noções Gerais de Compreensão e Interpretação de Texto 1: D 2: C 3: E 4: D 5: E 6: C 7: B 8: D 9: C 10: C 11: E 12: B 13: C 14: A 15: C 16: A 17: E 18: A 19: B 20: B</label>
+<label class="quiz-option"><input type="radio" name="real-port004-16" value="E"> E. saúde / viúvo.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: FGV, PM-SP, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> egoísta / gratuíto. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> lembre a regra do hiato tônico: "i" ou "u" sozinhos, formando sílaba tônica após vogal, recebem acento — mas em "gratuito" o "u" é átono dentro do ditongo "ui", não forma hiato tônico, então não leva acento.</p>
+<p><strong>Por que a B deve ser marcada:</strong> "egoísta" está correto (i tônico formando hiato após o), mas "gratuíto" está errado — a grafia correta é "gratuito", sem acento, pois o "i" aí não é a vogal tônica da palavra (a sílaba tônica é "tui").</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> "balaústre" e "cafeína" estão corretamente acentuados (hiatos tônicos regulares).</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> Contém a acentuação incorreta: "gratuíto" deveria ser "gratuito" (sem acento).</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> "faísca" e "heroína" estão corretamente acentuados.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "juízo" e "país" estão corretamente acentuados.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> "saúde" e "viúvo" estão corretamente acentuados.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> "gratuito" é um dos erros de acentuação mais comuns do português — muita gente acentua por analogia com palavras parecidas (como "fortuito", que também não leva acento, pelo mesmo motivo), quando na verdade nenhuma das duas leva.</p>
 </div>
 </div>
 
@@ -458,53 +456,28 @@
 <label class="quiz-option"><input type="radio" name="real-port004-17" value="B"> B. a comparação da liberação dos pecados com a liberação da pele por parte da serpente é exemplo de linguagem lógica.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-17" value="C"> C. o reconhecimento do pecado e a sua confissão levam à liberação de culpas no pecador.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-17" value="D"> D. o texto condena implicitamente a confissão dos pecados presente no catolicismo.</label>
-<label class="quiz-option"><input type="radio" name="real-port004-17" value="E"> E. a última vírgula empregada no texto é necessária em função da inversão sintática de termos na frase. Interpretação de Textos , Figuras de Linguagem , Noções Gerais de Compreensão e Interpretação de Texto Resumo relacionado Fonologia: Conceitos Fundamentais e Dicas para Concursos Fonologia é o ramo da linguística que estuda os sons da fala, conhecidos por fonemas, e sua organização nos idiomas. No contexto dos concursos públicos, compreender fonologia é essencial, pois muitas questões de Língua Portuguesa cobram o reconhecimento e a análise d…</label>
+<label class="quiz-option"><input type="radio" name="real-port004-17" value="E"> E. a última vírgula empregada no texto é necessária em função da inversão sintática de termos na frase.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: FGV, PM-SP, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> o reconhecimento do pecado e a sua confissão levam à liberação de culpas no pecador. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> parafraseie a frase com suas próprias palavras: reconhecer e confessar o pecado = livrar-se dele, como a serpente troca de pele. A serpente é uma comparação (metáfora), não o foco do sentido — o foco é a ideia de libertação pela confissão.</p>
+<p><strong>Por que a C deve ser marcada:</strong> o texto afirma diretamente que reconhecer e confessar o pecado libera o homem dele — ou seja, leva à liberação (alívio) da culpa no pecador.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> A serpente trocando de pele é uma imagem de renovação/libertação, não está associada à ideia má do pecado — é uma comparação positiva sobre alívio, não sobre maldade.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Uma comparação (símile, marcada por "como") não é exemplo de linguagem lógica, e sim de linguagem figurada/conotativa.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> Resume corretamente a relação de causa e efeito presente no texto: reconhecimento + confissão leva à liberação da culpa.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> O texto é um código indiano de leis e fala de reconhecimento/confissão de forma genérica — não há nenhuma menção implícita ou explícita ao catolicismo.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não há inversão sintática relevante que justifique a última vírgula do texto — essa leitura força uma justificativa gramatical que não está presente.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> a imagem da serpente trocando de pele (comparação/símile) pode distrair para uma interpretação sobre maldade ou linguagem lógica, mas o núcleo do texto é simples: confissão leva à libertação da culpa.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="B">
-<p class="quiz-source">FGV - PC-PI, 2026</p>
-<p><strong>18. Assinale a opção que indica a estratégia argumentativa que é base para a construção do ponto de vista do texto.</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="real-port004-18" value="A"> A. Uso do argumento de autoridade, evidenciado pela citação direta dos especialistas da área a fim de construir a credibilidade no texto.</label>
-<label class="quiz-option"><input type="radio" name="real-port004-18" value="B"> B. Intertextualidade, revelada pela referência aos dados do estudo realizado como sustentação da argumentação defendida.</label>
-<label class="quiz-option"><input type="radio" name="real-port004-18" value="C"> C. Comparação, comprovada pela associação depreciativa dos números de segurança de Piauí.</label>
-<label class="quiz-option"><input type="radio" name="real-port004-18" value="D"> D. Generalização, pressuposta pela descrição de índices de uma realidade específica como recorte de uma constatação mais ampla.</label>
-<label class="quiz-option"><input type="radio" name="real-port004-18" value="E"> E. Implicação, observada a característica de definição de objetos de estudo, seguidos dos efeitos no discurso. Interpretação de Textos , Sintaxe Provas: FGV - 2026 - PC-PI - Perito Criminal - Biomedicina e Farmácia e Bioquímica e Biologia e Química e Engenharia Química ... Interpretação de Textos Provas: FGV - 2026 - PC-PI - Perito Criminal - Biomedicina e Farmácia e Bioquímica e Biologia e Química e Engenharia Química ...</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: B.</strong> Fonte: FGV, PC-PI, 2026. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> Intertextualidade, revelada pela referência aos dados do estudo realizado como sustentação da argumentação defendida. — é a alternativa apontada pelo gabarito oficial da banca.</p>
-<ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-</ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
-</div>
-</div>
 
 <div class="quiz-card" data-answer="D">
 <p class="quiz-source">FGV - AL-AM, 2025</p>
-<p><strong>19. Observe o seguinte diálogo: - O que você quer comer no almoço? - Sei lá! - Que tal... - Ah, já sei: camarão à milanesa. - Tá bom! Para dar verossimilhança ao diálogo acima, a estratégia que NÃO foi empregada no texto, é</strong></p>
+<p><strong>18. Observe o seguinte diálogo: - O que você quer comer no almoço? - Sei lá! - Que tal... - Ah, já sei: camarão à milanesa. - Tá bom! Para dar verossimilhança ao diálogo acima, a estratégia que NÃO foi empregada no texto, é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-port004-19" value="A"> A. utilizar pontuação que demonstra a entoação.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-19" value="B"> B. usar frases curtas ou incompletas.</label>
@@ -515,22 +488,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: FGV, AL-AM, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa D como correta.</p>
-<p><strong>Por que a D deve ser marcada:</strong> empregar estruturas repetidas, típicas da fala. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> confira, uma a uma, se cada estratégia listada realmente aparece no diálogo curto dado (pontuação expressiva, frases truncadas, registro informal, repetição de estruturas, interjeições).</p>
+<p><strong>Por que a D deve ser marcada:</strong> o diálogo é curto demais para conter "estruturas repetidas" (um recurso que exigiria a repetição de um mesmo padrão sintático várias vezes); as demais estratégias aparecem claramente no texto.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> A pontuação expressiva está presente: o ponto de interrogação, a exclamação ("Sei lá!") e as reticências ("Que tal...") marcam entonação típica da fala.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Há frases curtas e incompletas: "Sei lá!", "Que tal...", "Tá bom!" — todas fragmentadas, como na fala espontânea.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> O nível de linguagem é claramente informal e coloquial ("Sei lá", "Tá bom"), adequado a uma conversa cotidiana sobre o almoço.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> Não há repetição de estrutura sintática ao longo do diálogo — cada fala tem forma diferente da anterior.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Há interjeições típicas da fala: "Ah" (em "Ah, já sei") marca a língua falada espontânea.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> em vez de procurar o que ESTÁ no texto, o comando pede o que NÃO foi usado — releia cada alternativa perguntando "isso realmente aparece no diálogo?", não apenas "isso é uma estratégia válida de oralidade?".</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">FGV - AL-AM, 2025</p>
-<p><strong>20. Leia o trecho inicial do romance A Morte e a Morte de Quincas Berro Dágua, do escritor modernista Jorge Amado. “Até hoje permanece certa confusão em torno da morte de Quincas Berro Dágua. Dúvidas por explicar, detalhes absurdos, contradições no depoimento das testemunhas, lacunas diversas. Não há clareza sobre hora, local e frase derradeira.” Assinale a afirmação correta sobre a sua significação ou estruturação.</strong></p>
+<p><strong>19. Leia o trecho inicial do romance A Morte e a Morte de Quincas Berro Dágua, do escritor modernista Jorge Amado. “Até hoje permanece certa confusão em torno da morte de Quincas Berro Dágua. Dúvidas por explicar, detalhes absurdos, contradições no depoimento das testemunhas, lacunas diversas. Não há clareza sobre hora, local e frase derradeira.” Assinale a afirmação correta sobre a sua significação ou estruturação.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-port004-20" value="A"> A. O primeiro período do segmento é explicitado pelo restante do texto.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-20" value="B"> B. Entre o primeiro e o segundo período do texto, em lugar do ponto poderia ser empregado o conectivo “apesar de”.</label>
@@ -541,22 +514,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: FGV, AL-AM, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa A como correta.</p>
-<p><strong>Por que a A deve ser marcada:</strong> O primeiro período do segmento é explicitado pelo restante do texto. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> veja se a segunda e a terceira frases do trecho (dúvidas, detalhes absurdos, contradições, lacunas) apenas repetem a primeira ("certa confusão") ou se a detalham, explicando em que consiste essa "confusão".</p>
+<p><strong>Por que a A deve ser marcada:</strong> o restante do trecho (dúvidas, detalhes absurdos, contradições, lacunas, falta de clareza sobre hora/local/frase) detalha e explica exatamente em que consiste "certa confusão" citada no primeiro período — é uma relação de explicitação.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> O restante do texto detalha e esclarece o que é essa "confusão" mencionada de início.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "Apesar de" indica concessão/contraste, mas a relação entre as frases é de explicação/detalhamento, não de contraste — a substituição mudaria o sentido.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> A posição do adjetivo "diversas/diverso" altera a nuance: posposto ("lacunas diversas") sugere lacunas de tipos variados; anteposto ("diversas lacunas") sugere apenas quantidade — não são estritamente equivalentes.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> O trecho é a abertura de um romance, com vocabulário literário ("frase derradeira") — não tem as marcas objetivas e factuais de uma reportagem jornalística.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> É uma afirmação absoluta demais para ser a "leitura correta" pedida quando já existe uma alternativa (A) que descreve com precisão a estrutura do texto.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> não confundir "explicitar" (detalhar/esclarecer o que já foi dito) com "contrastar" (como sugeriria "apesar de") — a relação entre as frases do trecho é de complementação, não de oposição.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">FGV - AL-AM, 2025</p>
-<p><strong>21. “Não, não direi que assisti às alvoradas do romantismo, que também eu fui fazer poesia efetiva no regaço da Itália; não direi coisa nenhuma.” (Memórias Póstumas de Brás Cubas) Nessa frase há um aspecto diferente na estruturação, que é</strong></p>
+<p><strong>20. “Não, não direi que assisti às alvoradas do romantismo, que também eu fui fazer poesia efetiva no regaço da Itália; não direi coisa nenhuma.” (Memórias Póstumas de Brás Cubas) Nessa frase há um aspecto diferente na estruturação, que é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-port004-21" value="A"> A. a falta de coerência, pois o narrador acaba dizendo o que afirma não dizer.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-21" value="B"> B. a repetição desnecessária de termos, o que ocorre com a expressão “não direi”.</label>
@@ -567,22 +540,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: FGV, AL-AM, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa A como correta.</p>
-<p><strong>Por que a A deve ser marcada:</strong> a falta de coerência, pois o narrador acaba dizendo o que afirma não dizer. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> o narrador promete não falar de algo ("não direi que...") e, ao formular essa promessa, acaba citando exatamente aquilo que diz que não vai dizer — um paradoxo típico da ironia machadiana.</p>
+<p><strong>Por que a A deve ser marcada:</strong> ao dizer "não direi que assisti às alvoradas do romantismo... que também eu fui fazer poesia...", o narrador já disse essas coisas no ato de negá-las — uma contradição lógica entre a forma (nega dizer) e o conteúdo (efetivamente diz).</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É exatamente essa incoerência entre negar e, ao mesmo tempo, afirmar o negado.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> A repetição de "não direi" é recurso estilístico proposital (anáfora/ênfase), não um erro de repetição desnecessária.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não há erro de pontuação ou concordância na frase — a estrutura é gramaticalmente correta, mesmo sendo logicamente paradoxal.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> As orações estão conectadas por vírgulas e pela repetição de "não direi que" — há coesão sintática, o problema é de coerência lógica, não de coesão.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não há uso excessivo de palavras gerando redundância de sentido; o efeito é proposital (ironia), não prolixidade.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> confundir "incoerência lógica proposital" (recurso irônico de Machado de Assis) com "erro gramatical" ou "problema de coesão" — a frase é gramaticalmente impecável, o efeito é no plano do sentido.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="E">
 <p class="quiz-source">FGV - CPRM, 2025</p>
-<p><strong>22. Assinale a opção que classifica corretamente a oração reduzida destacada em: “Não obtendo resultado, fustigou-o com a bainha da faca de ponta”.</strong></p>
+<p><strong>21. Assinale a opção que classifica corretamente a oração reduzida destacada em: “Não obtendo resultado, fustigou-o com a bainha da faca de ponta”.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-port004-22" value="A"> A. Oração subordinada substantiva subjetiva reduzida de gerúndio.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-22" value="B"> B. Oração subordinada adverbial temporal reduzida de gerúndio.</label>
@@ -593,48 +566,48 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: E.</strong> Fonte: FGV, CPRM, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa E como correta.</p>
-<p><strong>Por que a E deve ser marcada:</strong> Oração subordinada adverbial causal reduzida de gerúndio. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> transforme a oração reduzida em uma oração desenvolvida equivalente: "Não obtendo resultado" = "Como não obteve resultado" / "Já que não obteve resultado" — esse tipo de substituição revela o valor semântico da oração reduzida.</p>
+<p><strong>Por que a E deve ser marcada:</strong> "Não obtendo resultado" expressa a causa/motivo de "fustigou-o com a bainha da faca" — ele bateu justamente porque não obteve resultado; é uma oração causal reduzida de gerúndio.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Substantiva subjetiva funcionaria como sujeito do verbo principal (ex.: "É preciso obter resultado") — não é o caso aqui, a oração reduzida modifica o verbo, não faz parte do sujeito.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Temporal indicaria simultaneidade ou sequência no tempo ("enquanto não obtinha resultado"), mas o sentido aqui é de causa, não de tempo.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Consecutiva indicaria uma consequência ("de tal forma que"), mas a oração reduzida vem antes e motiva a ação, não é resultado dela.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Adjetiva restritiva modificaria um substantivo (como "resultado que não obtinha"), mas a oração reduzida se refere ao verbo/oração principal inteira, não a um substantivo específico.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> Expressa corretamente a causa da ação principal.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> orações reduzidas de gerúndio podem ter vários valores (tempo, causa, condição, concessão) — o contexto é que decide; aqui, "não obter resultado" é claramente o motivo, não apenas uma circunstância de tempo.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="E">
 <p class="quiz-source">FGV - TCE-PE, 2025</p>
-<p><strong>23. Em todas as sentenças a seguir, foi inserida uma expressão entre parênteses com o objetivo de reescrever a frase sem alterar sua correção gramatical ou seu sentido original. Assinale a afirmativa em que essa inserção foi feita de maneira inadequada, comprometendo a estrutura ou o significado da frase.</strong></p>
+<p><strong>22. Em todas as sentenças a seguir, foi inserida uma expressão entre parênteses com o objetivo de reescrever a frase sem alterar sua correção gramatical ou seu sentido original. Assinale a afirmativa em que essa inserção foi feita de maneira inadequada, comprometendo a estrutura ou o significado da frase.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-port004-23" value="A"> A. A compra de novos uniformes veio a suprir uma deficiência de muitos de nossos alunos (inclusive) / A compra de novos uniformes veio, inclusive, a suprir uma deficiência de muitos de nossos alunos.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-23" value="B"> B. Não é difícil encontrar vestígios da colonização portuguesa na história moderna do Brasil (a essa altura) / Não é difícil encontrar, a essa altura, vestígios da colonização portuguesa na história moderna do Brasil.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-23" value="C"> C. Há medidas oficiais que conseguem corrigir problemas sociais (ainda que impopulares) / Há medidas oficiais, ainda que impopulares, que conseguem corrigir problemas sociais.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-23" value="D"> D. Esses jogadores não estavam ligados ao time no início do campeonato (o que talvez tenha sido bom) / Esses jogadores não estavam ligados ao time no início do campeonato, o que talvez tenha sido bom.</label>
-<label class="quiz-option"><input type="radio" name="real-port004-23" value="E"> E. Os acidentes aeroviários provocam grande número de vítimas (no entanto) / Os acidentes, no entanto, aeroviários provocam grande número de vítimas. Interpretação de Textos Provas: FGV - 2025 - TCE-PE - Auditor de Controle Externo – Contas Públicas ... Interpretação de Textos , Sintaxe Provas: FGV - 2025 - TCE-PE - Auditor de Controle Externo – Contas Públicas ...</label>
+<label class="quiz-option"><input type="radio" name="real-port004-23" value="E"> E. Os acidentes aeroviários provocam grande número de vítimas (no entanto) / Os acidentes, no entanto, aeroviários provocam grande número de vítimas.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: E.</strong> Fonte: FGV, TCE-PE, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa E como correta.</p>
-<p><strong>Por que a E deve ser marcada:</strong> Os acidentes aeroviários provocam grande número de vítimas (no entanto) / Os acidentes, no entanto, aeroviários provocam grande número de vítimas. Interpretação de Textos Provas: FGV - 2025 - TCE-PE - Auditor de Controle Externo – Contas Públicas ... Interpretação de Textos , Sintaxe Provas: FGV - 2025 - TCE-PE - Auditor de Controle Externo – Contas Públicas ... — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> um advérbio/expressão interposta (como "no entanto") deve ser inserida entre unidades sintáticas já completas (sujeito e predicado, por exemplo), nunca no meio de um substantivo e seu adjetivo, que formam uma unidade indivisível.</p>
+<p><strong>Por que a E deve ser marcada:</strong> a inserção de "no entanto" separa "acidentes" do adjetivo "aeroviários", quebrando o sintagma nominal "acidentes aeroviários" — a versão correta seria inserir a expressão depois do sintagma completo ("Os acidentes aeroviários, no entanto, provocam...").</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> "Inclusive" é inserido entre o verbo auxiliar e o principal ("veio, inclusive, a suprir"), sem quebrar nenhuma unidade sintática indivisível — inserção adequada.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "A essa altura" é inserido logo após o verbo, antes do objeto, sem separar termos que devam ficar juntos — inserção adequada.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> "Ainda que impopulares" é inserido entre o sujeito e a oração adjetiva, ponto sintaticamente aceitável para uma pausa — inserção adequada.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "O que talvez tenha sido bom" é acrescentado ao final da frase como oração explicativa, sem quebrar nenhuma unidade — inserção adequada.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> Quebra o sintagma nominal "acidentes aeroviários", inserindo a expressão entre o substantivo e seu adjetivo — a única inserção que compromete a estrutura da frase.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> substantivo + adjetivo que o qualifica formam uma unidade que normalmente não deve ser interrompida por uma expressão intercalada — diferente de inserir a expressão entre sujeito e predicado, ou depois de um sintagma já completo.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="E">
 <p class="quiz-source">FGV - SEPLAN-SE, 2025</p>
-<p><strong>24. Segundo dados da organização Our World in Data, o Brasil lidera o ranking mundial de prevalência de transtornos de ansiedade. A esse respeito, leia o depoimento do psicólogo Alexandre Amaral a seguir. Eu não considero a ansiedade um sintoma psiquiátrico. Considerar a ansiedade como um sintoma psiquiátrico é patologizar e medicalizar um sintoma que, para mim, hoje é cultural. Nós estamos vivendo uma vida de múltiplas pressões de desempenho, uma cultura cada vez mais competitiva e comparativa das trajetórias individuais. Desde o tipo da casa, de carreira, de trajetória pessoal, de humor, se está bem-humorado o tempo inteiro ou não, se performa na rede social. É um mundo que pressiona e faz a pessoa chegar no final do dia com a sensação de derrota. Adaptado de https://apublica.org/2025/04/a-goteira-que-cai-no-baldeate-transbordar-as-raizes-sociais-da-ansiedade-no- brasil/#_ Com base no trecho, é correto afirmar que, na perspectiva do autor, a ansiedade é</strong></p>
+<p><strong>23. Segundo dados da organização Our World in Data, o Brasil lidera o ranking mundial de prevalência de transtornos de ansiedade. A esse respeito, leia o depoimento do psicólogo Alexandre Amaral a seguir. Eu não considero a ansiedade um sintoma psiquiátrico. Considerar a ansiedade como um sintoma psiquiátrico é patologizar e medicalizar um sintoma que, para mim, hoje é cultural. Nós estamos vivendo uma vida de múltiplas pressões de desempenho, uma cultura cada vez mais competitiva e comparativa das trajetórias individuais. Desde o tipo da casa, de carreira, de trajetória pessoal, de humor, se está bem-humorado o tempo inteiro ou não, se performa na rede social. É um mundo que pressiona e faz a pessoa chegar no final do dia com a sensação de derrota. Adaptado de https://apublica.org/2025/04/a-goteira-que-cai-no-baldeate-transbordar-as-raizes-sociais-da-ansiedade-no- brasil/#_ Com base no trecho, é correto afirmar que, na perspectiva do autor, a ansiedade é</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-port004-24" value="A"> A. um problema individual com causas neuroquímicas, genéticas, cognitivas ou traumáticas.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-24" value="B"> B. um fator químico que desestrutura o funcionamento psicológico e desregula a cognição e a dimensão emocional.</label>
@@ -645,22 +618,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: E.</strong> Fonte: FGV, SEPLAN-SE, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa E como correta.</p>
-<p><strong>Por que a E deve ser marcada:</strong> um fenômeno psicológico que reflete o mal-estar gerado pelas exigências da cultura contemporânea, como a aceleração do tempo e a idealização constante da performance. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> o psicólogo rejeita explicitamente a visão médica/individual da ansiedade ("não considero um sintoma psiquiátrico") e a atribui à cultura contemporânea: pressão de desempenho, comparação constante, cobrança de performance nas redes sociais.</p>
+<p><strong>Por que a E deve ser marcada:</strong> o depoimento descreve a ansiedade como resultado do "mundo que pressiona" — múltiplas pressões de desempenho, comparação social, cobrança de performance — ou seja, um mal-estar psicológico gerado pelas exigências da cultura atual, não uma causa biológica isolada.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> O autor rejeita explicitamente a explicação biomédica individual ("não considero um sintoma psiquiátrico"), então causas neuroquímicas/genéticas não são sua perspectiva.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "Fator químico" também contraria diretamente a fala do psicólogo, que rejeita a patologização/medicalização da ansiedade.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Fala em "secularização" e "responsabiliza o sujeito por todos os fracassos" são ideias não mencionadas no depoimento — extrapolam o que foi dito.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Tratamento com antidepressivos contraria a posição do autor, que rejeita justamente o enquadramento médico/medicamentoso do problema.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> Resume fielmente a visão do psicólogo: ansiedade como mal-estar cultural, ligado às pressões de desempenho e comparação da vida contemporânea.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> as alternativas A, B e D reintroduzem exatamente a explicação médica/biológica que o psicólogo explicitamente rejeita no início da fala — leia com atenção a negação inicial ("Eu não considero a ansiedade um sintoma psiquiátrico").</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="D">
 <p class="quiz-source">FGV - TRT - 24ª REGIÃO (MS), 2025</p>
-<p><strong>25. Assinale a frase que deve apresentar uma vírgula.</strong></p>
+<p><strong>24. Assinale a frase que deve apresentar uma vírgula.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-port004-25" value="A"> A. A estrada do excesso conduz ao palácio da sabedoria.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-25" value="B"> B. A moderação é sempre a tática preferível.</label>
@@ -671,74 +644,74 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: FGV, TRT - 24ª REGIÃO (MS), 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa D como correta.</p>
-<p><strong>Por que a D deve ser marcada:</strong> Em geral na natureza humana existe mais tolice do que sabedoria. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> localize, em cada alternativa, um adjunto adverbial deslocado para o início da frase — esses adjuntos costumam pedir vírgula para se separar do restante da oração, evitando leitura truncada.</p>
+<p><strong>Por que a D deve ser marcada:</strong> "Em geral" é um adjunto adverbial antecipado; o correto é separá-lo por vírgula do restante: "Em geral, na natureza humana existe mais tolice do que sabedoria" — sem a vírgula, a leitura fica truncada.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Frase simples, na ordem direta (sujeito + verbo + complemento), sem termo deslocado que exija vírgula.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Frase simples, ordem direta, sem elemento antecipado.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> A estrutura comparativa ("mais úteis... do que...") não exige vírgula obrigatória nesse tipo de construção.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> O adjunto adverbial antecipado "Em geral" pede vírgula antes de continuar a oração.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Estrutura correlativa "tanto... quanto..." não exige vírgula obrigatória entre os termos correlacionados.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> adjuntos adverbiais deslocados para o início da frase (como "em geral", "por isso", "nesse sentido") pedem vírgula para marcar a pausa e evitar ambiguidade — um detalhe fácil de esquecer quando a frase parece "curta" o suficiente para dispensar pontuação.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">FGV - MPU, 2025</p>
-<p><strong>26. Observe a seguinte frase: “Ele ficou esgotado porque correu muito”. A maneira de reescrevê-la que modifica o seu sentido original é:</strong></p>
+<p><strong>25. Observe a seguinte frase: “Ele ficou esgotado porque correu muito”. A maneira de reescrevê-la que modifica o seu sentido original é:</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-port004-26" value="A"> A. Se ele correu muito, ficou esgotado;</label>
 <label class="quiz-option"><input type="radio" name="real-port004-26" value="B"> B. Ele sentiu-se esgotado por ter corrido muito;</label>
-<label class="quiz-option"><input type="radio" name="real-port004-26" value="C"> C. Já que correu muito, sentiu-se esgotado; Interpretação de Textos Provas: FGV - 2025 - MPU - Analista do MPU - Perito em Contabilidade ... Interpretação de Textos Provas: FGV - 2025 - MPU - Analista do MPU - Perito em Contabilidade ... Interpretação de Textos , Sintaxe Provas: FGV - 2025 - MPU - Analista do MPU - Perito em Contabilidade ...</label>
+<label class="quiz-option"><input type="radio" name="real-port004-26" value="C"> C. Já que correu muito, sentiu-se esgotado;</label>
 <label class="quiz-option"><input type="radio" name="real-port004-26" value="D"> D. Porque correu muito, ficou esgotado;</label>
 <label class="quiz-option"><input type="radio" name="real-port004-26" value="E"> E. Seu esgotamento ocorreu por ter corrido muito.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: FGV, MPU, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa A como correta.</p>
-<p><strong>Por que a A deve ser marcada:</strong> Se ele correu muito, ficou esgotado; — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> a frase original afirma uma relação de causa e efeito real e consumada ("ficou esgotado PORQUE correu muito" — o cansaço é fato). Veja se cada reescritura preserva essa certeza ou introduz incerteza/hipótese.</p>
+<p><strong>Por que a A deve ser marcada:</strong> "Se ele correu muito, ficou esgotado" transforma a relação causal certa em uma condição hipotética — "se" sugere que talvez ele não tenha corrido, mudando o sentido de fato consumado para possibilidade.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> Troca a causa certa ("porque") por uma condição hipotética ("se"), alterando o sentido original.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "Por ter corrido muito" mantém o valor causal, apenas reduzindo a oração — sentido preservado.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> "Já que" é conjunção causal equivalente a "porque" — sentido preservado.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "Porque" é a própria conjunção original, apenas reorganizada no início da frase — sentido preservado.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> "Por ter corrido muito" mantém o valor causal na nova estrutura — sentido preservado.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> "se" e "porque/já que" podem parecer intercambiáveis à primeira vista, mas "se" introduz uma condição (hipótese, pode ou não acontecer), enquanto "porque" afirma uma causa já concretizada (fato certo) — a troca muda a modalidade da frase.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">FGV - MinC, 2024</p>
-<p><strong>27. Assinale a alternativa que apresenta um uso facultativo da vírgula.</strong></p>
+<p><strong>26. Assinale a alternativa que apresenta um uso facultativo da vírgula.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-port004-27" value="A"> A. Ontem, todos os aeroportos ainda estavam fechados por conta do temporal.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-27" value="B"> B. É preciso apontar, sem dúvidas, os equívocos na formação dos candidatos.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-27" value="C"> C. A escola funciona nos dias de semana até às 22 horas. Nos sábados, até às 11.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-27" value="D"> D. Devemos cuidar do corpo, mas sem descuidar do espírito.</label>
-<label class="quiz-option"><input type="radio" name="real-port004-27" value="E"> E. Considerando o nível de poluição mundial, deve-se reduzir o consumo de plásticos. Interpretação de Textos , Noções Gerais de Compreensão e Interpretação de Texto</label>
+<label class="quiz-option"><input type="radio" name="real-port004-27" value="E"> E. Considerando o nível de poluição mundial, deve-se reduzir o consumo de plásticos.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: FGV, MinC, 2024. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa A como correta.</p>
-<p><strong>Por que a A deve ser marcada:</strong> Ontem, todos os aeroportos ainda estavam fechados por conta do temporal. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> vírgula facultativa é aquela que pode ou não aparecer sem prejuízo — típica de adjuntos adverbiais curtos (uma palavra) no início da frase; vírgulas obrigatórias marcam pausas estruturais (antes de "mas", isolando expressões intercaladas, ou após orações/locuções mais longas deslocadas).</p>
+<p><strong>Por que a A deve ser marcada:</strong> "Ontem" é um adjunto adverbial de uma só palavra no início da frase — a vírgula depois dele é estilística (facultativa), podendo ser omitida sem prejudicar a clareza: "Ontem todos os aeroportos ainda estavam fechados..." também é aceitável.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> Vírgula após adjunto adverbial curto de uma palavra — uso facultativo.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> As vírgulas isolam a expressão intercalada "sem dúvidas" — uso obrigatório, não facultativo.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> A vírgula após "Nos sábados" marca a elipse do verbo "funciona" (retomado da frase anterior) — uso obrigatório para sinalizar a omissão.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> A vírgula antes da conjunção adversativa "mas" é praticamente obrigatória na norma culta.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> A vírgula após a longa oração reduzida de gerúndio antecipada ("Considerando...") é obrigatória, não facultativa.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> nem toda vírgula após um termo antecipado é "facultativa" — só costuma ser dispensável quando o termo deslocado é curto (uma palavra); quanto mais longa a expressão antecipada ou quanto mais estrutural a pausa (elipse, adversativa, aposto), mais obrigatória a vírgula se torna.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="B">
 <p class="quiz-source">FGV - Prefeitura de Canaã dos Carajás - PA, 2025</p>
-<p><strong>28. Assinale a frase que manifesta o discurso indireto. Termos integrantes da oração: predicativo do sujeito e predicativo do objeto Interpretação de Textos , Coesão e coerência Provas: FGV - 2025 - Prefeitura de Canaã dos Carajás - PA - Professor de Língua Portuguesa ... Provas: FGV - 2025 - Prefeitura de Canaã dos Carajás - PA - Professor de Língua Portuguesa ...</strong></p>
+<p><strong>27. Assinale a frase que manifesta o discurso indireto.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-port004-28" value="A"> A. Eu devia ter mais paciência com ela.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-28" value="B"> B. O livreiro me disse que eu o acharia apaixonante.</label>
@@ -749,22 +722,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: FGV, Prefeitura de Canaã dos Carajás - PA, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> O livreiro me disse que eu o acharia apaixonante. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> discurso indireto relata a fala de alguém por meio de um verbo de elocução (dizer, contar, afirmar...) seguido de oração subordinada com "que" — não são as palavras exatas de quem falou, mas um relato de terceiros.</p>
+<p><strong>Por que a B deve ser marcada:</strong> "O livreiro me disse que eu o acharia apaixonante" tem a estrutura clássica do discurso indireto: verbo de elocução ("disse") + "que" + relato da fala de outra pessoa.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> É um pensamento em primeira pessoa direto, sem verbo de elocução relatando a fala de outra pessoa.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> Tem o verbo de elocução "disse" + "que", estrutura típica do discurso indireto.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Narra ações em sequência, sem relatar a fala de ninguém.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Apenas narra uma ação do próprio narrador, sem discurso relatado.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> É uma descrição/afirmação direta do narrador sobre o livro, sem relatar fala de terceiros.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> discurso indireto exige a combinação específica de um verbo de elocução (dizer, contar, afirmar) + "que" relatando a fala de outra pessoa — frases que apenas narram ações ou pensamentos do próprio narrador não se encaixam nessa categoria.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="E">
 <p class="quiz-source">FGV - Prefeitura de Canaã dos Carajás - PA, 2025</p>
-<p><strong>29. Assinale a frase que apresenta pontuação adequada.</strong></p>
+<p><strong>28. Assinale a frase que apresenta pontuação adequada.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-port004-29" value="A"> A. Rico não é quem mais tem! É quem menos precisa.</label>
 <label class="quiz-option"><input type="radio" name="real-port004-29" value="B"> B. Pobre é o povo, que não se abaixa, para levantar uma moeda do chão.</label>
@@ -775,48 +748,23 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: E.</strong> Fonte: FGV, Prefeitura de Canaã dos Carajás - PA, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa E como correta.</p>
-<p><strong>Por que a E deve ser marcada:</strong> A situação tá tão feia, minha grana tão escassa, que o vizinho faz churrasco e eu passo o pão na fumaça. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> confira se cada vírgula realmente separa unidades que podem/devem ser separadas — cuidado especial com vírgula isolando uma oração restritiva (que deveria vir sem pausa) ou vírgula quebrando verbo e complemento.</p>
+<p><strong>Por que a E deve ser marcada:</strong> a estrutura "tão feia,... tão escassa,... que..." é uma construção consecutiva correlativa clássica, corretamente pontuada — as vírgulas separam os dois termos comparados antes da conclusão introduzida por "que".</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> A exclamação no meio de uma frase declarativa e reflexiva soa deslocada; o ponto final ou dois-pontos seriam mais adequados que o ponto de exclamação nesse contexto.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> As vírgulas isolam "que não se abaixa" como se fosse explicativa, mas o sentido pede oração restritiva (definindo qual povo — o que não se abaixa), que não deveria ser isolada por vírgulas.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> O uso de dois-pontos após uma expressão comparativa incompleta ("Como a maior parte dos ricos:") não estabelece uma relação lógica clara — pontuação inadequada para o tipo de conexão pretendida.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> A vírgula antes de "no reino de Deus" separa indevidamente o verbo "entrar" do seu complemento, quebrando uma unidade sintática que deveria ficar junta.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> Pontuação adequada na estrutura consecutiva "tão... tão... que".</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> vírgula isolando oração restritiva (como em B) é um erro sutil e comum — restritivas definem/delimitam o substantivo anterior e não devem vir isoladas por vírgula, ao contrário das explicativas.</p>
 </div>
 </div>
 
-<div class="quiz-card" data-answer="C">
-<p class="quiz-source">FGV - EBSERH, 2025</p>
-<p><strong>30. Atenção. O Texto 3 a seguir refere-se à próxima questão. A personalização dos cuidados médicos é um desafio, mas também uma perspectiva promissora. Cada indivíduo é único, com características genéticas, histórico médico e estilo de vida distintos, e a Medicina está se movendo em direção a uma abordagem mais personalizada. Isso caminha lado a lado com a Medicina humanizada e a compreensão de que os pacientes não são doenças a serem tratadas, mas sim indivíduos com particularidades e estilos de vida que os levam a ter necessidades também variadas. No entanto, a implementação prática dessa abordagem requer o acesso a tecnologias avançadas de diagnóstico, uma melhor compreensão dos fatores genéticos e ambientais e a capacidade de adaptar os tratamentos de acordo com as necessidades individuais. As frases a seguir mostram um termo sublinhado que se refere a um termo anterior (coesão). Assinale a frase em que esse termo sublinhado se refere a um termo posterior.</strong></p>
-<div class="quiz-options">
-<label class="quiz-option"><input type="radio" name="real-port004-30" value="A"> A. Grande parte da saúde consiste em desejá-la em todos os momentos. Interpretação de Textos , Noções Gerais de Compreensão e Interpretação de Texto Provas: FGV - 2024 - EPE - Analista de Pesquisa Energética (Gás e Bioenergia - Bioenergia) ... Interpretação de Textos , Coesão e coerência Provas: FGV - 2025 - EBSERH - Grupo Clínica Médica ...</label>
-<label class="quiz-option"><input type="radio" name="real-port004-30" value="B"> B. Dar nome a uma doença é apressar-lhe os avanços.</label>
-<label class="quiz-option"><input type="radio" name="real-port004-30" value="C"> C. A verdade é esta: todos mentem para todos.</label>
-<label class="quiz-option"><input type="radio" name="real-port004-30" value="D"> D. A maioria dos homens morre de seus remédios.</label>
-<label class="quiz-option"><input type="radio" name="real-port004-30" value="E"> E. Você deve preparar a sua mente para o melhor da vida.</label>
-</div>
-<button class="quiz-check" type="button">Checar resposta</button>
-<div class="quiz-feedback" hidden>
-<p><strong>Resposta: C.</strong> Fonte: FGV, EBSERH, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> A verdade é esta: todos mentem para todos. — é a alternativa apontada pelo gabarito oficial da banca.</p>
-<ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-</ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
-</div>
-</div>
 
 <div class="quiz-card" data-answer="A">
 <p class="quiz-source">FGV - PGM - RJ, 2025</p>
-<p><strong>31. As frases a seguir foram redigidas sem um elemento de ligação entre elas. Assinale a opção em que foi proposto um conectivo adequado.</strong></p>
+<p><strong>29. As frases a seguir foram redigidas sem um elemento de ligação entre elas. Assinale a opção em que foi proposto um conectivo adequado.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-port004-31" value="A"> A. Passou meia hora sem poder entrar em casa; João pôde abrir a porta. / só então</label>
 <label class="quiz-option"><input type="radio" name="real-port004-31" value="B"> B. O goleiro estava bem colocado; a bola fez uma volta estranha e entrou no ângulo esquerdo. / enquanto</label>
@@ -827,15 +775,15 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: FGV, PGM - RJ, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa A como correta.</p>
-<p><strong>Por que a A deve ser marcada:</strong> Passou meia hora sem poder entrar em casa; João pôde abrir a porta. / só então — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> teste cada conectivo proposto encaixando-o entre as duas frases e verificando se a relação lógica (tempo, causa, contraste, consequência) faz sentido com o que está sendo narrado.</p>
+<p><strong>Por que a A deve ser marcada:</strong> "só então" marca exatamente a ideia de "somente depois desse tempo de espera" — encaixa perfeitamente entre "passou meia hora sem conseguir entrar" e "João pôde abrir a porta", indicando o momento em que a espera finalmente terminou.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> "Só então" expressa corretamente a culminação temporal após o período de espera.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "Enquanto" indica simultaneidade, mas as duas orações descrevem eventos sequenciais (goleiro bem posicionado, DEPOIS a bola faz volta estranha) — não são simultâneos.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> "Mas" indica contraste, porém "havia telefone" é um argumento a favor de "lugar esplêndido", não um contraponto — a relação é de soma, não de oposição.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "Conquanto" (embora) indica concessão, mas a relação entre "remexeu nos papéis" e "não pude encontrar mais nada" é de causa e efeito direta, não de contraste.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> "Logo" (portanto) sugere uma conclusão lógica a partir da premissa anterior, mas a ordem das frases não forma esse tipo de silogismo — o encaixe soa artificial.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> cada conectivo carrega um valor lógico específico (tempo, causa, contraste, concessão, conclusão) — a armadilha é escolher um conectivo "genérico" que pareça caber, sem checar se o tipo de relação lógica realmente corresponde ao que as duas orações descrevem.</p>
 </div>
 </div>
