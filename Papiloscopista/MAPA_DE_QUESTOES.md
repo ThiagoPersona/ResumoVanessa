@@ -5,7 +5,7 @@
 O mapa abaixo separa duas coisas que não devem ser misturadas:
 
 - **Peso oficial do edital:** já está completo para Papiloscopista.
-- **Banco FGV-style:** neste momento há 841 questões comentadas, com pelo menos uma por tema do edital.
+- **Banco FGV-style:** neste momento há 839 questões comentadas, com pelo menos uma por tema do edital.
 - **Validação por provas semelhantes:** já tem página própria para confrontar FGV Papiloscopista, FGV Perito/Polícia Civil e bancas próximas com os 61 temas.
 
 Isso evita inventar estatística de prova. À medida que os PDFs locais e oficiais forem convertidos, os totais por tema e a distribuição de alternativas devem ser atualizados aqui.
@@ -60,7 +60,7 @@ Isso evita inventar estatística de prova. À medida que os PDFs locais e oficia
 | 003 | Português | Modos discursivos, tipos textuais e textos literários | Língua Portuguesa 1.4-1.6 | alta | 25 (6 oficiais FGV + 18 reais diversas) |
 | 004 | Português | Frase, sintaxe, discurso e pontuação | Língua Portuguesa 1.7-1.17 | altíssima | 29 (13 oficiais FGV + 15 reais diversas) |
 | 005 | Português | Morfologia e classes de palavras | Língua Portuguesa 1.18-1.20 | alta | 38 (7 oficiais FGV + 30 reais diversas) |
-| 006 | Português | Semântica, vocabulário, ortografia, acentuação e crase | Língua Portuguesa 1.21-1.26 | altíssima | 37 (7 oficiais FGV + 29 reais diversas) |
+| 006 | Português | Semântica, vocabulário, ortografia, acentuação e crase | Língua Portuguesa 1.21-1.26 | altíssima | 35 (7 oficiais FGV + 1 autoral + 27 reais diversas) |
 | 007 | RLM | Lógica proposicional e conjuntos | RLM 2.1-2.2 | alta | 4 (3 oficiais FGV) |
 | 008 | RLM | Números, porcentagem, juros, proporcionalidade e medidas | RLM 2.3-2.5 | alta | 6 (5 oficiais FGV) |
 | 009 | RLM | Geometria, plano cartesiano, gráficos e tabelas | RLM 2.8, 2.11-2.12 | média | 3 (2 oficiais FGV) |

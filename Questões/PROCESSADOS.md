@@ -21,6 +21,7 @@ Iniciada rodada de reescrita, tema por tema: cada questão é lida de novo, a ex
 - portugues/002 (organização textual): 1 questão revisada, 3 removidas (dependiam de texto-base não capturado) → 5 questões no total.
 - portugues/004 (frase, sintaxe): 15 questões revisadas, 2 removidas (1 dependia de texto-base não capturado, 1 tinha texto-base incoerente com as opções) → 29 questões no total. Achado importante: a maioria das questões de sintaxe/gramática é autocontida (frases completas nas alternativas), diferente das de interpretação de texto.
 - portugues/003 (modos discursivos/textos literários): 18 questões revisadas, nenhuma removida — todas autocontidas (poema/crônica/trecho citados na íntegra no próprio enunciado, ou classificação de frases dadas nas alternativas) → 25 questões no total (sem mudança de contagem).
+- portugues/006 (semântica, vocabulário, ortografia e crase): 29 questões revisadas, 2 removidas (Q10 dependia de duas imagens comparadas — capa de gibi x cartaz de série — não capturadas; Q20 tinha enunciado sem nenhum texto-base, "sobre a linguagem utilizada no texto") → 35 questões no total. Também limpou contaminações de raspagem (blocos de "Provas: FGV..." e dumps de respostas numeradas coladas dentro de opções/enunciados).
 
 ## Pasta: cienciasforenses/
 

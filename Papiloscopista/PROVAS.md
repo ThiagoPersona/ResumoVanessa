@@ -9,7 +9,7 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Português | Modos discursivos, tipos textuais e textos literários | 25 | [Abrir](provas/portugues/003_modos-discursivos-tipos-textuais-literarios.md) |
 | Português | Frase, sintaxe, discurso e pontuação | 29 | [Abrir](provas/portugues/004_frase-sintaxe-discurso-pontuacao.md) |
 | Português | Morfologia e classes de palavras | 38 | [Abrir](provas/portugues/005_morfologia-classes-palavras.md) |
-| Português | Semântica, vocabulário, ortografia, acentuação e crase | 37 | [Abrir](provas/portugues/006_semantica-vocabulario-ortografia-crase.md) |
+| Português | Semântica, vocabulário, ortografia, acentuação e crase | 35 | [Abrir](provas/portugues/006_semantica-vocabulario-ortografia-crase.md) |
 | RLM | Lógica proposicional e conjuntos | 4 | [Abrir](provas/rlm/001_logica-proposicional-conjuntos.md) |
 | RLM | Números, porcentagem, juros, proporcionalidade e medidas | 6 | [Abrir](provas/rlm/002_numeros-porcentagem-juros-proporcionalidade-medidas.md) |
 | RLM | Geometria, plano cartesiano, gráficos e tabelas | 3 | [Abrir](provas/rlm/003_geometria-plano-cartesiano-graficos-tabelas.md) |
@@ -65,7 +65,7 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Direitos Humanos | Teoria, sistemas de proteção e democracia | 10 | [Abrir](provas/direitos-humanos/001_teoria-sistemas-protecao-democracia.md) |
 | Direitos Humanos | Grupos vulneráveis, segurança pública e atuação policial | 10 | [Abrir](provas/direitos-humanos/002_grupos-vulneraveis-atuacao-policial.md) |
 | Direitos Humanos | PNDH, educação em direitos humanos e Agenda 2030 | 7 | [Abrir](provas/direitos-humanos/003_pndh-educacao-agenda-2030.md) |
-| **Total** | **61 temas cobertos** | **841** | — |
+| **Total** | **61 temas cobertos** | **839** | — |
 
 ## Critério de conversão
 
