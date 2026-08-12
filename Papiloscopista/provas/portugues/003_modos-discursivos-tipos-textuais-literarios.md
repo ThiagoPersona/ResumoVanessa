@@ -229,16 +229,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: E.</strong> Fonte: FGV, Prefeitura de São José dos Campos - SP, 2026. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa E como correta.</p>
-<p><strong>Por que a E deve ser marcada:</strong> até que finalmente morreu de fome. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> a crônica narra um fato consumado, real, com tom irônico ("morreu de fome" repetido). A oração original marca o desfecho de um processo (72 horas deitado) que culmina na morte — teste se cada reescritura mantém esse valor de resultado real (modo indicativo), ou se introduz incerteza/intenção (modo subjuntivo).</p>
+<p><strong>Por que a E deve ser marcada:</strong> "até que finalmente morreu de fome" preserva o sentido de desfecho real de um processo (permaneceu deitado até que, finalmente, a morte ocorreu) e mantém o verbo no indicativo ("morreu"), coerente com o relato de um fato consumado.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> "A fim de que" sugere finalidade/intenção (como se morrer fosse um objetivo buscado), e o subjuntivo "morresse" introduz incerteza incompatível com um fato já consumado.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "Depois de" inverteria a ordem temporal dos eventos, sugerindo que o homem continuou deitado depois de já ter morrido — sentido alterado.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> "Assim que" indica algo imediato/pontual, e o mais-que-perfeito "morrera" desloca a morte para antes do momento narrado — não é o sentido original.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "Quando" com subjuntivo ("morresse") sugere uma condição hipotética futura, quando na verdade o texto relata um fato já ocorrido e certo.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> Preserva o valor de resultado factual do processo narrado, com verbo no indicativo.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> trocar o indicativo (fato certo, "morreu") pelo subjuntivo (incerteza/intenção, "morresse") muda sutilmente o tom do texto — de um relato irônico sobre um fato consumado para algo hipotético ou intencional, o que não condiz com a crônica.</p>
 </div>
 </div>
 
@@ -255,16 +255,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: FGV, SEDUC-TO, 2023. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> argumentativo, em que a tese inicial está sujeita a uma condição. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> identifique a tese do texto ("o fim justifica os meios") e veja se ela é apresentada de forma absoluta ou condicionada por alguma restrição.</p>
+<p><strong>Por que a B deve ser marcada:</strong> o texto defende uma tese (o fim justifica os meios) mas a condiciona explicitamente: "desde que não esteja demasiado longe... do início" — é argumentativo porque defende um ponto de vista, e a tese vem sujeita a uma condição (marcada por "desde que").</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> O texto não narra uma sequência de ações nem descreve algo — apresenta e discute uma ideia, o que é argumentativo, não narrativo/descritivo.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> Combina defesa de tese (argumentativo) com uma condição explícita que a limita.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> O texto não dá instruções de como agir (injuntivo); ele defende uma posição sobre resultado e meios, não orienta uma conduta prática passo a passo.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não é uma discussão filosófica neutra e informativa — é a defesa de um ponto de vista específico do autor (Millôr Fernandes), com viés claro.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não há fatos históricos nem sequência de acontecimentos — é reflexão sobre uma ideia geral, não narração.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> não basta identificar que o texto "defende uma tese" (o que já aponta para argumentativo) — é preciso notar também que essa tese vem restringida por uma condição, detalhe que só a alternativa B capta com precisão.</p>
 </div>
 </div>
 
@@ -276,21 +276,21 @@
 <label class="quiz-option"><input type="radio" name="real-port003-10" value="B"> B. Nervoso.</label>
 <label class="quiz-option"><input type="radio" name="real-port003-10" value="C"> C. Despreza.</label>
 <label class="quiz-option"><input type="radio" name="real-port003-10" value="D"> D. Piruetas.</label>
-<label class="quiz-option"><input type="radio" name="real-port003-10" value="E"> E. Chão. Provas: FGV - 2026 - TJ-SC - Analista Administrativo ...</label>
+<label class="quiz-option"><input type="radio" name="real-port003-10" value="E"> E. Chão.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: FGV, TJ-SC, 2026. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa D como correta.</p>
-<p><strong>Por que a D deve ser marcada:</strong> Piruetas. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> pense em qual das cinco palavras remete diretamente ao universo circense (números de acrobacia, malabarismo, palhaçaria), coerente com a figura do "palhaço" citada no comando.</p>
+<p><strong>Por que a D deve ser marcada:</strong> "piruetas" é um termo técnico de acrobacia circense (giros, saltos), pertencendo diretamente ao campo semântico do circo mobilizado no poema.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> "Tormenta" pertence ao campo semântico do clima/natureza, não do circo.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "Nervoso" é um estado emocional genérico, sem relação direta com o vocabulário circense.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> "Despreza" é um verbo de sentimento/atitude, sem relação com o universo do circo.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> Termo técnico de acrobacia, diretamente ligado ao espetáculo circense do palhaço.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> "Chão" é um substantivo genérico de lugar, sem relação exclusiva com o circo.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> mesmo sem ter o poema completo à mão, é possível reconhecer que "piruetas" é vocabulário técnico de acrobacia/circo, enquanto as demais opções são palavras de sentido genérico, sem relação especial com esse campo semântico.</p>
 </div>
 </div>
 
@@ -307,16 +307,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: FGV, PM-SP, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> curiosidade em relação aos costumes nativos, motivada pelo interesse em obter conhecimento histórico e geográfico sobre o território, ainda que permeada por visões negativas sobre determinados grupos. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> o trecho começa afirmando que a "curiosidade do homem em procurar saber é tão natural" e lista perguntas sobre origem, migração, costumes dos indígenas — mas também inclui uma pergunta preconceituosa sobre os tapuias ("se nasceram de homens, ou se são indivíduos da espécie humana"). Uma boa resposta precisa contemplar tanto a curiosidade quanto esse viés negativo.</p>
+<p><strong>Por que a B deve ser marcada:</strong> o texto mostra genuíno interesse em entender a origem, migração e costumes dos povos indígenas (curiosidade histórico-geográfica), mas esse interesse convive com visões claramente negativas sobre alguns grupos, como na pergunta duvidando da humanidade dos tapuias.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> O texto não exalta os costumes indígenas como moralmente superiores; ao contrário, inclui questionamentos desrespeitosos sobre alguns grupos.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> Capta tanto a curiosidade genuína quanto o viés negativo presente nas perguntas.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> As perguntas sobre os tapuias revelam pré-julgamento (dúvida sobre sua humanidade), não uma postura livre de preconceitos.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> O texto não rejeita o conhecimento indígena — pelo contrário, busca extrair respostas diretamente dos próprios índios através de perguntas.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não há indiferença: os europeus fazem perguntas ativas e específicas, buscando ativamente informações dos indígenas, não ignorando seu saber.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> alternativas como A e C tentam simplificar a atitude europeia como puramente positiva/respeitosa, mas o texto mistura curiosidade genuína com preconceito explícito (a dúvida sobre a humanidade dos tapuias) — só B contempla as duas faces.</p>
 </div>
 </div>
 
@@ -328,21 +328,21 @@
 <label class="quiz-option"><input type="radio" name="real-port003-12" value="B"> B. O pessoal da Alfândega – tudo malandro velho / O pessoal da Alfândega – tudo velho malandro.</label>
 <label class="quiz-option"><input type="radio" name="real-port003-12" value="C"> C. o fiscal mandou ela parar / mandou-a parar.</label>
 <label class="quiz-option"><input type="radio" name="real-port003-12" value="D"> D. com esse saco aí atrás / com este saco aí atrás.</label>
-<label class="quiz-option"><input type="radio" name="real-port003-12" value="E"> E. que ela adquirira no odontólogo / que ela adquiria no odontólogo. Fonologia</label>
+<label class="quiz-option"><input type="radio" name="real-port003-12" value="E"> E. que ela adquirira no odontólogo / que ela adquiria no odontólogo.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: FGV, Prefeitura de São José dos Campos - SP, 2026. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> o fiscal mandou ela parar / mandou-a parar. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> "conveniente" aqui significa passar de um registro coloquial (comum na fala) para a forma culta padrão, sem alterar o sentido — teste se cada substituição faz exatamente isso, ou se, ao contrário, muda tempo verbal, ordem de palavras ou sentido.</p>
+<p><strong>Por que a C deve ser marcada:</strong> "mandou ela parar" é construção coloquial (pronome reto "ela" como objeto direto); "mandou-a parar" é a forma culta correspondente, usando o pronome oblíquo átono "a" — mesma ideia, registro mais formal.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> "Todo dia" implica frequência diária certa; "periodicamente" é mais vago, podendo significar intervalos maiores — não são estritamente sinônimos.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Inverter "malandro velho" para "velho malandro" altera a leitura da expressão fixa (de "trapaceiro experiente" para uma leitura mais ambígua, quase como duas qualidades separadas).</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> Substitui corretamente o pronome reto coloquial pelo oblíquo culto, preservando o sentido.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "Esse" e "este" têm valores dêiticos distintos (referência a algo já mencionado x algo próximo/presente); a troca pode alterar a relação do texto com o contexto.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> "Adquirira" (mais-que-perfeito, ação concluída antes de outra) e "adquiria" (imperfeito, ação habitual/contínua) têm valores temporais diferentes — a troca muda o sentido.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> uma substituição "correta" no sentido de manter o mesmo tempo verbal ou de soar parecida não é suficiente — ela precisa preservar exatamente o valor semântico e temporal do original; só a troca do pronome reto pelo oblíquo (C) faz isso sem alterar nada além do registro.</p>
 </div>
 </div>
 
@@ -359,22 +359,22 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: FGV, AL-RO, 2026. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa A como correta.</p>
-<p><strong>Por que a A deve ser marcada:</strong> texto descritivo e narrativo. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> separe, no trecho, os momentos em que se caracteriza Bertoleza e seu trabalho (descrição) dos momentos em que se narra uma sequência de fatos, como o acidente final (narração).</p>
+<p><strong>Por que a A deve ser marcada:</strong> o início do trecho descreve a rotina e as características de Bertoleza (o que ela vendia, quanto pagava) — descrição —, enquanto o trecho final narra um acontecimento pontual (o homem caindo morto na rua) — narração; o texto combina os dois modos.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> O trecho combina caracterização (descritivo) com o relato de um evento pontual (narrativo).</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não é "exclusivamente" narrativo — a primeira parte caracteriza Bertoleza e sua rotina, função descritiva.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não há defesa de tese ou ponto de vista explícito no trecho — não há traço argumentativo.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Não é "exclusivamente" descritivo — o final do trecho narra um evento pontual (a morte do homem), que é ação no tempo, não caracterização estática.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não há argumentação (defesa de ponto de vista) no trecho, apenas descrição e narração.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> textos literários raramente são "puros" em um único modo — Aluísio Azevedo mistura descrição (caracterizar Bertoleza) com narração (o acidente do marido) no mesmo parágrafo, por isso a resposta certa combina os dois modos.</p>
 </div>
 </div>
 
 <div class="quiz-card" data-answer="E">
 <p class="quiz-source">FGV - CGE-SP, 2025</p>
-<p><strong>14. Interpretação de Textos Provas: FGV - 2026 - AMAZUL - Advogado ... Interpretação de Textos , Noções Gerais de Compreensão e Interpretação de Texto Interpretação de Textos Provas: FGV - 2025 - CGE-SP - Auditor Estadual de Controle - Auditoria ... Assinale a opção que apresenta o texto que deve ser incluído entre os narrativos.</strong></p>
+<p><strong>14. Assinale a opção que apresenta o texto que deve ser incluído entre os narrativos.</strong></p>
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-port003-14" value="A"> A. A casa ficava localizada no centro da rua, com um enorme quintal cheio de árvores frutíferas.</label>
 <label class="quiz-option"><input type="radio" name="real-port003-14" value="B"> B. Não acho que colocar as escolas públicas em horário integral seja o caminho para melhorar a educação.</label>
@@ -385,16 +385,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: E.</strong> Fonte: FGV, CGE-SP, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa E como correta.</p>
-<p><strong>Por que a E deve ser marcada:</strong> O carteiro entrou na rua e distribuiu rapidamente a correspondência pelas poucas casas. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> texto narrativo relata uma sequência de ações realizadas por um agente ao longo do tempo (fez isso, depois aquilo) — diferente de descrição (características estáticas), opinião (argumentativo) ou máxima/conselho (injuntivo).</p>
+<p><strong>Por que a E deve ser marcada:</strong> "O carteiro entrou na rua e distribuiu rapidamente a correspondência" apresenta um agente (o carteiro) praticando ações em sequência (entrar, distribuir) — estrutura narrativa clássica.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Descreve características estáticas da casa (localização, quintal) — texto descritivo, sem ações em sequência.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Expressa uma opinião pessoal sobre política educacional — texto argumentativo, não narrativo.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> É um conselho/norma de conduta (regra de ouro) — texto injuntivo, sem relato de ações concretas.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Descreve a posição/aparência da torre na paisagem — texto descritivo, sem sequência temporal de ações.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> Apresenta um agente realizando ações concretas em sequência temporal — narrativo.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> frases com verbos de ação nem sempre são narrativas — é preciso haver uma sequência de eventos praticados por um agente ao longo do tempo, não apenas uma característica ou opinião isolada.</p>
 </div>
 </div>
 
@@ -411,16 +411,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: FGV, AL-AM, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> aterrizar / aterrissar. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> as demais opções são pares de parônimos (palavras parecidas na forma, mas com SIGNIFICADOS diferentes) — procure o único par que são duas variantes aceitas da MESMA palavra, com o mesmo significado.</p>
+<p><strong>Por que a B deve ser marcada:</strong> "aterrizar" e "aterrissar" são duas formas verbais reconhecidas pela norma culta, ambas significando "pousar" — variantes verdadeiramente sinônimas, não parônimos com sentidos diferentes.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> "Prescrever" (determinar, receitar, ou perder validade) e "proscrever" (banir, proibir) têm significados diferentes — são parônimos, não sinônimos.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> Duas formas verbais corretas com o mesmo significado (pousar).</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> "Infligir" (aplicar uma pena/castigo) e "infringir" (violar uma norma) têm significados distintos.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "Aprender" (adquirir conhecimento) e "apreender" (capturar, confiscar, ou compreender) têm significados diferentes.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> "Descrição" (relato detalhado) e "discrição" (reserva, discernimento) têm significados totalmente diferentes.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> todos os pares "parecem" parônimos à primeira vista (grafia semelhante) — a armadilha é não perceber que apenas um par (aterrizar/aterrissar) realmente compartilha o mesmo significado, enquanto os demais têm sentidos claramente distintos.</p>
 </div>
 </div>
 
@@ -437,16 +437,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: FGV, AL-AM, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa D como correta.</p>
-<p><strong>Por que a D deve ser marcada:</strong> Ambientalismo – “Cumpre vencer o caminho a todo o custo; no fim há sempre uma tenda para descansar, e uma relva para dormir”. (Crônicas) — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> leia cada citação isoladamente, ignorando o tema proposto, e pergunte: do que essa frase realmente fala? Depois compare com o tema anunciado — "ambientalismo" é um conceito do século XX/XXI, e Machado de Assis (século XIX) certamente não escrevia sobre esse tema.</p>
+<p><strong>Por que a D deve ser marcada:</strong> a frase citada fala sobre perseverança e esforço em uma jornada difícil ("vencer o caminho a todo custo", "no fim há sempre uma tenda para descansar") — é sobre superação pessoal, não sobre meio ambiente ou natureza.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> A citação bíblica sobre figos e abrolhos de fato se relaciona a religião/moral — tema e frase combinam.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> A frase sobre rosto feio abrigando espírito elevado trata de aparências enganosas — combina com o tema.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> A frase sobre dinheiro e amizade se relaciona diretamente ao tema proposto.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> A frase fala de perseverança numa jornada, sem nenhuma relação com "ambientalismo" (tema anacrônico para a época de Machado, além de não corresponder ao conteúdo da citação).</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> A frase sobre reconhecimento do matrimônio pela Igreja se relaciona diretamente a catolicismo — tema e frase combinam.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> o rótulo do tema pode parecer plausível à primeira vista, mas o conteúdo real da citação (perseverança/jornada) não tem nenhuma relação com meio ambiente — sempre confira o conteúdo da frase, não apenas se o rótulo "soa" adequado.</p>
 </div>
 </div>
 
@@ -463,16 +463,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: FGV, AL-AM, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa D como correta.</p>
-<p><strong>Por que a D deve ser marcada:</strong> Apresenta um texto descritivo, tendo por foco o cenário de uma noite agitada em função da presença de um circo. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> repare que o trecho não narra uma sequência de ações de um agente específico — ele apresenta um cenário estático (a rua, os bicos de gás, a multidão) num dado instante, característica típica de descrição.</p>
+<p><strong>Por que a D deve ser marcada:</strong> o trecho detalha o ambiente da Rua do Salitre numa noite específica (o gás, o vento, a multidão nas bilheterias) sem desenvolver uma sequência de ações — é a construção de um quadro/cenário, própria do texto descritivo.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Não há uma sequência de ações de um agente específico — o texto retrata o cenário como um todo, não "as ações" de alguém.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Texto informativo seria mais neutro e factual, sem o léxico expressivo e sensorial usado no trecho ("vergastadas do noroeste", "agitava").</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Não há apelo comercial direto nem chamada para ação de compra — é um trecho literário de romance, não um anúncio.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> O foco é o cenário e a atmosfera de uma noite, típico de descrição.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não há nenhuma recomendação ou instrução direta ao leitor — o texto apenas retrata uma cena, sem função injuntiva.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> a presença de movimento (gente se agitando, luzes tremulando) pode sugerir "narrativo" à primeira vista, mas não há uma sequência causal de ações de um agente — é a pintura de um cenário em um instante, marca do texto descritivo.</p>
 </div>
 </div>
 
@@ -489,16 +489,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: D.</strong> Fonte: FGV, TCE-PE, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa D como correta.</p>
-<p><strong>Por que a D deve ser marcada:</strong> narrativo / argumentativo / descritivo. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> classifique cada texto separadamente: I tem um agente praticando ações em sequência; II defende uma atitude/posição pessoal; III define/caracteriza algo de forma atemporal.</p>
+<p><strong>Por que a D deve ser marcada:</strong> I narra ações de Nonato em sequência (chegou, tirou, estirou-se, começou a ler) — narrativo; II defende uma postura pessoal ("nunca me defendo; ataco") — argumentativo; III define o que é a morte de forma genérica e atemporal — descritivo (caracterização, não ação nem defesa de tese desenvolvida).</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Classifica o texto I como descritivo, mas ele apresenta claramente uma sequência de ações de um agente — é narrativo.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Classifica o texto II como narrativo, mas ele não narra ações — expressa uma posição pessoal sobre como agir.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Classifica os três como argumentativos, mas o texto I é claramente uma sequência de ações (narrativo), não uma defesa de tese.</li>
+<li><strong>D.</strong> <strong>Deve ser marcada.</strong> Classifica corretamente cada um dos três textos segundo sua função predominante.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Classifica o texto I como descritivo e o II como narrativo, invertendo as funções reais de cada um.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> o texto III ("A morte é o último médico das doenças") pode parecer uma "afirmação" argumentativa por seu tom sentencioso, mas não desenvolve razões nem defende um ponto de vista — apenas caracteriza/define a morte de forma metafórica, o que é função descritiva.</p>
 </div>
 </div>
 
@@ -515,16 +515,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: E.</strong> Fonte: FGV, SEDUC-MT, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa E como correta.</p>
-<p><strong>Por que a E deve ser marcada:</strong> afeto e estátua. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> localize o verbo de comparação explícita na última estrofe ("Semelha") e veja quais dois termos ele liga diretamente.</p>
+<p><strong>Por que a E deve ser marcada:</strong> a última estrofe afirma que "somente o afeto... não acaba, nem muda" e, na sequência, diz que ele "semelha estátua erguida entre ruínas" — o verbo "semelha" (assemelha-se a) conecta explicitamente "afeto" e "estátua".</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> "Morte" não é mencionada na última estrofe; é a mudança/o tempo que é contrastado com o afeto, não a morte diretamente comparada à estátua.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "Almas" aparece antes, na estrofe anterior ("almas grandes"), não é o termo comparado à estátua na última estrofe.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> "Ruínas" é o cenário em que a estátua está erguida, não um dos dois termos comparados entre si.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "Tempo" é o agente que causa mudança e estragos na estrofe, não um termo comparado à morte.</li>
+<li><strong>E.</strong> <strong>Deve ser marcada.</strong> É exatamente o par ligado pelo verbo "semelha" na última estrofe.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> "ruínas" e "tempo" aparecem próximos da comparação e podem confundir — mas eles descrevem o CENÁRIO e o AGENTE de desgaste, não os dois termos efetivamente comparados pelo verbo "semelha" (afeto e estátua).</p>
 </div>
 </div>
 
@@ -541,16 +541,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: FGV, SEPLAN-SE, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> Nunca deixaram de nascer homens rudes e grosseiros, capazes de qualquer coisa para agredir a vítima de plantão. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> em cada alternativa, verifique se o termo sublinhado retoma algo já mencionado antes na própria frase (coesão anafórica) ou se seu sentido depende de um conhecimento de mundo/expressão idiomática que não está no texto.</p>
+<p><strong>Por que a B deve ser marcada:</strong> "vítima de plantão" é uma expressão idiomática (como "médico de plantão") que não retoma nenhum termo anterior da frase — para entendê-la, o leitor precisa do conhecimento de mundo sobre o que significa "de plantão" (disponível/eventual), não de uma referência textual anterior.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> "Esse conflito" retoma diretamente "confrontá-las [as misérias] com a consciência individual", mencionado antes na mesma frase.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> "Vítima de plantão" depende de conhecimento de mundo sobre a expressão idiomática, não de um antecedente textual.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> "Essa técnica" retoma diretamente "a técnica do stretching", mencionada no início da frase.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "Sua procura" retoma "Leonardo Da Vinci", mencionado na oração anterior.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> "Esse tempo" retoma a duração implícita em "se arrasta há muitos anos", mencionada antes.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> "de plantão" soa como se estivesse ligado a algo do texto, mas é uma expressão fixa da língua (equivalente a "eventual", "do momento") cujo sentido vem do conhecimento geral do leitor, não de uma retomada textual — diferente dos demais pronomes/expressões que apontam claramente para um antecedente na frase.</p>
 </div>
 </div>
 
@@ -567,16 +567,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: FGV, DPE-RO, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> O turismo é uma atividade bem rentável e deveria receber mais investimentos governamentais. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> texto dissertativo-argumentativo defende uma tese/opinião com uma razão que a sustenta — procure a alternativa que afirma um ponto de vista (não apenas narra ou descreve) e o justifica.</p>
+<p><strong>Por que a C deve ser marcada:</strong> "O turismo é uma atividade bem rentável e deveria receber mais investimentos governamentais" apresenta uma tese (deveria receber mais investimentos) sustentada por uma razão (ser rentável) — estrutura argumentativa clássica.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Apenas relata uma reação dos turistas (deslumbramento) — descritivo/narrativo, sem defesa de tese.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Narra uma sequência de comportamento dos turistas ao longo do tempo — narrativo, sem argumentação desenvolvida.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> Apresenta tese e justificativa, marca central do texto argumentativo.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> É uma ordem/recomendação direta ("nunca deixe de visitar") sem desenvolver razões — texto injuntivo.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Também é uma instrução/recomendação direta ("faça sua viagem...") — injuntivo, não argumentativo.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> D e E "soam" como conselhos convincentes sobre viajar, mas são comandos diretos sem justificativa desenvolvida — o texto argumentativo de verdade precisa de uma tese explícita acompanhada de razão, como em C.</p>
 </div>
 </div>
 
@@ -593,16 +593,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: B.</strong> Fonte: FGV, Prefeitura de Canaã dos Carajás - PA, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa B como correta.</p>
-<p><strong>Por que a B deve ser marcada:</strong> As jabuticabeiras, por exemplo, estão frondosas e produzem constantemente frutos grandes e saborosos, que fazem a alegria da criançada. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> texto descritivo caracteriza algo (aparência, qualidades, estado permanente/habitual), sem contar uma sequência de ações pontuais de um agente ao longo do tempo.</p>
+<p><strong>Por que a B deve ser marcada:</strong> "As jabuticabeiras estão frondosas e produzem constantemente frutos grandes e saborosos" caracteriza um estado/qualidade permanente das árvores — não há ação pontual de um agente, apenas descrição de características.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Relata um evento passado (ataque anterior) e uma reação (o patrão reclamou, ficou de olho) — sequência de fatos, texto narrativo.</li>
+<li><strong>B.</strong> <strong>Deve ser marcada.</strong> Caracteriza um estado permanente das jabuticabeiras, sem sequência de ações — descritivo.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> Narra ações pontuais de Paulo (aproximou-se, observou, apanhou, procurou controlar) — texto narrativo.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Narra fatos e ações de Paulo ao longo do tempo (parou de produzir, renovou a terra, colocou adubo) — narrativo.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Expressa uma reflexão/opinião geral sobre a incerteza de plantar — mais próximo do argumentativo/reflexivo do que do descritivo.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> as demais alternativas também falam de plantas e do personagem Paulo, mas envolvem ações pontuais (ir, observar, tratar) — só B se limita a caracterizar um estado permanente, sem nenhuma ação no tempo.</p>
 </div>
 </div>
 
@@ -612,23 +612,23 @@
 <div class="quiz-options">
 <label class="quiz-option"><input type="radio" name="real-port003-23" value="A"> A. Nunca a questão do olhar esteve tão no centro do debate da cultura e das sociedades contemporâneas. Um mundo onde tudo é produzido para ser visto coloca necessariamente o ver como problema.</label>
 <label class="quiz-option"><input type="radio" name="real-port003-23" value="B"> B. Manifestações públicas constituem um dos aspectos essenciais da vida democrática. Um regime político que é incapaz de tolerar a livre manifestação da população não pode ser considerado democrático.</label>
-<label class="quiz-option"><input type="radio" name="real-port003-23" value="C"> C. A reunião do gabinete foi marcada para as sete horas da manhã, mas um pequeno atraso do presidente provocou a transferência da discussão sobre a redução dos impostos para amanhã. Interpretação de Textos , Noções Gerais de Compreensão e Interpretação de Texto Provas: FGV - 2024 - EBSERH - Grupo Advogado ... Interpretação de Textos , Gêneros Textuais Provas: FGV - 2025 - TRT - 24ª REGIÃO (MS) - Técnico Judiciário - Área Administrativa - Sem Especialidade ...</label>
+<label class="quiz-option"><input type="radio" name="real-port003-23" value="C"> C. A reunião do gabinete foi marcada para as sete horas da manhã, mas um pequeno atraso do presidente provocou a transferência da discussão sobre a redução dos impostos para amanhã.</label>
 <label class="quiz-option"><input type="radio" name="real-port003-23" value="D"> D. O trabalho de arte é um processo. Resulta de uma vida. Em 1501, Michelangelo volta de viagem a Florença e concentra seu trabalho artístico em um grande bloco de mármore abandonado. Assim se faz arte.</label>
 <label class="quiz-option"><input type="radio" name="real-port003-23" value="E"> E. Solidariedade não faz bem apenas para quem recebe ajuda, mas também para quem a pratica.</label>
 </div>
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: FGV, TRT - 24ª REGIÃO (MS), 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> A reunião do gabinete foi marcada para as sete horas da manhã, mas um pequeno atraso do presidente provocou a transferência da discussão sobre a redução dos impostos para amanhã. Interpretação de Textos , Noções Gerais de Compreensão e Interpretação de Texto Provas: FGV - 2024 - EBSERH - Grupo Advogado ... Interpretação de Textos , Gêneros Textuais Provas: FGV - 2025 - TRT - 24ª REGIÃO (MS) - Técnico Judiciário - Área Administrativa - Sem Especialidade ... — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> gênero narrativo relata um episódio concreto (com sujeitos, tempo e uma sucessão de fatos causais), diferente de reflexões gerais, teses abstratas ou registros de arte.</p>
+<p><strong>Por que a C deve ser marcada:</strong> descreve um episódio concreto e específico (a reunião marcada, o atraso do presidente, a consequência de adiar a discussão) — sujeitos, tempo e encadeamento causal de fatos, marca central da narrativa.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Discute o tema do "olhar" na cultura contemporânea de forma reflexiva/geral, sem relatar um episódio concreto — argumentativo/dissertativo.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Defende uma tese sobre manifestações públicas e democracia — texto argumentativo, sem sequência de eventos concretos.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> Relata um episódio pontual e concreto, com causa e efeito no tempo — narrativo.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> Embora cite uma data e um evento (Michelangelo em 1501), o texto está mais preocupado em refletir sobre "o que é arte" de forma genérica — mistura reflexão com um exemplo histórico breve, sem o desenvolvimento narrativo de C.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Afirma uma ideia geral sobre solidariedade, sem relatar nenhum episódio — texto dissertativo/reflexivo.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> D menciona um fato histórico específico (Michelangelo, 1501), o que pode parecer narrativo, mas o texto usa esse exemplo apenas para ilustrar uma reflexão sobre arte em geral — o foco não é contar o episódio em si, diferente de C, que desenvolve genuinamente causa e efeito de um evento concreto.</p>
 </div>
 </div>
 
@@ -645,16 +645,16 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: C.</strong> Fonte: FGV, AgSUS, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa C como correta.</p>
-<p><strong>Por que a C deve ser marcada:</strong> à limitação psicológica do observador, que mostra seu desagrado na seleção dos elementos descritos. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> o enunciado já informa que ao guia "não agradava" o quadro — uma descrição pobre, vaga ("expressão bastante indefinida") e apressada ("vamos passar à próxima sala") reflete diretamente essa antipatia pessoal, não uma limitação de conhecimento, de visão ou de tempo.</p>
+<p><strong>Por que a C deve ser marcada:</strong> a pobreza da descrição decorre do desagrado do guia pelo quadro — ele seleciona poucos elementos e os descreve de forma vaga/apressada, refletindo uma limitação psicológica (atitude/preferência pessoal), não uma limitação de conhecimento ou de circunstância.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Não marque.</strong> Nada no enunciado indica que o guia desconhecia pintura clássica — ele é um guia turístico, presume-se com conhecimento sobre a obra.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> Não há menção a problema de visualização; o guia estava diante do quadro no museu, sem obstáculo indicado.</li>
+<li><strong>C.</strong> <strong>Deve ser marcada.</strong> A pobreza descritiva decorre do desagrado pessoal do guia, evidente na pressa em mudar de sala.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> A Mona Lisa é um dos quadros mais comentados da história da arte, com muitíssimos elementos passíveis de descrição — a limitação não está no referente (o quadro), e sim na atitude do observador.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> Não há indicação de pressa por falta de tempo geral da visita — a pressa specifica está ligada a esse quadro específico, coerente com o desagrado pessoal.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> é tentador achar que uma descrição pobre decorre de falta de conhecimento (A) ou de tempo (E), mas o enunciado já entrega a causa real: o guia não gostava do quadro — a limitação é psicológica/atitudinal, não técnica ou circunstancial.</p>
 </div>
 </div>
 
@@ -671,15 +671,15 @@
 <button class="quiz-check" type="button">Checar resposta</button>
 <div class="quiz-feedback" hidden>
 <p><strong>Resposta: A.</strong> Fonte: FGV, AgSUS, 2025. Gabarito oficial da banca.</p>
-<p><strong>Como pensar:</strong> releia o enunciado com atenção e compare cada alternativa com a norma-padrão ou o texto-base; a banca aponta a alternativa A como correta.</p>
-<p><strong>Por que a A deve ser marcada:</strong> O caseiro era moreno carregado, de pernas um pouco arqueadas, muito humilde e bastante discreto. — é a alternativa apontada pelo gabarito oficial da banca.</p>
+<p><strong>Como pensar:</strong> caracterização "físico-psíquica" precisa combinar traços do corpo/aparência (físico) COM traços de personalidade/comportamento (psíquico) na mesma descrição — não basta ter só um dos dois tipos.</p>
+<p><strong>Por que a A deve ser marcada:</strong> "moreno carregado, de pernas um pouco arqueadas" são traços físicos, e "muito humilde e bastante discreto" são traços psicológicos/de personalidade — a única alternativa que combina claramente os dois tipos de caracterização.</p>
 <ul class="quiz-explain">
-<li><strong>A.</strong> <strong>Deve ser marcada.</strong> É a alternativa apontada pelo gabarito oficial da banca para esta questão.</li>
-<li><strong>B.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>C.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>D.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
-<li><strong>E.</strong> <strong>Não marque.</strong> Não corresponde ao enunciado; descartada pelo gabarito oficial da banca.</li>
+<li><strong>A.</strong> <strong>Deve ser marcada.</strong> Combina traços físicos (aparência) e psíquicos (personalidade) na mesma descrição.</li>
+<li><strong>B.</strong> <strong>Não marque.</strong> "Pequena estatura", "magro", "porte atlético" — todos traços físicos; não há traço de personalidade.</li>
+<li><strong>C.</strong> <strong>Não marque.</strong> "Amável" e "sempre conversava" são traços de comportamento/personalidade; não há nenhuma característica física do porteiro.</li>
+<li><strong>D.</strong> <strong>Não marque.</strong> "Grosseiro", "mal-humorado", "antipático" são todos traços psicológicos; não há descrição física do vizinho.</li>
+<li><strong>E.</strong> <strong>Não marque.</strong> "Baixo", "gordinho", "óculos de lentes grossas", "andar de bêbado" são todos traços físicos/de aparência; não há traço de personalidade.</li>
 </ul>
-<p><strong>Pegadinha principal:</strong> não confunda alternativas semelhantes; siga o texto literal do enunciado/base e o gabarito oficial da banca.</p>
+<p><strong>Pegadinha principal:</strong> as demais alternativas são descrições ricas e específicas, mas ficam só no campo físico OU só no psicológico — a resposta certa exige combinar explicitamente os dois tipos de traço na mesma caracterização.</p>
 </div>
 </div>
