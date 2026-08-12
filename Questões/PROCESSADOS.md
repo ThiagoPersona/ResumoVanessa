@@ -23,6 +23,7 @@ Iniciada rodada de reescrita, tema por tema: cada questão é lida de novo, a ex
 - portugues/003 (modos discursivos/textos literários): 18 questões revisadas, nenhuma removida — todas autocontidas (poema/crônica/trecho citados na íntegra no próprio enunciado, ou classificação de frases dadas nas alternativas) → 25 questões no total (sem mudança de contagem).
 - portugues/006 (semântica, vocabulário, ortografia e crase): 29 questões revisadas, 2 removidas (Q10 dependia de duas imagens comparadas — capa de gibi x cartaz de série — não capturadas; Q20 tinha enunciado sem nenhum texto-base, "sobre a linguagem utilizada no texto") → 35 questões no total. Também limpou contaminações de raspagem (blocos de "Provas: FGV..." e dumps de respostas numeradas coladas dentro de opções/enunciados).
 - portugues/005 (morfologia e classes de palavras): 30 questões revisadas, 2 removidas (Q21 mencionava "os três últimos parágrafos do texto" sem o texto-base incluído; Q31 dependia de um cartaz/imagem de campanha publicitária não capturado) → 36 questões no total. Mesmo padrão de limpeza de contaminações de raspagem.
+- portugues/001 (interpretação e compreensão de texto): 30 questões revisadas, 2 removidas (Q19 pedia o "objetivo do Texto" sem nenhum texto-base incluído; Q33 dependia de uma peça de campanha publicitária/imagem não capturada) → 37 questões no total. Menos remoções do que o esperado para este tema porque a maioria das questões reais trazia o trecho-base citado por completo dentro do próprio enunciado.
 
 ## Pasta: cienciasforenses/
 

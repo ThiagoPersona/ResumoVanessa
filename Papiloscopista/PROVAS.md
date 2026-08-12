@@ -4,7 +4,7 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 
 | Disciplina | Tema | Total | Abrir |
 |---|---|---:|---|
-| Português | Interpretação e compreensão de texto | 39 | [Abrir](provas/portugues/001_interpretacao-compreensao-texto.md) |
+| Português | Interpretação e compreensão de texto | 37 | [Abrir](provas/portugues/001_interpretacao-compreensao-texto.md) |
 | Português | Organização textual, coesão e coerência | 5 | [Abrir](provas/portugues/002_organizacao-textual-coesao-coerencia.md) |
 | Português | Modos discursivos, tipos textuais e textos literários | 25 | [Abrir](provas/portugues/003_modos-discursivos-tipos-textuais-literarios.md) |
 | Português | Frase, sintaxe, discurso e pontuação | 29 | [Abrir](provas/portugues/004_frase-sintaxe-discurso-pontuacao.md) |
@@ -65,7 +65,7 @@ Este índice acompanha o manifesto do edital. A coluna **Total** mostra quantas 
 | Direitos Humanos | Teoria, sistemas de proteção e democracia | 10 | [Abrir](provas/direitos-humanos/001_teoria-sistemas-protecao-democracia.md) |
 | Direitos Humanos | Grupos vulneráveis, segurança pública e atuação policial | 10 | [Abrir](provas/direitos-humanos/002_grupos-vulneraveis-atuacao-policial.md) |
 | Direitos Humanos | PNDH, educação em direitos humanos e Agenda 2030 | 7 | [Abrir](provas/direitos-humanos/003_pndh-educacao-agenda-2030.md) |
-| **Total** | **61 temas cobertos** | **837** | — |
+| **Total** | **61 temas cobertos** | **835** | — |
 
 ## Critério de conversão
 
